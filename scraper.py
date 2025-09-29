@@ -4,34 +4,54 @@
 import json
 import os
 import sys
-import time
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta
 from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 BASE_URL = "https://www.radia.sk"
 PLAYLIST_URL = "https://www.radia.sk/radia/melody/playlist"
 OUT_PATH = os.path.join("data", "playlist.json")
 
+# používaj reálnejší User-Agent (niektoré weby blokujú robotov)
 HEADERS = {
-    "User-Agent": "PlaylistScraper/1.0 (+https://github.com/Devis28/radia-playlist-scraper)"
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "sk-SK,sk;q=0.9,en;q=0.8",
 }
-TIMEOUT = 20
+
+# (connect timeout, read timeout)
+TIMEOUT = (15, 45)
+
+# Session s retry/backoff na timeouty a 5xx/429
+_session = requests.Session()
+_retries = Retry(
+    total=5,
+    connect=5,
+    read=5,
+    status=3,
+    backoff_factor=2.0,                    # 0s, 2s, 4s, 8s, 16s…
+    status_forcelist=[429, 500, 502, 503, 504],
+    allowed_methods=["HEAD", "GET", "OPTIONS"],
+    raise_on_status=False,
+)
+_adapter = HTTPAdapter(max_retries=_retries, pool_connections=10, pool_maxsize=10)
+_session.mount("https://", _adapter)
+_session.mount("http://", _adapter)
 
 
 def fetch_html(url: str) -> str:
-    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    r = _session.get(url, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     return r.text
 
 
 def normalize_date(raw_date: str) -> str:
-    """
-    Vstup: '27.09.2025', 'dnes', prípadne 'včera'.
-    Výstup: 'DD.MM.RRRR'
-    """
     raw = raw_date.strip().lower()
     today = datetime.now().date()
     if raw in ("dnes",):
@@ -39,64 +59,42 @@ def normalize_date(raw_date: str) -> str:
     elif raw in ("včera", "vcera"):
         d = today - timedelta(days=1)
     else:
-        # očakávame DD.MM.RRRR
         try:
             d = datetime.strptime(raw, "%d.%m.%Y").date()
         except ValueError:
-            # fallback – necháme pôvodný text, ale nech to nespadne
             return raw_date.strip()
     return d.strftime("%d.%m.%Y")
 
 
 def parse_playlist(html: str):
-    """
-    Vráti zoznam záznamov: {title, artist, date, time, played_at_iso, track_url}
-    """
     soup = BeautifulSoup(html, "html.parser")
-
     table = soup.select_one("#playlist_table")
     if not table:
         return []
 
     rows = table.select("div.row.data")
     items = []
-
     for row in rows:
-        # hlavný anchor s dátami o skladbe
-        a = row.select_one("a.block.columngroup.datum_cas_skladba")
-        if not a:
-            # niekedy je štruktúra mierne iná – skúsime fallback
-            a = row.find("a")
-
+        a = row.select_one("a.block.columngroup.datum_cas_skladba") or row.find("a")
         if not a:
             continue
 
-        # dátum + čas
         dspan = a.select_one("span.datum")
         tspan = a.select_one("span.cas")
         raw_date = dspan.get_text(strip=True) if dspan else ""
         time_hm = tspan.get_text(strip=True) if tspan else ""
-
         date_norm = normalize_date(raw_date)
 
-        # interpret + názov
         artist = a.select_one("span.interpret")
         title = a.select_one("span.titul")
-
         artist_txt = artist.get_text(strip=True) if artist else ""
         title_txt = title.get_text(strip=True) if title else ""
 
-        # link na detail skladby (relatívny -> absolútny)
         href = a.get("href") or ""
         track_url = urljoin(BASE_URL, href)
 
-        # zostav presný timestamp (bez sekúnd – stránka ich neuvádza)
-        # použijeme lokálnu časovú zónu a uložíme ISO v UTC pre konzistentnosť
         try:
             local_dt = datetime.strptime(f"{date_norm} {time_hm}", "%d.%m.%Y %H:%M")
-            # predpoklad: lokálny čas = Europe/Bratislava (CET/CEST)
-            # bez externej knižnice pytz/zoneinfo necháme ako naive -> pripočítame offset podľa systémového času
-            # pre jednoduchosť uložíme naive ISO bez Z; zároveň ponecháme date/time polia.
             played_at_iso = local_dt.isoformat()
         except Exception:
             played_at_iso = ""
@@ -105,8 +103,8 @@ def parse_playlist(html: str):
             {
                 "title": title_txt,
                 "artist": artist_txt,
-                "date": date_norm,          # DD.MM.RRRR
-                "time": time_hm,            # HH:MM
+                "date": date_norm,
+                "time": time_hm,
                 "played_at_iso": played_at_iso,
                 "track_url": track_url,
                 "source_url": PLAYLIST_URL,
@@ -118,42 +116,45 @@ def parse_playlist(html: str):
 def load_existing(path: str):
     if not os.path.exists(path):
         return []
-    with open(path, "r", encoding="utf-8") as f:
-        try:
+    try:
+        with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
-        except json.JSONDecodeError:
-            return []
+    except json.JSONDecodeError:
+        return []
 
 
 def unique_key(item: dict) -> str:
-    # kľúč pre deduplikáciu – kombinuje presný čas + interpreta + názov
     return f"{item.get('date')} {item.get('time')} | {item.get('artist')} | {item.get('title')}"
 
 
 def merge_dedup(old: list, new: list) -> list:
     seen = {unique_key(it): it for it in old}
-    added = 0
     for it in new:
         k = unique_key(it)
         if k not in seen:
             seen[k] = it
-            added += 1
     merged = list(seen.values())
-    # utrieď od najnovšej po najstaršiu podľa dátumu+času (ak dostupné), inak ponechaj
+
     def sort_key(it):
         try:
             return datetime.strptime(f"{it['date']} {it['time']}", "%d.%m.%Y %H:%M")
         except Exception:
             return datetime.min
+
     merged.sort(key=sort_key, reverse=True)
-    print(f"Nové záznamy: {added}", file=sys.stderr)
     return merged
 
 
 def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 
-    html = fetch_html(PLAYLIST_URL)
+    # <<< KĽÚČOVÁ ZMENA: na sieťovú chybu nepadni, len zaloguj a skonči úspešne >>>
+    try:
+        html = fetch_html(PLAYLIST_URL)
+    except requests.RequestException as e:
+        print(f"⚠️  Network error – skipping this run: {e}", file=sys.stderr)
+        return 0
+
     new_items = parse_playlist(html)
     if not new_items:
         print("⚠️  Nenašli sa žiadne položky – možno sa zmenilo HTML.", file=sys.stderr)
@@ -162,7 +163,6 @@ def main():
     old_items = load_existing(OUT_PATH)
     merged = merge_dedup(old_items, new_items)
 
-    # ulož JSON v UTF-8, čitateľne
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
 
