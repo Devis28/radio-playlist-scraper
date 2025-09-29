@@ -1,3 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Scraper playlistu rádia Melody (radia.sk)
+- Parsuje interpret, názov, dátum (DD.MM.RRRR) a čas (HH:MM)
+- Normalizuje "dnes"/"včera"
+- Ukladá/merguje do JSON bez duplicít
+- Odolné sieťové volania: IPv4-only, retries s backoff, fallback host, referer
+- Pri dočasnej sieťovej chybe run neskončí chybou (vráti 0)
+- V logu zobrazuje počet NOVO pridaných záznamov + summary v GitHub Actions
+"""
+
 import json
 import os
 import sys
@@ -167,12 +180,17 @@ def unique_key(item: dict) -> str:
     return f"{item.get('date')} {item.get('time')} | {item.get('artist')} | {item.get('title')}"
 
 
-def merge_dedup(old: list, new: list) -> list:
+def merge_dedup(old: list, new: list):
+    """
+    Zlúči a vráti (merged_list, added_count).
+    """
     seen = {unique_key(it): it for it in old}
+    added = 0
     for it in new:
         k = unique_key(it)
         if k not in seen:
             seen[k] = it
+            added += 1
     merged = list(seen.values())
 
     def sort_key(it):
@@ -182,7 +200,7 @@ def merge_dedup(old: list, new: list) -> list:
             return datetime.min
 
     merged.sort(key=sort_key, reverse=True)
-    return merged
+    return merged, added
 
 
 def main():
@@ -201,12 +219,22 @@ def main():
         return 0
 
     old_items = load_existing(OUT_PATH)
-    merged = merge_dedup(old_items, new_items)
+    merged, added = merge_dedup(old_items, new_items)
 
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
 
+    # >>> LOG do stepu + súhrn do GitHub Actions Summary
+    print(f"Nové záznamy: {added}", file=sys.stderr)
     print(f"OK – zapísaných {len(merged)} položiek do {OUT_PATH}")
+
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary_path:
+        with open(summary_path, "a", encoding="utf-8") as s:
+            s.write("### Scraper result\n")
+            s.write(f"- New records added: **{added}**\n")
+            s.write(f"- Total records: **{len(merged)}**\n")
+
     return 0
 
 
