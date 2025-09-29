@@ -1,16 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-Scraper playlistu rádia Melody (radia.sk)
-- Parsuje interpret, názov, dátum (DD.MM.RRRR) a čas (HH:MM)
-- Normalizuje "dnes"/"včera"
-- Ukladá/merguje do JSON bez duplicít
-- Odolné sieťové volania: IPv4-only, retries s backoff, fallback host, referer
-- Pri dočasnej sieťovej chybe run neskončí chybou (vráti 0)
-- V logu zobrazuje počet NOVO pridaných záznamov + summary v GitHub Actions
-"""
-
 import json
 import os
 import sys
@@ -34,7 +21,6 @@ PLAYLIST_URL_PRIMARY = BASE_HOSTS[0] + PLAYLIST_PATH
 OUT_PATH = os.path.join("data", "playlist.json")
 
 HEADERS = {
-    # realistický prehliadačový UA
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
@@ -89,8 +75,7 @@ def fetch_html() -> str:
 
 def normalize_date(raw_date: str) -> str:
     """
-    Vstup: '27.09.2025', 'dnes', 'včera'
-    Výstup: 'DD.MM.RRRR'
+    Vstup: '27.09.2025', 'dnes', 'včera' -> výstup: 'DD.MM.RRRR'
     """
     raw = raw_date.strip().lower()
     today = datetime.now().date()
@@ -111,7 +96,6 @@ def parse_playlist(html: str):
     Vráti zoznam záznamov: {title, artist, date, time, played_at_iso, track_url, source_url}
     """
     soup = BeautifulSoup(html, "html.parser")
-
     table = soup.select_one("#playlist_table")
     if not table:
         return []
@@ -120,7 +104,6 @@ def parse_playlist(html: str):
     items = []
 
     for row in rows:
-        # hl. anchor s dátami o skladbe (podľa aktuálnej štruktúry)
         a = row.select_one("a.block.columngroup.datum_cas_skladba") or row.find("a")
         if not a:
             continue
@@ -138,12 +121,11 @@ def parse_playlist(html: str):
         artist_txt = artist.get_text(strip=True) if artist else ""
         title_txt = title.get_text(strip=True) if title else ""
 
-        # link na detail skladby (relatívny -> absolútny)
+        # link na detail (relatívny -> absolútny cez primárny host)
         href = a.get("href") or ""
-        # použijeme primárny host pre konzistentné URL
         track_url = urljoin(PLAYLIST_URL_PRIMARY, href)
 
-        # presný timestamp v ISO s časovou zónou Europe/Bratislava
+        # ISO timestamp s časovou zónou Europe/Bratislava
         try:
             local_dt = datetime.strptime(f"{date_norm} {time_hm}", "%d.%m.%Y %H:%M")
             local_dt = local_dt.replace(tzinfo=ZoneInfo("Europe/Bratislava"))
@@ -155,8 +137,8 @@ def parse_playlist(html: str):
             {
                 "title": title_txt,
                 "artist": artist_txt,
-                "date": date_norm,       # DD.MM.RRRR
-                "time": time_hm,         # HH:MM
+                "date": date_norm,   # DD.MM.RRRR
+                "time": time_hm,     # HH:MM
                 "played_at_iso": played_at_iso,
                 "track_url": track_url,
                 "source_url": PLAYLIST_URL_PRIMARY,
@@ -206,16 +188,23 @@ def merge_dedup(old: list, new: list):
 def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 
-    # sieťovú chybu len zaloguj a "úspešne" skonči, aby workflow nepadal
+    # Pri sieťovej chybe – zaloguj a zlyhaj (exit 1)
     try:
         html = fetch_html()
     except requests.RequestException as e:
         print(f"⚠️  Network error – skipping this run: {e}", file=sys.stderr)
-        return 0
+        summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+        if summary_path:
+            with open(summary_path, "a", encoding="utf-8") as s:
+                s.write("### Scraper result\n")
+                s.write("- Success: **NO** (network error)\n")
+                s.write(f"- Error: `{e}`\n")
+        return 1  # <- dôležité: červený run
 
     new_items = parse_playlist(html)
     if not new_items:
         print("⚠️  Nenašli sa žiadne položky – možno sa zmenilo HTML.", file=sys.stderr)
+        # úmyselne nepadáme – pustíme ďalšie behy
         return 0
 
     old_items = load_existing(OUT_PATH)
@@ -224,7 +213,7 @@ def main():
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
 
-    # >>> LOG do stepu + súhrn do GitHub Actions Summary
+    # logy do stepu + summary
     print(f"Nové záznamy: {added}", file=sys.stderr)
     print(f"OK – zapísaných {len(merged)} položiek do {OUT_PATH}")
 
