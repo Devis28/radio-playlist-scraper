@@ -1,32 +1,43 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 import json
 import os
 import sys
+import socket
+import random
+import time
 from datetime import datetime, timedelta
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+import urllib3.util.connection as urllib3_conn
 
-BASE_URL = "https://www.radia.sk"
-PLAYLIST_URL = "https://www.radia.sk/radia/melody/playlist"
+# ===== Konštanty =====
+BASE_HOSTS = ["https://www.radia.sk", "https://radia.sk"]
+PLAYLIST_PATH = "/radia/melody/playlist"
+PLAYLIST_URL_PRIMARY = BASE_HOSTS[0] + PLAYLIST_PATH
 OUT_PATH = os.path.join("data", "playlist.json")
 
-# používaj reálnejší User-Agent (niektoré weby blokujú robotov)
 HEADERS = {
+    # realistický prehliadačový UA
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "sk-SK,sk;q=0.9,en;q=0.8",
+    "Referer": "https://www.radia.sk/",
 }
 
 # (connect timeout, read timeout)
 TIMEOUT = (15, 45)
+
+# vynúť IPv4 – niektorým GH runnerom hapruje IPv6 na tomto hoste
+def _allowed_gai_family():
+    return socket.AF_INET  # IPv4 only
+urllib3_conn.allowed_gai_family = _allowed_gai_family
 
 # Session s retry/backoff na timeouty a 5xx/429
 _session = requests.Session()
@@ -35,7 +46,7 @@ _retries = Retry(
     connect=5,
     read=5,
     status=3,
-    backoff_factor=2.0,                    # 0s, 2s, 4s, 8s, 16s…
+    backoff_factor=2.0,  # 0s, 2s, 4s, 8s, 16s…
     status_forcelist=[429, 500, 502, 503, 504],
     allowed_methods=["HEAD", "GET", "OPTIONS"],
     raise_on_status=False,
@@ -44,14 +55,30 @@ _adapter = HTTPAdapter(max_retries=_retries, pool_connections=10, pool_maxsize=1
 _session.mount("https://", _adapter)
 _session.mount("http://", _adapter)
 
+# ===== Logika =====
 
-def fetch_html(url: str) -> str:
-    r = _session.get(url, headers=HEADERS, timeout=TIMEOUT)
-    r.raise_for_status()
-    return r.text
+def fetch_html() -> str:
+    """
+    Stiahni HTML s malým náhodným jitterom a fallbackom medzi hostmi.
+    """
+    time.sleep(random.uniform(0.0, 1.5))  # jitter, nech nerazíme server v jednej sekunde
+    last_err = None
+    for host in BASE_HOSTS:
+        try:
+            r = _session.get(host + PLAYLIST_PATH, headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
+            return r.text
+        except requests.RequestException as e:
+            last_err = e
+    # zlyhali oba hosty – necháme zachytiť v main()
+    raise last_err
 
 
 def normalize_date(raw_date: str) -> str:
+    """
+    Vstup: '27.09.2025', 'dnes', 'včera'
+    Výstup: 'DD.MM.RRRR'
+    """
     raw = raw_date.strip().lower()
     today = datetime.now().date()
     if raw in ("dnes",):
@@ -67,34 +94,46 @@ def normalize_date(raw_date: str) -> str:
 
 
 def parse_playlist(html: str):
+    """
+    Vráti zoznam záznamov: {title, artist, date, time, played_at_iso, track_url, source_url}
+    """
     soup = BeautifulSoup(html, "html.parser")
+
     table = soup.select_one("#playlist_table")
     if not table:
         return []
 
     rows = table.select("div.row.data")
     items = []
+
     for row in rows:
+        # hl. anchor s dátami o skladbe (podľa aktuálnej štruktúry)
         a = row.select_one("a.block.columngroup.datum_cas_skladba") or row.find("a")
         if not a:
             continue
 
+        # dátum + čas
         dspan = a.select_one("span.datum")
         tspan = a.select_one("span.cas")
         raw_date = dspan.get_text(strip=True) if dspan else ""
         time_hm = tspan.get_text(strip=True) if tspan else ""
         date_norm = normalize_date(raw_date)
 
+        # interpret + názov
         artist = a.select_one("span.interpret")
         title = a.select_one("span.titul")
         artist_txt = artist.get_text(strip=True) if artist else ""
         title_txt = title.get_text(strip=True) if title else ""
 
+        # link na detail skladby (relatívny -> absolútny)
         href = a.get("href") or ""
-        track_url = urljoin(BASE_URL, href)
+        # použijeme primárny host pre konzistentné URL
+        track_url = urljoin(PLAYLIST_URL_PRIMARY, href)
 
+        # presný timestamp v ISO s časovou zónou Europe/Bratislava
         try:
             local_dt = datetime.strptime(f"{date_norm} {time_hm}", "%d.%m.%Y %H:%M")
+            local_dt = local_dt.replace(tzinfo=ZoneInfo("Europe/Bratislava"))
             played_at_iso = local_dt.isoformat()
         except Exception:
             played_at_iso = ""
@@ -103,11 +142,11 @@ def parse_playlist(html: str):
             {
                 "title": title_txt,
                 "artist": artist_txt,
-                "date": date_norm,
-                "time": time_hm,
+                "date": date_norm,       # DD.MM.RRRR
+                "time": time_hm,         # HH:MM
                 "played_at_iso": played_at_iso,
                 "track_url": track_url,
-                "source_url": PLAYLIST_URL,
+                "source_url": PLAYLIST_URL_PRIMARY,
             }
         )
     return items
@@ -124,6 +163,7 @@ def load_existing(path: str):
 
 
 def unique_key(item: dict) -> str:
+    # deduplikácia: dátum + čas + interpret + titul
     return f"{item.get('date')} {item.get('time')} | {item.get('artist')} | {item.get('title')}"
 
 
@@ -148,9 +188,9 @@ def merge_dedup(old: list, new: list) -> list:
 def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 
-    # <<< KĽÚČOVÁ ZMENA: na sieťovú chybu nepadni, len zaloguj a skonči úspešne >>>
+    # sieťovú chybu len zaloguj a "úspešne" skonči, aby workflow nepadal
     try:
-        html = fetch_html(PLAYLIST_URL)
+        html = fetch_html()
     except requests.RequestException as e:
         print(f"⚠️  Network error – skipping this run: {e}", file=sys.stderr)
         return 0
