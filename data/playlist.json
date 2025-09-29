@@ -1411,5 +1411,455 @@
     "played_at_iso": "2025-09-29T13:20:00",
     "track_url": "https://www.radia.sk/pesnicky/1414_samantha-fox-nothing-s-gonna-stop-me-now",
     "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "29.09.2025",
+    "time": "00:17",
+    "played_at_iso": "2025-09-29T00:17:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/34226_shakira-freshlyground-waka-waka-this-time-for-africa",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Čím To Je",
+    "artist": "No Name",
+    "date": "29.09.2025",
+    "time": "00:14",
+    "played_at_iso": "2025-09-29T00:14:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/833_no-name-cim-to-je",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Seal",
+    "date": "29.09.2025",
+    "time": "00:09",
+    "played_at_iso": "2025-09-29T00:09:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/5126_seal-crazy",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Made In Italy",
+    "artist": "Ricchi E Poveri",
+    "date": "29.09.2025",
+    "time": "00:06",
+    "played_at_iso": "2025-09-29T00:06:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/14295_ricchi-e-poveri-made-in-italy",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "No Milk Today",
+    "artist": "Herman's Hermits",
+    "date": "29.09.2025",
+    "time": "00:03",
+    "played_at_iso": "2025-09-29T00:03:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/6112_herman-s-hermits-no-milk-today",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Milovanie V Daždi",
+    "artist": "Richard Müller",
+    "date": "28.09.2025",
+    "time": "23:58",
+    "played_at_iso": "2025-09-28T23:58:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/319_richard-muller-milovanie-v-dazdi",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Believe",
+    "artist": "Cher",
+    "date": "28.09.2025",
+    "time": "23:55",
+    "played_at_iso": "2025-09-28T23:55:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1635_cher-believe",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "28.09.2025",
+    "time": "23:51",
+    "played_at_iso": "2025-09-28T23:51:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/70832_suzi-quatro-if-you-can-t-give-me-love",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "When You Say Nothing At All",
+    "artist": "Keating Ronan",
+    "date": "28.09.2025",
+    "time": "23:47",
+    "played_at_iso": "2025-09-28T23:47:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/331_keating-ronan-when-you-say-nothing-at-all",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Všetci Sa Zídeme V Jednej Posteli",
+    "artist": "Robo Grigorov",
+    "date": "28.09.2025",
+    "time": "23:44",
+    "played_at_iso": "2025-09-28T23:44:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/12289_robo-grigorov-vsetci-sa-zideme-v-jednej-posteli",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "I Don't Wanna Get Hurt",
+    "artist": "Donna Summer",
+    "date": "28.09.2025",
+    "time": "23:41",
+    "played_at_iso": "2025-09-28T23:41:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1900_donna-summer-i-don-t-wanna-get-hurt",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "date": "28.09.2025",
+    "time": "23:36",
+    "played_at_iso": "2025-09-28T23:36:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/2156_robbie-williams-angels",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Reklama Na Ticho",
+    "artist": "Team",
+    "date": "28.09.2025",
+    "time": "23:33",
+    "played_at_iso": "2025-09-28T23:33:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/321_team-reklama-na-ticho",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Máš V Rukáve Máj",
+    "artist": "Marika Gombitová",
+    "date": "28.09.2025",
+    "time": "23:30",
+    "played_at_iso": "2025-09-28T23:30:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/13359_marika-gombitova-mas-v-rukave-maj",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Heartbreak Hotel",
+    "artist": "C.C. Catch",
+    "date": "28.09.2025",
+    "time": "23:27",
+    "played_at_iso": "2025-09-28T23:27:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/20518_c-c-catch-heartbreak-hotel",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Jediný A Jediná",
+    "artist": "Zuzana Smatanová",
+    "date": "28.09.2025",
+    "time": "23:22",
+    "played_at_iso": "2025-09-28T23:22:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/404411_zuzana-smatanova-jediny-a-jedina",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "28.09.2025",
+    "time": "23:17",
+    "played_at_iso": "2025-09-28T23:17:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/614_vangelis-conquest-of-paradise",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Horehronie",
+    "artist": "Kristína",
+    "date": "28.09.2025",
+    "time": "23:14",
+    "played_at_iso": "2025-09-28T23:14:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/507_kristina-horehronie",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "One",
+    "artist": "U2",
+    "date": "28.09.2025",
+    "time": "23:10",
+    "played_at_iso": "2025-09-28T23:10:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1127_u2-one",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Smrťka Na Pražskom Orloji",
+    "artist": "Elán",
+    "date": "28.09.2025",
+    "time": "23:05",
+    "played_at_iso": "2025-09-28T23:05:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/7652_elan-smrtka-na-prazskom-orloji",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "28.09.2025",
+    "time": "23:02",
+    "played_at_iso": "2025-09-28T23:02:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/6124_modus-dievcata",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Crying In Rain",
+    "artist": "A-Ha",
+    "date": "28.09.2025",
+    "time": "22:59",
+    "played_at_iso": "2025-09-28T22:59:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/43681_a-ha-crying-in-rain",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Muzika",
+    "artist": "Gott Karel",
+    "date": "28.09.2025",
+    "time": "22:54",
+    "played_at_iso": "2025-09-28T22:54:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/18504_gott-karel-muzika",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Can't Fight The Moonlight",
+    "artist": "Rimes Leann",
+    "date": "28.09.2025",
+    "time": "22:51",
+    "played_at_iso": "2025-09-28T22:51:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/4287_rimes-leann-can-t-fight-the-moonlight",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Lay All Your Love On Me",
+    "artist": "Abba",
+    "date": "28.09.2025",
+    "time": "22:46",
+    "played_at_iso": "2025-09-28T22:46:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/2779_abba-lay-all-your-love-on-me",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Chvíľu áno, chvíľu nie",
+    "artist": "Hex",
+    "date": "28.09.2025",
+    "time": "22:43",
+    "played_at_iso": "2025-09-28T22:43:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/2084_hex-chvilu-ano-chvilu-nie",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "You Keep Me Hanging On",
+    "artist": "Wilde Kim",
+    "date": "28.09.2025",
+    "time": "22:39",
+    "played_at_iso": "2025-09-28T22:39:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/3768_wilde-kim-you-keep-me-hanging-on",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Happy People",
+    "artist": "Prince Ital Joe Feat.Marky Mark",
+    "date": "28.09.2025",
+    "time": "22:35",
+    "played_at_iso": "2025-09-28T22:35:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/11139_prince-ital-joe-feat-marky-mark-happy-people",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "28.09.2025",
+    "time": "22:31",
+    "played_at_iso": "2025-09-28T22:31:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/741_peha-spomal",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Break My Stride",
+    "artist": "Matthew Wilder",
+    "date": "28.09.2025",
+    "time": "22:28",
+    "played_at_iso": "2025-09-28T22:28:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/5769_matthew-wilder-break-my-stride",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Holubička",
+    "artist": "Adam Ďurica",
+    "date": "28.09.2025",
+    "time": "22:23",
+    "played_at_iso": "2025-09-28T22:23:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/414760_adam-durica-holubicka",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Woman In Love",
+    "artist": "Streisand Barbra",
+    "date": "28.09.2025",
+    "time": "22:20",
+    "played_at_iso": "2025-09-28T22:20:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/826_streisand-barbra-woman-in-love",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Žít Jako Kaskadér",
+    "artist": "Janda Dalibor",
+    "date": "28.09.2025",
+    "time": "22:16",
+    "played_at_iso": "2025-09-28T22:16:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/4052_janda-dalibor-zit-jako-kaskader",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Cukráreň Na Dlani Námestia",
+    "artist": "Marika Gombitová",
+    "date": "28.09.2025",
+    "time": "22:12",
+    "played_at_iso": "2025-09-28T22:12:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/15231_marika-gombitova-cukraren-na-dlani-namestia",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Everytime We Touch",
+    "artist": "Maggie Reilly",
+    "date": "28.09.2025",
+    "time": "22:07",
+    "played_at_iso": "2025-09-28T22:07:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1602_maggie-reilly-everytime-we-touch",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Milujem",
+    "artist": "Zenit",
+    "date": "28.09.2025",
+    "time": "22:03",
+    "played_at_iso": "2025-09-28T22:03:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1135_zenit-milujem",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "The Rhythm Divine",
+    "artist": "Iglesias Enrique",
+    "date": "28.09.2025",
+    "time": "21:59",
+    "played_at_iso": "2025-09-28T21:59:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/9296_iglesias-enrique-the-rhythm-divine",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "We Are The Champions",
+    "artist": "Queen",
+    "date": "28.09.2025",
+    "time": "21:56",
+    "played_at_iso": "2025-09-28T21:56:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/3239_queen-we-are-the-champions",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Chýbaš Mi",
+    "artist": "Grigorov Robo Midi",
+    "date": "28.09.2025",
+    "time": "21:52",
+    "played_at_iso": "2025-09-28T21:52:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/139615_grigorov-robo-midi-chybas-mi",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Wind Of Change",
+    "artist": "The Scorpions",
+    "date": "28.09.2025",
+    "time": "21:47",
+    "played_at_iso": "2025-09-28T21:47:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/2325_the-scorpions-wind-of-change",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Joe Le Taxi",
+    "artist": "Paradis, Vanessa",
+    "date": "28.09.2025",
+    "time": "21:44",
+    "played_at_iso": "2025-09-28T21:44:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/791_paradis-vanessa-joe-le-taxi",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "28.09.2025",
+    "time": "21:40",
+    "played_at_iso": "2025-09-28T21:40:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/314_pavol-habera-prec-prec",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Nenapovídej",
+    "artist": "David Michal",
+    "date": "28.09.2025",
+    "time": "21:35",
+    "played_at_iso": "2025-09-28T21:35:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/245_david-michal-nenapovidej",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "V nás",
+    "artist": "Nocadeň",
+    "date": "28.09.2025",
+    "time": "21:31",
+    "played_at_iso": "2025-09-28T21:31:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/218185_nocaden-v-nas",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "The Tide Is High",
+    "artist": "Blondie",
+    "date": "28.09.2025",
+    "time": "21:27",
+    "played_at_iso": "2025-09-28T21:27:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1003_blondie-the-tide-is-high",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Zhorí Všetko Čo Mám",
+    "artist": "Desmod",
+    "date": "28.09.2025",
+    "time": "21:22",
+    "played_at_iso": "2025-09-28T21:22:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/12_desmod-zhori-vsetko-co-mam",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Chíldren",
+    "artist": "Robert Miles",
+    "date": "28.09.2025",
+    "time": "21:19",
+    "played_at_iso": "2025-09-28T21:19:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/6106_robert-miles-children",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Dvojčatá",
+    "artist": "Patejdl Vašo",
+    "date": "28.09.2025",
+    "time": "21:15",
+    "played_at_iso": "2025-09-28T21:15:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/784_patejdl-vaso-dvojcata",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "date": "28.09.2025",
+    "time": "21:09",
+    "played_at_iso": "2025-09-28T21:09:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/3368_metallica-nothing-else-matters",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "28.09.2025",
+    "time": "21:05",
+    "played_at_iso": "2025-09-28T21:05:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/3201_brezovska-mirka-dievca-neplac",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
   }
 ]
