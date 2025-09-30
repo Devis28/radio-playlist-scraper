@@ -185,6 +185,9 @@ def main():
     old_items = load_existing(OUT_PATH)
     merged, added = merge_dedup(old_items, new_items)
 
+    # dopočítaj odhady dĺžok
+    merged = annotate_durations(merged)
+
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
 
@@ -200,6 +203,44 @@ def main():
             s.write(f"- Total records: **{len(merged)}**\n")
 
     return 0
+
+
+def annotate_durations(items):
+    """
+    Doplní k položkám odhad dĺžky prehrania na základe rozdielu začiatkov.
+    Predpoklad: items môžu byť v akomkoľvek poradí; funkcia si ich dočasne zoradí.
+    Pridáva polia: duration_sec_est (int|None), duration_est (str|None).
+    """
+    # priprav si (datetime, item) páry
+    parsed = []
+    for it in items:
+        try:
+            dt = datetime.strptime(f"{it['date']} {it['time']}", "%d.%m.%Y %H:%M")
+        except Exception:
+            dt = None
+        parsed.append((dt, it))
+
+    # zorad vzostupne podľa času (od najstaršej k najnovšej)
+    parsed.sort(key=lambda x: x[0] or datetime.min)
+
+    for i, (dt, it) in enumerate(parsed):
+        # posledná položka alebo zle parsovaný čas -> nevieme odhadnúť
+        if dt is None or i == len(parsed) - 1 or parsed[i + 1][0] is None:
+            it["duration_sec_est"] = None
+            it["duration_est"] = None
+            continue
+
+        delta = (parsed[i + 1][0] - dt).total_seconds()
+        if delta > 0:
+            sec = int(delta)
+            it["duration_sec_est"] = sec
+            it["duration_est"] = f"{sec // 60:02d}:{sec % 60:02d}"
+        else:
+            # ak by náhodou vyšiel záporný/0 rozdiel (duplicitná minúta a pod.)
+            it["duration_sec_est"] = None
+            it["duration_est"] = None
+
+    return items
 
 
 if __name__ == "__main__":
