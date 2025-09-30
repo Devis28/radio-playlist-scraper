@@ -1,5 +1,455 @@
 [
   {
+    "title": "Boat On The River",
+    "artist": "Styx",
+    "date": "30.09.2025",
+    "time": "03:19",
+    "played_at_iso": "2025-09-30T03:19:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/6533_styx-boat-on-the-river",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "30.09.2025",
+    "time": "03:16",
+    "played_at_iso": "2025-09-30T03:16:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/630_opus-live-is-life",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Stačí Si Priať",
+    "artist": "Smatanová Zuzana",
+    "date": "30.09.2025",
+    "time": "03:12",
+    "played_at_iso": "2025-09-30T03:12:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/435_smatanova-zuzana-staci-si-priat",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Land Of Dreaming",
+    "artist": "Masterboy",
+    "date": "30.09.2025",
+    "time": "03:08",
+    "played_at_iso": "2025-09-30T03:08:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/8607_masterboy-land-of-dreaming",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Flames Of Love",
+    "artist": "Fancy",
+    "date": "30.09.2025",
+    "time": "03:04",
+    "played_at_iso": "2025-09-30T03:04:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/7780_fancy-flames-of-love",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Zatancuj Si So Mnou",
+    "artist": "Adam Ďurica",
+    "date": "30.09.2025",
+    "time": "03:01",
+    "played_at_iso": "2025-09-30T03:01:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/442873_adam-durica-zatancuj-si-so-mnou",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "30.09.2025",
+    "time": "02:56",
+    "played_at_iso": "2025-09-30T02:56:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/2070_penk-michal-o-blaznech",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Que Sera Mi Vida",
+    "artist": "The Gibson Brothers",
+    "date": "30.09.2025",
+    "time": "02:53",
+    "played_at_iso": "2025-09-30T02:53:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/7706_the-gibson-brothers-que-sera-mi-vida",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Black Velvet",
+    "artist": "Myles Alannah",
+    "date": "30.09.2025",
+    "time": "02:48",
+    "played_at_iso": "2025-09-30T02:48:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/661_myles-alannah-black-velvet",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Mmuoj Boze",
+    "artist": "Katarina Knechtova",
+    "date": "30.09.2025",
+    "time": "02:45",
+    "played_at_iso": "2025-09-30T02:45:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/446237_katarina-knechtova-mmuoj-boze",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Lambada",
+    "artist": "Kaoma",
+    "date": "30.09.2025",
+    "time": "02:41",
+    "played_at_iso": "2025-09-30T02:41:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/10265_kaoma-lambada",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "30.09.2025",
+    "time": "02:37",
+    "played_at_iso": "2025-09-30T02:37:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/669_dubasova-beata-vrat-mi-tie-hviezdy",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "30.09.2025",
+    "time": "02:33",
+    "played_at_iso": "2025-09-30T02:33:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1617_roxette-the-look",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Ztraceny Raj",
+    "artist": "Vaso Patejdl A Heidi Janku",
+    "date": "30.09.2025",
+    "time": "02:30",
+    "played_at_iso": "2025-09-30T02:30:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/95885_vaso-patejdl-a-heidi-janku-ztraceny-raj",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Boys",
+    "artist": "Sabrina",
+    "date": "30.09.2025",
+    "time": "02:26",
+    "played_at_iso": "2025-09-30T02:26:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/4425_sabrina-boys",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Malý Veľký Vlak",
+    "artist": "Modus",
+    "date": "30.09.2025",
+    "time": "02:22",
+    "played_at_iso": "2025-09-30T02:22:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/27782_modus-maly-velky-vlak",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "30.09.2025",
+    "time": "02:20",
+    "played_at_iso": "2025-09-30T02:20:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/2231_brontosauri-na-kameni-kamen",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "G8",
+    "date": "30.09.2025",
+    "time": "02:15",
+    "played_at_iso": "2025-09-30T02:15:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/17071_g8-vrat-trochu-lasky-medzi-nas",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Love Message",
+    "artist": "Love Message",
+    "date": "30.09.2025",
+    "time": "02:12",
+    "played_at_iso": "2025-09-30T02:12:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/247_love-message-love-message",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "date": "30.09.2025",
+    "time": "02:07",
+    "played_at_iso": "2025-09-30T02:07:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1677_alphaville-big-in-japan",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Rivers Of Babylon",
+    "artist": "Boney M.",
+    "date": "30.09.2025",
+    "time": "02:04",
+    "played_at_iso": "2025-09-30T02:04:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/2843_boney-m-rivers-of-babylon",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Nedá Sa Újsť",
+    "artist": "I.M.T. Smile",
+    "date": "30.09.2025",
+    "time": "02:01",
+    "played_at_iso": "2025-09-30T02:01:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/3242_i-m-t-smile-neda-sa-ujst",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Nah Neh Nah",
+    "artist": "Vaya Con Dios",
+    "date": "30.09.2025",
+    "time": "01:58",
+    "played_at_iso": "2025-09-30T01:58:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1090_vaya-con-dios-nah-neh-nah",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Wonderful Life",
+    "artist": "Black",
+    "date": "30.09.2025",
+    "time": "01:53",
+    "played_at_iso": "2025-09-30T01:53:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/2824_black-wonderful-life",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Désenchantee",
+    "artist": "Farmer Mylene",
+    "date": "30.09.2025",
+    "time": "01:48",
+    "played_at_iso": "2025-09-30T01:48:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/5885_farmer-mylene-desenchantee",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "One Of Us",
+    "artist": "Abba",
+    "date": "30.09.2025",
+    "time": "01:44",
+    "played_at_iso": "2025-09-30T01:44:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/8943_abba-one-of-us",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Nevrav Mi Aký Som",
+    "artist": "Desmod",
+    "date": "30.09.2025",
+    "time": "01:41",
+    "played_at_iso": "2025-09-30T01:41:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/366618_desmod-nevrav-mi-aky-som",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Nothing's Gonna Change My Love For You",
+    "artist": "Glenn Medeiros",
+    "date": "30.09.2025",
+    "time": "01:37",
+    "played_at_iso": "2025-09-30T01:37:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/7683_glenn-medeiros-nothing-s-gonna-change-my-love-for-you",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Sen",
+    "artist": "Mc Erik And Barbara",
+    "date": "30.09.2025",
+    "time": "01:33",
+    "played_at_iso": "2025-09-30T01:33:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/11964_mc-erik-and-barbara-sen",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Dnes Už Viem",
+    "artist": "Pavol Hammel",
+    "date": "30.09.2025",
+    "time": "01:30",
+    "played_at_iso": "2025-09-30T01:30:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/6398_pavol-hammel-dnes-uz-viem",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Heal The World",
+    "artist": "Jackson, Michael",
+    "date": "30.09.2025",
+    "time": "01:24",
+    "played_at_iso": "2025-09-30T01:24:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/183_jackson-michael-heal-the-world",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Dvaja",
+    "artist": "Gombitová Marika",
+    "date": "30.09.2025",
+    "time": "01:21",
+    "played_at_iso": "2025-09-30T01:21:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/11723_gombitova-marika-dvaja",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "30.09.2025",
+    "time": "01:18",
+    "played_at_iso": "2025-09-30T01:18:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1593_rubettes-the-sugar-baby-love",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Anjelik Môj",
+    "artist": "Darina Rolincová",
+    "date": "30.09.2025",
+    "time": "01:14",
+    "played_at_iso": "2025-09-30T01:14:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/10950_darina-rolincova-anjelik-moj",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Dvere",
+    "artist": "Zuzana Smatanová",
+    "date": "30.09.2025",
+    "time": "01:11",
+    "played_at_iso": "2025-09-30T01:11:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/75016_zuzana-smatanova-dvere",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Only Time (Two Tribes Remix))",
+    "artist": "Enya",
+    "date": "30.09.2025",
+    "time": "01:08",
+    "played_at_iso": "2025-09-30T01:08:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/5996_enya-only-time-two-tribes-remix",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Ty Ja A Moj Brat (Sklicka Dotykov)",
+    "artist": "Modus",
+    "date": "30.09.2025",
+    "time": "01:03",
+    "played_at_iso": "2025-09-30T01:03:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/289318_modus-ty-ja-a-moj-brat-sklicka-dotykov",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Edo",
+    "artist": "Grigorov Robo",
+    "date": "30.09.2025",
+    "time": "01:00",
+    "played_at_iso": "2025-09-30T01:00:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/4268_grigorov-robo-edo",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Matka",
+    "artist": "Tublatanka",
+    "date": "30.09.2025",
+    "time": "00:56",
+    "played_at_iso": "2025-09-30T00:56:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/6605_tublatanka-matka",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "30.09.2025",
+    "time": "00:53",
+    "played_at_iso": "2025-09-30T00:53:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/7721_the-beatles-here-comes-the-sun",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Hero (Metro Mix)",
+    "artist": "Iglesias, Enrique",
+    "date": "30.09.2025",
+    "time": "00:49",
+    "played_at_iso": "2025-09-30T00:49:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/16482_iglesias-enrique-hero-metro-mix",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Som V Tom",
+    "artist": "Team",
+    "date": "30.09.2025",
+    "time": "00:45",
+    "played_at_iso": "2025-09-30T00:45:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/2705_team-som-v-tom",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "30.09.2025",
+    "time": "00:41",
+    "played_at_iso": "2025-09-30T00:41:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/4133_taylor-dayne-tell-it-to-my-heart",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "30.09.2025",
+    "time": "00:37",
+    "played_at_iso": "2025-09-30T00:37:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/4714_erasure-love-to-hate-you",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "It Must Have Been Love",
+    "artist": "Roxette",
+    "date": "30.09.2025",
+    "time": "00:33",
+    "played_at_iso": "2025-09-30T00:33:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/1805_roxette-it-must-have-been-love",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Príliš Osobná Známosť",
+    "artist": "I.M.T. Smile & Nikol Štíbrová",
+    "date": "30.09.2025",
+    "time": "00:28",
+    "played_at_iso": "2025-09-30T00:28:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/458630_i-m-t-smile-nikol-stibrova-prilis-osobna-znamost",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Leave A Light On",
+    "artist": "Carlisle Belinda",
+    "date": "30.09.2025",
+    "time": "00:24",
+    "played_at_iso": "2025-09-30T00:24:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/931_carlisle-belinda-leave-a-light-on",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "V tichu",
+    "artist": "Katarína Knechtová",
+    "date": "30.09.2025",
+    "time": "00:20",
+    "played_at_iso": "2025-09-30T00:20:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/5220_katarina-knechtova-v-tichu",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "30.09.2025",
+    "time": "00:17",
+    "played_at_iso": "2025-09-30T00:17:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/34226_shakira-freshlyground-waka-waka-this-time-for-africa",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
+    "title": "Čím To Je",
+    "artist": "No Name",
+    "date": "30.09.2025",
+    "time": "00:14",
+    "played_at_iso": "2025-09-30T00:14:00+02:00",
+    "track_url": "https://www.radia.sk/pesnicky/833_no-name-cim-to-je",
+    "source_url": "https://www.radia.sk/radia/melody/playlist"
+  },
+  {
     "title": "Believe",
     "artist": "Cher",
     "date": "29.09.2025",
