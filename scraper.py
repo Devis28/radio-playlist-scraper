@@ -5,6 +5,7 @@ import socket
 import random
 import time
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -16,6 +17,7 @@ import urllib3.util.connection as urllib3_conn
 BASE_HOSTS = ["https://www.radia.sk", "https://radia.sk"]
 PLAYLIST_PATH = "/radia/melody/playlist"
 OUT_PATH = os.path.join("data", "playlist.json")
+LOCAL_TZ = ZoneInfo("Europe/Bratislava")
 
 HEADERS = {
     "User-Agent": (
@@ -68,9 +70,11 @@ def fetch_html() -> str:
 
 
 def normalize_date(raw_date: str) -> str:
-    """'27.09.2025', 'dnes', 'včera' -> výstup: 'DD.MM.RRRR'"""
+    """'27.09.2025', 'dnes', 'včera' -> 'DD.MM.RRRR'"""
     raw = raw_date.strip().lower()
-    today = datetime.now().date()
+    # !!! kľúčová zmena: „dnes“ a „včera“ rátame v Europe/Bratislava
+    today = datetime.now(LOCAL_TZ).date()
+
     if raw in ("dnes",):
         d = today
     elif raw in ("včera", "vcera"):
