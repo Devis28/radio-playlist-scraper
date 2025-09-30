@@ -5,8 +5,6 @@ import socket
 import random
 import time
 from datetime import datetime, timedelta
-from urllib.parse import urljoin
-from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -17,7 +15,6 @@ import urllib3.util.connection as urllib3_conn
 # ===== Konštanty =====
 BASE_HOSTS = ["https://www.radia.sk", "https://radia.sk"]
 PLAYLIST_PATH = "/radia/melody/playlist"
-PLAYLIST_URL_PRIMARY = BASE_HOSTS[0] + PLAYLIST_PATH
 OUT_PATH = os.path.join("data", "playlist.json")
 
 HEADERS = {
@@ -32,6 +29,9 @@ HEADERS = {
 
 # (connect timeout, read timeout)
 TIMEOUT = (15, 45)
+
+# polia, ktoré v JSON nechceme (pre istotu ich odstránime aj zo starých záznamov)
+DISALLOWED_FIELDS = {"played_at_iso", "track_url", "source_url"}
 
 # vynúť IPv4 – niektorým GH runnerom hapruje IPv6 na tomto hoste
 def _allowed_gai_family():
@@ -57,9 +57,7 @@ _session.mount("http://", _adapter)
 # ===== Logika =====
 
 def fetch_html() -> str:
-    """
-    Stiahni HTML s malým náhodným jitterom a fallbackom medzi hostmi.
-    """
+    """Stiahni HTML s malým náhodným jitterom a fallbackom medzi hostmi."""
     time.sleep(random.uniform(0.0, 1.5))  # jitter, nech nerazíme server v jednej sekunde
     last_err = None
     for host in BASE_HOSTS:
@@ -74,9 +72,7 @@ def fetch_html() -> str:
 
 
 def normalize_date(raw_date: str) -> str:
-    """
-    Vstup: '27.09.2025', 'dnes', 'včera' -> výstup: 'DD.MM.RRRR'
-    """
+    """'27.09.2025', 'dnes', 'včera' -> výstup: 'DD.MM.RRRR'"""
     raw = raw_date.strip().lower()
     today = datetime.now().date()
     if raw in ("dnes",):
@@ -93,7 +89,7 @@ def normalize_date(raw_date: str) -> str:
 
 def parse_playlist(html: str):
     """
-    Vráti zoznam záznamov: {title, artist, date, time, played_at_iso, track_url, source_url}
+    Vráti zoznam záznamov: {title, artist, date, time}
     """
     soup = BeautifulSoup(html, "html.parser")
     table = soup.select_one("#playlist_table")
@@ -121,40 +117,35 @@ def parse_playlist(html: str):
         artist_txt = artist.get_text(strip=True) if artist else ""
         title_txt = title.get_text(strip=True) if title else ""
 
-        # link na detail (relatívny -> absolútny cez primárny host)
-        href = a.get("href") or ""
-        track_url = urljoin(PLAYLIST_URL_PRIMARY, href)
-
-        # ISO timestamp s časovou zónou Europe/Bratislava
-        try:
-            local_dt = datetime.strptime(f"{date_norm} {time_hm}", "%d.%m.%Y %H:%M")
-            local_dt = local_dt.replace(tzinfo=ZoneInfo("Europe/Bratislava"))
-            played_at_iso = local_dt.isoformat()
-        except Exception:
-            played_at_iso = ""
-
+        # vytvor záznam len s požadovanými poliami
         items.append(
             {
                 "title": title_txt,
                 "artist": artist_txt,
                 "date": date_norm,   # DD.MM.RRRR
                 "time": time_hm,     # HH:MM
-                "played_at_iso": played_at_iso,
-                "track_url": track_url,
-                "source_url": PLAYLIST_URL_PRIMARY,
             }
         )
     return items
 
 
 def load_existing(path: str):
+    """Načítaj existujúci JSON a odstráň nežiadané polia (ak by sa historicky vyskytli)."""
     if not os.path.exists(path):
         return []
     try:
         with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
     except json.JSONDecodeError:
         return []
+
+    if isinstance(data, list):
+        for it in data:
+            if isinstance(it, dict):
+                for k in list(it.keys()):
+                    if k in DISALLOWED_FIELDS:
+                        del it[k]
+    return data
 
 
 def unique_key(item: dict) -> str:
@@ -163,9 +154,7 @@ def unique_key(item: dict) -> str:
 
 
 def merge_dedup(old: list, new: list):
-    """
-    Zlúči a vráti (merged_list, added_count).
-    """
+    """Zlúči a vráti (merged_list, added_count)."""
     seen = {unique_key(it): it for it in old}
     added = 0
     for it in new:
@@ -184,6 +173,7 @@ def merge_dedup(old: list, new: list):
     merged.sort(key=sort_key, reverse=True)
     return merged, added
 
+# ===== Hlavný beh =====
 
 def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
@@ -204,7 +194,6 @@ def main():
     new_items = parse_playlist(html)
     if not new_items:
         print("⚠️  Nenašli sa žiadne položky – možno sa zmenilo HTML.", file=sys.stderr)
-        # úmyselne nepadáme – pustíme ďalšie behy
         return 0
 
     old_items = load_existing(OUT_PATH)
