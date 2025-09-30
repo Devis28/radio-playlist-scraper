@@ -30,9 +30,6 @@ HEADERS = {
 # (connect timeout, read timeout)
 TIMEOUT = (15, 45)
 
-# polia, ktoré v JSON nechceme (pre istotu ich odstránime aj zo starých záznamov)
-DISALLOWED_FIELDS = {"played_at_iso", "track_url", "source_url"}
-
 # vynúť IPv4 – niektorým GH runnerom hapruje IPv6 na tomto hoste
 def _allowed_gai_family():
     return socket.AF_INET  # IPv4 only
@@ -67,7 +64,6 @@ def fetch_html() -> str:
             return r.text
         except requests.RequestException as e:
             last_err = e
-    # zlyhali oba hosty – necháme zachytiť v main()
     raise last_err
 
 
@@ -88,9 +84,7 @@ def normalize_date(raw_date: str) -> str:
 
 
 def parse_playlist(html: str):
-    """
-    Vráti zoznam záznamov: {title, artist, date, time}
-    """
+    """Vráti zoznam záznamov: {title, artist, date, time}"""
     soup = BeautifulSoup(html, "html.parser")
     table = soup.select_one("#playlist_table")
     if not table:
@@ -135,17 +129,9 @@ def load_existing(path: str):
         return []
     try:
         with open(path, "r", encoding="utf-8") as f:
-            data = json.load(f)
+            return json.load(f)
     except json.JSONDecodeError:
         return []
-
-    if isinstance(data, list):
-        for it in data:
-            if isinstance(it, dict):
-                for k in list(it.keys()):
-                    if k in DISALLOWED_FIELDS:
-                        del it[k]
-    return data
 
 
 def unique_key(item: dict) -> str:
