@@ -1,17 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-Scraper playlistu rádia Melody (radia.sk)
-- Parsuje interpret, názov, dátum (DD.MM.RRRR) a čas (HH:MM)
-- Normalizuje "dnes"/"včera"
-- Ukladá/merguje do JSON bez duplicít
-- Odolné sieťové volania: IPv4-only, retries s backoff, fallback host, referer, jitter
-- Pri sieťovej chybe run zámerne zlyhá (exit 1)
-- Loguje počet novo pridaných záznamov + summary v GitHub Actions
-- Pri čítaní/ukladaní odstráni kľúče: duration_sec_est, duration_est
-"""
-
 import json
 import os
 import sys
@@ -44,9 +30,6 @@ HEADERS = {
 # (connect timeout, read timeout)
 TIMEOUT = (15, 45)
 
-# polia, ktoré nechceme mať v JSONe
-DISALLOWED_FIELDS = {"duration_sec_est", "duration_est"}
-
 # vynúť IPv4 – niektorým GH runnerom hapruje IPv6 na tomto hoste
 def _allowed_gai_family():
     return socket.AF_INET  # IPv4 only
@@ -68,11 +51,11 @@ _adapter = HTTPAdapter(max_retries=_retries, pool_connections=10, pool_maxsize=1
 _session.mount("https://", _adapter)
 _session.mount("http://", _adapter)
 
-# ===== Pomocné funkcie =====
+# ===== Logika =====
 
 def fetch_html() -> str:
     """Stiahni HTML s malým náhodným jitterom a fallbackom medzi hostmi."""
-    time.sleep(random.uniform(0.0, 1.5))
+    time.sleep(random.uniform(0.0, 1.5))  # jitter, nech nerazíme server v jednej sekunde
     last_err = None
     for host in BASE_HOSTS:
         try:
@@ -85,7 +68,7 @@ def fetch_html() -> str:
 
 
 def normalize_date(raw_date: str) -> str:
-    """'27.09.2025' | 'dnes' | 'včera'  ->  'DD.MM.RRRR'"""
+    """'27.09.2025', 'dnes', 'včera' -> výstup: 'DD.MM.RRRR'"""
     raw = raw_date.strip().lower()
     today = datetime.now().date()
     if raw in ("dnes",):
@@ -101,7 +84,7 @@ def normalize_date(raw_date: str) -> str:
 
 
 def parse_playlist(html: str):
-    """Vráti zoznam záznamov: {title, artist, date, time}."""
+    """Vráti zoznam záznamov: {title, artist, date, time}"""
     soup = BeautifulSoup(html, "html.parser")
     table = soup.select_one("#playlist_table")
     if not table:
@@ -128,6 +111,7 @@ def parse_playlist(html: str):
         artist_txt = artist.get_text(strip=True) if artist else ""
         title_txt = title.get_text(strip=True) if title else ""
 
+        # vytvor záznam len s požadovanými poliami
         items.append(
             {
                 "title": title_txt,
@@ -139,32 +123,19 @@ def parse_playlist(html: str):
     return items
 
 
-def strip_unwanted_fields(items):
-    """Odstráň z položiek kľúče, ktoré nechceme v JSONe."""
-    if not isinstance(items, list):
-        return items
-    for it in items:
-        if isinstance(it, dict):
-            for k in list(it.keys()):
-                if k in DISALLOWED_FIELDS:
-                    del it[k]
-    return items
-
-
 def load_existing(path: str):
-    """Načítaj existujúci JSON; ak nie je, vráť prázdny zoznam. Pri načítaní odstráň neželané polia."""
+    """Načítaj existujúci JSON a odstráň nežiadané polia (ak by sa historicky vyskytli)."""
     if not os.path.exists(path):
         return []
     try:
         with open(path, "r", encoding="utf-8") as f:
-            data = json.load(f)
+            return json.load(f)
     except json.JSONDecodeError:
         return []
-    return strip_unwanted_fields(data)
 
 
 def unique_key(item: dict) -> str:
-    """Deduplikácia: dátum + čas + interpret + titul."""
+    # deduplikácia: dátum + čas + interpret + titul
     return f"{item.get('date')} {item.get('time')} | {item.get('artist')} | {item.get('title')}"
 
 
@@ -204,7 +175,7 @@ def main():
                 s.write("### Scraper result\n")
                 s.write("- Success: **NO** (network error)\n")
                 s.write(f"- Error: `{e}`\n")
-        return 1  # <- červený run
+        return 1  # <- dôležité: červený run
 
     new_items = parse_playlist(html)
     if not new_items:
@@ -213,9 +184,6 @@ def main():
 
     old_items = load_existing(OUT_PATH)
     merged, added = merge_dedup(old_items, new_items)
-
-    # pre istotu očisti aj pred uložením (idempotentné)
-    merged = strip_unwanted_fields(merged)
 
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
