@@ -1,5 +1,25 @@
 [
   {
+    "title": "It's A Sin",
+    "artist": "Pet Shop Boys",
+    "date": "03.10.2025",
+    "time": "00:41",
+    "year": 1987,
+    "duration_ms": 301293,
+    "duration": "5:01",
+    "genre": "Pop"
+  },
+  {
+    "title": "Malý Princ",
+    "artist": "Aya",
+    "date": "03.10.2025",
+    "time": "00:37",
+    "year": 2007,
+    "duration_ms": 250000,
+    "duration": "4:10",
+    "genre": "Rock"
+  },
+  {
     "title": "Modrá",
     "artist": "Kirschner Jana",
     "date": "03.10.2025",
@@ -1051,61 +1071,101 @@
     "title": "Trezor",
     "artist": "Gott Karel & Olympic",
     "date": "02.10.2025",
-    "time": "17:35"
+    "time": "17:35",
+    "year": 1965,
+    "duration_ms": 116573,
+    "duration": "1:57",
+    "genre": "Pop"
   },
   {
     "title": "Self Control",
     "artist": "Branigan Laura",
     "date": "02.10.2025",
-    "time": "17:31"
+    "time": "17:31",
+    "year": 1984,
+    "duration_ms": 246440,
+    "duration": "4:06",
+    "genre": "Pop"
   },
   {
     "title": "Infinity",
     "artist": "Guru Josh",
     "date": "02.10.2025",
-    "time": "17:25"
+    "time": "17:25",
+    "year": 1989,
+    "duration_ms": 243693,
+    "duration": "4:04",
+    "genre": "Pop"
   },
   {
     "title": "The Sound Of Silence",
     "artist": "Simon Paul & Garfunkel Art",
     "date": "02.10.2025",
-    "time": "17:22"
+    "time": "17:22",
+    "year": 1965,
+    "duration_ms": 190102,
+    "duration": "3:10",
+    "genre": "Folk-Rock"
   },
   {
     "title": "The Locomotion",
     "artist": "Kylie Minogue",
     "date": "02.10.2025",
-    "time": "17:19"
+    "time": "17:19",
+    "year": 2009,
+    "duration_ms": 296543,
+    "duration": "4:57",
+    "genre": "Pop"
   },
   {
     "title": "We Love To Love",
     "artist": "P. M. Sampson & Double Key",
     "date": "02.10.2025",
-    "time": "17:13"
+    "time": "17:13",
+    "year": 1999,
+    "duration_ms": 225120,
+    "duration": "3:45",
+    "genre": "Pop"
   },
   {
     "title": "A Ty Se Ptáš Co Já",
     "artist": "Helena Vondracková",
     "date": "02.10.2025",
-    "time": "17:09"
+    "time": "17:09",
+    "year": 1965,
+    "duration_ms": 267067,
+    "duration": "4:27",
+    "genre": "Pop"
   },
   {
     "title": "Kúp Mi Knihu",
     "artist": "Miro Žbirka",
     "date": "02.10.2025",
-    "time": "17:05"
+    "time": "17:05",
+    "year": 1986,
+    "duration_ms": 241027,
+    "duration": "4:01",
+    "genre": "Pop"
   },
   {
     "title": "Un Emozione Per Sempre",
     "artist": "Ramazzotti Eros",
     "date": "02.10.2025",
-    "time": "17:01"
+    "time": "17:01",
+    "year": 2003,
+    "duration_ms": 237880,
+    "duration": "3:58",
+    "genre": "Pop"
   },
   {
     "title": "Hero (Metro Mix)",
     "artist": "Iglesias, Enrique",
     "date": "02.10.2025",
-    "time": "16:54"
+    "time": "16:54",
+    "year": 2001,
+    "duration_ms": 256840,
+    "duration": "4:17",
+    "genre": "Latin"
   },
   {
     "title": "Šaty",
@@ -1117,13 +1177,21 @@
     "title": "Korálky Od Natálky",
     "artist": "Peter Nagy",
     "date": "02.10.2025",
-    "time": "16:48"
+    "time": "16:48",
+    "year": 1989,
+    "duration_ms": 196627,
+    "duration": "3:17",
+    "genre": "Pop"
   },
   {
     "title": "Mexican Girl",
     "artist": "Smokie",
     "date": "02.10.2025",
-    "time": "16:42"
+    "time": "16:42",
+    "year": 1977,
+    "duration_ms": 238467,
+    "duration": "3:58",
+    "genre": "Pop"
   },
   {
     "title": "Láska",
@@ -1135,91 +1203,151 @@
     "title": "Down Under",
     "artist": "Men At Work",
     "date": "02.10.2025",
-    "time": "16:35"
+    "time": "16:35",
+    "year": 1981,
+    "duration_ms": 222320,
+    "duration": "3:42",
+    "genre": "Rock"
   },
   {
     "title": "Torn",
     "artist": "Imbruglia Natalie",
     "date": "02.10.2025",
-    "time": "16:31"
+    "time": "16:31",
+    "year": 1997,
+    "duration_ms": 244667,
+    "duration": "4:05",
+    "genre": "Pop"
   },
   {
     "title": "You're The One That I Want",
     "artist": "Travolta John & Newton-John Olivia",
     "date": "02.10.2025",
-    "time": "16:26"
+    "time": "16:26",
+    "year": 1978,
+    "duration_ms": 168907,
+    "duration": "2:49",
+    "genre": "Musicals"
   },
   {
     "title": "Flames Of Love",
     "artist": "Fancy",
     "date": "02.10.2025",
-    "time": "16:23"
+    "time": "16:23",
+    "year": 1988,
+    "duration_ms": 217880,
+    "duration": "3:38",
+    "genre": "Pop"
   },
   {
     "title": "Dreams",
     "artist": "The Cranberries",
     "date": "02.10.2025",
-    "time": "16:19"
+    "time": "16:19",
+    "year": 1993,
+    "duration_ms": 255107,
+    "duration": "4:15",
+    "genre": "Pop"
   },
   {
     "title": "S Tím Bláznem Si Nic Nezačínej",
     "artist": "Rottrová Marie",
     "date": "02.10.2025",
-    "time": "16:13"
+    "time": "16:13",
+    "year": 1970,
+    "duration_ms": 221453,
+    "duration": "3:41",
+    "genre": "Traditional Country"
   },
   {
     "title": "Zrpš",
     "artist": "Hammel, Pavol",
     "date": "02.10.2025",
-    "time": "16:10"
+    "time": "16:10",
+    "year": 1981,
+    "duration_ms": 179747,
+    "duration": "3:00",
+    "genre": "Pop"
   },
   {
     "title": "My Heart Will Go On",
     "artist": "Céline Dion",
     "date": "02.10.2025",
-    "time": "16:05"
+    "time": "16:05",
+    "year": 1997,
+    "duration_ms": 280000,
+    "duration": "4:40",
+    "genre": "Pop"
   },
   {
     "title": "Skúšky Z Lásky",
     "artist": "Gravis",
     "date": "02.10.2025",
-    "time": "16:02"
+    "time": "16:02",
+    "year": 1989,
+    "duration_ms": 245180,
+    "duration": "4:05",
+    "genre": "Pop"
   },
   {
     "title": "It Must Have Been Love",
     "artist": "Roxette",
     "date": "02.10.2025",
-    "time": "15:54"
+    "time": "15:54",
+    "year": 1987,
+    "duration_ms": 259666,
+    "duration": "4:20",
+    "genre": "Pop"
   },
   {
     "title": "Let It Be",
     "artist": "The Beatles",
     "date": "02.10.2025",
-    "time": "15:50"
+    "time": "15:50",
+    "year": 1970,
+    "duration_ms": 243027,
+    "duration": "4:03",
+    "genre": "Rock"
   },
   {
     "title": "Netrpezliví",
     "artist": "Elán",
     "date": "02.10.2025",
-    "time": "15:46"
+    "time": "15:46",
+    "year": 1982,
+    "duration_ms": 250547,
+    "duration": "4:11",
+    "genre": "Rock"
   },
   {
     "title": "Ona Je Madona",
     "artist": "Grigorov Robo",
     "date": "02.10.2025",
-    "time": "15:43"
+    "time": "15:43",
+    "year": 1992,
+    "duration_ms": 181186,
+    "duration": "3:01",
+    "genre": "Pop"
   },
   {
     "title": "Knowing Me, Knowing You",
     "artist": "Abba",
     "date": "02.10.2025",
-    "time": "15:39"
+    "time": "15:39",
+    "year": 1976,
+    "duration_ms": 241813,
+    "duration": "4:02",
+    "genre": "Pop"
   },
   {
     "title": "Drive",
     "artist": "Cars The",
     "date": "02.10.2025",
-    "time": "15:33"
+    "time": "15:33",
+    "year": 1984,
+    "duration_ms": 234332,
+    "duration": "3:54",
+    "genre": "Rock"
   },
   {
     "title": "Když Muž Se Ženou Snída",

@@ -706,5 +706,211 @@
     "duration": "3:38",
     "genre": "Rock",
     "itunes_track_id": 1440984375
-  }
+  },
+  "pet shop boys|it's a sin": {
+    "year": 1987,
+    "duration_ms": 301293,
+    "duration": "5:01",
+    "genre": "Pop",
+    "itunes_track_id": 710663012
+  },
+  "aya|maly princ": {
+    "year": 2007,
+    "duration_ms": 250000,
+    "duration": "4:10",
+    "genre": "Rock",
+    "itunes_track_id": 339340631
+  },
+  "gott karel & olympic|trezor": {
+    "year": 1965,
+    "duration_ms": 116573,
+    "duration": "1:57",
+    "genre": "Pop",
+    "itunes_track_id": 1388335131
+  },
+  "branigan laura|self control": {
+    "year": 1984,
+    "duration_ms": 246440,
+    "duration": "4:06",
+    "genre": "Pop",
+    "itunes_track_id": 332666166
+  },
+  "guru josh|infinity": {
+    "year": 1989,
+    "duration_ms": 243693,
+    "duration": "4:04",
+    "genre": "Pop",
+    "itunes_track_id": 943232484
+  },
+  "simon paul & garfunkel art|the sound of silence": {
+    "year": 1965,
+    "duration_ms": 190102,
+    "duration": "3:10",
+    "genre": "Folk-Rock",
+    "itunes_track_id": 192480260
+  },
+  "kylie minogue|the locomotion": {
+    "year": 2009,
+    "duration_ms": 296543,
+    "duration": "4:57",
+    "genre": "Pop",
+    "itunes_track_id": 731934621
+  },
+  "p. m. sampson & double key|we love to love": {
+    "year": 1999,
+    "duration_ms": 225120,
+    "duration": "3:45",
+    "genre": "Pop",
+    "itunes_track_id": 573192383
+  },
+  "helena vondrackova|a ty se ptas co ja": {
+    "year": 1965,
+    "duration_ms": 267067,
+    "duration": "4:27",
+    "genre": "Pop",
+    "itunes_track_id": 1397783768
+  },
+  "miro zbirka|kup mi knihu": {
+    "year": 1986,
+    "duration_ms": 241027,
+    "duration": "4:01",
+    "genre": "Pop",
+    "itunes_track_id": 1530158946
+  },
+  "ramazzotti eros|un emozione per sempre": {
+    "year": 2003,
+    "duration_ms": 237880,
+    "duration": "3:58",
+    "genre": "Pop",
+    "itunes_track_id": 266388749
+  },
+  "iglesias, enrique|hero": {
+    "year": 2001,
+    "duration_ms": 256840,
+    "duration": "4:17",
+    "genre": "Latin",
+    "itunes_track_id": 1440903247
+  },
+  "gombitova marika|saty": null,
+  "peter nagy|koralky od natalky": {
+    "year": 1989,
+    "duration_ms": 196627,
+    "duration": "3:17",
+    "genre": "Pop",
+    "itunes_track_id": 1533361141
+  },
+  "smokie|mexican girl": {
+    "year": 1977,
+    "duration_ms": 238467,
+    "duration": "3:58",
+    "genre": "Pop",
+    "itunes_track_id": 313300985
+  },
+  "palonder marcel|laska": null,
+  "men at work|down under": {
+    "year": 1981,
+    "duration_ms": 222320,
+    "duration": "3:42",
+    "genre": "Rock",
+    "itunes_track_id": 282960968
+  },
+  "imbruglia natalie|torn": {
+    "year": 1997,
+    "duration_ms": 244667,
+    "duration": "4:05",
+    "genre": "Pop",
+    "itunes_track_id": 263570536
+  },
+  "travolta john & newton-john olivia|you're the one that i want": {
+    "year": 1978,
+    "duration_ms": 168907,
+    "duration": "2:49",
+    "genre": "Musicals",
+    "itunes_track_id": 1440844700
+  },
+  "fancy|flames of love": {
+    "year": 1988,
+    "duration_ms": 217880,
+    "duration": "3:38",
+    "genre": "Pop",
+    "itunes_track_id": 330638484
+  },
+  "the cranberries|dreams": {
+    "year": 1993,
+    "duration_ms": 255107,
+    "duration": "4:15",
+    "genre": "Pop",
+    "itunes_track_id": 1440735258
+  },
+  "rottrova marie|s tim blaznem si nic nezacinej": {
+    "year": 1970,
+    "duration_ms": 221453,
+    "duration": "3:41",
+    "genre": "Traditional Country",
+    "itunes_track_id": 1384705395
+  },
+  "hammel, pavol|zrps": {
+    "year": 1981,
+    "duration_ms": 179747,
+    "duration": "3:00",
+    "genre": "Pop",
+    "itunes_track_id": 1533350463
+  },
+  "celine dion|my heart will go on": {
+    "year": 1997,
+    "duration_ms": 280000,
+    "duration": "4:40",
+    "genre": "Pop",
+    "itunes_track_id": 1481507900
+  },
+  "gravis|skusky z lasky": {
+    "year": 1989,
+    "duration_ms": 245180,
+    "duration": "4:05",
+    "genre": "Pop",
+    "itunes_track_id": 1775955859
+  },
+  "roxette|it must have been love": {
+    "year": 1987,
+    "duration_ms": 259666,
+    "duration": "4:20",
+    "genre": "Pop",
+    "itunes_track_id": 976541447
+  },
+  "the beatles|let it be": {
+    "year": 1970,
+    "duration_ms": 243027,
+    "duration": "4:03",
+    "genre": "Rock",
+    "itunes_track_id": 1441164738
+  },
+  "elan|netrpezlivi": {
+    "year": 1982,
+    "duration_ms": 250547,
+    "duration": "4:11",
+    "genre": "Rock",
+    "itunes_track_id": 1610598988
+  },
+  "grigorov robo|ona je madona": {
+    "year": 1992,
+    "duration_ms": 181186,
+    "duration": "3:01",
+    "genre": "Pop",
+    "itunes_track_id": 1523286660
+  },
+  "abba|knowing me, knowing you": {
+    "year": 1976,
+    "duration_ms": 241813,
+    "duration": "4:02",
+    "genre": "Pop",
+    "itunes_track_id": 1440816839
+  },
+  "cars the|drive": {
+    "year": 1984,
+    "duration_ms": 234332,
+    "duration": "3:54",
+    "genre": "Rock",
+    "itunes_track_id": 1088528666
+  },
+  "gott karel|kdyz muz se zenou snida": null
 }
