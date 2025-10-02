@@ -35,6 +35,9 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
+      - name: Enrich tracks (iTunes)
+        run: python enrich_itunes.py --input data/playlist.json --cache data/enrich_cache.json --country sk --limit 40 --sleep 0.6
+
       - name: Commit & push (commit → rebase → push)
         if: success()
         env:
