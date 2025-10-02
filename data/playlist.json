@@ -1,5 +1,54 @@
 [
   {
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "02.10.2025",
+    "time": "22:19",
+    "genre": "Pop"
+  },
+  {
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "02.10.2025",
+    "time": "22:15",
+    "genre": "Pop"
+  },
+  {
+    "title": "Show Me Heaven",
+    "artist": "Mckee Maria",
+    "date": "02.10.2025",
+    "time": "22:12",
+    "genre": "Pop"
+  },
+  {
+    "title": "I Like Chopin",
+    "artist": "Gazebo",
+    "date": "02.10.2025",
+    "time": "22:07",
+    "genre": "Pop"
+  },
+  {
+    "title": "Medulienka",
+    "artist": "Hammel Pavol",
+    "date": "02.10.2025",
+    "time": "22:04",
+    "genre": "Pop"
+  },
+  {
+    "title": "Klára",
+    "artist": "AC+",
+    "date": "02.10.2025",
+    "time": "22:01",
+    "genre": "Pop"
+  },
+  {
+    "title": "Eternal Flame",
+    "artist": "The Bangles",
+    "date": "02.10.2025",
+    "time": "21:57",
+    "genre": "Pop"
+  },
+  {
     "title": "Nebude To Ľahké",
     "artist": "Müller Richard",
     "date": "02.10.2025",
@@ -4106,7 +4155,8 @@
     "title": "Medulienka",
     "artist": "Hammel Pavol",
     "date": "01.10.2025",
-    "time": "00:37"
+    "time": "00:37",
+    "genre": "Pop"
   },
   {
     "title": "I'll Stand By You",
@@ -4785,7 +4835,8 @@
     "title": "Don't Speak",
     "artist": "No Doubt",
     "date": "30.09.2025",
-    "time": "17:26"
+    "time": "17:26",
+    "genre": "Pop"
   },
   {
     "title": "Malovaný Džbánku",
@@ -5776,7 +5827,8 @@
     "title": "Medulienka",
     "artist": "Hammel Pavol",
     "date": "30.09.2025",
-    "time": "06:00"
+    "time": "06:00",
+    "genre": "Pop"
   },
   {
     "title": "Sha La La",
@@ -7016,7 +7068,8 @@
     "title": "Klára",
     "artist": "AC+",
     "date": "29.09.2025",
-    "time": "20:29"
+    "time": "20:29",
+    "genre": "Pop"
   },
   {
     "title": "One More Try",
@@ -7342,7 +7395,8 @@
     "title": "I Like Chopin",
     "artist": "Gazebo",
     "date": "29.09.2025",
-    "time": "16:52"
+    "time": "16:52",
+    "genre": "Pop"
   },
   {
     "title": "Po Schodoch",
