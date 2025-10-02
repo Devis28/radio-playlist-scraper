@@ -1,7 +1,3 @@
-# enrich_itunes.py
-# Obohatí položky v data/playlist.json o {year, duration_ms, duration, genre} cez iTunes Search API.
-# Používa jednoduchú keš do data/enrich_cache.json a šetrné volania s limitom na beh.
-
 import argparse
 import json
 import os
@@ -36,6 +32,10 @@ HEADERS = {
 # (connect timeout, read timeout)
 TIMEOUT = (15, 45)
 
+# Sentinel hodnoty
+NOT_FOUND = "Not found"
+CACHE_MISS = "__MISS__"  # skladba sa v iTunes nenašla (pre dané vyhľadávanie)
+
 # vynúť IPv4 – niektorým runnerom hapruje IPv6
 def _allowed_gai_family():
     return socket.AF_INET
@@ -69,9 +69,9 @@ def _clean_name(s: str) -> str:
 def _norm_for_match(s: str) -> str:
     return _ascii_fold(_clean_name(s)).casefold()
 
-def _mmss(ms: int) -> str:
-    if not ms or ms < 0:
-        return ""
+def _mmss(ms: Optional[int]) -> str:
+    if ms is None or ms < 0:
+        return NOT_FOUND
     total = int(round(ms / 1000))
     return f"{total // 60}:{total % 60:02d}"
 
@@ -94,9 +94,26 @@ def _save_json_atomic(path: str, data) -> None:
 def _cache_key(artist: str, title: str) -> str:
     return f"{_norm_for_match(artist)}|{_norm_for_match(title)}"
 
+META_KEYS = ("year", "duration_ms", "duration", "genre", "album", "track_number", "disc_number")
+
+def _has_all_meta(it: dict) -> bool:
+    """Má položka všetky meta polia vyplnené a nie 'Not found'?"""
+    for k in META_KEYS:
+        v = it.get(k)
+        if v in (None, "", NOT_FOUND):
+            return False
+    return True
+
+def _apply_not_found(item: dict) -> None:
+    """Zapíše 'Not found' do všetkých meta polí, ak chýbajú."""
+    for k in META_KEYS:
+        v = item.get(k)
+        if v in (None, "",):
+            item[k] = NOT_FOUND
+
 # ===== iTunes lookup =====
 def itunes_lookup(artist: str, title: str, country: str) -> Optional[dict]:
-    """Vráti {year, duration_ms, duration, genre, itunes_track_id} alebo None."""
+    """Vráti meta dict (s 'Not found' pre chýbajúce polia) alebo None pri úplnom zlyhaní/bez zhody."""
     if not artist or not title:
         return None
 
@@ -133,19 +150,26 @@ def itunes_lookup(artist: str, title: str, country: str) -> Optional[dict]:
         return None
 
     ms = best.get("trackTimeMillis")
-    rel = (best.get("releaseDate") or "")[:4]
-    year = None
+    rel_year = (best.get("releaseDate") or "")[:4]
     try:
-        year = int(rel) if rel.isdigit() else None
+        year_val = int(rel_year) if rel_year.isdigit() else None
     except Exception:
-        year = None
+        year_val = None
 
     return {
-        "year": year,
-        "duration_ms": ms,
-        "duration": _mmss(ms or 0),
-        "genre": best.get("primaryGenreName", "") or "",
+        "year": year_val if year_val is not None else NOT_FOUND,
+        "duration_ms": ms if ms is not None else NOT_FOUND,
+        "duration": _mmss(ms) if ms is not None else NOT_FOUND,
+        "genre": best.get("primaryGenreName") or NOT_FOUND,
+        "album": best.get("collectionName") or NOT_FOUND,
+        "track_number": best.get("trackNumber") if best.get("trackNumber") is not None else NOT_FOUND,
+        "disc_number": best.get("discNumber") if best.get("discNumber") is not None else NOT_FOUND,
         "itunes_track_id": best.get("trackId"),
+        # voliteľné odkazy do budúcna:
+        # "track_url": best.get("trackViewUrl"),
+        # "album_url": best.get("collectionViewUrl"),
+        # "artist_url": best.get("artistViewUrl"),
+        # "preview_url": best.get("previewUrl"),
     }
 
 # ===== Hlavná logika =====
@@ -156,40 +180,69 @@ def enrich_items(items: list, cache: dict, country: str, limit: int, pause_s: fl
 
     for it in items:
         # preskoč, ak už má všetko a force nie je zapnutý
-        if not force and it.get("year") and it.get("genre") and it.get("duration_ms"):
+        if not force and _has_all_meta(it):
             continue
 
         artist = (it.get("artist") or "").strip()
         title = (it.get("title") or "").strip()
         if not artist or not title:
+            _apply_not_found(it)
             continue
 
         key = _cache_key(artist, title)
-        meta = cache.get(key)
+        state = cache.get(key, None)
 
-        if meta is None:
+        # poznáme MISS a nie je --force -> dopíš Not found a pokračuj
+        if state == CACHE_MISS and not force:
+            before = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
+            _apply_not_found(it)
+            after = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
+            if before != after:
+                enriched += 1
+            continue
+
+        # urob lookup (ak limit dovoľuje) alebo použi keš
+        if state is None or force:
             if lookups >= limit:
-                break
+                if not _has_all_meta(it):
+                    before = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
+                    _apply_not_found(it)
+                    after = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
+                    if before != after:
+                        enriched += 1
+                continue
+
             meta = itunes_lookup(artist, title, country)
             lookups += 1
-            # šetri API
             time.sleep(pause_s)
+
             if meta:
                 cache[key] = meta
             else:
-                # cache-uj “nenájdené” ako None, ale neukladaj to do súboru hneď – až na konci
-                cache[key] = None
+                cache[key] = CACHE_MISS
+                before = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
+                _apply_not_found(it)
+                after = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
+                if before != after:
+                    enriched += 1
+                continue
+        else:
+            meta = state  # z keše
 
-        if meta:
-            it.update(
-                {
-                    "year": meta.get("year"),
-                    "duration_ms": meta.get("duration_ms"),
-                    "duration": meta.get("duration"),
-                    "genre": meta.get("genre"),
-                }
-            )
-            enriched += 1
+        if meta and meta != CACHE_MISS:
+            before = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
+            it.update({
+                "year": meta.get("year", NOT_FOUND),
+                "duration_ms": meta.get("duration_ms", NOT_FOUND),
+                "duration": meta.get("duration", NOT_FOUND),
+                "genre": meta.get("genre", NOT_FOUND),
+                "album": meta.get("album", NOT_FOUND),
+                "track_number": meta.get("track_number", NOT_FOUND),
+                "disc_number": meta.get("disc_number", NOT_FOUND),
+            })
+            after = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
+            if before != after:
+                enriched += 1
 
     return enriched, lookups
 
@@ -200,7 +253,7 @@ def main():
     ap.add_argument("--country", default="sk", help="Kód krajiny pre iTunes (napr. sk/us/cz)")
     ap.add_argument("--limit", type=int, default=40, help="Max. lookupov za beh")
     ap.add_argument("--sleep", type=float, default=0.6, help="Pauza medzi lookupmi (s)")
-    ap.add_argument("--force", action="store_true", help="Prepíš aj existujúce meta polia")
+    ap.add_argument("--force", action="store_true", help="Prepíš aj existujúce meta polia / ignoruj CACHE_MISS")
     args = ap.parse_args()
 
     # načítaj playlist
