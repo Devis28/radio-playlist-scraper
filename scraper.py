@@ -56,7 +56,6 @@ _session.mount("http://", _adapter)
 # ===== Logika =====
 
 def fetch_html() -> str:
-    """Stiahni HTML s malým náhodným jitterom a fallbackom medzi hostmi."""
     time.sleep(random.uniform(0.0, 1.5))  # jitter, nech nerazíme server v jednej sekunde
     last_err = None
     for host in BASE_HOSTS:
@@ -168,11 +167,11 @@ def merge_dedup(old: list, new: list):
 def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 
-    # Pri sieťovej chybe – zaloguj a zlyhaj (exit 1)
+    # Pri sieťovej chybe zaloguj a zlyhaj (exit 1)
     try:
         html = fetch_html()
     except requests.RequestException as e:
-        print(f"⚠️  Network error – skipping this run: {e}", file=sys.stderr)
+        print(f"Network error – skipping this run: {e}", file=sys.stderr)
         summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
         if summary_path:
             with open(summary_path, "a", encoding="utf-8") as s:
@@ -183,7 +182,7 @@ def main():
 
     new_items = parse_playlist(html)
     if not new_items:
-        print("⚠️  Nenašli sa žiadne položky – možno sa zmenilo HTML.", file=sys.stderr)
+        print("Nenašli sa žiadne položky – možno sa zmenilo HTML.", file=sys.stderr)
         return 0
 
     old_items = load_existing(OUT_PATH)
