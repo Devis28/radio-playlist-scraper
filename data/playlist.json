@@ -1,5 +1,12 @@
 [
   {
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "02.10.2025",
+    "time": "21:53",
+    "genre": "Pop"
+  },
+  {
     "title": "Lay All Your Love On Me",
     "artist": "Abba",
     "date": "02.10.2025",
@@ -459,7 +466,8 @@
     "title": "Self Control",
     "artist": "Branigan Laura",
     "date": "02.10.2025",
-    "time": "17:31"
+    "time": "17:31",
+    "genre": "Pop"
   },
   {
     "title": "Infinity",
@@ -486,7 +494,8 @@
     "title": "We Love To Love",
     "artist": "P. M. Sampson & Double Key",
     "date": "02.10.2025",
-    "time": "17:13"
+    "time": "17:13",
+    "genre": "Pop"
   },
   {
     "title": "A Ty Se Ptáš Co Já",
@@ -510,7 +519,8 @@
     "title": "Hero (Metro Mix)",
     "artist": "Iglesias, Enrique",
     "date": "02.10.2025",
-    "time": "16:54"
+    "time": "16:54",
+    "genre": "Latin"
   },
   {
     "title": "Šaty",
@@ -522,13 +532,15 @@
     "title": "Korálky Od Natálky",
     "artist": "Peter Nagy",
     "date": "02.10.2025",
-    "time": "16:48"
+    "time": "16:48",
+    "genre": "Pop"
   },
   {
     "title": "Mexican Girl",
     "artist": "Smokie",
     "date": "02.10.2025",
-    "time": "16:42"
+    "time": "16:42",
+    "genre": "Pop"
   },
   {
     "title": "Láska",
@@ -540,91 +552,106 @@
     "title": "Down Under",
     "artist": "Men At Work",
     "date": "02.10.2025",
-    "time": "16:35"
+    "time": "16:35",
+    "genre": "Rock"
   },
   {
     "title": "Torn",
     "artist": "Imbruglia Natalie",
     "date": "02.10.2025",
-    "time": "16:31"
+    "time": "16:31",
+    "genre": "Pop"
   },
   {
     "title": "You're The One That I Want",
     "artist": "Travolta John & Newton-John Olivia",
     "date": "02.10.2025",
-    "time": "16:26"
+    "time": "16:26",
+    "genre": "Musicals"
   },
   {
     "title": "Flames Of Love",
     "artist": "Fancy",
     "date": "02.10.2025",
-    "time": "16:23"
+    "time": "16:23",
+    "genre": "Pop"
   },
   {
     "title": "Dreams",
     "artist": "The Cranberries",
     "date": "02.10.2025",
-    "time": "16:19"
+    "time": "16:19",
+    "genre": "Pop"
   },
   {
     "title": "S Tím Bláznem Si Nic Nezačínej",
     "artist": "Rottrová Marie",
     "date": "02.10.2025",
-    "time": "16:13"
+    "time": "16:13",
+    "genre": "Traditional Country"
   },
   {
     "title": "Zrpš",
     "artist": "Hammel, Pavol",
     "date": "02.10.2025",
-    "time": "16:10"
+    "time": "16:10",
+    "genre": "Pop"
   },
   {
     "title": "My Heart Will Go On",
     "artist": "Céline Dion",
     "date": "02.10.2025",
-    "time": "16:05"
+    "time": "16:05",
+    "genre": "Pop"
   },
   {
     "title": "Skúšky Z Lásky",
     "artist": "Gravis",
     "date": "02.10.2025",
-    "time": "16:02"
+    "time": "16:02",
+    "genre": "Pop"
   },
   {
     "title": "It Must Have Been Love",
     "artist": "Roxette",
     "date": "02.10.2025",
-    "time": "15:54"
+    "time": "15:54",
+    "genre": "Pop"
   },
   {
     "title": "Let It Be",
     "artist": "The Beatles",
     "date": "02.10.2025",
-    "time": "15:50"
+    "time": "15:50",
+    "genre": "Rock"
   },
   {
     "title": "Netrpezliví",
     "artist": "Elán",
     "date": "02.10.2025",
-    "time": "15:46"
+    "time": "15:46",
+    "genre": "Rock"
   },
   {
     "title": "Ona Je Madona",
     "artist": "Grigorov Robo",
     "date": "02.10.2025",
-    "time": "15:43"
+    "time": "15:43",
+    "genre": "Pop"
   },
   {
     "title": "Knowing Me, Knowing You",
     "artist": "Abba",
     "date": "02.10.2025",
-    "time": "15:39"
+    "time": "15:39",
+    "genre": "Pop"
   },
   {
     "title": "Drive",
     "artist": "Cars The",
     "date": "02.10.2025",
-    "time": "15:33"
+    "time": "15:33",
+    "genre": "Rock"
   },
   {
     "title": "Když Muž Se Ženou Snída",
@@ -636,121 +663,141 @@
     "title": "Lady In Black",
     "artist": "Uriah Heep",
     "date": "02.10.2025",
-    "time": "15:23"
+    "time": "15:23",
+    "genre": "Rock"
   },
   {
     "title": "Vyznanie",
     "artist": "Marika Gombitová",
     "date": "02.10.2025",
-    "time": "15:17"
+    "time": "15:17",
+    "genre": "Pop"
   },
   {
     "title": "Love Message",
     "artist": "Love Message",
     "date": "02.10.2025",
-    "time": "15:14"
+    "time": "15:14",
+    "genre": "Dance"
   },
   {
     "title": "Mamma Maria",
     "artist": "Ricchi E Poveri",
     "date": "02.10.2025",
-    "time": "15:11"
+    "time": "15:11",
+    "genre": "Pop"
   },
   {
     "title": "Love Of My Life",
     "artist": "Queen",
     "date": "02.10.2025",
-    "time": "15:07"
+    "time": "15:07",
+    "genre": "Rock"
   },
   {
     "title": "Crucified",
     "artist": "Army Of Lovers",
     "date": "02.10.2025",
-    "time": "15:04"
+    "time": "15:04",
+    "genre": "Dance"
   },
   {
     "title": "Always",
     "artist": "Bon Jovi",
     "date": "02.10.2025",
-    "time": "14:54"
+    "time": "14:54",
+    "genre": "Pop"
   },
   {
     "title": "Time After Time",
     "artist": "Cyndi Lauper",
     "date": "02.10.2025",
-    "time": "14:50"
+    "time": "14:50",
+    "genre": "Pop"
   },
   {
     "title": "Čardáš Dvoch Sŕdc",
     "artist": "Karol Duchoň",
     "date": "02.10.2025",
-    "time": "14:46"
+    "time": "14:46",
+    "genre": "Pop"
   },
   {
     "title": "Free",
     "artist": "Lighthouse Family",
     "date": "02.10.2025",
-    "time": "14:40"
+    "time": "14:40",
+    "genre": "Pop"
   },
   {
     "title": "Žít Jako Kaskadér",
     "artist": "Janda Dalibor",
     "date": "02.10.2025",
-    "time": "14:37"
+    "time": "14:37",
+    "genre": "Pop"
   },
   {
     "title": "Over The Rainbow/What A Wonderful World",
     "artist": "Israel",
     "date": "02.10.2025",
-    "time": "14:32"
+    "time": "14:32",
+    "genre": "Worldwide"
   },
   {
     "title": "The Y.M.C.A",
     "artist": "Village People",
     "date": "02.10.2025",
-    "time": "14:25"
+    "time": "14:25",
+    "genre": "Soundtrack"
   },
   {
     "title": "Ci Sarà",
     "artist": "Bano Al & Power Romina",
     "date": "02.10.2025",
-    "time": "14:22"
+    "time": "14:22",
+    "genre": "Pop"
   },
   {
     "title": "I'll Stand By You",
     "artist": "Pretenders, The",
     "date": "02.10.2025",
-    "time": "14:18"
+    "time": "14:18",
+    "genre": "Rock"
   },
   {
     "title": "Poďme Sa Zachrániť",
     "artist": "Peter Nagy",
     "date": "02.10.2025",
-    "time": "14:12"
+    "time": "14:12",
+    "genre": "Pop"
   },
   {
     "title": "Je Jaká Je",
     "artist": "Karel Gott",
     "date": "02.10.2025",
-    "time": "14:09"
+    "time": "14:09",
+    "genre": "Pop"
   },
   {
     "title": "Stay",
     "artist": "Shakespear's Sister",
     "date": "02.10.2025",
-    "time": "14:05"
+    "time": "14:05",
+    "genre": "Rock"
   },
   {
     "title": "Reklama Na Ticho",
     "artist": "Team",
     "date": "02.10.2025",
-    "time": "14:01"
+    "time": "14:01",
+    "genre": "Pop"
   },
   {
     "title": "Se Bastasse Una Canzone",
     "artist": "Ramazzotti Eros",
     "date": "02.10.2025",
-    "time": "13:54"
+    "time": "13:54",
+    "genre": "Pop"
   },
   {
     "title": "Podvod",
@@ -774,13 +821,15 @@
     "title": "Kočka",
     "artist": "Elán",
     "date": "02.10.2025",
-    "time": "13:39"
+    "time": "13:39",
+    "genre": "Pop"
   },
   {
     "title": "Take A Chance On Me",
     "artist": "Abba",
     "date": "02.10.2025",
-    "time": "13:35"
+    "time": "13:35",
+    "genre": "Pop"
   },
   {
     "title": "Len S Ňou",
@@ -792,19 +841,22 @@
     "title": "Crying In Rain",
     "artist": "A-Ha",
     "date": "02.10.2025",
-    "time": "13:29"
+    "time": "13:29",
+    "genre": "Pop"
   },
   {
     "title": "Jednoho Dne Se Vrátíš",
     "artist": "Věra Špinarová",
     "date": "02.10.2025",
-    "time": "13:24"
+    "time": "13:24",
+    "genre": "Pop"
   },
   {
     "title": "Bamboléo",
     "artist": "Gipsy Kings",
     "date": "02.10.2025",
-    "time": "13:21"
+    "time": "13:21",
+    "genre": "Worldwide"
   },
   {
     "title": "What Is Love",
@@ -816,7 +868,8 @@
     "title": "Don't Go Breaking My Heart",
     "artist": "John Elton & Dee Kiki",
     "date": "02.10.2025",
-    "time": "13:12"
+    "time": "13:12",
+    "genre": "Pop"
   },
   {
     "title": "Hurikán",
@@ -834,7 +887,8 @@
     "title": "Be My Baby",
     "artist": "Ronettes, The",
     "date": "02.10.2025",
-    "time": "13:01"
+    "time": "13:01",
+    "genre": "Christmas: Classic"
   },
   {
     "title": "Rhythm Of The Night",
@@ -852,7 +906,8 @@
     "title": "We Are The Champions",
     "artist": "Queen",
     "date": "02.10.2025",
-    "time": "12:47"
+    "time": "12:47",
+    "genre": "Rock"
   },
   {
     "title": "Listen To Your Heart",
@@ -864,13 +919,15 @@
     "title": "Hrám",
     "artist": "Karol Duchoň",
     "date": "02.10.2025",
-    "time": "12:38"
+    "time": "12:38",
+    "genre": "Pop"
   },
   {
     "title": "Nah Neh Nah",
     "artist": "Vaya Con Dios",
     "date": "02.10.2025",
-    "time": "12:35"
+    "time": "12:35",
+    "genre": "Pop"
   },
   {
     "title": "Dievča Neplač",
@@ -882,19 +939,22 @@
     "title": "Ti Amo",
     "artist": "Umberto Tozzi",
     "date": "02.10.2025",
-    "time": "12:28"
+    "time": "12:28",
+    "genre": "Pop"
   },
   {
     "title": "Nahý 2",
     "artist": "Richard  Muller",
     "date": "02.10.2025",
-    "time": "12:23"
+    "time": "12:23",
+    "genre": "Pop"
   },
   {
     "title": "The Power Of Love",
     "artist": "Frankie Goes To Hollywood",
     "date": "02.10.2025",
-    "time": "12:18"
+    "time": "12:18",
+    "genre": "Pop"
   },
   {
     "title": "Chytila Jsem Na Pasece Motýlka",
@@ -2898,7 +2958,8 @@
     "title": "Always",
     "artist": "Erasure",
     "date": "01.10.2025",
-    "time": "13:26"
+    "time": "13:26",
+    "genre": "Pop"
   },
   {
     "title": "If I Could Turn Back Time",
@@ -3571,7 +3632,8 @@
     "title": "Korálky Od Natálky",
     "artist": "Peter Nagy",
     "date": "01.10.2025",
-    "time": "05:27"
+    "time": "05:27",
+    "genre": "Pop"
   },
   {
     "title": "Všichni Jsou Už V Mexiku",
@@ -3736,13 +3798,15 @@
     "title": "Don't Go Breaking My Heart",
     "artist": "John Elton & Dee Kiki",
     "date": "01.10.2025",
-    "time": "03:45"
+    "time": "03:45",
+    "genre": "Pop"
   },
   {
     "title": "Crucified",
     "artist": "Army Of Lovers",
     "date": "01.10.2025",
-    "time": "03:42"
+    "time": "03:42",
+    "genre": "Dance"
   },
   {
     "title": "Faith",
@@ -3912,7 +3976,8 @@
     "title": "Ci Sarà",
     "artist": "Bano Al & Power Romina",
     "date": "01.10.2025",
-    "time": "01:58"
+    "time": "01:58",
+    "genre": "Pop"
   },
   {
     "title": "Řeka Lásky",
@@ -3997,7 +4062,8 @@
     "title": "Čardáš Dvoch Sŕdc",
     "artist": "Karol Duchoň",
     "date": "01.10.2025",
-    "time": "01:03"
+    "time": "01:03",
+    "genre": "Pop"
   },
   {
     "title": "Ďakujem Že Si",
@@ -4046,7 +4112,8 @@
     "title": "I'll Stand By You",
     "artist": "Pretenders, The",
     "date": "01.10.2025",
-    "time": "00:33"
+    "time": "00:33",
+    "genre": "Rock"
   },
   {
     "title": "V Dolinách",
@@ -4112,7 +4179,8 @@
     "title": "Let It Be",
     "artist": "The Beatles",
     "date": "30.09.2025",
-    "time": "23:51"
+    "time": "23:51",
+    "genre": "Rock"
   },
   {
     "title": "Where Do You Go",
@@ -4136,7 +4204,8 @@
     "title": "Over The Rainbow/What A Wonderful World",
     "artist": "Israel",
     "date": "30.09.2025",
-    "time": "23:34"
+    "time": "23:34",
+    "genre": "Worldwide"
   },
   {
     "title": "Komplikovaná",
@@ -4160,7 +4229,8 @@
     "title": "Lady In Black",
     "artist": "Uriah Heep",
     "date": "30.09.2025",
-    "time": "23:18"
+    "time": "23:18",
+    "genre": "Rock"
   },
   {
     "title": "I Just Called To Say I Love You",
@@ -4190,13 +4260,15 @@
     "title": "Neobzerajte Sa Pani Lótová",
     "artist": "Elán",
     "date": "30.09.2025",
-    "time": "22:59"
+    "time": "22:59",
+    "genre": "Rock"
   },
   {
     "title": "Always",
     "artist": "Bon Jovi",
     "date": "30.09.2025",
-    "time": "22:53"
+    "time": "22:53",
+    "genre": "Pop"
   },
   {
     "title": "Don't Play Your Rock 'n' Roll To Me",
@@ -4304,13 +4376,15 @@
     "title": "Se Bastasse Una Canzone",
     "artist": "Ramazzotti Eros",
     "date": "30.09.2025",
-    "time": "21:46"
+    "time": "21:46",
+    "genre": "Pop"
   },
   {
     "title": "Je Jaká Je",
     "artist": "Karel Gott",
     "date": "30.09.2025",
-    "time": "21:42"
+    "time": "21:42",
+    "genre": "Pop"
   },
   {
     "title": "Hľadám",
@@ -4413,7 +4487,8 @@
     "title": "Ona Je Madona",
     "artist": "Grigorov Robo",
     "date": "30.09.2025",
-    "time": "20:38"
+    "time": "20:38",
+    "genre": "Pop"
   },
   {
     "title": "Padá Hvězda",
@@ -4497,7 +4572,8 @@
     "title": "Jednoho Dne Se Vrátíš",
     "artist": "Věra Špinarová",
     "date": "30.09.2025",
-    "time": "19:44"
+    "time": "19:44",
+    "genre": "Pop"
   },
   {
     "title": "To Musím Zvládnout Sám",
@@ -4527,7 +4603,8 @@
     "title": "Kočka",
     "artist": "Elán",
     "date": "30.09.2025",
-    "time": "19:27"
+    "time": "19:27",
+    "genre": "Pop"
   },
   {
     "title": "Chci Tě Líbat",
@@ -4689,7 +4766,8 @@
     "title": "Nahý 2",
     "artist": "Richard  Muller",
     "date": "30.09.2025",
-    "time": "17:39"
+    "time": "17:39",
+    "genre": "Pop"
   },
   {
     "title": "Prvý Bozk",
@@ -4767,7 +4845,8 @@
     "title": "Take A Chance On Me",
     "artist": "Abba",
     "date": "30.09.2025",
-    "time": "16:41"
+    "time": "16:41",
+    "genre": "Pop"
   },
   {
     "title": "Žily",
@@ -4920,7 +4999,8 @@
     "title": "Hrám",
     "artist": "Karol Duchoň",
     "date": "30.09.2025",
-    "time": "14:51"
+    "time": "14:51",
+    "genre": "Pop"
   },
   {
     "title": "Piccolo Amore",
@@ -5022,7 +5102,8 @@
     "title": "Torn",
     "artist": "Imbruglia Natalie",
     "date": "30.09.2025",
-    "time": "13:39"
+    "time": "13:39",
+    "genre": "Pop"
   },
   {
     "title": "You're The First, The Last,My Everything",
@@ -5064,7 +5145,8 @@
     "title": "The Y.M.C.A",
     "artist": "Village People",
     "date": "30.09.2025",
-    "time": "13:15"
+    "time": "13:15",
+    "genre": "Soundtrack"
   },
   {
     "title": "My Máme Prima Rodiče",
@@ -5094,7 +5176,8 @@
     "title": "Knowing Me, Knowing You",
     "artist": "Abba",
     "date": "30.09.2025",
-    "time": "12:51"
+    "time": "12:51",
+    "genre": "Pop"
   },
   {
     "title": "Nie Alebo Áno",
@@ -5168,7 +5251,8 @@
     "title": "Mexican Girl",
     "artist": "Smokie",
     "date": "30.09.2025",
-    "time": "12:06"
+    "time": "12:06",
+    "genre": "Pop"
   },
   {
     "title": "Šrouby Do Hlavy",
@@ -5187,7 +5271,8 @@
     "title": "Dreams",
     "artist": "The Cranberries",
     "date": "30.09.2025",
-    "time": "11:50"
+    "time": "11:50",
+    "genre": "Pop"
   },
   {
     "title": "Zažni",
@@ -5212,7 +5297,8 @@
     "title": "You're The One That I Want",
     "artist": "Travolta John & Newton-John Olivia",
     "date": "30.09.2025",
-    "time": "11:37"
+    "time": "11:37",
+    "genre": "Musicals"
   },
   {
     "title": "Korálky Od Natálky",
@@ -5267,7 +5353,8 @@
     "title": "Zrpš",
     "artist": "Hammel, Pavol",
     "date": "30.09.2025",
-    "time": "11:01"
+    "time": "11:01",
+    "genre": "Pop"
   },
   {
     "title": "Africa",
@@ -5359,7 +5446,8 @@
     "title": "Crucified",
     "artist": "Army Of Lovers",
     "date": "30.09.2025",
-    "time": "10:01"
+    "time": "10:01",
+    "genre": "Dance"
   },
   {
     "title": "When The Rain Begins To Fall",
@@ -5452,7 +5540,8 @@
     "title": "Mamma Maria",
     "artist": "Ricchi E Poveri",
     "date": "30.09.2025",
-    "time": "09:02"
+    "time": "09:02",
+    "genre": "Pop"
   },
   {
     "title": "Chiquitita",
@@ -5507,7 +5596,8 @@
     "title": "Don't Go Breaking My Heart",
     "artist": "John Elton & Dee Kiki",
     "date": "30.09.2025",
-    "time": "08:17"
+    "time": "08:17",
+    "genre": "Pop"
   },
   {
     "title": "Flashdance ( What A Feeling )",
@@ -5561,7 +5651,8 @@
     "title": "Ci Sarà",
     "artist": "Bano Al & Power Romina",
     "date": "30.09.2025",
-    "time": "07:36"
+    "time": "07:36",
+    "genre": "Pop"
   },
   {
     "title": "Držím Ti Miesto",
@@ -5647,7 +5738,8 @@
     "title": "Čardáš Dvoch Sŕdc",
     "artist": "Karol Duchoň",
     "date": "30.09.2025",
-    "time": "06:28"
+    "time": "06:28",
+    "genre": "Pop"
   },
   {
     "title": "Lietam V Tom Tiež",
@@ -5659,7 +5751,8 @@
     "title": "I'll Stand By You",
     "artist": "Pretenders, The",
     "date": "30.09.2025",
-    "time": "06:16"
+    "time": "06:16",
+    "genre": "Rock"
   },
   {
     "title": "Thank You For The Music",
@@ -5957,7 +6050,8 @@
     "title": "Flames Of Love",
     "artist": "Fancy",
     "date": "30.09.2025",
-    "time": "03:04"
+    "time": "03:04",
+    "genre": "Pop"
   },
   {
     "title": "Zatancuj Si So Mnou",
@@ -6042,7 +6136,8 @@
     "title": "Love Message",
     "artist": "Love Message",
     "date": "30.09.2025",
-    "time": "02:12"
+    "time": "02:12",
+    "genre": "Dance"
   },
   {
     "title": "Big In Japan",
@@ -6066,7 +6161,8 @@
     "title": "Nah Neh Nah",
     "artist": "Vaya Con Dios",
     "date": "30.09.2025",
-    "time": "01:58"
+    "time": "01:58",
+    "genre": "Pop"
   },
   {
     "title": "Wonderful Life",
@@ -6174,7 +6270,8 @@
     "title": "Hero (Metro Mix)",
     "artist": "Iglesias, Enrique",
     "date": "30.09.2025",
-    "time": "00:49"
+    "time": "00:49",
+    "genre": "Latin"
   },
   {
     "title": "Som V Tom",
@@ -6198,7 +6295,8 @@
     "title": "It Must Have Been Love",
     "artist": "Roxette",
     "date": "30.09.2025",
-    "time": "00:33"
+    "time": "00:33",
+    "genre": "Pop"
   },
   {
     "title": "V Dolinách",
@@ -6331,7 +6429,8 @@
     "title": "Let It Be",
     "artist": "The Beatles",
     "date": "29.09.2025",
-    "time": "23:51"
+    "time": "23:51",
+    "genre": "Rock"
   },
   {
     "title": "When You Say Nothing At All",
@@ -6379,13 +6478,15 @@
     "title": "Over The Rainbow/What A Wonderful World",
     "artist": "Israel",
     "date": "29.09.2025",
-    "time": "23:34"
+    "time": "23:34",
+    "genre": "Worldwide"
   },
   {
     "title": "Reklama Na Ticho",
     "artist": "Team",
     "date": "29.09.2025",
-    "time": "23:33"
+    "time": "23:33",
+    "genre": "Pop"
   },
   {
     "title": "Máš V Rukáve Máj",
@@ -6427,7 +6528,8 @@
     "title": "Lady In Black",
     "artist": "Uriah Heep",
     "date": "29.09.2025",
-    "time": "23:18"
+    "time": "23:18",
+    "genre": "Rock"
   },
   {
     "title": "Conquest Of Paradise",
@@ -6488,7 +6590,8 @@
     "title": "Crying In Rain",
     "artist": "A-Ha",
     "date": "29.09.2025",
-    "time": "22:59"
+    "time": "22:59",
+    "genre": "Pop"
   },
   {
     "title": "Neobzerajte Sa Pani Lótová",
@@ -6507,7 +6610,8 @@
     "title": "Always",
     "artist": "Bon Jovi",
     "date": "29.09.2025",
-    "time": "22:53"
+    "time": "22:53",
+    "genre": "Pop"
   },
   {
     "title": "Can't Fight The Moonlight",
@@ -6628,7 +6732,8 @@
     "title": "Žít Jako Kaskadér",
     "artist": "Janda Dalibor",
     "date": "29.09.2025",
-    "time": "22:16"
+    "time": "22:16",
+    "genre": "Pop"
   },
   {
     "title": "Róberta",
@@ -6688,7 +6793,8 @@
     "title": "We Are The Champions",
     "artist": "Queen",
     "date": "29.09.2025",
-    "time": "21:56"
+    "time": "21:56",
+    "genre": "Rock"
   },
   {
     "title": "I'd Do Anything For Love But I Won't Do That",
@@ -6718,7 +6824,8 @@
     "title": "Se Bastasse Una Canzone",
     "artist": "Ramazzotti Eros",
     "date": "29.09.2025",
-    "time": "21:46"
+    "time": "21:46",
+    "genre": "Pop"
   },
   {
     "title": "Joe Le Taxi",
@@ -6730,7 +6837,8 @@
     "title": "Je Jaká Je",
     "artist": "Karel Gott",
     "date": "29.09.2025",
-    "time": "21:42"
+    "time": "21:42",
+    "genre": "Pop"
   },
   {
     "title": "Preč, Preč",
@@ -6863,7 +6971,8 @@
     "title": "Netrpezliví",
     "artist": "Elán",
     "date": "29.09.2025",
-    "time": "20:57"
+    "time": "20:57",
+    "genre": "Rock"
   },
   {
     "title": "Time To Say Goodbye",
@@ -6894,7 +7003,8 @@
     "title": "Drive",
     "artist": "Cars The",
     "date": "29.09.2025",
-    "time": "20:37"
+    "time": "20:37",
+    "genre": "Rock"
   },
   {
     "title": "Piú Bella Cosa",
