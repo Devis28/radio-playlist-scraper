@@ -2918,5 +2918,341 @@
     "album": "hiSTORY",
     "track_number": 11,
     "itunes_track_id": 1443397973
+  },
+  "exil|kamarat": {
+    "year": 2020,
+    "duration_ms": 215615,
+    "duration": "3:36",
+    "genre": "Pop",
+    "album": "Kamarát - EP",
+    "track_number": 1,
+    "itunes_track_id": 1528232306
+  },
+  "zuzana smatanova & richard autner|prutikar": {
+    "year": 2024,
+    "duration_ms": 244947,
+    "duration": "4:05",
+    "genre": "Pop",
+    "album": "Prútikár (feat. Richard Autner) - Single",
+    "track_number": 1,
+    "itunes_track_id": 1770870982
+  },
+  "alexandra burke|hallelujah": {
+    "year": 2008,
+    "duration_ms": 217827,
+    "duration": "3:38",
+    "genre": "Pop",
+    "album": "Overcome (Deluxe Edition)",
+    "track_number": 17,
+    "itunes_track_id": 400695132
+  },
+  "marx richard|right here waiting": {
+    "year": 1989,
+    "duration_ms": 262733,
+    "duration": "4:23",
+    "genre": "Adult Contemporary",
+    "album": "Greatest Hits",
+    "track_number": 16,
+    "itunes_track_id": 725843719
+  },
+  "smokie|living next door to alice": {
+    "year": 1976,
+    "duration_ms": 207133,
+    "duration": "3:27",
+    "genre": "Rock",
+    "album": "Collections: Smokie",
+    "track_number": 2,
+    "itunes_track_id": 290383538
+  },
+  "jana kirschner|liska": {
+    "year": 2000,
+    "duration_ms": 194560,
+    "duration": "3:15",
+    "genre": "Pop",
+    "album": "V Cudzom Meste",
+    "track_number": 2,
+    "itunes_track_id": 1443642367
+  },
+  "marika gombitova|slnecny kalendar": {
+    "year": 1982,
+    "duration_ms": 162187,
+    "duration": "2:42",
+    "genre": "Pop",
+    "album": "Slnečný kalendár",
+    "track_number": 9,
+    "itunes_track_id": 1533350960
+  },
+  "zucchero,paul young|senza una donna": {
+    "year": 1992,
+    "duration_ms": 270867,
+    "duration": "4:31",
+    "genre": "Pop",
+    "album": "ZU & Co.",
+    "track_number": 16,
+    "itunes_track_id": 1445666139
+  },
+  "mckenzie scott|san francisco": {
+    "year": 1967,
+    "duration_ms": 177427,
+    "duration": "2:57",
+    "genre": "Pop",
+    "album": "Hear It Now! The Sound of the '60s",
+    "track_number": 7,
+    "itunes_track_id": 158701769
+  },
+  "r.e.m.|everybody hurts": {
+    "year": 1992,
+    "duration_ms": 320351,
+    "duration": "5:20",
+    "genre": "Alternative",
+    "album": "Automatic For The People",
+    "track_number": 4,
+    "itunes_track_id": 1440949865
+  },
+  "peha|slnecna balada": {
+    "year": 2003,
+    "duration_ms": 233267,
+    "duration": "3:53",
+    "genre": "Pop",
+    "album": "Best of Peha",
+    "track_number": 4,
+    "itunes_track_id": 464838188
+  },
+  "robin gibb|juliet": {
+    "year": 1983,
+    "duration_ms": 228000,
+    "duration": "3:48",
+    "genre": "Pop",
+    "album": "How Old Are You?",
+    "track_number": 1,
+    "itunes_track_id": 1740614403
+  },
+  "bon jovi|bed of roses": {
+    "year": 1992,
+    "duration_ms": 394528,
+    "duration": "6:35",
+    "genre": "Pop",
+    "album": "Keep the Faith",
+    "track_number": 5,
+    "itunes_track_id": 1440826868
+  },
+  "kristina|stonka": {
+    "year": 2010,
+    "duration_ms": 227267,
+    "duration": "3:47",
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 9,
+    "itunes_track_id": 1442797753
+  },
+  "jason donovan|sealed with the kiss": {
+    "year": 1989,
+    "duration_ms": 152499,
+    "duration": "2:32",
+    "genre": "Pop",
+    "album": "Sealed With a Kiss",
+    "track_number": 1,
+    "itunes_track_id": 1441416304
+  },
+  "miro zbirka|dr. jekyll a mr. hyde": {
+    "year": 1986,
+    "duration_ms": 223427,
+    "duration": "3:43",
+    "genre": "Pop",
+    "album": "Chlapec z ulice",
+    "track_number": 4,
+    "itunes_track_id": 1533353934
+  },
+  "mamas & the papas|california dreamin'": {
+    "year": 1966,
+    "duration_ms": 162373,
+    "duration": "2:42",
+    "genre": "Pop",
+    "album": "If You Can Believe Your Eyes and Ears",
+    "track_number": 7,
+    "itunes_track_id": 1440796325
+  },
+  "bartosova iveta|vis lasko": {
+    "year": 2005,
+    "duration_ms": 226933,
+    "duration": "3:47",
+    "genre": "Pop",
+    "album": "Hej Pane Diskzokej",
+    "track_number": 2,
+    "itunes_track_id": 688237931
+  },
+  "cirova maria|burka": {
+    "year": 2008,
+    "duration_ms": 245680,
+    "duration": "4:06",
+    "genre": "Pop",
+    "album": "Búrka",
+    "track_number": 3,
+    "itunes_track_id": 1705584740
+  },
+  "palonder marcel|neznama": {
+    "year": 1992,
+    "duration_ms": 244000,
+    "duration": "4:04",
+    "genre": "Pop",
+    "album": "Cudzinec v tvojom srdci",
+    "track_number": 5,
+    "itunes_track_id": 1533366256
+  },
+  "bad boys blue|you're a woman": {
+    "year": 1985,
+    "duration_ms": 321840,
+    "duration": "5:22",
+    "genre": "Pop",
+    "album": "Super 20",
+    "track_number": 7,
+    "itunes_track_id": 1736764697
+  },
+  "karel gott & darinka rolincova|zvonky stesti": "__MISS__",
+  "the gibson brothers|que sera mi vida": {
+    "year": 1978,
+    "duration_ms": 313947,
+    "duration": "5:14",
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 2,
+    "itunes_track_id": 1692907893
+  },
+  "team|kto z nas dvoch sa lasky opyta?": {
+    "year": 1988,
+    "duration_ms": 242413,
+    "duration": "4:02",
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 10,
+    "itunes_track_id": 1533365807
+  },
+  "ramazzotti eros|fuoco nel fuoco": {
+    "year": 2000,
+    "duration_ms": 241093,
+    "duration": "4:01",
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 14,
+    "itunes_track_id": 926861441
+  },
+  "alphaville|sounds like a melody": {
+    "year": 1984,
+    "duration_ms": 267907,
+    "duration": "4:28",
+    "genre": "Pop",
+    "album": "First Harvest 1984-1992",
+    "track_number": 2,
+    "itunes_track_id": 73254912
+  },
+  "kelly family, the|an angel": {
+    "year": 1994,
+    "duration_ms": 224507,
+    "duration": "3:45",
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "itunes_track_id": 1440883862
+  },
+  "uhercik, durinda, griglak, horvath|lod do neznama": "__MISS__",
+  "superstar top 11|kym vies snivat": {
+    "year": 2005,
+    "duration_ms": 254013,
+    "duration": "4:14",
+    "genre": "Pop",
+    "album": "Kym Vies Snivat - EP",
+    "track_number": 1,
+    "itunes_track_id": 464835107
+  },
+  "starship|nothing's gonna stop us now": {
+    "year": 1987,
+    "duration_ms": 270333,
+    "duration": "4:30",
+    "genre": "Rock",
+    "album": "No Protection",
+    "track_number": 2,
+    "itunes_track_id": 1446278331
+  },
+  "dubasova beata|dievca z reklamy": {
+    "year": 1987,
+    "duration_ms": 214413,
+    "duration": "3:34",
+    "genre": "Pop",
+    "album": "Beáta",
+    "track_number": 11,
+    "itunes_track_id": 1533355333
+  },
+  "adams bryan|(everything i do) i do it for you": {
+    "year": 1998,
+    "duration_ms": 250000,
+    "duration": "4:10",
+    "genre": "Pop",
+    "album": "Never Say Never",
+    "track_number": 16,
+    "itunes_track_id": 20913127
+  },
+  "hex|pomarance z kuby": {
+    "year": 2023,
+    "duration_ms": 260316,
+    "duration": "4:20",
+    "genre": "Pop",
+    "album": "Kde je tu láska?",
+    "track_number": 5,
+    "itunes_track_id": 1680292399
+  },
+  "dion celine & streisand barbra|tell him": "__MISS__",
+  "slivova silvia|nemozna": {
+    "year": 1986,
+    "duration_ms": 233373,
+    "duration": "3:53",
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 10,
+    "itunes_track_id": 1533446145
+  },
+  "zbirka miro|balada o polnych vtakoch": {
+    "year": 1980,
+    "duration_ms": 190587,
+    "duration": "3:11",
+    "genre": "Pop",
+    "album": "Doktor Sen",
+    "track_number": 12,
+    "itunes_track_id": 1533355803
+  },
+  "ace of base|beautiful life": {
+    "year": 1995,
+    "duration_ms": 221187,
+    "duration": "3:41",
+    "genre": "Dance",
+    "album": "The Bridge (Remastered)",
+    "track_number": 1,
+    "itunes_track_id": 951692797
+  },
+  "janda dalibor|kde jsi ?": {
+    "year": 1982,
+    "duration_ms": 232027,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 14,
+    "itunes_track_id": 1391890764
+  },
+  "robbie williams|feel": {
+    "year": 2002,
+    "duration_ms": 263867,
+    "duration": "4:24",
+    "genre": "Pop",
+    "album": "Escapology",
+    "track_number": 2,
+    "itunes_track_id": 727506071
+  },
+  "elan|osmy svetadiel": {
+    "year": 2015,
+    "duration_ms": 249000,
+    "duration": "4:09",
+    "genre": "Pop",
+    "album": "Hodiny Nehy",
+    "track_number": 1,
+    "itunes_track_id": 1462800028
   }
 }
