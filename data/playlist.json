@@ -1,5 +1,305 @@
 [
   {
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "date": "02.10.2025",
+    "time": "23:20"
+  },
+  {
+    "title": "Věnování",
+    "artist": "Filipová Lenka",
+    "date": "02.10.2025",
+    "time": "23:16"
+  },
+  {
+    "title": "Dvaja",
+    "artist": "Gombitová Marika",
+    "date": "02.10.2025",
+    "time": "23:13"
+  },
+  {
+    "title": "Myslím Že Môže Byť",
+    "artist": "Imt Smile / Marián Čekovský",
+    "date": "02.10.2025",
+    "time": "23:08"
+  },
+  {
+    "title": "Brother Louie",
+    "artist": "Modern Talking",
+    "date": "02.10.2025",
+    "time": "23:04"
+  },
+  {
+    "title": "Nenahraditeľná",
+    "artist": "Sima Martausová & For You",
+    "date": "02.10.2025",
+    "time": "23:01"
+  },
+  {
+    "title": "Zlodejka Snov Ii",
+    "artist": "Miro Žbirka",
+    "date": "02.10.2025",
+    "time": "22:56"
+  },
+  {
+    "title": "Candle In The Wind",
+    "artist": "Elton John",
+    "date": "02.10.2025",
+    "time": "22:53"
+  },
+  {
+    "title": "Daj Ruku Do Mojej Ruky",
+    "artist": "Smatanová Zuzana",
+    "date": "02.10.2025",
+    "time": "22:49"
+  },
+  {
+    "title": "Cose Della Vita / Can't Stop Thinking Of You",
+    "artist": "Tina Turner/Eros Ramazzotti",
+    "date": "02.10.2025",
+    "time": "22:45"
+  },
+  {
+    "title": "Sempre Sempre",
+    "artist": "Al Bano & Romina Power",
+    "date": "02.10.2025",
+    "time": "22:41"
+  },
+  {
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "02.10.2025",
+    "time": "22:38"
+  },
+  {
+    "title": "Nároční",
+    "artist": "Team",
+    "date": "02.10.2025",
+    "time": "22:33"
+  },
+  {
+    "title": "Šumienky Z Polomu",
+    "artist": "Dubasová Beáta",
+    "date": "02.10.2025",
+    "time": "22:29"
+  },
+  {
+    "title": "Another Brick In The Wall Part 2",
+    "artist": "Pink Floyd",
+    "date": "02.10.2025",
+    "time": "22:25"
+  },
+  {
+    "title": "Žuvačka Za Uchom",
+    "artist": "Grigorov Robo",
+    "date": "02.10.2025",
+    "time": "22:23"
+  },
+  {
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "02.10.2025",
+    "time": "22:19"
+  },
+  {
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "02.10.2025",
+    "time": "22:15"
+  },
+  {
+    "title": "Show Me Heaven",
+    "artist": "Mckee Maria",
+    "date": "02.10.2025",
+    "time": "22:12"
+  },
+  {
+    "title": "I Like Chopin",
+    "artist": "Gazebo",
+    "date": "02.10.2025",
+    "time": "22:07"
+  },
+  {
+    "title": "Medulienka",
+    "artist": "Hammel Pavol",
+    "date": "02.10.2025",
+    "time": "22:04"
+  },
+  {
+    "title": "Klára",
+    "artist": "AC+",
+    "date": "02.10.2025",
+    "time": "22:01"
+  },
+  {
+    "title": "Eternal Flame",
+    "artist": "The Bangles",
+    "date": "02.10.2025",
+    "time": "21:57"
+  },
+  {
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "02.10.2025",
+    "time": "21:53"
+  },
+  {
+    "title": "Lay All Your Love On Me",
+    "artist": "Abba",
+    "date": "02.10.2025",
+    "time": "21:48"
+  },
+  {
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "02.10.2025",
+    "time": "21:44"
+  },
+  {
+    "title": "Nič Nezmení Môj Svet",
+    "artist": "Nagy Peter",
+    "date": "02.10.2025",
+    "time": "21:40"
+  },
+  {
+    "title": "Nechodí",
+    "artist": "Miro Žbirka",
+    "date": "02.10.2025",
+    "time": "21:37"
+  },
+  {
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "02.10.2025",
+    "time": "21:33"
+  },
+  {
+    "title": "Tam Kde Sa Neumiera",
+    "artist": "Smatanová Zuzana",
+    "date": "02.10.2025",
+    "time": "21:29"
+  },
+  {
+    "title": "Hello",
+    "artist": "Lionel Richie",
+    "date": "02.10.2025",
+    "time": "21:25"
+  },
+  {
+    "title": "Vetroň",
+    "artist": "Hex",
+    "date": "02.10.2025",
+    "time": "21:21"
+  },
+  {
+    "title": "Já Budu Chodit Po Špičkách",
+    "artist": "Novák Petr",
+    "date": "02.10.2025",
+    "time": "21:19"
+  },
+  {
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "02.10.2025",
+    "time": "21:15"
+  },
+  {
+    "title": "V tichu",
+    "artist": "Katarína Knechtová",
+    "date": "02.10.2025",
+    "time": "21:11"
+  },
+  {
+    "title": "Prvá",
+    "artist": "No Name",
+    "date": "02.10.2025",
+    "time": "21:07"
+  },
+  {
+    "title": "Modlitba Lásky",
+    "artist": "Robo Grigorov",
+    "date": "02.10.2025",
+    "time": "21:02"
+  },
+  {
+    "title": "Unchained Melody",
+    "artist": "The Righteous Brothers",
+    "date": "02.10.2025",
+    "time": "20:58"
+  },
+  {
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "02.10.2025",
+    "time": "20:54"
+  },
+  {
+    "title": "Ulica",
+    "artist": "Elán",
+    "date": "02.10.2025",
+    "time": "20:51"
+  },
+  {
+    "title": "Return To Innocence",
+    "artist": "Enigma",
+    "date": "02.10.2025",
+    "time": "20:47"
+  },
+  {
+    "title": "Nepoznám",
+    "artist": "Imt Smile",
+    "date": "02.10.2025",
+    "time": "20:44"
+  },
+  {
+    "title": "Radio Ga Ga",
+    "artist": "Queen",
+    "date": "02.10.2025",
+    "time": "20:40"
+  },
+  {
+    "title": "Láska, Necestuj Tým Vlakom",
+    "artist": "Pavol Habera",
+    "date": "02.10.2025",
+    "time": "20:36"
+  },
+  {
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "02.10.2025",
+    "time": "20:32"
+  },
+  {
+    "title": "Uličník Bozk",
+    "artist": "Gombitová Marika & Patejdl Vašo",
+    "date": "02.10.2025",
+    "time": "20:29"
+  },
+  {
+    "title": "Tears In Heaven",
+    "artist": "Clapton Eric",
+    "date": "02.10.2025",
+    "time": "20:24"
+  },
+  {
+    "title": "Keď Sa Raz Oči Dohodnú",
+    "artist": "Modus",
+    "date": "02.10.2025",
+    "time": "20:20"
+  },
+  {
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "02.10.2025",
+    "time": "20:17"
+  },
+  {
+    "title": "Anjel",
+    "artist": "Karmen Pál-Baláž",
+    "date": "02.10.2025",
+    "time": "20:12"
+  },
+  {
     "title": "Enjoy The Silence",
     "artist": "Depeche Mode",
     "date": "02.10.2025",
