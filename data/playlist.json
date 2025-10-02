@@ -1,5 +1,45 @@
 [
   {
+    "title": "Modrá",
+    "artist": "Kirschner Jana",
+    "date": "03.10.2025",
+    "time": "00:33",
+    "year": 2000,
+    "duration_ms": 250907,
+    "duration": "4:11",
+    "genre": "Pop"
+  },
+  {
+    "title": "Volare (Nel Blu Di Pinto Di Blu)",
+    "artist": "The Gipsy Kings",
+    "date": "03.10.2025",
+    "time": "00:29",
+    "year": 1989,
+    "duration_ms": 219667,
+    "duration": "3:40",
+    "genre": "Pop"
+  },
+  {
+    "title": "Ženská Menom Panika",
+    "artist": "Team",
+    "date": "03.10.2025",
+    "time": "00:25",
+    "year": 1994,
+    "duration_ms": 267693,
+    "duration": "4:28",
+    "genre": "Rock"
+  },
+  {
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "03.10.2025",
+    "time": "00:21",
+    "year": 1983,
+    "duration_ms": 244707,
+    "duration": "4:05",
+    "genre": "Soundtrack"
+  },
+  {
     "title": "Wake Me Up Before You Go Go",
     "artist": "Wham!",
     "date": "03.10.2025",
@@ -725,19 +765,31 @@
     "title": "Když Láska Schází",
     "artist": "Bartošová Iveta",
     "date": "02.10.2025",
-    "time": "19:30"
+    "time": "19:30",
+    "year": 1984,
+    "duration_ms": 227133,
+    "duration": "3:47",
+    "genre": "Pop"
   },
   {
     "title": "Šrouby Do Hlavy",
     "artist": "Lucie",
     "date": "02.10.2025",
-    "time": "19:26"
+    "time": "19:26",
+    "year": 1990,
+    "duration_ms": 248600,
+    "duration": "4:09",
+    "genre": "Pop"
   },
   {
     "title": "Řeka Lásky",
     "artist": "Marie Rottrová",
     "date": "02.10.2025",
-    "time": "19:22"
+    "time": "19:22",
+    "year": 1971,
+    "duration_ms": 200307,
+    "duration": "3:20",
+    "genre": "Pop"
   },
   {
     "title": "Inženýrská",
@@ -749,151 +801,251 @@
     "title": "Gejzír",
     "artist": "Petr Kotvald",
     "date": "02.10.2025",
-    "time": "19:16"
+    "time": "19:16",
+    "year": 1990,
+    "duration_ms": 220133,
+    "duration": "3:40",
+    "genre": "Pop"
   },
   {
     "title": "Ľudia Nie Sú Zlí",
     "artist": "I.M.T. Smile",
     "date": "02.10.2025",
-    "time": "19:13"
+    "time": "19:13",
+    "year": 2002,
+    "duration_ms": 177333,
+    "duration": "2:57",
+    "genre": "Pop"
   },
   {
     "title": "Horou",
     "artist": "Zuzana Smatanová",
     "date": "02.10.2025",
-    "time": "19:08"
+    "time": "19:08",
+    "year": 2016,
+    "duration_ms": 246659,
+    "duration": "4:07",
+    "genre": "Pop"
   },
   {
     "title": "Muzikantské Byty",
     "artist": "Patejdl Vašo & Dubasová Beáta",
     "date": "02.10.2025",
-    "time": "19:04"
+    "time": "19:04",
+    "year": 1989,
+    "duration_ms": 223787,
+    "duration": "3:44",
+    "genre": "Pop"
   },
   {
     "title": "Most Přes Minulost",
     "artist": "Bílá Lucie",
     "date": "02.10.2025",
-    "time": "19:01"
+    "time": "19:01",
+    "year": 2004,
+    "duration_ms": 163853,
+    "duration": "2:44",
+    "genre": "Pop"
   },
   {
     "title": "Snad Jsem Si Jí Měl Všímat Víc",
     "artist": "Dalibor Janda",
     "date": "02.10.2025",
-    "time": "18:58"
+    "time": "18:58",
+    "year": 1982,
+    "duration_ms": 195253,
+    "duration": "3:15",
+    "genre": "Pop"
   },
   {
     "title": "Slobodná",
     "artist": "Elán",
     "date": "02.10.2025",
-    "time": "18:54"
+    "time": "18:54",
+    "year": 1983,
+    "duration_ms": 215067,
+    "duration": "3:35",
+    "genre": "Rock"
   },
   {
     "title": "Do Čista",
     "artist": "Müller Richard",
     "date": "02.10.2025",
-    "time": "18:48"
+    "time": "18:48",
+    "year": 2012,
+    "duration_ms": 280013,
+    "duration": "4:40",
+    "genre": "Pop"
   },
   {
     "title": "Okno Mé Lásky",
     "artist": "Olympic",
     "date": "02.10.2025",
-    "time": "18:43"
+    "time": "18:43",
+    "year": 1981,
+    "duration_ms": 292507,
+    "duration": "4:53",
+    "genre": "Pop"
   },
   {
     "title": "Jeden Kabát, Jedna Koža, Jedna Tvár",
     "artist": "Team",
     "date": "02.10.2025",
-    "time": "18:41"
+    "time": "18:41",
+    "year": 1989,
+    "duration_ms": 130373,
+    "duration": "2:10",
+    "genre": "Pop"
   },
   {
     "title": "Som On (Snežný Pluh)",
     "artist": "Hex",
     "date": "02.10.2025",
-    "time": "18:37"
+    "time": "18:37",
+    "year": 1997,
+    "duration_ms": 262867,
+    "duration": "4:23",
+    "genre": "Pop"
   },
   {
     "title": "Horehronie",
     "artist": "Kristína",
     "date": "02.10.2025",
-    "time": "18:33"
+    "time": "18:33",
+    "year": 2010,
+    "duration_ms": 183147,
+    "duration": "3:03",
+    "genre": "Pop"
   },
   {
     "title": "Profesor Indigo",
     "artist": "Nagy Peter",
     "date": "02.10.2025",
-    "time": "18:31"
+    "time": "18:31",
+    "year": 2011,
+    "duration_ms": 162000,
+    "duration": "2:42",
+    "genre": "Pop"
   },
   {
     "title": "Mám Rád",
     "artist": "Miro Žbirka",
     "date": "02.10.2025",
-    "time": "18:28"
+    "time": "18:28",
+    "year": 2001,
+    "duration_ms": 181307,
+    "duration": "3:01",
+    "genre": "Pop"
   },
   {
     "title": "Mladosť",
     "artist": "Pavol Hammel",
     "date": "02.10.2025",
-    "time": "18:25"
+    "time": "18:25",
+    "year": 2011,
+    "duration_ms": 168587,
+    "duration": "2:49",
+    "genre": "Pop"
   },
   {
     "title": "Knoflíky Lásky",
     "artist": "Iveta Bartošová & Petr Sepéši",
     "date": "02.10.2025",
-    "time": "18:22"
+    "time": "18:22",
+    "year": 1984,
+    "duration_ms": 188387,
+    "duration": "3:08",
+    "genre": "Pop"
   },
   {
     "title": "Stín Katedrál",
     "artist": "Neckář Václav & Vondráčková Helena",
     "date": "02.10.2025",
-    "time": "18:18"
+    "time": "18:18",
+    "year": 1963,
+    "duration_ms": 203240,
+    "duration": "3:23",
+    "genre": "Pop"
   },
   {
     "title": "Chci Zas V Tobě Spát",
     "artist": "Lucie",
     "date": "02.10.2025",
-    "time": "18:13"
+    "time": "18:13",
+    "year": 2003,
+    "duration_ms": 305187,
+    "duration": "5:05",
+    "genre": "Pop"
   },
   {
     "title": "Hej, Sokoly!",
     "artist": "I.M.T. Smile & Ondrej Kandráč",
     "date": "02.10.2025",
-    "time": "18:07"
+    "time": "18:07",
+    "year": 2020,
+    "duration_ms": 167718,
+    "duration": "2:48",
+    "genre": "Pop"
   },
   {
     "title": "Biograf Láska",
     "artist": "Hana Zagorová",
     "date": "02.10.2025",
-    "time": "18:02"
+    "time": "18:02",
+    "year": 2006,
+    "duration_ms": 278840,
+    "duration": "4:39",
+    "genre": "Pop"
   },
   {
     "title": "Blaze Of Glory",
     "artist": "Bon Jovi, Jon",
     "date": "02.10.2025",
-    "time": "17:53"
+    "time": "17:53",
+    "year": 2009,
+    "duration_ms": 346840,
+    "duration": "5:47",
+    "genre": "Rock"
   },
   {
     "title": "Voulez Vous",
     "artist": "Abba",
     "date": "02.10.2025",
-    "time": "17:49"
+    "time": "17:49",
+    "year": 1979,
+    "duration_ms": 308401,
+    "duration": "5:08",
+    "genre": "Pop"
   },
   {
     "title": "Mám, Kým Nemám",
     "artist": "Elán",
     "date": "02.10.2025",
-    "time": "17:46"
+    "time": "17:46",
+    "year": 1983,
+    "duration_ms": 232613,
+    "duration": "3:53",
+    "genre": "Rock"
   },
   {
     "title": "Ten Príbeh Je Preč",
     "artist": "Beata Dubasová",
     "date": "02.10.2025",
-    "time": "17:40"
+    "time": "17:40",
+    "year": 1993,
+    "duration_ms": 269000,
+    "duration": "4:29",
+    "genre": "Pop"
   },
   {
     "title": "Moonlight Shadow",
     "artist": "Oldfield Mike & Reilly Maggie",
     "date": "02.10.2025",
-    "time": "17:37"
+    "time": "17:37",
+    "year": 1983,
+    "duration_ms": 218160,
+    "duration": "3:38",
+    "genre": "Rock"
   },
   {
     "title": "Trezor",
