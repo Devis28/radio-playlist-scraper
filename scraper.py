@@ -15,7 +15,7 @@ import urllib3.util.connection as urllib3_conn
 
 # ===== Konštanty =====
 BASE_HOSTS = ["https://www.radia.sk", "https://radia.sk"]
-PLAYLIST_PATH = "/radia/melody/playlist"
+PLAYLIST_PATH = "/radia/melody/playlist?ts=1759395719"
 OUT_PATH = os.path.join("data", "playlist.json")
 LOCAL_TZ = ZoneInfo("Europe/Bratislava")
 
