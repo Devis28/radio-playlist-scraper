@@ -1566,5 +1566,349 @@
     "track_number": 10,
     "disc_number": 1,
     "itunes_track_id": 1615592529
+  },
+  "hex|michaela": {
+    "year": 2002,
+    "duration_ms": 219027,
+    "duration": "3:39",
+    "genre": "Pop",
+    "album": "Vikend",
+    "track_number": 4,
+    "itunes_track_id": 1443473006
+  },
+  "gombitova marika & rottrova marie & zbirka miro|tri slova": {
+    "year": 2001,
+    "duration_ms": 182773,
+    "duration": "3:03",
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 16,
+    "itunes_track_id": 339298841
+  },
+  "olympic|slzy tvy mamy": {
+    "year": 1965,
+    "duration_ms": 257853,
+    "duration": "4:18",
+    "genre": "Pop",
+    "album": "Best of 43 jasných hitových zpráv",
+    "track_number": 24,
+    "itunes_track_id": 1384678156
+  },
+  "shaggy|angel": {
+    "year": 2000,
+    "duration_ms": 235133,
+    "duration": "3:55",
+    "genre": "Pop",
+    "album": "Hot Shot",
+    "track_number": 6,
+    "itunes_track_id": 1449316047
+  },
+  "muller richard|stesti je krasna vec": {
+    "year": 1988,
+    "duration_ms": 320040,
+    "duration": "5:20",
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 9,
+    "itunes_track_id": 1443012473
+  },
+  "simon, paul & garfunkel, art|mrs. robinson": {
+    "year": 1968,
+    "duration_ms": 247420,
+    "duration": "4:07",
+    "genre": "Singer/Songwriter",
+    "album": "Bookends",
+    "track_number": 10,
+    "itunes_track_id": 203304387
+  },
+  "roxette|spending my time": {
+    "year": 1991,
+    "duration_ms": 275667,
+    "duration": "4:36",
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 7,
+    "itunes_track_id": 935672100
+  },
+  "miro zbirka|biely kvet": {
+    "year": 2004,
+    "duration_ms": 256013,
+    "duration": "4:16",
+    "genre": "Worldwide",
+    "album": "Miro Zbirka: Live",
+    "track_number": 15,
+    "itunes_track_id": 1444122885
+  },
+  "abba|chiquitita": {
+    "year": 1979,
+    "duration_ms": 325907,
+    "duration": "5:26",
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 11,
+    "itunes_track_id": 1440816974
+  },
+  "csakova ilona|tornero": {
+    "year": 2012,
+    "duration_ms": 223693,
+    "duration": "3:44",
+    "genre": "Pop",
+    "album": "22x Ilona - Best Of",
+    "track_number": 20,
+    "itunes_track_id": 692566851
+  },
+  "gott karel|muzika": "__MISS__",
+  "leo sayer|when i need you": {
+    "year": 1977,
+    "duration_ms": 252728,
+    "duration": "4:13",
+    "genre": "Pop",
+    "album": "Endless Journey – The Essential Leo Sayer",
+    "track_number": 1,
+    "itunes_track_id": 318335206
+  },
+  "no mercy|where do you go": {
+    "year": 1996,
+    "duration_ms": 271440,
+    "duration": "4:31",
+    "genre": "Rock",
+    "album": "Greatest Hits",
+    "track_number": 2,
+    "itunes_track_id": 217353621
+  },
+  "the scorpions|wind of change": {
+    "year": 1990,
+    "duration_ms": 312360,
+    "duration": "5:12",
+    "genre": "Hard Rock",
+    "album": "Crazy World",
+    "track_number": 4,
+    "itunes_track_id": 1440761801
+  },
+  "tucny michal|bajecna zenska": {
+    "year": 1980,
+    "duration_ms": 253960,
+    "duration": "4:14",
+    "genre": "Traditional Country",
+    "album": "Snídaně V Trávě",
+    "track_number": 2,
+    "itunes_track_id": 1451718249
+  },
+  "erasure|sometimes": {
+    "year": 1986,
+    "duration_ms": 221040,
+    "duration": "3:41",
+    "genre": "Pop",
+    "album": "Hits! The Very Best of Erasure",
+    "track_number": 2,
+    "itunes_track_id": 1436488207
+  },
+  "team|drzim ti miesto": {
+    "year": 1990,
+    "duration_ms": 242760,
+    "duration": "4:03",
+    "genre": "Pop",
+    "album": "Team 3",
+    "track_number": 11,
+    "itunes_track_id": 1533367345
+  },
+  "ottawan|hands up": {
+    "year": 1980,
+    "duration_ms": 289027,
+    "duration": "4:49",
+    "genre": "Disco",
+    "album": "Ottawan 2",
+    "track_number": 1,
+    "itunes_track_id": 1576244390
+  },
+  "turbo|hrac": {
+    "year": 1985,
+    "duration_ms": 284733,
+    "duration": "4:45",
+    "genre": "Rock",
+    "album": "To Byla, Pánové, Jízda",
+    "track_number": 8,
+    "itunes_track_id": 1384667720
+  },
+  "backstreet boys|as long as you love me": {
+    "year": 1996,
+    "duration_ms": 221107,
+    "duration": "3:41",
+    "genre": "Pop",
+    "album": "Backstreet's Back",
+    "track_number": 2,
+    "itunes_track_id": 533020726
+  },
+  "olympic|jasna zprava": {
+    "year": 1965,
+    "duration_ms": 259973,
+    "duration": "4:20",
+    "genre": "Pop",
+    "album": "Best of 43 jasných hitových zpráv",
+    "track_number": 32,
+    "itunes_track_id": 1384678680
+  },
+  "the bangles|manic monday": {
+    "year": 1986,
+    "duration_ms": 184863,
+    "duration": "3:05",
+    "genre": "Pop",
+    "album": "The Bangles Greatest Hits",
+    "track_number": 3,
+    "itunes_track_id": 292101153
+  },
+  "i.m.t. smile|vesela pesnicka": {
+    "year": 2002,
+    "duration_ms": 175240,
+    "duration": "2:55",
+    "genre": "Pop",
+    "album": "Valec Extra",
+    "track_number": 12,
+    "itunes_track_id": 1443840886
+  },
+  "baccara|sorry, i'm a lady": {
+    "year": 1977,
+    "duration_ms": 219067,
+    "duration": "3:39",
+    "genre": "Pop",
+    "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
+    "track_number": 72,
+    "itunes_track_id": 1308528421
+  },
+  "elan|aj ked bez penazi": {
+    "year": 1982,
+    "duration_ms": 227560,
+    "duration": "3:48",
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 6,
+    "itunes_track_id": 1610599398
+  },
+  "the fugees|killing me softly": {
+    "year": 2015,
+    "duration_ms": 204608,
+    "duration": "3:25",
+    "genre": "Hip-Hop/Rap",
+    "album": "Live at New Pop Festival (1996)",
+    "track_number": 8,
+    "itunes_track_id": 995086361
+  },
+  "miro zbirka|ako obrazok": {
+    "year": 1980,
+    "duration_ms": 197960,
+    "duration": "3:18",
+    "genre": "Pop",
+    "album": "Doktor Sen",
+    "track_number": 8,
+    "itunes_track_id": 1533355777
+  },
+  "guns n roses|don't cry": {
+    "year": 1991,
+    "duration_ms": 283733,
+    "duration": "4:44",
+    "genre": "Hard Rock",
+    "album": "Use Your Illusion I",
+    "track_number": 4,
+    "itunes_track_id": 1440896173
+  },
+  "joy|touch by touch": {
+    "year": 2014,
+    "duration_ms": 180107,
+    "duration": "3:00",
+    "genre": "Dance",
+    "album": "TOUCH BY TOUCH - HIT-MIX",
+    "track_number": 5,
+    "itunes_track_id": 844398774
+  },
+  "gott karel|lady carneval": {
+    "year": 1987,
+    "duration_ms": 180227,
+    "duration": "3:00",
+    "genre": "Pop",
+    "album": "Lady Carneval",
+    "track_number": 24,
+    "itunes_track_id": 1390823025
+  },
+  "no name|nie alebo ano": {
+    "year": 2001,
+    "duration_ms": 243600,
+    "duration": "4:04",
+    "genre": "Pop",
+    "album": "Oslavme Si Zivot",
+    "track_number": 2,
+    "itunes_track_id": 1443856082
+  },
+  "sandra|in the heat of the night": {
+    "year": 1985,
+    "duration_ms": 301933,
+    "duration": "5:02",
+    "genre": "R&B/Soul",
+    "album": "18 Greatest Hits: Sandra",
+    "track_number": 2,
+    "itunes_track_id": 712213840
+  },
+  "boney m|daddy cool": {
+    "year": 1976,
+    "duration_ms": 206086,
+    "duration": "3:26",
+    "genre": "R&B/Soul",
+    "album": "Daddy Cool",
+    "track_number": 7,
+    "itunes_track_id": 250734713
+  },
+  "tofi sagvan|davej, ber": "__MISS__",
+  "kamen, nick|i promised myself": {
+    "year": 1990,
+    "duration_ms": 240773,
+    "duration": "4:01",
+    "genre": "Pop",
+    "album": "Move Until We Fly",
+    "track_number": 1,
+    "itunes_track_id": 930338393
+  },
+  "harpo|moviestar": {
+    "year": 1975,
+    "duration_ms": 202280,
+    "duration": "3:22",
+    "genre": "Pop",
+    "album": "Moviestar",
+    "track_number": 1,
+    "itunes_track_id": 692202954
+  },
+  "lionel richie|say you, say me": {
+    "year": 1985,
+    "duration_ms": 241947,
+    "duration": "4:02",
+    "genre": "R&B/Soul",
+    "album": "The Definitive Collection",
+    "track_number": 2,
+    "itunes_track_id": 1440781821
+  },
+  "team|severanka": {
+    "year": 1990,
+    "duration_ms": 305107,
+    "duration": "5:05",
+    "genre": "Pop",
+    "album": "Team 3",
+    "track_number": 10,
+    "itunes_track_id": 1533367344
+  },
+  "gloria gaynor|i will survive": {
+    "year": 1978,
+    "duration_ms": 481693,
+    "duration": "8:02",
+    "genre": "Funk",
+    "album": "I Will Survive: The Anthology",
+    "track_number": 1,
+    "itunes_track_id": 1434919639
+  },
+  "elan|cakam ta, laska": {
+    "year": 2015,
+    "duration_ms": 277000,
+    "duration": "4:37",
+    "genre": "Pop",
+    "album": "Hodiny Nehy",
+    "track_number": 3,
+    "itunes_track_id": 1462800032
   }
 }
