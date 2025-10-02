@@ -94,7 +94,8 @@ def _save_json_atomic(path: str, data) -> None:
 def _cache_key(artist: str, title: str) -> str:
     return f"{_norm_for_match(artist)}|{_norm_for_match(title)}"
 
-META_KEYS = ("year", "duration_ms", "duration", "genre", "album", "track_number", "disc_number")
+# meta polia, ktoré spravujeme (bez disc_number)
+META_KEYS = ("year", "duration_ms", "duration", "genre", "album", "track_number")
 
 def _has_all_meta(it: dict) -> bool:
     """Má položka všetky meta polia vyplnené a nie 'Not found'?"""
@@ -163,7 +164,6 @@ def itunes_lookup(artist: str, title: str, country: str) -> Optional[dict]:
         "genre": best.get("primaryGenreName") or NOT_FOUND,
         "album": best.get("collectionName") or NOT_FOUND,
         "track_number": best.get("trackNumber") if best.get("trackNumber") is not None else NOT_FOUND,
-        "disc_number": best.get("discNumber") if best.get("discNumber") is not None else NOT_FOUND,
         "itunes_track_id": best.get("trackId"),
         # voliteľné odkazy do budúcna:
         # "track_url": best.get("trackViewUrl"),
@@ -238,7 +238,6 @@ def enrich_items(items: list, cache: dict, country: str, limit: int, pause_s: fl
                 "genre": meta.get("genre", NOT_FOUND),
                 "album": meta.get("album", NOT_FOUND),
                 "track_number": meta.get("track_number", NOT_FOUND),
-                "disc_number": meta.get("disc_number", NOT_FOUND),
             })
             after = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
             if before != after:
