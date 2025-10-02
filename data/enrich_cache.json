@@ -1910,5 +1910,357 @@
     "album": "Hodiny Nehy",
     "track_number": 3,
     "itunes_track_id": 1462800032
+  },
+  "r. kelly|i believe i can fly": {
+    "year": 1998,
+    "duration_ms": 320707,
+    "duration": "5:21",
+    "genre": "R&B/Soul",
+    "album": "The World's Greatest",
+    "track_number": 2,
+    "itunes_track_id": 471340803
+  },
+  "david michal bartosova iveta|to je nase vec": {
+    "year": 2021,
+    "duration_ms": 230846,
+    "duration": "3:51",
+    "genre": "Pop",
+    "album": "Moje zapomenuté ploužáky 2",
+    "track_number": 17,
+    "itunes_track_id": 1594929448
+  },
+  "vondrackova helena &korn jiri|kazda trampota ma svou mez": {
+    "year": 2007,
+    "duration_ms": 282827,
+    "duration": "4:43",
+    "genre": "Pop",
+    "album": "Těch Pár Dnů",
+    "track_number": 7,
+    "itunes_track_id": 1385461735
+  },
+  "jiri zmozek|uz mi, lasko, neni dvacet let": {
+    "year": 2010,
+    "duration_ms": 246093,
+    "duration": "4:06",
+    "genre": "Worldwide",
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "track_number": 1,
+    "itunes_track_id": 470532667
+  },
+  "tyler bonnie|holding out for a hero": {
+    "year": 1984,
+    "duration_ms": 350705,
+    "duration": "5:51",
+    "genre": "Soundtrack",
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "track_number": 4,
+    "itunes_track_id": 1164757336
+  },
+  "nagy peter|s nohami na stole": {
+    "year": 2009,
+    "duration_ms": 264040,
+    "duration": "4:24",
+    "genre": "Pop",
+    "album": "Top Hity Tommü",
+    "track_number": 9,
+    "itunes_track_id": 1292559034
+  },
+  "the bee gees|how deep is your love": {
+    "year": 1977,
+    "duration_ms": 246241,
+    "duration": "4:06",
+    "genre": "Pop",
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "track_number": 20,
+    "itunes_track_id": 1442259733
+  },
+  "stanislav hlozek & petr kotvald|holky z nasi skolky": {
+    "year": 1983,
+    "duration_ms": 232493,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "Holky Z Naší Školky",
+    "track_number": 1,
+    "itunes_track_id": 1386933425
+  },
+  "stevie b.|because i love you": {
+    "year": 2023,
+    "duration_ms": 309200,
+    "duration": "5:09",
+    "genre": "Funk",
+    "album": "Best of Love Songs",
+    "track_number": 9,
+    "itunes_track_id": 1708201527
+  },
+  "docolomansky michal|zbohom bud, lipova lyzka,...": {
+    "year": 2023,
+    "duration_ms": 219000,
+    "duration": "3:39",
+    "genre": "Pop",
+    "album": "Hity & Duety",
+    "track_number": 1,
+    "itunes_track_id": 1748737671
+  },
+  "abba|dancing queen": {
+    "year": 1976,
+    "duration_ms": 231844,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 1,
+    "itunes_track_id": 1422648513
+  },
+  "alphaville|forever young": {
+    "year": 1984,
+    "duration_ms": 226706,
+    "duration": "3:47",
+    "genre": "Pop",
+    "album": "Forever Young",
+    "track_number": 6,
+    "itunes_track_id": 65122547
+  },
+  "ub 40|kingston town": {
+    "year": 1989,
+    "duration_ms": 230000,
+    "duration": "3:50",
+    "genre": "Rock",
+    "album": "The Very Best Of",
+    "track_number": 6,
+    "itunes_track_id": 723424240
+  },
+  "erasure|love to hate you": {
+    "year": 2001,
+    "duration_ms": 237613,
+    "duration": "3:58",
+    "genre": "Pop",
+    "album": "Hits! The Very Best of Erasure",
+    "track_number": 10,
+    "itunes_track_id": 1436488395
+  },
+  "cutting crew|i just died in your arms": {
+    "year": 2020,
+    "duration_ms": 329880,
+    "duration": "5:30",
+    "genre": "Pop",
+    "album": "Ransomed Healed Restored Forgiven",
+    "track_number": 2,
+    "itunes_track_id": 1823227313
+  },
+  "duchon karol|siel, siel": {
+    "year": 1974,
+    "duration_ms": 208160,
+    "duration": "3:28",
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 10,
+    "itunes_track_id": 1533365514
+  },
+  "tublatanka|matka": {
+    "year": 1990,
+    "duration_ms": 292000,
+    "duration": "4:52",
+    "genre": "Rock",
+    "album": "Nebo, Peklo, Raj",
+    "track_number": 5,
+    "itunes_track_id": 1384896374
+  },
+  "astley rick|together forever": {
+    "year": 1987,
+    "duration_ms": 205573,
+    "duration": "3:26",
+    "genre": "Pop",
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "track_number": 3,
+    "itunes_track_id": 1624945514
+  },
+  "phil collins|true colors": {
+    "year": 1998,
+    "duration_ms": 274227,
+    "duration": "4:34",
+    "genre": "Rock",
+    "album": "The Singles (Deluxe Edition)",
+    "track_number": 4,
+    "itunes_track_id": 1148701952
+  },
+  "bartosova iveta|dva roky prazdnin": {
+    "year": 1984,
+    "duration_ms": 172600,
+    "duration": "2:53",
+    "genre": "Pop",
+    "album": "Top 13",
+    "track_number": 9,
+    "itunes_track_id": 1384662486
+  },
+  "modus|usmev": {
+    "year": 2005,
+    "duration_ms": 208853,
+    "duration": "3:29",
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 1,
+    "itunes_track_id": 1533350768
+  },
+  "richard cliff|some people": {
+    "year": 1987,
+    "duration_ms": 231560,
+    "duration": "3:52",
+    "genre": "Rock",
+    "album": "Always Guaranteed (Remastered)",
+    "track_number": 3,
+    "itunes_track_id": 726169072
+  },
+  "janda dalibor|hrali jsme klickovanou": {
+    "year": 1982,
+    "duration_ms": 180120,
+    "duration": "3:00",
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 2,
+    "itunes_track_id": 1391888416
+  },
+  "zagorova hana kotvald petr hlozek stanislav|muj cas": {
+    "year": 2013,
+    "duration_ms": 217747,
+    "duration": "3:38",
+    "genre": "Soundtrack",
+    "album": "Sanitka 2",
+    "track_number": 35,
+    "itunes_track_id": 715088132
+  },
+  "garcia|bamboleo": {
+    "year": 1997,
+    "duration_ms": 228963,
+    "duration": "3:49",
+    "genre": "Dance",
+    "album": "Bamboleo - Single",
+    "track_number": 1,
+    "itunes_track_id": 1820989777
+  },
+  "vondrackova helena neckar vaclav|znala panna pana": {
+    "year": 1965,
+    "duration_ms": 143680,
+    "duration": "2:24",
+    "genre": "Pop",
+    "album": "Rendez Vous",
+    "track_number": 21,
+    "itunes_track_id": 1579859430
+  },
+  "elan|sestricka z kramarov": {
+    "year": 1991,
+    "duration_ms": 238000,
+    "duration": "3:58",
+    "genre": "Rock",
+    "album": "Netvor z čiernej hviezdy Q7A",
+    "track_number": 2,
+    "itunes_track_id": 1610598785
+  },
+  "dj bobo|somebody dance with me": {
+    "year": 1993,
+    "duration_ms": 214600,
+    "duration": "3:35",
+    "genre": "Dance",
+    "album": "Somebody Dance With Me - EP",
+    "track_number": 1,
+    "itunes_track_id": 633402490
+  },
+  "tozzi, umberto|gloria": {
+    "year": 1979,
+    "duration_ms": 264674,
+    "duration": "4:25",
+    "genre": "Pop",
+    "album": "Gloria",
+    "track_number": 1,
+    "itunes_track_id": 1567867714
+  },
+  "peter bic project|skusame sa najst": {
+    "year": 2017,
+    "duration_ms": 187187,
+    "duration": "3:07",
+    "genre": "Pop",
+    "album": "Skúšame sa nájsť - Single",
+    "track_number": 1,
+    "itunes_track_id": 1444409875
+  },
+  "eros ramazzotti|piu bella cosa": {
+    "year": 1996,
+    "duration_ms": 264547,
+    "duration": "4:25",
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 8,
+    "itunes_track_id": 926857832
+  },
+  "roxette|the big l.": {
+    "year": 1991,
+    "duration_ms": 265733,
+    "duration": "4:26",
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 9,
+    "itunes_track_id": 935672102
+  },
+  "shakira & freshlyground|waka waka": "__MISS__",
+  "filipova lenka|za vsechno muze cas": {
+    "year": 1980,
+    "duration_ms": 243173,
+    "duration": "4:03",
+    "genre": "Pop",
+    "album": "1982-92",
+    "track_number": 12,
+    "itunes_track_id": 1380701309
+  },
+  "robo opatovsky|ked muz miluje zenu": {
+    "year": 2017,
+    "duration_ms": 249240,
+    "duration": "4:09",
+    "genre": "Pop",
+    "album": "Keď Muž Miluje Ženu - Single",
+    "track_number": 1,
+    "itunes_track_id": 1713145088
+  },
+  "cocker joe/jennifer warnes|up where we belong": {
+    "year": 1982,
+    "duration_ms": 232573,
+    "duration": "3:53",
+    "genre": "Rock",
+    "album": "20th Century Masters - The Millennium Collection: The Best of Joe Cocker",
+    "track_number": 11,
+    "itunes_track_id": 1434922654
+  },
+  "gladiator|dnes je skvely den": {
+    "year": 2000,
+    "duration_ms": 303173,
+    "duration": "5:03",
+    "genre": "Rock",
+    "album": "Single (1994-2002)",
+    "track_number": 6,
+    "itunes_track_id": 456482590
+  },
+  "farmer mylene|desenchantee": {
+    "year": 1991,
+    "duration_ms": 322760,
+    "duration": "5:23",
+    "genre": "French Pop",
+    "album": "L'autre",
+    "track_number": 2,
+    "itunes_track_id": 1443550005
+  },
+  "elan|chcel by som ti sepkat": {
+    "year": 2001,
+    "duration_ms": 290267,
+    "duration": "4:50",
+    "genre": "Rock",
+    "album": "Neviem byť sám \"2001\": rock, roky a láska",
+    "track_number": 11,
+    "itunes_track_id": 1610597265
+  },
+  "londonbeat|i've been thinking about you": {
+    "year": 1990,
+    "duration_ms": 228280,
+    "duration": "3:48",
+    "genre": "Pop",
+    "album": "90s 100 Hits",
+    "track_number": 9,
+    "itunes_track_id": 943232452
   }
 }
