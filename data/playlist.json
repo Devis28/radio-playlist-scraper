@@ -1,27 +1,83 @@
 [
   {
+    "title": "Po Víne",
+    "artist": "Robo Grigorov",
+    "date": "03.10.2025",
+    "time": "00:13",
+    "year": 1987,
+    "duration_ms": 258560,
+    "duration": "4:19",
+    "genre": "Pop"
+  },
+  {
+    "title": "United",
+    "artist": "Prince Ital Joe & Marky Mark",
+    "date": "03.10.2025",
+    "time": "00:09",
+    "year": 1994,
+    "duration_ms": 241760,
+    "duration": "4:02",
+    "genre": "Pop"
+  },
+  {
+    "title": "Arabela",
+    "artist": "Rolincova Darinka",
+    "date": "03.10.2025",
+    "time": "00:05",
+    "year": 1988,
+    "duration_ms": 275507,
+    "duration": "4:36",
+    "genre": "Children’s Music"
+  },
+  {
+    "title": "Zober Ma Domov",
+    "artist": "Desmod",
+    "date": "03.10.2025",
+    "time": "00:00",
+    "year": 2007,
+    "duration_ms": 296520,
+    "duration": "4:57",
+    "genre": "Pop"
+  },
+  {
     "title": "Sweet Dreams",
     "artist": "Eurythmics",
     "date": "02.10.2025",
-    "time": "23:56"
+    "time": "23:56",
+    "year": 1983,
+    "duration_ms": 216933,
+    "duration": "3:37",
+    "genre": "Pop"
   },
   {
     "title": "November Rain",
     "artist": "Guns N Roses",
     "date": "02.10.2025",
-    "time": "23:51"
+    "time": "23:51",
+    "year": 1991,
+    "duration_ms": 536067,
+    "duration": "8:56",
+    "genre": "Hard Rock"
   },
   {
     "title": "SOS",
     "artist": "ABBA",
     "date": "02.10.2025",
-    "time": "23:48"
+    "time": "23:48",
+    "year": 1975,
+    "duration_ms": 201800,
+    "duration": "3:22",
+    "genre": "Pop"
   },
   {
     "title": "Obchodník S Deštěm",
     "artist": "Kryštof",
     "date": "02.10.2025",
-    "time": "23:44"
+    "time": "23:44",
+    "year": 2002,
+    "duration_ms": 214400,
+    "duration": "3:34",
+    "genre": "Pop"
   },
   {
     "title": "Sputana Laskou",
@@ -33,13 +89,21 @@
     "title": "Alone",
     "artist": "Heart",
     "date": "02.10.2025",
-    "time": "23:36"
+    "time": "23:36",
+    "year": 1987,
+    "duration_ms": 219293,
+    "duration": "3:39",
+    "genre": "Hard Rock"
   },
   {
     "title": "Milujem Se Čím Dál Víc",
     "artist": "Kotvald Petr",
     "date": "02.10.2025",
-    "time": "23:32"
+    "time": "23:32",
+    "year": 1990,
+    "duration_ms": 227267,
+    "duration": "3:47",
+    "genre": "Pop"
   },
   {
     "title": "Myslis Na To Na Co Myslim Ja?",
@@ -51,31 +115,51 @@
     "title": "I Won't Let The Sun Go Down On Me",
     "artist": "Kershaw Nik",
     "date": "02.10.2025",
-    "time": "23:26"
+    "time": "23:26",
+    "year": 1983,
+    "duration_ms": 203853,
+    "duration": "3:24",
+    "genre": "Pop"
   },
   {
     "title": "Maťo A Linda",
     "artist": "Hex",
     "date": "02.10.2025",
-    "time": "23:22"
+    "time": "23:22",
+    "year": 1997,
+    "duration_ms": 254000,
+    "duration": "4:14",
+    "genre": "Pop"
   },
   {
     "title": "Yesterday",
     "artist": "The Beatles",
     "date": "02.10.2025",
-    "time": "23:20"
+    "time": "23:20",
+    "year": 1965,
+    "duration_ms": 125667,
+    "duration": "2:06",
+    "genre": "Rock"
   },
   {
     "title": "Věnování",
     "artist": "Filipová Lenka",
     "date": "02.10.2025",
-    "time": "23:16"
+    "time": "23:16",
+    "year": 1980,
+    "duration_ms": 245227,
+    "duration": "4:05",
+    "genre": "Pop"
   },
   {
     "title": "Dvaja",
     "artist": "Gombitová Marika",
     "date": "02.10.2025",
-    "time": "23:13"
+    "time": "23:13",
+    "year": 1990,
+    "duration_ms": 219093,
+    "duration": "3:39",
+    "genre": "Pop"
   },
   {
     "title": "Myslím Že Môže Byť",
@@ -87,31 +171,51 @@
     "title": "Brother Louie",
     "artist": "Modern Talking",
     "date": "02.10.2025",
-    "time": "23:04"
+    "time": "23:04",
+    "year": 1986,
+    "duration_ms": 221093,
+    "duration": "3:41",
+    "genre": "Pop"
   },
   {
     "title": "Nenahraditeľná",
     "artist": "Sima Martausová & For You",
     "date": "02.10.2025",
-    "time": "23:01"
+    "time": "23:01",
+    "year": 2018,
+    "duration_ms": 198649,
+    "duration": "3:19",
+    "genre": "Folk"
   },
   {
     "title": "Zlodejka Snov Ii",
     "artist": "Miro Žbirka",
     "date": "02.10.2025",
-    "time": "22:56"
+    "time": "22:56",
+    "year": 2002,
+    "duration_ms": 237400,
+    "duration": "3:57",
+    "genre": "Pop"
   },
   {
     "title": "Candle In The Wind",
     "artist": "Elton John",
     "date": "02.10.2025",
-    "time": "22:53"
+    "time": "22:53",
+    "year": 1973,
+    "duration_ms": 228928,
+    "duration": "3:49",
+    "genre": "Rock"
   },
   {
     "title": "Daj Ruku Do Mojej Ruky",
     "artist": "Smatanová Zuzana",
     "date": "02.10.2025",
-    "time": "22:49"
+    "time": "22:49",
+    "year": 2009,
+    "duration_ms": 184930,
+    "duration": "3:05",
+    "genre": "Pop"
   },
   {
     "title": "Cose Della Vita / Can't Stop Thinking Of You",
@@ -123,31 +227,51 @@
     "title": "Sempre Sempre",
     "artist": "Al Bano & Romina Power",
     "date": "02.10.2025",
-    "time": "22:41"
+    "time": "22:41",
+    "year": 2017,
+    "duration_ms": 236800,
+    "duration": "3:57",
+    "genre": "Pop"
   },
   {
     "title": "Růže Z Papíru",
     "artist": "Brontosauři",
     "date": "02.10.2025",
-    "time": "22:38"
+    "time": "22:38",
+    "year": 2001,
+    "duration_ms": 139747,
+    "duration": "2:20",
+    "genre": "Pop"
   },
   {
     "title": "Nároční",
     "artist": "Team",
     "date": "02.10.2025",
-    "time": "22:33"
+    "time": "22:33",
+    "year": 1988,
+    "duration_ms": 310507,
+    "duration": "5:11",
+    "genre": "Pop"
   },
   {
     "title": "Šumienky Z Polomu",
     "artist": "Dubasová Beáta",
     "date": "02.10.2025",
-    "time": "22:29"
+    "time": "22:29",
+    "year": 1988,
+    "duration_ms": 288747,
+    "duration": "4:49",
+    "genre": "Pop"
   },
   {
     "title": "Another Brick In The Wall Part 2",
     "artist": "Pink Floyd",
     "date": "02.10.2025",
-    "time": "22:25"
+    "time": "22:25",
+    "year": 1979,
+    "duration_ms": 238947,
+    "duration": "3:59",
+    "genre": "Rock"
   },
   {
     "title": "Žuvačka Za Uchom",
@@ -159,61 +283,101 @@
     "title": "Don't Speak",
     "artist": "No Doubt",
     "date": "02.10.2025",
-    "time": "22:19"
+    "time": "22:19",
+    "year": 1995,
+    "duration_ms": 263533,
+    "duration": "4:24",
+    "genre": "Pop"
   },
   {
     "title": "Vidiečan",
     "artist": "Vidiek",
     "date": "02.10.2025",
-    "time": "22:15"
+    "time": "22:15",
+    "year": 1988,
+    "duration_ms": 221040,
+    "duration": "3:41",
+    "genre": "Pop"
   },
   {
     "title": "Show Me Heaven",
     "artist": "Mckee Maria",
     "date": "02.10.2025",
-    "time": "22:12"
+    "time": "22:12",
+    "year": 1990,
+    "duration_ms": 229920,
+    "duration": "3:50",
+    "genre": "Pop"
   },
   {
     "title": "I Like Chopin",
     "artist": "Gazebo",
     "date": "02.10.2025",
-    "time": "22:07"
+    "time": "22:07",
+    "year": 1983,
+    "duration_ms": 248440,
+    "duration": "4:08",
+    "genre": "Pop"
   },
   {
     "title": "Medulienka",
     "artist": "Hammel Pavol",
     "date": "02.10.2025",
-    "time": "22:04"
+    "time": "22:04",
+    "year": 1979,
+    "duration_ms": 201293,
+    "duration": "3:21",
+    "genre": "Pop"
   },
   {
     "title": "Klára",
     "artist": "AC+",
     "date": "02.10.2025",
-    "time": "22:01"
+    "time": "22:01",
+    "year": 1990,
+    "duration_ms": 213160,
+    "duration": "3:33",
+    "genre": "Pop"
   },
   {
     "title": "Eternal Flame",
     "artist": "The Bangles",
     "date": "02.10.2025",
-    "time": "21:57"
+    "time": "21:57",
+    "year": 2001,
+    "duration_ms": 240160,
+    "duration": "4:00",
+    "genre": "Pop"
   },
   {
     "title": "Nebude To Ľahké",
     "artist": "Müller Richard",
     "date": "02.10.2025",
-    "time": "21:53"
+    "time": "21:53",
+    "year": 1992,
+    "duration_ms": 233573,
+    "duration": "3:54",
+    "genre": "Pop"
   },
   {
     "title": "Lay All Your Love On Me",
     "artist": "Abba",
     "date": "02.10.2025",
-    "time": "21:48"
+    "time": "21:48",
+    "year": 1980,
+    "duration_ms": 274525,
+    "duration": "4:35",
+    "genre": "Pop"
   },
   {
     "title": "Keď Sa Láska Podarí",
     "artist": "Gladiator",
     "date": "02.10.2025",
-    "time": "21:44"
+    "time": "21:44",
+    "year": 2004,
+    "duration_ms": 211627,
+    "duration": "3:32",
+    "genre": "Pop"
   },
   {
     "title": "Nič Nezmení Môj Svet",
