@@ -35,6 +35,13 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
+      - name: Enrich via iTunes / Apple Music
+        env:
+          ITUNES_COUNTRY: sk
+          APPLE_MUSIC_STOREFRONT: sk
+          APPLE_MUSIC_DEV_TOKEN: ${{ secrets.APPLE_MUSIC_DEV_TOKEN }}  # voliteľné
+        run: python itunes_enrich.py
+
       - name: Commit & push (commit → rebase → push)
         if: success()
         env:
