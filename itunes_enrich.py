@@ -70,31 +70,39 @@ def split_composers(composer_name: str):
             seen.add(k)
     return uniq
 
+# v itunes_enrich.py nahraď best_match_index touto verziou
 def best_match_index(candidates, target_artist, target_title):
-    """Veľmi jednoduché skórovanie – presnejšie by bolo použiť rapidfuzz, ale držíme 0 depov."""
-    target_artist = normalize_text(target_artist).lower()
-    target_title = normalize_text(target_title).lower()
+    def norm(s):
+        return normalize_text(s).lower()
+
+    ta = norm(target_artist)
+    tt = norm(target_title)
+
+    # variant s prehodeným menom: "müller richard" -> "richard müller"
+    ta_rev = " ".join(reversed(ta.split()))
+
+    def score_pair(a, t):
+        a = norm(a); t = norm(t)
+        score = 0
+        # interpret
+        if a == ta or a == ta_rev:
+            score += 60
+        elif ta in a or a in ta or ta_rev in a:
+            score += 40
+        # titul
+        if t == tt:
+            score += 60
+        elif tt in t or t in tt:
+            score += 40
+        return score
 
     best_i, best_score = -1, -1
     for i, c in enumerate(candidates):
-        a = normalize_text(c.get("artist", "")).lower()
-        t = normalize_text(c.get("title", "")).lower()
-
-        score = 0
-        if a == target_artist:
-            score += 60
-        elif target_artist in a or a in target_artist:
-            score += 40
-
-        if t == target_title:
-            score += 60
-        elif target_title in t or t in target_title:
-            score += 40
-
-        if score > best_score:
-            best_i, best_score = i, score
-
+        s = score_pair(c.get("artist",""), c.get("title",""))
+        if s > best_score:
+            best_i, best_score = i, s
     return best_i, best_score
+
 
 # ------------ iTunes Search -------------
 def itunes_lookup(artist: str, title: str):
@@ -176,6 +184,9 @@ def enrich_one(artist: str, title: str):
     it_res = None
     try:
         it_res = itunes_lookup(artist_q, title_q)
+        if os.environ.get("ENRICH_DEBUG") and it_res:
+            print("iTunes pick:", it_res.get("artistName"), "|", it_res.get("trackName"), "|",
+                  it_res.get("composerName"))
     except Exception:
         it_res = None
 
