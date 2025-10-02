@@ -2262,5 +2262,325 @@
     "album": "90s 100 Hits",
     "track_number": 9,
     "itunes_track_id": 943232452
-  }
+  },
+  "gladiator|bonboniera": {
+    "year": 2006,
+    "duration_ms": 197000,
+    "duration": "3:17",
+    "genre": "Pop",
+    "album": "Mesto",
+    "track_number": 2,
+    "itunes_track_id": 456467878
+  },
+  "smatanova zuzana|nekracaj predo mnou": {
+    "year": 2005,
+    "duration_ms": 205380,
+    "duration": "3:25",
+    "genre": "Pop",
+    "album": "Rozprávač",
+    "track_number": 13,
+    "itunes_track_id": 1712555445
+  },
+  "duchon karol|mam ta rad": {
+    "year": 2016,
+    "duration_ms": 249933,
+    "duration": "4:10",
+    "genre": "Pop",
+    "album": "20 naj, Vol. 2",
+    "track_number": 8,
+    "itunes_track_id": 1533364777
+  },
+  "jiri schelinger|holubi dum": "__MISS__",
+  "paris ryan|dolce vita": {
+    "year": 1990,
+    "duration_ms": 235707,
+    "duration": "3:56",
+    "genre": "Dance",
+    "album": "80s Hit News",
+    "track_number": 4,
+    "itunes_track_id": 453193304
+  },
+  "pavol hammel|cirkus leto": {
+    "year": 2011,
+    "duration_ms": 164947,
+    "duration": "2:45",
+    "genre": "Rock",
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "track_number": 7,
+    "itunes_track_id": 1704992664
+  },
+  "david michal|nejvetsi z nalezu a ztrat": {
+    "year": 2012,
+    "duration_ms": 234840,
+    "duration": "3:55",
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 4,
+    "itunes_track_id": 1442642775
+  },
+  "gloria gaynor|can't take my eyes off you": {
+    "year": 2008,
+    "duration_ms": 254600,
+    "duration": "4:15",
+    "genre": "Dance",
+    "album": "Make It 80's & 90's",
+    "track_number": 24,
+    "itunes_track_id": 1650393398
+  },
+  "terry jacks|seasons in the sun": {
+    "year": 2013,
+    "duration_ms": 208853,
+    "duration": "3:29",
+    "genre": "Rock",
+    "album": "Seasons In The Sun (Expanded Edition)",
+    "track_number": 11,
+    "itunes_track_id": 1564499116
+  },
+  "pavol habera|prec, prec": {
+    "year": 1995,
+    "duration_ms": 224493,
+    "duration": "3:44",
+    "genre": "Rock",
+    "album": "Habera 2",
+    "track_number": 8,
+    "itunes_track_id": 1659286925
+  },
+  "kristina|este vaham": {
+    "year": 2020,
+    "duration_ms": 232452,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "Kristína: TIE NAJ (Album verzia)",
+    "track_number": 7,
+    "itunes_track_id": 1507915920
+  },
+  "baltimora|tarzan boy": {
+    "year": 1985,
+    "duration_ms": 378947,
+    "duration": "6:19",
+    "genre": "Rock",
+    "album": "Living In the Background",
+    "track_number": 1,
+    "itunes_track_id": 713600780
+  },
+  "brontosauri|na kameni kamen": {
+    "year": 2001,
+    "duration_ms": 159227,
+    "duration": "2:39",
+    "genre": "Pop",
+    "album": "Na Kameni Kamen",
+    "track_number": 14,
+    "itunes_track_id": 1443535789
+  },
+  "peter nagy|so mnou nikdy nezostarnes": {
+    "year": 2011,
+    "duration_ms": 202120,
+    "duration": "3:22",
+    "genre": "Pop",
+    "album": "Singles (1984-1988)",
+    "track_number": 5,
+    "itunes_track_id": 1533349153
+  },
+  "minogue kylie & donovan jason|especially for you": {
+    "year": 1988,
+    "duration_ms": 240371,
+    "duration": "4:00",
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 5,
+    "itunes_track_id": 1441026539
+  },
+  "no name|ty a tvoja sestra": {
+    "year": 2009,
+    "duration_ms": 203107,
+    "duration": "3:23",
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 12,
+    "itunes_track_id": 1442545289
+  },
+  "petra cernocka|saxana": "__MISS__",
+  "bonnie tyler|total eclipse of the heart": {
+    "year": 1983,
+    "duration_ms": 418000,
+    "duration": "6:58",
+    "genre": "Adult Contemporary",
+    "album": "Faster Than the Speed of Night",
+    "track_number": 4,
+    "itunes_track_id": 1504111288
+  },
+  "vaso patejdl a heidi janku|ztraceny raj": "__MISS__",
+  "ace of base|all that she wants": {
+    "year": 1992,
+    "duration_ms": 211213,
+    "duration": "3:31",
+    "genre": "Pop",
+    "album": "The Sign (2015 Remastered Version)",
+    "track_number": 1,
+    "itunes_track_id": 959563977
+  },
+  "miro zbirka|denisa": {
+    "year": 2004,
+    "duration_ms": 189560,
+    "duration": "3:10",
+    "genre": "Worldwide",
+    "album": "Miro Zbirka: Live",
+    "track_number": 2,
+    "itunes_track_id": 1444122679
+  },
+  "hex|oteckovia": {
+    "year": 2018,
+    "duration_ms": 208120,
+    "duration": "3:28",
+    "genre": "Pop",
+    "album": "Oteckovia - Single",
+    "track_number": 1,
+    "itunes_track_id": 1707829101
+  },
+  "roxette|fading like a flower": {
+    "year": 1991,
+    "duration_ms": 230680,
+    "duration": "3:51",
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 10,
+    "itunes_track_id": 935672103
+  },
+  "simon paul & garfunkel art|el condor pasa": {
+    "year": 1970,
+    "duration_ms": 188595,
+    "duration": "3:09",
+    "genre": "Pop",
+    "album": "Bridge Over Troubled Water",
+    "track_number": 2,
+    "itunes_track_id": 324127935
+  },
+  "r.e.m.|losing my religion": {
+    "year": 1991,
+    "duration_ms": 268427,
+    "duration": "4:28",
+    "genre": "Alternative",
+    "album": "Out of Time (25th Anniversary Edition)",
+    "track_number": 2,
+    "itunes_track_id": 1442996689
+  },
+  "gombitova marika|tak si so mnou opakuj": {
+    "year": 1987,
+    "duration_ms": 209800,
+    "duration": "3:30",
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 11,
+    "itunes_track_id": 1533354275
+  },
+  "berlin|take my breath away": {
+    "year": 1986,
+    "duration_ms": 255760,
+    "duration": "4:16",
+    "genre": "Pop",
+    "album": "Anos 80 - Nostalgia Internacionais",
+    "track_number": 18,
+    "itunes_track_id": 1796834407
+  },
+  "vengaboys|sha la la": "__MISS__",
+  "queen|i want to break free": {
+    "year": 1984,
+    "duration_ms": 258680,
+    "duration": "4:19",
+    "genre": "Rock",
+    "album": "The Platinum Collection",
+    "track_number": 5,
+    "itunes_track_id": 1440822371
+  },
+  "balogh berco|milionar": {
+    "year": 2007,
+    "duration_ms": 241747,
+    "duration": "4:02",
+    "genre": "Pop",
+    "album": "Siedmy pád",
+    "track_number": 11,
+    "itunes_track_id": 1672534960
+  },
+  "laid back|sunshine reggae": {
+    "year": 1981,
+    "duration_ms": 257667,
+    "duration": "4:18",
+    "genre": "Pop",
+    "album": "Good Vibes - The Very Best of Laid Back",
+    "track_number": 2,
+    "itunes_track_id": 693305942
+  },
+  "ventil rg|nervozna familia": {
+    "year": 2006,
+    "duration_ms": 191067,
+    "duration": "3:11",
+    "genre": "Reggae",
+    "album": "Ventil RG",
+    "track_number": 8,
+    "itunes_track_id": 1608301057
+  },
+  "jana kirschner|pokoj v dusi": {
+    "year": 2009,
+    "duration_ms": 211627,
+    "duration": "3:32",
+    "genre": "Soundtrack",
+    "album": "Pokoj v dusi (Original Soundtrack)",
+    "track_number": 1,
+    "itunes_track_id": 1533446326
+  },
+  "grigorov robo|monika": {
+    "year": 1987,
+    "duration_ms": 261016,
+    "duration": "4:21",
+    "genre": "Pop",
+    "album": "Midi",
+    "track_number": 10,
+    "itunes_track_id": 1475601333
+  },
+  "savage garden|to the moon and back": {
+    "year": 1996,
+    "duration_ms": 274707,
+    "duration": "4:35",
+    "genre": "Pop",
+    "album": "Essential 90's",
+    "track_number": 6,
+    "itunes_track_id": 1308574332
+  },
+  "michal david & kroky frantiska janecka|deti raje": {
+    "year": 1986,
+    "duration_ms": 191560,
+    "duration": "3:12",
+    "genre": "Pop",
+    "album": "Děti Ráje",
+    "track_number": 7,
+    "itunes_track_id": 1380713089
+  },
+  "filipova lenka|zamilovana": {
+    "year": 1980,
+    "duration_ms": 172800,
+    "duration": "2:53",
+    "genre": "Pop",
+    "album": "1982-92",
+    "track_number": 1,
+    "itunes_track_id": 1380700686
+  },
+  "richard muller|nasa laska leti": {
+    "year": 2006,
+    "duration_ms": 156067,
+    "duration": "2:36",
+    "genre": "Pop",
+    "album": "Retro",
+    "track_number": 6,
+    "itunes_track_id": 1442237245
+  },
+  "abba|mamma mia": {
+    "year": 1975,
+    "duration_ms": 212304,
+    "duration": "3:32",
+    "genre": "Pop",
+    "album": "ABBA (Bonus Track Version)",
+    "track_number": 1,
+    "itunes_track_id": 1440861294
+  },
+  "vanessa amorosi|absolutely everybody": "__MISS__"
 }
