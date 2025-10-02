@@ -3,12 +3,11 @@ name: Scrape Melody Playlist
 on:
   schedule:
     - cron: "*/5 * * * *"   # každých ~5 min (best-effort)
-  workflow_dispatch:        # manuálne spustenie
+  workflow_dispatch:
 
 permissions:
-  contents: write           # povolenie na commit/push
+  contents: write
 
-# zabráni súbežným behom na rovnakej vetve
 concurrency:
   group: playlist-main
   cancel-in-progress: true
@@ -36,7 +35,6 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
-      # Commitujeme len pri úspechu scraperu
       - name: Commit & push (commit → rebase → push)
         if: success()
         env:
@@ -46,7 +44,6 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # 1) Najprv commitni lokálne zmeny (ak nejaké sú)
           git add -A
           if git diff --cached --quiet; then
             echo "No changes."
@@ -56,10 +53,8 @@ jobs:
           ts=$(date +'%Y-%m-%dT%H:%M:%S%z')   # napr. 2025-10-02T08:54:43+0200
           git commit -m "update playlist $ts"
 
-          # 2) Potom zarovnaj históriu na remote (rebase + autostash)
           git pull --rebase --autostash origin main
 
-          # 3) Nakoniec push (s krátkym retry v prípade pretekov)
           for i in 1 2 3; do
             if git push; then
               echo "Push OK"
