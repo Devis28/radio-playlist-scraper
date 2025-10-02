@@ -2,19 +2,26 @@ name: Scrape Melody Playlist
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # aspoň každých 5 minút
-  workflow_dispatch:        # možnosť spustiť ručne
+    - cron: "*/5 * * * *"   # každých ~5 min (best-effort)
+  workflow_dispatch:        # manuálne spustenie
 
 permissions:
   contents: write           # povolenie na commit/push
+
+# zabráni súbežným behom na rovnakej vetve
+concurrency:
+  group: playlist-main
+  cancel-in-progress: true
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (full history)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # dôležité pre rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,25 +34,37 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run scraper
-        run: |
-          python scraper.py
+        run: python scraper.py
 
-      - name: Commit & push if changed (with rebase)
+      # Commitujeme len pri úspechu scraperu
+      - name: Commit & push (commit → rebase → push)
+        if: success()
         env:
-          TZ: Europe/Bratislava           # nastav časovú zónu pre 'date'
+          TZ: Europe/Bratislava   # lokálny čas v commit message
         run: |
-          git config user.name "github-actions[bot]"
+          set -e
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git fetch origin main
-          git rebase origin/main || (git rebase --abort && git pull --rebase origin main)
-
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git add -A
-            ts=$(date +'%Y-%m-%dT%H:%M:%S%z')   # napr. 2025-10-02T08:54:43+0200
-            git commit -m "update playlist $ts"
-            git push
-          else
+          # 1) Najprv commitni lokálne zmeny (ak nejaké sú)
+          git add -A
+          if git diff --cached --quiet; then
             echo "No changes."
+            exit 0
           fi
-      
+
+          ts=$(date +'%Y-%m-%dT%H:%M:%S%z')   # napr. 2025-10-02T08:54:43+0200
+          git commit -m "update playlist $ts"
+
+          # 2) Potom zarovnaj históriu na remote (rebase + autostash)
+          git pull --rebase --autostash origin main
+
+          # 3) Nakoniec push (s krátkym retry v prípade pretekov)
+          for i in 1 2 3; do
+            if git push; then
+              echo "Push OK"
+              break
+            fi
+            echo "Push failed, retrying ($i)..."
+            git pull --rebase --autostash origin main
+          done
