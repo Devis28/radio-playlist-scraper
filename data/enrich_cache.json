@@ -2582,5 +2582,341 @@
     "track_number": 1,
     "itunes_track_id": 1440861294
   },
-  "vanessa amorosi|absolutely everybody": "__MISS__"
+  "vanessa amorosi|absolutely everybody": "__MISS__",
+  "nocaden|v nas": {
+    "year": 2024,
+    "duration_ms": 258587,
+    "duration": "4:19",
+    "genre": "Pop",
+    "album": "Nocadeň v Prahe (Live 2024)",
+    "track_number": 2,
+    "itunes_track_id": 1783332289
+  },
+  "jennifer warnes/bill medley|the time of my life": "__MISS__",
+  "robert miles/maria nayler|one & one": {
+    "year": 1996,
+    "duration_ms": 584747,
+    "duration": "9:45",
+    "genre": "Dance",
+    "album": "Deconstruction Reconstructed 019",
+    "track_number": 3,
+    "itunes_track_id": 459118773
+  },
+  "habera pavol|kym pri mne spis": {
+    "year": 2000,
+    "duration_ms": 297467,
+    "duration": "4:57",
+    "genre": "Pop",
+    "album": "Boli Sme Raz Milovani",
+    "track_number": 1,
+    "itunes_track_id": 1443369055
+  },
+  "u2|with or without you": {
+    "year": 2023,
+    "duration_ms": 194813,
+    "duration": "3:15",
+    "genre": "Alternative",
+    "album": "Volume 4 - Bono",
+    "track_number": 1,
+    "itunes_track_id": 1664122786
+  },
+  "pet shop boys|go west": {
+    "year": 1993,
+    "duration_ms": 302360,
+    "duration": "5:02",
+    "genre": "Pop",
+    "album": "Ultimate",
+    "track_number": 11,
+    "itunes_track_id": 693154540
+  },
+  "hex|v piatok podvecer": {
+    "year": 2002,
+    "duration_ms": 216253,
+    "duration": "3:36",
+    "genre": "Pop",
+    "album": "Vikend",
+    "track_number": 2,
+    "itunes_track_id": 1443472888
+  },
+  "c.c. catch|cause you are young": {
+    "year": 1986,
+    "duration_ms": 209533,
+    "duration": "3:30",
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 1,
+    "itunes_track_id": 1799308902
+  },
+  "tublatanka|moj stary dobry kabat": {
+    "year": 1988,
+    "duration_ms": 197013,
+    "duration": "3:17",
+    "genre": "Pop",
+    "album": "Zeravé znamenie osudu",
+    "track_number": 10,
+    "itunes_track_id": 1533364088
+  },
+  "the george baker selection|paloma blanca": {
+    "year": 1975,
+    "duration_ms": 209360,
+    "duration": "3:29",
+    "genre": "Pop",
+    "album": "Paloma Blanca",
+    "track_number": 1,
+    "itunes_track_id": 781562839
+  },
+  "marie rottrova|skorapky orechu": {
+    "year": 2003,
+    "duration_ms": 209787,
+    "duration": "3:30",
+    "genre": "Pop",
+    "album": "Všechno Nejlepší...",
+    "track_number": 9,
+    "itunes_track_id": 1384705636
+  },
+  "modus|spoluhracka": {
+    "year": 2005,
+    "duration_ms": 205947,
+    "duration": "3:26",
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 6,
+    "itunes_track_id": 1533350775
+  },
+  "ricky martin|maria": {
+    "year": 1995,
+    "duration_ms": 271267,
+    "duration": "4:31",
+    "genre": "Pop",
+    "album": "Ricky Martin",
+    "track_number": 14,
+    "itunes_track_id": 192822985
+  },
+  "elan|tanecnice z lucnice": {
+    "year": 1986,
+    "duration_ms": 170800,
+    "duration": "2:51",
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 1,
+    "itunes_track_id": 1610601403
+  },
+  "kelecsenyi martin|musim uz ist": "__MISS__",
+  "the bee gees|secret love": {
+    "year": 1991,
+    "duration_ms": 222800,
+    "duration": "3:43",
+    "genre": "Pop",
+    "album": "High Civilization",
+    "track_number": 2,
+    "itunes_track_id": 1444070914
+  },
+  "pavol hammel|cez plece": {
+    "year": 2011,
+    "duration_ms": 152573,
+    "duration": "2:33",
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 10,
+    "itunes_track_id": 598346368
+  },
+  "peter nagy|uz je tu laska": {
+    "year": 2011,
+    "duration_ms": 177027,
+    "duration": "2:57",
+    "genre": "Pop",
+    "album": "Singles (1984-1988)",
+    "track_number": 4,
+    "itunes_track_id": 1533349149
+  },
+  "dr. alban|it's my life": {
+    "year": 1992,
+    "duration_ms": 243133,
+    "duration": "4:03",
+    "genre": "Pop",
+    "album": "One Love",
+    "track_number": 2,
+    "itunes_track_id": 1614485758
+  },
+  "elton john|nikita": {
+    "year": 1985,
+    "duration_ms": 343240,
+    "duration": "5:43",
+    "genre": "Pop",
+    "album": "Ice On Fire ((Remastered))",
+    "track_number": 4,
+    "itunes_track_id": 1440912804
+  },
+  "metalinda|jan amos dzinovy": {
+    "year": 1990,
+    "duration_ms": 336968,
+    "duration": "5:37",
+    "genre": "Rock",
+    "album": "Metalinda",
+    "track_number": 11,
+    "itunes_track_id": 1533361524
+  },
+  "rick astley|never gonna give you up": {
+    "year": 1987,
+    "duration_ms": 213560,
+    "duration": "3:34",
+    "genre": "Pop",
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "track_number": 1,
+    "itunes_track_id": 1624945512
+  },
+  "smatanova zuzana|ceresne": {
+    "year": 2008,
+    "duration_ms": 259387,
+    "duration": "4:19",
+    "genre": "Pop",
+    "album": "Best Of",
+    "track_number": 9,
+    "itunes_track_id": 748553854
+  },
+  "bad boys blue|come back and stay": {
+    "year": 1987,
+    "duration_ms": 247027,
+    "duration": "4:07",
+    "genre": "German Pop",
+    "album": "Super 20",
+    "track_number": 2,
+    "itunes_track_id": 1736764174
+  },
+  "rolincova darinka|az raz budem ucitelkou": {
+    "year": 1988,
+    "duration_ms": 189827,
+    "duration": "3:10",
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 8,
+    "itunes_track_id": 1594881956
+  },
+  "queen|the show must go on": {
+    "year": 1991,
+    "duration_ms": 271610,
+    "duration": "4:32",
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 22,
+    "itunes_track_id": 1435375504
+  },
+  "vidiek|nechajte si ju": {
+    "year": 1988,
+    "duration_ms": 171013,
+    "duration": "2:51",
+    "genre": "Pop",
+    "album": "Nechajte si ju!",
+    "track_number": 1,
+    "itunes_track_id": 1533367245
+  },
+  "madonna|frozen": {
+    "year": 1998,
+    "duration_ms": 367333,
+    "duration": "6:07",
+    "genre": "Pop",
+    "album": "Ray of Light",
+    "track_number": 9,
+    "itunes_track_id": 952683
+  },
+  "vaso patejdl|kamaratka nadej": {
+    "year": 1989,
+    "duration_ms": 192507,
+    "duration": "3:13",
+    "genre": "Pop",
+    "album": "Mon Amour",
+    "track_number": 2,
+    "itunes_track_id": 1533364707
+  },
+  "helena vondrackova|vzhuru k vyskam": {
+    "year": 1964,
+    "duration_ms": 233507,
+    "duration": "3:54",
+    "genre": "Pop",
+    "album": "Best of the Best",
+    "track_number": 14,
+    "itunes_track_id": 1772044538
+  },
+  "o'connor sinead|nothing compares 2 u": {
+    "year": 1990,
+    "duration_ms": 310880,
+    "duration": "5:11",
+    "genre": "Alternative",
+    "album": "I Do Not Want What I Haven't Got (Deluxe Edition)",
+    "track_number": 6,
+    "itunes_track_id": 1631057872
+  },
+  "habera pavol & ibrahim maiga|mama kami": "__MISS__",
+  "abba|fernando": {
+    "year": 1976,
+    "duration_ms": 253220,
+    "duration": "4:13",
+    "genre": "Pop",
+    "album": "Arrival (Bonus Track Version)",
+    "track_number": 11,
+    "itunes_track_id": 1440820846
+  },
+  "rimes leann|can't fight the moonlight": {
+    "year": 2000,
+    "duration_ms": 215507,
+    "duration": "3:36",
+    "genre": "Soundtrack",
+    "album": "Coyote Ugly",
+    "track_number": 1,
+    "itunes_track_id": 72267206
+  },
+  "minogue kylie|i should be so lucky": {
+    "year": 1987,
+    "duration_ms": 204128,
+    "duration": "3:24",
+    "genre": "Pop",
+    "album": "Kylie",
+    "track_number": 1,
+    "itunes_track_id": 1434579719
+  },
+  "grigorov robo|kym ta mam": {
+    "year": 2006,
+    "duration_ms": 261107,
+    "duration": "4:21",
+    "genre": "Pop",
+    "album": "Balady",
+    "track_number": 23,
+    "itunes_track_id": 1523201361
+  },
+  "peter nagy|az sa znova narodim": {
+    "year": 1987,
+    "duration_ms": 152800,
+    "duration": "2:33",
+    "genre": "Pop",
+    "album": "\"Ale\"",
+    "track_number": 8,
+    "itunes_track_id": 1533361744
+  },
+  "richard muller|spocitaj ma": {
+    "year": 2006,
+    "duration_ms": 275653,
+    "duration": "4:36",
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 7,
+    "itunes_track_id": 1443013039
+  },
+  "pointer sisters, the|i'm so excited": {
+    "year": 1982,
+    "duration_ms": 228440,
+    "duration": "3:48",
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 44,
+    "itunes_track_id": 355893656
+  },
+  "imt smile|nic nie je iste": {
+    "year": 2003,
+    "duration_ms": 241160,
+    "duration": "4:01",
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 11,
+    "itunes_track_id": 1443397973
+  }
 }
