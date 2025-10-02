@@ -3254,5 +3254,317 @@
     "album": "Hodiny Nehy",
     "track_number": 1,
     "itunes_track_id": 1462800028
+  },
+  "grigorov robo midi|chybas mi": "__MISS__",
+  "patejdl vaso|francuzky": {
+    "year": 1989,
+    "duration_ms": 262387,
+    "duration": "4:22",
+    "genre": "Pop",
+    "album": "Mon Amour",
+    "track_number": 1,
+    "itunes_track_id": 1533364706
+  },
+  "sandra|hiroshima": {
+    "year": 1990,
+    "duration_ms": 412160,
+    "duration": "6:52",
+    "genre": "Pop",
+    "album": "Paintings in Yellow",
+    "track_number": 1,
+    "itunes_track_id": 723699842
+  },
+  "geri halliwell|it's raining men": {
+    "year": 2001,
+    "duration_ms": 255160,
+    "duration": "4:15",
+    "genre": "Pop",
+    "album": "It's Raining Men - Single",
+    "track_number": 1,
+    "itunes_track_id": 695954970
+  },
+  "habera pavol|boli sme raz milovani": {
+    "year": 2000,
+    "duration_ms": 232293,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 5,
+    "itunes_track_id": 1569583574
+  },
+  "masquerade|guardian angel": {
+    "year": 2016,
+    "duration_ms": 259814,
+    "duration": "4:20",
+    "genre": "Alternative",
+    "album": "Echoes",
+    "track_number": 12,
+    "itunes_track_id": 1144437458
+  },
+  "polemic|ja som to vedel": {
+    "year": 2000,
+    "duration_ms": 149880,
+    "duration": "2:30",
+    "genre": "Rock",
+    "album": "Gangster-SKA",
+    "track_number": 9,
+    "itunes_track_id": 456488558
+  },
+  "louis armstrong|what a wonderful world": {
+    "year": 1967,
+    "duration_ms": 139434,
+    "duration": "2:19",
+    "genre": "Jazz",
+    "album": "What a Wonderful World",
+    "track_number": 1,
+    "itunes_track_id": 1440787254
+  },
+  "gombitova marika|spravne dievcata": "__MISS__",
+  "no name|lekna": {
+    "year": 2004,
+    "duration_ms": 210253,
+    "duration": "3:30",
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 3,
+    "itunes_track_id": 1442544694
+  },
+  "whitney houston|i will always love you": {
+    "year": 1992,
+    "duration_ms": 271093,
+    "duration": "4:31",
+    "genre": "Soundtrack",
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "track_number": 1,
+    "itunes_track_id": 388151901
+  },
+  "madonna|la isla bonita": {
+    "year": 1986,
+    "duration_ms": 242947,
+    "duration": "4:03",
+    "genre": "Pop",
+    "album": "Celebration (Deluxe Version)",
+    "track_number": 21,
+    "itunes_track_id": 329519370
+  },
+  "gladiator hammel pavol|pesnicka o medulienke": "__MISS__",
+  "bartosova iveta|malo me zna": {
+    "year": 1987,
+    "duration_ms": 224543,
+    "duration": "3:45",
+    "genre": "Pop",
+    "album": "I.B.",
+    "track_number": 3,
+    "itunes_track_id": 1385967069
+  },
+  "peter nagy|laska je tu s nami": {
+    "year": 1986,
+    "duration_ms": 254933,
+    "duration": "4:15",
+    "genre": "Pop",
+    "album": "Myslíš na to, na čo ja?",
+    "track_number": 9,
+    "itunes_track_id": 1533353666
+  },
+  "tobias szidi|chlap z kriza": "__MISS__",
+  "michal david|par pratel": {
+    "year": 1983,
+    "duration_ms": 212253,
+    "duration": "3:32",
+    "genre": "Pop",
+    "album": "Bláznivá Noc",
+    "track_number": 6,
+    "itunes_track_id": 1385983697
+  },
+  "richard muller|cigaretka na dva tahy": {
+    "year": 2018,
+    "duration_ms": 436587,
+    "duration": "7:17",
+    "genre": "Pop",
+    "album": "Koncert (Live)",
+    "track_number": 11,
+    "itunes_track_id": 1370930745
+  },
+  "ivan tasler & i.m.t. smile|cesty ii. triedy": {
+    "year": 2015,
+    "duration_ms": 234587,
+    "duration": "3:55",
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 9,
+    "itunes_track_id": 1443398162
+  },
+  "hegerova hana & hapka petr|levandulova": {
+    "year": 1964,
+    "duration_ms": 233187,
+    "duration": "3:53",
+    "genre": "Pop",
+    "album": "Nejvýznamnější Skladatelé České Populární Hudby Petr Hapka, Vol. 3 (1980-2003)",
+    "track_number": 7,
+    "itunes_track_id": 1384849509
+  },
+  "jozo raz|voda co ma drzi nad vodou": {
+    "year": 2002,
+    "duration_ms": 309392,
+    "duration": "5:09",
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 1,
+    "itunes_track_id": 339298676
+  },
+  "jiri schelinger|coz takhle dat si spenat": {
+    "year": 1973,
+    "duration_ms": 132800,
+    "duration": "2:13",
+    "genre": "Pop",
+    "album": "Jsem Prý Blázen Jen",
+    "track_number": 13,
+    "itunes_track_id": 1384686936
+  },
+  "gravis|daruj mi svoj najkrajsi den": {
+    "year": 1989,
+    "duration_ms": 194235,
+    "duration": "3:14",
+    "genre": "Pop",
+    "album": "Kolotoč masiek",
+    "track_number": 12,
+    "itunes_track_id": 1775956021
+  },
+  "vondrackova lucie|kdo te ma rad": {
+    "year": 1995,
+    "duration_ms": 260027,
+    "duration": "4:20",
+    "genre": "Pop",
+    "album": "Atlantida",
+    "track_number": 5,
+    "itunes_track_id": 1443273670
+  },
+  "robo grigorov|bosy a sam": "__MISS__",
+  "desmod & zuzana smatanova|par dni": {
+    "year": 2004,
+    "duration_ms": 210480,
+    "duration": "3:30",
+    "genre": "Rock",
+    "album": "Skupinova Terapia",
+    "track_number": 5,
+    "itunes_track_id": 456471721
+  },
+  "zbirka miro|s tebou": {
+    "year": 1983,
+    "duration_ms": 225040,
+    "duration": "3:45",
+    "genre": "Pop",
+    "album": "Roky a dni",
+    "track_number": 3,
+    "itunes_track_id": 1533354674
+  },
+  "bila lucie|trouba": {
+    "year": 1998,
+    "duration_ms": 211897,
+    "duration": "3:32",
+    "genre": "Pop",
+    "album": "Platinum Collection",
+    "track_number": 13,
+    "itunes_track_id": 734732997
+  },
+  "ladislav staidl|mzi ti do vlasu": {
+    "year": 1981,
+    "duration_ms": 162680,
+    "duration": "2:43",
+    "genre": "Pop",
+    "album": "Hitparáda 70. Let",
+    "track_number": 25,
+    "itunes_track_id": 1400024984
+  },
+  "gombitova marika|v obdobi dazda": {
+    "year": 1987,
+    "duration_ms": 237587,
+    "duration": "3:58",
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 2,
+    "itunes_track_id": 1533354250
+  },
+  "metalinda|slnko nevychadzaj": "__MISS__",
+  "zich karel & filipova lenka|mosty": {
+    "year": 2005,
+    "duration_ms": 188053,
+    "duration": "3:08",
+    "genre": "Pop",
+    "album": "Best of Lenka Filipova",
+    "track_number": 5,
+    "itunes_track_id": 1452884527
+  },
+  "bartosova iveta|leto": {
+    "year": 1998,
+    "duration_ms": 224920,
+    "duration": "3:45",
+    "genre": "Pop",
+    "album": "Nekonecna/Best Of",
+    "track_number": 1,
+    "itunes_track_id": 984842354
+  },
+  "buty|frantisek": {
+    "year": 1995,
+    "duration_ms": 244560,
+    "duration": "4:05",
+    "genre": "Pop",
+    "album": "Butykvariát",
+    "track_number": 18,
+    "itunes_track_id": 457369221
+  },
+  "adam durica|dovtedy": {
+    "year": 2016,
+    "duration_ms": 147750,
+    "duration": "2:28",
+    "genre": "Pop",
+    "album": "Spolu",
+    "track_number": 2,
+    "itunes_track_id": 1442346020
+  },
+  "michal david|colu, pijeme colu": {
+    "year": 2008,
+    "duration_ms": 253331,
+    "duration": "4:13",
+    "genre": "Pop",
+    "album": "Disco 2008",
+    "track_number": 2,
+    "itunes_track_id": 295869646
+  },
+  "money factor|vrat trochu lasky medzi nas": {
+    "year": 2008,
+    "duration_ms": 241760,
+    "duration": "4:02",
+    "genre": "Rock",
+    "album": "Rockové Balady",
+    "track_number": 10,
+    "itunes_track_id": 1292285334
+  },
+  "zagorova hana&rezek petr|duhova vila": {
+    "year": 1995,
+    "duration_ms": 169400,
+    "duration": "2:49",
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 14,
+    "itunes_track_id": 463999397
+  },
+  "janda dalibor|vzdycky jsem to ja": {
+    "year": 1982,
+    "duration_ms": 262147,
+    "duration": "4:22",
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 9,
+    "itunes_track_id": 1391890420
+  },
+  "vaclav neckar|mademoiselle giselle": {
+    "year": 1965,
+    "duration_ms": 177920,
+    "duration": "2:58",
+    "genre": "Pop",
+    "album": "Osmdesát / Největší hity 1965-2023",
+    "track_number": 39,
+    "itunes_track_id": 1744610509
   }
 }
