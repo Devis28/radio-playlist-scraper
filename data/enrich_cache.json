@@ -4950,5 +4950,349 @@
     "track_number": 5,
     "itunes_track_id": 266232820
   },
-  "desmod & majself|kometa": "__MISS__"
+  "desmod & majself|kometa": "__MISS__",
+  "gladiator|hlavu maj hore": {
+    "year": 2009,
+    "duration_ms": 203929,
+    "duration": "3:24",
+    "genre": "Rock",
+    "album": "Hlavu Maj Hore",
+    "track_number": 3,
+    "itunes_track_id": 335391366
+  },
+  "fool's garden|lemon tree": {
+    "year": 1995,
+    "duration_ms": 191027,
+    "duration": "3:11",
+    "genre": "Pop",
+    "album": "Dish of the Day",
+    "track_number": 3,
+    "itunes_track_id": 1642728104
+  },
+  "cara irene|flashdance": "__MISS__",
+  "jana kirschner|zienka domaca": {
+    "year": 2000,
+    "duration_ms": 240987,
+    "duration": "4:01",
+    "genre": "Pop",
+    "album": "16 Naj Pesničiek",
+    "track_number": 4,
+    "itunes_track_id": 1442412430
+  },
+  "carey mariah|hero": {
+    "year": 2023,
+    "duration_ms": 258590,
+    "duration": "4:19",
+    "genre": "Pop",
+    "album": "Music Box: 30th Anniversary Edition",
+    "track_number": 6,
+    "itunes_track_id": 1703283276
+  },
+  "fox samantha|touch me": {
+    "year": 1986,
+    "duration_ms": 213684,
+    "duration": "3:34",
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 93,
+    "itunes_track_id": 355894735
+  },
+  "camouflage|love is the shield": {
+    "year": 1997,
+    "duration_ms": 236000,
+    "duration": "3:56",
+    "genre": "Pop",
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "track_number": 9,
+    "itunes_track_id": 1443771633
+  },
+  "imt smile|niekto ako kral": {
+    "year": 2006,
+    "duration_ms": 207533,
+    "duration": "3:28",
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 20,
+    "itunes_track_id": 1443398146
+  },
+  "falco|jeanny": {
+    "year": 1999,
+    "duration_ms": 392933,
+    "duration": "6:33",
+    "genre": "Pop",
+    "album": "Live Forever",
+    "track_number": 2,
+    "itunes_track_id": 216694584
+  },
+  "vaso patejdl|tri stvrte na jesen": {
+    "year": 1986,
+    "duration_ms": 298267,
+    "duration": "4:58",
+    "genre": "Pop",
+    "album": "Chlapcenský úsmev",
+    "track_number": 11,
+    "itunes_track_id": 1533364013
+  },
+  "elan|mladata": {
+    "year": 2021,
+    "duration_ms": 239107,
+    "duration": "3:59",
+    "genre": "Rock",
+    "album": "Ôsmy svetadiel (Remastered)",
+    "track_number": 3,
+    "itunes_track_id": 1610600839
+  },
+  "robbie williams|she's the one": {
+    "year": 1998,
+    "duration_ms": 258027,
+    "duration": "4:18",
+    "genre": "Pop",
+    "album": "I've Been Expecting You",
+    "track_number": 10,
+    "itunes_track_id": 727506210
+  },
+  "survivor|eye of the tiger": {
+    "year": 1982,
+    "duration_ms": 243773,
+    "duration": "4:04",
+    "genre": "Rock",
+    "album": "Eye of the Tiger",
+    "track_number": 1,
+    "itunes_track_id": 456794433
+  },
+  "no name|dakujem ze si": {
+    "year": 2001,
+    "duration_ms": 202120,
+    "duration": "3:22",
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 19,
+    "itunes_track_id": 1442544512
+  },
+  "lenka filipova|pry se tomu rika laska": {
+    "year": 1980,
+    "duration_ms": 213253,
+    "duration": "3:33",
+    "genre": "Pop",
+    "album": "1982-92",
+    "track_number": 6,
+    "itunes_track_id": 1380700888
+  },
+  "snap|rhythm is a dancer": {
+    "year": 1992,
+    "duration_ms": 225882,
+    "duration": "3:46",
+    "genre": "Dance",
+    "album": "The Madman's Return",
+    "track_number": 9,
+    "itunes_track_id": 1437353059
+  },
+  "tikaram tanita|twist in my sobriety": {
+    "year": 1987,
+    "duration_ms": 290787,
+    "duration": "4:51",
+    "genre": "Pop",
+    "album": "Ancient Heart",
+    "track_number": 7,
+    "itunes_track_id": 355030168
+  },
+  "maria cirova|unikat": {
+    "year": 2016,
+    "duration_ms": 206360,
+    "duration": "3:26",
+    "genre": "Pop",
+    "album": "Unikát - Single",
+    "track_number": 1,
+    "itunes_track_id": 1705653634
+  },
+  "desmod|v dolinach": {
+    "year": 2006,
+    "duration_ms": 206547,
+    "duration": "3:27",
+    "genre": "Rock",
+    "album": "Uhol Pohladu",
+    "track_number": 11,
+    "itunes_track_id": 456469266
+  },
+  "elton john|i'm still standing": {
+    "year": 1983,
+    "duration_ms": 183440,
+    "duration": "3:03",
+    "genre": "Pop",
+    "album": "Too Low For Zero (Bonus Track Version)",
+    "track_number": 2,
+    "itunes_track_id": 1440912993
+  },
+  "peter bic project|stoj": {
+    "year": 2019,
+    "duration_ms": 309780,
+    "duration": "5:10",
+    "genre": "Pop",
+    "album": "Labyrint",
+    "track_number": 5,
+    "itunes_track_id": 1483757217
+  },
+  "team|lietam v tom tiez": {
+    "year": 1989,
+    "duration_ms": 233253,
+    "duration": "3:53",
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 6,
+    "itunes_track_id": 1533365403
+  },
+  "i.m.t smile & smatanova zuzana|usmev a caj": "__MISS__",
+  "n'dour youssou & cherry neneh|7 seconds": {
+    "year": 1994,
+    "duration_ms": 306227,
+    "duration": "5:06",
+    "genre": "Worldwide",
+    "album": "The Guide (Wommat)",
+    "track_number": 5,
+    "itunes_track_id": 192760096
+  },
+  "rolincova darina|ak nahodou": {
+    "year": 1987,
+    "duration_ms": 163067,
+    "duration": "2:43",
+    "genre": "Pop",
+    "album": "Kto Chce & Ak Náhodou - Single",
+    "track_number": 2,
+    "itunes_track_id": 1386872714
+  },
+  "zbirka miro|22 dni": {
+    "year": 1984,
+    "duration_ms": 222640,
+    "duration": "3:43",
+    "genre": "Pop",
+    "album": "Nemoderný chalan",
+    "track_number": 1,
+    "itunes_track_id": 1533353410
+  },
+  "roxette|joyride": {
+    "year": 1991,
+    "duration_ms": 263093,
+    "duration": "4:23",
+    "genre": "Pop",
+    "album": "Joyride (30th Anniversary Edition)",
+    "track_number": 1,
+    "itunes_track_id": 1590539083
+  },
+  "madam|mama preco nie som pekna": {
+    "year": 2007,
+    "duration_ms": 269880,
+    "duration": "4:30",
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 12,
+    "itunes_track_id": 1533449783
+  },
+  "olivia newton-john and electric light orchestra|xanadu": {
+    "year": 1980,
+    "duration_ms": 208240,
+    "duration": "3:28",
+    "genre": "Soundtrack",
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "track_number": 10,
+    "itunes_track_id": 324213374
+  },
+  "polemic|komplikovana": {
+    "year": 2000,
+    "duration_ms": 186560,
+    "duration": "3:07",
+    "genre": "Rock",
+    "album": "Gangster-SKA",
+    "track_number": 8,
+    "itunes_track_id": 456488553
+  },
+  "status quo|in the army now": {
+    "year": 1986,
+    "duration_ms": 281147,
+    "duration": "4:41",
+    "genre": "Rock",
+    "album": "In the Army Now - The Collection",
+    "track_number": 1,
+    "itunes_track_id": 1440748598
+  },
+  "cirova maria|bez obav": {
+    "year": 2011,
+    "duration_ms": 247707,
+    "duration": "4:08",
+    "genre": "Pop",
+    "album": "Na Dosah",
+    "track_number": 1,
+    "itunes_track_id": 475760837
+  },
+  "wonder stevie|i just called to say i love you": {
+    "year": 2002,
+    "duration_ms": 262598,
+    "duration": "4:23",
+    "genre": "R&B/Soul",
+    "album": "The Definitive Collection",
+    "track_number": 19,
+    "itunes_track_id": 1446743353
+  },
+  "beata dubasova|pierko pravdy": {
+    "year": 2023,
+    "duration_ms": 190000,
+    "duration": "3:10",
+    "genre": "Pop",
+    "album": "Pierko pravdy - Single",
+    "track_number": 1,
+    "itunes_track_id": 1675384189
+  },
+  "braxton toni|un-break my heart": {
+    "year": 1996,
+    "duration_ms": 270333,
+    "duration": "4:30",
+    "genre": "R&B/Soul",
+    "album": "Secrets",
+    "track_number": 4,
+    "itunes_track_id": 526521417
+  },
+  "carmen, eric|hungry eyes": {
+    "year": 1987,
+    "duration_ms": 248427,
+    "duration": "4:08",
+    "genre": "Soundtrack",
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "track_number": 4,
+    "itunes_track_id": 254938785
+  },
+  "elan|neobzerajte sa pani lotova": {
+    "year": 1986,
+    "duration_ms": 164893,
+    "duration": "2:45",
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 4,
+    "itunes_track_id": 1610602060
+  },
+  "smokie|don't play your rock 'n' roll to me": {
+    "year": 1975,
+    "duration_ms": 196867,
+    "duration": "3:17",
+    "genre": "Rock",
+    "album": "The Best of Smokie",
+    "track_number": 3,
+    "itunes_track_id": 255980542
+  },
+  "big mountain|baby, i love your way": {
+    "year": 1994,
+    "duration_ms": 249520,
+    "duration": "4:10",
+    "genre": "Rock",
+    "album": "Unity",
+    "track_number": 7,
+    "itunes_track_id": 847366090
+  },
+  "muller richard|ako vanok": {
+    "year": 2004,
+    "duration_ms": 189107,
+    "duration": "3:09",
+    "genre": "Pop",
+    "album": "01",
+    "track_number": 7,
+    "itunes_track_id": 1442398267
+  }
 }
