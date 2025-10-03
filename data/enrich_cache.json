@@ -7310,5 +7310,37 @@
     "album": "Complete Of",
     "track_number": 2,
     "itunes_track_id": 497997248
+  },
+  "alphaville|dance with me": {
+    "year": 1986,
+    "duration_ms": 240933,
+    "genre": "Pop",
+    "album": "First Harvest 1984-1992",
+    "track_number": 7,
+    "itunes_track_id": 73254975
+  },
+  "ice mc|think about the way": {
+    "year": 1994,
+    "duration_ms": 260973,
+    "genre": "Dance",
+    "album": "Ice 'n' Green",
+    "track_number": 4,
+    "itunes_track_id": 496870267
+  },
+  "rolincova darinka|co o mne vies": {
+    "year": 1987,
+    "duration_ms": 161133,
+    "genre": "Pop",
+    "album": "Čo O Mne Vieš",
+    "track_number": 1,
+    "itunes_track_id": 1384909503
+  },
+  "the pretenders|don't get me wrong": {
+    "year": 1986,
+    "duration_ms": 227626,
+    "genre": "Pop",
+    "album": "Get Close (2007 Remaster)",
+    "track_number": 6,
+    "itunes_track_id": 1496250293
   }
 }
