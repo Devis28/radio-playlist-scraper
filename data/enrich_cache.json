@@ -7014,5 +7014,69 @@
     "album": "Pavol Habera",
     "track_number": 2,
     "itunes_track_id": 1707823055
+  },
+  "aerosmith|crazy": {
+    "year": 1993,
+    "duration_ms": 316966,
+    "duration": "5:17",
+    "genre": "Pop",
+    "album": "Get A Grip",
+    "track_number": 11,
+    "itunes_track_id": 1680799492
+  },
+  "raz jozo|prva laska": "__MISS__",
+  "barbra streisand|memory": {
+    "year": 1981,
+    "duration_ms": 233280,
+    "duration": "3:53",
+    "genre": "Vocal",
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "track_number": 8,
+    "itunes_track_id": 397278143
+  },
+  "freddie mercury|i was born to love you": {
+    "year": 1985,
+    "duration_ms": 219373,
+    "duration": "3:39",
+    "genre": "Rock",
+    "album": "Messenger Of The Gods: The Singles Collection",
+    "track_number": 7,
+    "itunes_track_id": 1697484812
+  },
+  "patejdl, vaso|ak nie si moja": {
+    "year": 1986,
+    "duration_ms": 252013,
+    "duration": "4:12",
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 13,
+    "itunes_track_id": 1533446318
+  },
+  "bonnie bianco & pierre cosso|stay": {
+    "year": 2008,
+    "duration_ms": 231598,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "Stay",
+    "track_number": 1,
+    "itunes_track_id": 280728865
+  },
+  "banket|po schodoch": {
+    "year": 1986,
+    "duration_ms": 189000,
+    "duration": "3:09",
+    "genre": "Pop",
+    "album": "Bioelektrovízia",
+    "track_number": 6,
+    "itunes_track_id": 1533432119
+  },
+  "soulsister|the way to your heart": {
+    "year": 1988,
+    "duration_ms": 226187,
+    "duration": "3:46",
+    "genre": "Pop",
+    "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
+    "track_number": 7,
+    "itunes_track_id": 715589899
   }
 }

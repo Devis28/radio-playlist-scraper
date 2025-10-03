@@ -1,5 +1,41 @@
 [
   {
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "03.10.2025",
+    "time": "07:31",
+    "year": 1984,
+    "duration_ms": 392267,
+    "duration": "6:32",
+    "genre": "Pop",
+    "album": "Make It Big",
+    "track_number": 8
+  },
+  {
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "03.10.2025",
+    "time": "07:22",
+    "year": 1996,
+    "duration_ms": 264547,
+    "duration": "4:25",
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 8
+  },
+  {
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "03.10.2025",
+    "time": "07:18",
+    "year": 1974,
+    "duration_ms": 276467,
+    "duration": "4:36",
+    "genre": "R&B/Soul",
+    "album": "Can't Get Enough",
+    "track_number": 2
+  },
+  {
     "title": "Dva A Dva",
     "artist": "Elán",
     "date": "03.10.2025",
@@ -15760,12 +15796,12 @@
     "artist": "Aerosmith",
     "date": "29.09.2025",
     "time": "17:55",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1993,
+    "duration_ms": 316966,
+    "duration": "5:17",
+    "genre": "Pop",
+    "album": "Get A Grip",
+    "track_number": 11
   },
   {
     "title": "Báječná Ženská",
@@ -15796,12 +15832,12 @@
     "artist": "Barbra Streisand",
     "date": "29.09.2025",
     "time": "17:42",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1981,
+    "duration_ms": 233280,
+    "duration": "3:53",
+    "genre": "Vocal",
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "track_number": 8
   },
   {
     "title": "Co Bolí To Přebolí",
@@ -15820,12 +15856,12 @@
     "artist": "Freddie Mercury",
     "date": "29.09.2025",
     "time": "17:35",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1985,
+    "duration_ms": 219373,
+    "duration": "3:39",
+    "genre": "Rock",
+    "album": "Messenger Of The Gods: The Singles Collection",
+    "track_number": 7
   },
   {
     "title": "Fuoco Nel Fuoco",
@@ -15856,12 +15892,12 @@
     "artist": "Patejdl, Vaso",
     "date": "29.09.2025",
     "time": "17:23",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1986,
+    "duration_ms": 252013,
+    "duration": "4:12",
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 13
   },
   {
     "title": "Be My Lover",
@@ -15880,12 +15916,12 @@
     "artist": "Bonnie Bianco & Pierre Cosso",
     "date": "29.09.2025",
     "time": "17:13",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2008,
+    "duration_ms": 231598,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "Stay",
+    "track_number": 1
   },
   {
     "title": "Není Všechno Paráda",
@@ -15952,12 +15988,12 @@
     "artist": "Banket",
     "date": "29.09.2025",
     "time": "16:48",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1986,
+    "duration_ms": 189000,
+    "duration": "3:09",
+    "genre": "Pop",
+    "album": "Bioelektrovízia",
+    "track_number": 6
   },
   {
     "title": "Touch By Touch",
@@ -16000,12 +16036,12 @@
     "artist": "Soulsister",
     "date": "29.09.2025",
     "time": "16:32",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1988,
+    "duration_ms": 226187,
+    "duration": "3:46",
+    "genre": "Pop",
+    "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
+    "track_number": 7
   },
   {
     "title": "What Is Love",
