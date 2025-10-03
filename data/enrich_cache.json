@@ -7096,5 +7096,14 @@
     "album": "Ring (Deluxe Edition)",
     "track_number": 3,
     "itunes_track_id": 1689482611
+  },
+  "culture club|karma chameleon": {
+    "year": 1983,
+    "duration_ms": 252773,
+    "duration": "4:13",
+    "genre": "Rock",
+    "album": "Colour By Numbers",
+    "track_number": 1,
+    "itunes_track_id": 724214046
   }
 }
