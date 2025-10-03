@@ -1,5 +1,46 @@
 [
   {
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "04.10.2025",
+    "time": "01:53",
+    "year": 1980,
+    "duration_ms": 264000,
+    "genre": "Pop",
+    "album": "Sun of Jamaica",
+    "track_number": 7,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "74 - 75",
+    "artist": "The Connells",
+    "date": "04.10.2025",
+    "time": "01:48",
+    "year": 1993,
+    "duration_ms": 279107,
+    "genre": "Rock",
+    "album": "Ring (Deluxe Edition)",
+    "track_number": 3,
+    "artist_country": "US",
+    "songwriters": [
+      "Mike Connell"
+    ]
+  },
+  {
+    "title": "Náhlenie",
+    "artist": "Heckovci Julia A Peter",
+    "date": "04.10.2025",
+    "time": "01:45",
+    "year": 1987,
+    "duration_ms": 228818,
+    "genre": "Pop",
+    "album": "Taliansky muzikál",
+    "track_number": 2,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Stay",
     "artist": "Bonnie Bianco & Pierre Cosso",
     "date": "04.10.2025",
@@ -3766,7 +3807,9 @@
     "album": "Ring (Deluxe Edition)",
     "track_number": 3,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mike Connell"
+    ]
   },
   {
     "title": "Atlantis Is Calling (S.O.S. For Love)",
