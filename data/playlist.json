@@ -1,289 +1,5 @@
 [
   {
-    "title": "99 Luftballons",
-    "artist": "Nena",
-    "date": "03.10.2025",
-    "time": "23:20",
-    "year": 1983,
-    "duration_ms": 231467,
-    "genre": "Pop",
-    "album": "Nena",
-    "track_number": 6,
-    "artist_country": "DE",
-    "songwriters": [
-      "Carlo Karges",
-      "Jörn‐Uwe Fahrenkrog‐Petersen"
-    ]
-  },
-  {
-    "title": "I Promised Myself",
-    "artist": "Kamen, Nick",
-    "date": "03.10.2025",
-    "time": "23:16",
-    "year": 1990,
-    "duration_ms": 240773,
-    "genre": "Pop",
-    "album": "Move Until We Fly",
-    "track_number": 1,
-    "artist_country": "Not found",
-    "songwriters": "Not found"
-  },
-  {
-    "title": "Hooray! Hooray! Is A Holi-Holiday",
-    "artist": "Boney M",
-    "date": "03.10.2025",
-    "time": "23:13",
-    "year": 1979,
-    "duration_ms": 235600,
-    "genre": "Pop",
-    "album": "The Greatest Hits",
-    "track_number": 8,
-    "artist_country": "DE",
-    "songwriters": "Not found"
-  },
-  {
-    "title": "Taliansky Muzikál",
-    "artist": "Júlia a Peter Hečkovci",
-    "date": "03.10.2025",
-    "time": "23:10",
-    "year": 1987,
-    "duration_ms": 164771,
-    "genre": "Pop",
-    "album": "Taliansky muzikál",
-    "track_number": 1,
-    "artist_country": "Not found",
-    "songwriters": "Not found"
-  },
-  {
-    "title": "Don't Worry",
-    "artist": "Kim Appleby",
-    "date": "03.10.2025",
-    "time": "23:06",
-    "year": 1990,
-    "duration_ms": 210933,
-    "genre": "Pop",
-    "album": "Don't Worry - Single",
-    "track_number": 1,
-    "artist_country": "GB",
-    "songwriters": [
-      "Craig Logan",
-      "Kim Appleby"
-    ]
-  },
-  {
-    "title": "Malá Nočná Búrka",
-    "artist": "Team",
-    "date": "03.10.2025",
-    "time": "23:02",
-    "year": 1988,
-    "duration_ms": 246560,
-    "genre": "Pop",
-    "album": "Team",
-    "track_number": 6,
-    "artist_country": "SK",
-    "songwriters": "Not found"
-  },
-  {
-    "title": "Decibely Lásky",
-    "artist": "David Michal Kroky Františka Janečka",
-    "date": "03.10.2025",
-    "time": "22:59",
-    "year": 1986,
-    "duration_ms": 193239,
-    "genre": "Pop",
-    "album": "Děti Ráje",
-    "track_number": 13,
-    "artist_country": "Not found",
-    "songwriters": "Not found"
-  },
-  {
-    "title": "Copacabana At The Copa",
-    "artist": "Barry Manilow",
-    "date": "03.10.2025",
-    "time": "22:55",
-    "year": 1978,
-    "duration_ms": 236760,
-    "genre": "Pop",
-    "album": "Dance Vault Mixes: Copacabana (At the Copa) - EP",
-    "track_number": 1,
-    "artist_country": "US",
-    "songwriters": [
-      "Barry Manilow",
-      "Bruce Sussman",
-      "Jack Feldman"
-    ]
-  },
-  {
-    "title": "Úsmev",
-    "artist": "Modus",
-    "date": "03.10.2025",
-    "time": "22:51",
-    "year": 2005,
-    "duration_ms": 208853,
-    "genre": "Pop",
-    "album": "GOLD",
-    "track_number": 1,
-    "artist_country": "SK",
-    "songwriters": "Not found"
-  },
-  {
-    "title": "All Night Long (All Night)",
-    "artist": "Richie Lionel",
-    "date": "03.10.2025",
-    "time": "22:47",
-    "year": 1983,
-    "duration_ms": 385085,
-    "genre": "R&B/Soul",
-    "album": "Can't Slow Down",
-    "track_number": 2,
-    "artist_country": "Not found",
-    "songwriters": [
-      "Lionel Richie"
-    ]
-  },
-  {
-    "title": "Believe",
-    "artist": "Cher",
-    "date": "03.10.2025",
-    "time": "22:43",
-    "year": 1998,
-    "duration_ms": 239027,
-    "genre": "Pop",
-    "album": "Believe",
-    "track_number": 1,
-    "artist_country": "US",
-    "songwriters": [
-      "Brian Higgins",
-      "Matt Gray",
-      "Paul Barry",
-      "Steve Torch",
-      "Stuart McLennan",
-      "Tim Powell"
-    ]
-  },
-  {
-    "title": "Come On Eileen",
-    "artist": "Dexy's Midnight Runners",
-    "date": "03.10.2025",
-    "time": "22:39",
-    "year": 1982,
-    "duration_ms": 273933,
-    "genre": "Pop",
-    "album": "Too Rye Ay",
-    "track_number": 10,
-    "artist_country": "Not found",
-    "songwriters": [
-      "Jimmy Paterson",
-      "Kevin Adams",
-      "Kevin Rowland"
-    ]
-  },
-  {
-    "title": "Študentská Láska",
-    "artist": "Marika Gombitová",
-    "date": "03.10.2025",
-    "time": "22:36",
-    "year": 2016,
-    "duration_ms": 202960,
-    "genre": "Pop",
-    "album": "Single (1977 - 1989)",
-    "track_number": 5,
-    "artist_country": "SK",
-    "songwriters": "Not found"
-  },
-  {
-    "title": "I Love Your Smile",
-    "artist": "Shanice",
-    "date": "03.10.2025",
-    "time": "22:32",
-    "year": 1991,
-    "duration_ms": 259627,
-    "genre": "R&B/Soul",
-    "album": "Ultimate Collection: Shanice",
-    "track_number": 3,
-    "artist_country": "US",
-    "songwriters": [
-      "Jarvis Baker",
-      "Narada Michael Walden",
-      "Shanice",
-      "Sylvester Jackson"
-    ]
-  },
-  {
-    "title": "Lambada",
-    "artist": "Kaoma",
-    "date": "03.10.2025",
-    "time": "22:28",
-    "year": 1989,
-    "duration_ms": 207467,
-    "genre": "Latin",
-    "album": "La Lambada",
-    "track_number": 1,
-    "artist_country": "FR",
-    "songwriters": [
-      "Gonzalo Hermosa",
-      "Ulises Hermosa"
-    ]
-  },
-  {
-    "title": "Stars",
-    "artist": "Simply Red",
-    "date": "03.10.2025",
-    "time": "22:24",
-    "year": 1991,
-    "duration_ms": 248600,
-    "genre": "Pop",
-    "album": "The Greatest Hits",
-    "track_number": 2,
-    "artist_country": "GB",
-    "songwriters": [
-      "Mick Hucknall"
-    ]
-  },
-  {
-    "title": "Love Changes(Everything)",
-    "artist": "Climie Fisher",
-    "date": "03.10.2025",
-    "time": "22:20",
-    "year": 1987,
-    "duration_ms": 271467,
-    "genre": "New Wave",
-    "album": "Everything",
-    "track_number": 1,
-    "artist_country": "GB",
-    "songwriters": [
-      "Dennis Morgan",
-      "Rob Fisher",
-      "Simon Climie"
-    ]
-  },
-  {
-    "title": "Hráli Jsme Kličkovanou",
-    "artist": "Janda Dalibor",
-    "date": "03.10.2025",
-    "time": "22:17",
-    "year": 1982,
-    "duration_ms": 180120,
-    "genre": "Pop",
-    "album": "Velký Flám (Zlaté Album)",
-    "track_number": 2,
-    "artist_country": "Not found",
-    "songwriters": "Not found"
-  },
-  {
-    "title": "Cuba",
-    "artist": "The Gibson Brothers",
-    "date": "03.10.2025",
-    "time": "22:13",
-    "year": 2005,
-    "duration_ms": 218707,
-    "genre": "Pop",
-    "album": "Sunshine - Single",
-    "track_number": 2,
-    "artist_country": "US",
-    "songwriters": "Not found"
-  },
-  {
     "title": "Living On My Own",
     "artist": "Mercury Freddie",
     "date": "03.10.2025",
@@ -791,7 +507,10 @@
     "album": "Eye of the Tiger",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frankie Sullivan",
+      "Jim Peterik"
+    ]
   },
   {
     "title": "Povedzme",
@@ -1090,7 +809,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
   },
   {
     "title": "Čím To Je",
@@ -1116,7 +838,10 @@
     "album": "Holky Z Naší Školky (Největší Hity)",
     "track_number": 1,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jan Krůta",
+      "Karel Vágner"
+    ]
   },
   {
     "title": "Láska Moja",
@@ -1155,7 +880,10 @@
     "album": "Bioelektrovízia",
     "track_number": 6,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniel Mikletič",
+      "Vašo Patejdl"
+    ]
   },
   {
     "title": "Studánko Stříbrná",
@@ -1220,7 +948,13 @@
     "album": "The Platinum Collection",
     "track_number": 1,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Curly M.C.",
+      "David Fairstein",
+      "F. Gregorian",
+      "Frank Peterson",
+      "Michael Cretu"
+    ]
   },
   {
     "title": "Joe Le Taxi",
@@ -1246,7 +980,10 @@
     "album": "GOLD",
     "track_number": 2,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
   },
   {
     "title": "Tisíckrát Krásnější",
@@ -1272,7 +1009,10 @@
     "album": "What a Wonderful World",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bob Thiele",
+      "George David Weiss"
+    ]
   },
   {
     "title": "Sha La La",
@@ -1298,7 +1038,10 @@
     "album": "Tell It to My Heart (Expanded Edition)",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ernie Gold",
+      "Seth Swirsky"
+    ]
   },
   {
     "title": "Na Kameni Kámen",
@@ -1350,7 +1093,9 @@
     "album": "The 30 Biggest Hits XXX",
     "track_number": 10,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Per Gessle"
+    ]
   },
   {
     "title": "Nothing's Gonna Change My Love For You",
@@ -1363,7 +1108,10 @@
     "album": "Nothing's Gonna Change My Love for You",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Gerry Goffin",
+      "Michael Masser"
+    ]
   },
   {
     "title": "Tancujem S Tebou Rád",
@@ -1389,7 +1137,9 @@
     "album": "Nobody Else (Expanded Edition)",
     "track_number": 2,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Gary Barlow"
+    ]
   },
   {
     "title": "I Want To Break Free",
@@ -1402,7 +1152,9 @@
     "album": "The Platinum Collection",
     "track_number": 5,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "John Deacon"
+    ]
   },
   {
     "title": "Hero",
@@ -1415,7 +1167,10 @@
     "album": "Music Box: 30th Anniversary Edition",
     "track_number": 6,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mariah Carey",
+      "Walter Afanasieff"
+    ]
   },
   {
     "title": "Words",
@@ -1441,7 +1196,11 @@
     "album": "Greatest Hits",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniel Vangarde",
+      "Jean Kluger",
+      "Nelly Byl"
+    ]
   },
   {
     "title": "Everlasting Love",
@@ -1454,7 +1213,10 @@
     "album": "18 Greatest Hits: Sandra",
     "track_number": 8,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "James “Buzz” Cason",
+      "Mac Gayden"
+    ]
   },
   {
     "title": "(Everything I Do) I Do It For You",
@@ -1467,7 +1229,11 @@
     "album": "Never Say Never",
     "track_number": 16,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bryan Adams",
+      "Michael Kamen",
+      "Robert John “Mutt” Lange"
+    ]
   },
   {
     "title": "Living Next Door To Alice",
@@ -1493,7 +1259,11 @@
     "album": "Samantha Fox",
     "track_number": 6,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
   },
   {
     "title": "Chíldren",
@@ -1506,7 +1276,9 @@
     "album": "Dreamland (Including One and One)",
     "track_number": 1,
     "artist_country": "IT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Roberto Concina"
+    ]
   },
   {
     "title": "Boat On The River",
@@ -1519,7 +1291,9 @@
     "album": "Greatest Hits, Pt. 2",
     "track_number": 8,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Tommy Shaw"
+    ]
   },
   {
     "title": "L' Italiano",
@@ -1558,7 +1332,12 @@
     "album": "The Greatest Hits",
     "track_number": 2,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brent Dowe",
+      "Frank Farian",
+      "George Reyam",
+      "Trevor McNaughton"
+    ]
   },
   {
     "title": "Leave A Light On",
@@ -1571,7 +1350,10 @@
     "album": "Runaway Horses",
     "track_number": 1,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ellen Shipley",
+      "Rick Nowels"
+    ]
   },
   {
     "title": "Love To Hate You",
@@ -1584,7 +1366,10 @@
     "album": "Hits! The Very Best of Erasure",
     "track_number": 10,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
   },
   {
     "title": "Sailing",
@@ -1597,7 +1382,9 @@
     "album": "Some Guys Have All the Luck",
     "track_number": 6,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Gavin Sutherland"
+    ]
   },
   {
     "title": "Sará Perché Ti Amo",
@@ -1610,7 +1397,11 @@
     "album": "Ricchi e Poveri: The Collection",
     "track_number": 7,
     "artist_country": "IT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniele Pace",
+      "Dario Farina",
+      "Enzo Ghinazzi"
+    ]
   },
   {
     "title": "I'd Love You To Want Me",
@@ -1623,7 +1414,9 @@
     "album": "I'd Love You To Want Me - Single",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Lobo"
+    ]
   },
   {
     "title": "Ján Ámos Džínový",
@@ -1701,7 +1494,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "John Hill",
+      "Shakira"
+    ]
   },
   {
     "title": "The Tide Is High",
@@ -1714,7 +1510,11 @@
     "album": "Autoamerican (Bonus Track) [2001 Remaster]",
     "track_number": 4,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Howard Barrett",
+      "John Holt",
+      "Tyrone Evans"
+    ]
   },
   {
     "title": "Ôsmy Svetadiel",
@@ -1740,7 +1540,9 @@
     "album": "Ten Summoner's Tales",
     "track_number": 3,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Sting"
+    ]
   },
   {
     "title": "Never Gonna Give You Up",
@@ -1753,7 +1555,11 @@
     "album": "Whenever You Need Somebody (2022 Remaster)",
     "track_number": 1,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
   },
   {
     "title": "Sacrifice",
@@ -1818,7 +1624,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
   },
   {
     "title": "Snad Jsem To Zavinil Já",
@@ -1857,7 +1666,10 @@
     "album": "Complete Of",
     "track_number": 1,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Pavol Jursa",
+      "Vašo Patejdl"
+    ]
   },
   {
     "title": "Hey Jude",
@@ -1896,7 +1708,9 @@
     "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
     "track_number": 7,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Michael Jackson"
+    ]
   },
   {
     "title": "Znala Panna Pána",
@@ -1935,7 +1749,10 @@
     "album": "L'autre",
     "track_number": 2,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
   },
   {
     "title": "The Time Of My Life",
@@ -1961,7 +1778,10 @@
     "album": "The Best of Smokie",
     "track_number": 5,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
   },
   {
     "title": "It's Raining Men",
@@ -1974,7 +1794,10 @@
     "album": "It's Raining Men - Single",
     "track_number": 1,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Paul Jabara",
+      "Paul Shaffer"
+    ]
   },
   {
     "title": "Beds Are Burning",
@@ -1987,7 +1810,11 @@
     "album": "Diesel and Dust (2008 Remaster)",
     "track_number": 1,
     "artist_country": "AU",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jim Moginie",
+      "Peter Garrett",
+      "Rob Hirst"
+    ]
   },
   {
     "title": "Balada O Polných Vtákoch",
@@ -2013,7 +1840,11 @@
     "album": "Get A Grip",
     "track_number": 11,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Desmond Child",
+      "Joe Perry",
+      "Steven Tyler"
+    ]
   },
   {
     "title": "Chlapci V Pasci",
@@ -2065,7 +1896,10 @@
     "album": "80s 100 Hits",
     "track_number": 10,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "John Hurley",
+      "Ronnie Wilkins"
+    ]
   },
   {
     "title": "Primášovo Srdce",
@@ -2091,7 +1925,9 @@
     "album": "Greatest Hits",
     "track_number": 14,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bruce Springsteen"
+    ]
   },
   {
     "title": "Kamaráti",
@@ -2169,7 +2005,11 @@
     "album": "ABBA (Bonus Track Version)",
     "track_number": 1,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "I Was Born To Love You",
@@ -2182,7 +2022,9 @@
     "album": "Messenger Of The Gods: The Singles Collection",
     "track_number": 7,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Freddie Mercury"
+    ]
   },
   {
     "title": "O Bláznech",
@@ -2221,7 +2063,10 @@
     "album": "Promilujem celou noc",
     "track_number": 14,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jan Černý",
+      "Janek Ledecký"
+    ]
   },
   {
     "title": "Can't Help Falling In Love",
@@ -2260,7 +2105,10 @@
     "album": "The Amazing Kamikaze Syndrome (Expanded)",
     "track_number": 5,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jim Lea",
+      "Noddy Holder"
+    ]
   },
   {
     "title": "Angels",
@@ -2273,7 +2121,10 @@
     "album": "Life Thru a Lens",
     "track_number": 4,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ]
   },
   {
     "title": "Cez Plece",
@@ -2299,7 +2150,9 @@
     "album": "Synchronicity (Remastered 2003)",
     "track_number": 7,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Sting"
+    ]
   },
   {
     "title": "Sen",
@@ -2325,7 +2178,10 @@
     "album": "Seasons In The Sun (Expanded Edition)",
     "track_number": 11,
     "artist_country": "CA",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jacques Brel",
+      "Rod McKuen"
+    ]
   },
   {
     "title": "I Just Called To Say I Love You",
@@ -2338,7 +2194,9 @@
     "album": "The Definitive Collection",
     "track_number": 19,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Stevie Wonder"
+    ]
   },
   {
     "title": "Ma Baker",
@@ -2351,7 +2209,11 @@
     "album": "The Greatest Hits",
     "track_number": 4,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frank Farian",
+      "Fred Jay",
+      "George Reyam"
+    ]
   },
   {
     "title": "Bon Soir, Mademoiselle Paris",
@@ -2377,7 +2239,12 @@
     "album": "1984",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alex Van Halen",
+      "David Lee Roth",
+      "Edward Van Halen",
+      "Michael Anthony"
+    ]
   },
   {
     "title": "V Slepých Uličkách",
@@ -2429,7 +2296,11 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 7,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Vráť Mi Tie Hviezdy",
@@ -2455,7 +2326,10 @@
     "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
     "track_number": 7,
     "artist_country": "BE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jan Leyers",
+      "Paul Michiels"
+    ]
   },
   {
     "title": "Šípková Růženka",
@@ -2468,7 +2342,11 @@
     "album": "Holubí Dům",
     "track_number": 7,
     "artist_country": "XC",
-    "songwriters": "Not found"
+    "songwriters": [
+      "David Coverdale",
+      "Ritchie Blackmore",
+      "Zdeněk Svěrák"
+    ]
   },
   {
     "title": "Black Velvet",
@@ -2481,7 +2359,10 @@
     "album": "Alannah Myles",
     "track_number": 3,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Christopher Ward",
+      "David Tyson"
+    ]
   },
   {
     "title": "Klasika",
@@ -2494,7 +2375,10 @@
     "album": "Detektívka",
     "track_number": 2,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Boris Filan",
+      "Ján Baláž"
+    ]
   },
   {
     "title": "If You Can't Give Me Love",
@@ -2507,7 +2391,10 @@
     "album": "The Wild One: The Greatest Hits",
     "track_number": 12,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
   },
   {
     "title": "One & One",
@@ -2533,7 +2420,12 @@
     "album": "Bohemian Rhapsody (The Original Soundtrack)",
     "track_number": 22,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brian May",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor"
+    ]
   },
   {
     "title": "One Way Ticket",
@@ -7891,7 +7783,10 @@
     "album": "Hits! The Very Best of Erasure",
     "track_number": 10,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
   },
   {
     "title": "I Just Died In Your Arms",
@@ -8138,7 +8033,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "John Hill",
+      "Shakira"
+    ]
   },
   {
     "title": "Za Všechno Může Čas",
@@ -8203,7 +8101,10 @@
     "album": "L'autre",
     "track_number": 2,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
   },
   {
     "title": "Chcel By Som Ti Šepkať",
@@ -8320,7 +8221,10 @@
     "album": "Seasons In The Sun (Expanded Edition)",
     "track_number": 11,
     "artist_country": "CA",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jacques Brel",
+      "Rod McKuen"
+    ]
   },
   {
     "title": "Preč, Preč",
@@ -8502,7 +8406,9 @@
     "album": "The 30 Biggest Hits XXX",
     "track_number": 10,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Per Gessle"
+    ]
   },
   {
     "title": "El Condor Pasa",
@@ -8580,7 +8486,9 @@
     "album": "The Platinum Collection",
     "track_number": 5,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "John Deacon"
+    ]
   },
   {
     "title": "Milionár",
@@ -8710,7 +8618,11 @@
     "album": "ABBA (Bonus Track Version)",
     "track_number": 1,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Absolutely Everybody",
@@ -8996,7 +8908,11 @@
     "album": "Whenever You Need Somebody (2022 Remaster)",
     "track_number": 1,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
   },
   {
     "title": "Čerešne",
@@ -9048,7 +8964,12 @@
     "album": "Bohemian Rhapsody (The Original Soundtrack)",
     "track_number": 22,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brian May",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor"
+    ]
   },
   {
     "title": "Nechajte Si Ju",
@@ -9529,7 +9450,11 @@
     "album": "Greatest Hits",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniel Vangarde",
+      "Jean Kluger",
+      "Nelly Byl"
+    ]
   },
   {
     "title": "Kto Z Nás Dvoch Sa Lásky Opýta?",
@@ -9646,7 +9571,11 @@
     "album": "Never Say Never",
     "track_number": 16,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bryan Adams",
+      "Michael Kamen",
+      "Robert John “Mutt” Lange"
+    ]
   },
   {
     "title": "Pomaranče z Kuby",
@@ -9792,7 +9721,10 @@
     "album": "It's Raining Men - Single",
     "track_number": 1,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Paul Jabara",
+      "Paul Shaffer"
+    ]
   },
   {
     "title": "Boli Sme Raz Milovaní",
@@ -9844,7 +9776,10 @@
     "album": "What a Wonderful World",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bob Thiele",
+      "George David Weiss"
+    ]
   },
   {
     "title": "Správne Dievčatá",
@@ -10078,7 +10013,10 @@
     "album": "Gold",
     "track_number": 11,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
   },
   {
     "title": "Pár Dní",
@@ -10663,7 +10601,10 @@
     "album": "Life Thru a Lens",
     "track_number": 4,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ]
   },
   {
     "title": "Úsmev",
@@ -10715,7 +10656,11 @@
     "album": "The Greatest Hits",
     "track_number": 4,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frank Farian",
+      "Fred Jay",
+      "George Reyam"
+    ]
   },
   {
     "title": "Vráť Mi Tie Hviezdy",
@@ -10780,7 +10725,10 @@
     "album": "The Best of Smokie",
     "track_number": 5,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
   },
   {
     "title": "Believe",
@@ -10793,14 +10741,7 @@
     "album": "Believe",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": [
-      "Brian Higgins",
-      "Matt Gray",
-      "Paul Barry",
-      "Steve Torch",
-      "Stuart McLennan",
-      "Tim Powell"
-    ]
+    "songwriters": "Not found"
   },
   {
     "title": "Snídane V Tráve",
@@ -10826,7 +10767,11 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 7,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Over My Shoulder",
@@ -10878,7 +10823,10 @@
     "album": "The Wild One: The Greatest Hits",
     "track_number": 12,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
   },
   {
     "title": "Made In Italy",
@@ -11064,7 +11012,9 @@
     "album": "Greatest Hits, Pt. 2",
     "track_number": 8,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Tommy Shaw"
+    ]
   },
   {
     "title": "Kingston Town",
@@ -11090,7 +11040,10 @@
     "album": "GOLD",
     "track_number": 2,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
   },
   {
     "title": "Chíldren",
@@ -11103,7 +11056,9 @@
     "album": "Dreamland (Including One and One)",
     "track_number": 1,
     "artist_country": "IT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Roberto Concina"
+    ]
   },
   {
     "title": "Sme Svoji",
@@ -11180,7 +11135,7 @@
     "genre": "Rock",
     "album": "Classic",
     "track_number": 5,
-    "artist_country": "Not found",
+    "artist_country": "CA",
     "songwriters": "Not found"
   },
   {
@@ -11311,7 +11266,10 @@
     "album": "18 Greatest Hits: Sandra",
     "track_number": 8,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "James “Buzz” Cason",
+      "Mac Gayden"
+    ]
   },
   {
     "title": "Hej Pane Diskžokej",
@@ -11376,7 +11334,9 @@
     "album": "I'd Love You To Want Me - Single",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Lobo"
+    ]
   },
   {
     "title": "Together Forever",
@@ -11415,7 +11375,12 @@
     "album": "The Greatest Hits",
     "track_number": 2,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brent Dowe",
+      "Frank Farian",
+      "George Reyam",
+      "Trevor McNaughton"
+    ]
   },
   {
     "title": "True Colors",
@@ -11545,7 +11510,10 @@
     "album": "Hits! The Very Best of Erasure",
     "track_number": 10,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
   },
   {
     "title": "Take My Breath Away",
@@ -11766,7 +11734,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "John Hill",
+      "Shakira"
+    ]
   },
   {
     "title": "Hey Jude",
@@ -11818,7 +11789,9 @@
     "album": "Some Guys Have All the Luck",
     "track_number": 6,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Gavin Sutherland"
+    ]
   },
   {
     "title": "Total Eclipse Of The Heart",
@@ -11857,7 +11830,10 @@
     "album": "L'autre",
     "track_number": 2,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
   },
   {
     "title": "Up Where We Belong",
@@ -12039,7 +12015,9 @@
     "album": "The 30 Biggest Hits XXX",
     "track_number": 10,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Per Gessle"
+    ]
   },
   {
     "title": "Znala Panna Pána",
@@ -12078,7 +12056,9 @@
     "album": "The Platinum Collection",
     "track_number": 5,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "John Deacon"
+    ]
   },
   {
     "title": "Pokoj V Duši",
@@ -12247,7 +12227,10 @@
     "album": "Seasons In The Sun (Expanded Edition)",
     "track_number": 11,
     "artist_country": "CA",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jacques Brel",
+      "Rod McKuen"
+    ]
   },
   {
     "title": "Skorápky Orechú",
@@ -12416,7 +12399,12 @@
     "album": "Bohemian Rhapsody (The Original Soundtrack)",
     "track_number": 22,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brian May",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor"
+    ]
   },
   {
     "title": "Cez Plece",
@@ -12442,7 +12430,11 @@
     "album": "Whenever You Need Somebody (2022 Remaster)",
     "track_number": 1,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
   },
   {
     "title": "Frozen",
@@ -12468,7 +12460,11 @@
     "album": "ABBA (Bonus Track Version)",
     "track_number": 1,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Secret Love",
@@ -12637,7 +12633,10 @@
     "album": "Complete Of",
     "track_number": 1,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Pavol Jursa",
+      "Vašo Patejdl"
+    ]
   },
   {
     "title": "Stumblin' In",
@@ -12663,9 +12662,7 @@
     "album": "The Greatest Hits",
     "track_number": 2,
     "artist_country": "GB",
-    "songwriters": [
-      "Mick Hucknall"
-    ]
+    "songwriters": "Not found"
   },
   {
     "title": "Decibely Lásky",
@@ -13159,7 +13156,9 @@
     "album": "Nobody Else (Expanded Edition)",
     "track_number": 2,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Gary Barlow"
+    ]
   },
   {
     "title": "Jasná Zpráva",
@@ -13367,7 +13366,10 @@
     "album": "Music Box: 30th Anniversary Edition",
     "track_number": 6,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mariah Carey",
+      "Walter Afanasieff"
+    ]
   },
   {
     "title": "Touch Me (I Want Your Body)",
@@ -13497,7 +13499,10 @@
     "album": "Eye of the Tiger",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frankie Sullivan",
+      "Jim Peterik"
+    ]
   },
   {
     "title": "Čardáš Dvoch Sŕdc",
@@ -13874,7 +13879,9 @@
     "album": "The Definitive Collection",
     "track_number": 19,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Stevie Wonder"
+    ]
   },
   {
     "title": "Pierko pravdy",
@@ -14316,7 +14323,9 @@
     "album": "Greatest Hits",
     "track_number": 14,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bruce Springsteen"
+    ]
   },
   {
     "title": "Múr Našich Lások",
@@ -14341,7 +14350,7 @@
     "genre": "Soundtrack",
     "album": "Spirit: Stallion of the Cimarron (Music from the Original Motion Picture)",
     "track_number": 1,
-    "artist_country": "Not found",
+    "artist_country": "CA",
     "songwriters": "Not found"
   },
   {
@@ -14368,7 +14377,9 @@
     "album": "Synchronicity (Remastered 2003)",
     "track_number": 7,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Sting"
+    ]
   },
   {
     "title": "Mumuland",
@@ -15151,7 +15162,11 @@
     "album": "Holubí Dům",
     "track_number": 7,
     "artist_country": "XC",
-    "songwriters": "Not found"
+    "songwriters": [
+      "David Coverdale",
+      "Ritchie Blackmore",
+      "Zdeněk Svěrák"
+    ]
   },
   {
     "title": "Klasika",
@@ -15164,7 +15179,10 @@
     "album": "Detektívka",
     "track_number": 2,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Boris Filan",
+      "Ján Baláž"
+    ]
   },
   {
     "title": "Take A Chance On Me",
@@ -15595,7 +15613,10 @@
     "album": "Promilujem celou noc",
     "track_number": 14,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jan Černý",
+      "Janek Ledecký"
+    ]
   },
   {
     "title": "Bozk",
@@ -15842,7 +15863,13 @@
     "album": "The Platinum Collection",
     "track_number": 1,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Curly M.C.",
+      "David Fairstein",
+      "F. Gregorian",
+      "Frank Peterson",
+      "Michael Cretu"
+    ]
   },
   {
     "title": "Kdo Vchází Do Tvých Snů Má Lásko",
@@ -16024,7 +16051,11 @@
     "album": "Ricchi e Poveri: The Collection",
     "track_number": 7,
     "artist_country": "IT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniele Pace",
+      "Dario Farina",
+      "Enzo Ghinazzi"
+    ]
   },
   {
     "title": "Mexican Girl",
@@ -16156,9 +16187,7 @@
     "album": "The Greatest Hits",
     "track_number": 2,
     "artist_country": "GB",
-    "songwriters": [
-      "Mick Hucknall"
-    ]
+    "songwriters": "Not found"
   },
   {
     "title": "Veľký Sen Mora",
@@ -16197,7 +16226,10 @@
     "album": "Complete Of",
     "track_number": 1,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Pavol Jursa",
+      "Vašo Patejdl"
+    ]
   },
   {
     "title": "Hotel California",
@@ -16626,7 +16658,9 @@
     "album": "Nobody Else (Expanded Edition)",
     "track_number": 2,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Gary Barlow"
+    ]
   },
   {
     "title": "Mamma Maria",
@@ -16782,7 +16816,10 @@
     "album": "Music Box: 30th Anniversary Edition",
     "track_number": 6,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mariah Carey",
+      "Walter Afanasieff"
+    ]
   },
   {
     "title": "Stumblin' In",
@@ -16964,7 +17001,10 @@
     "album": "Eye of the Tiger",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frankie Sullivan",
+      "Jim Peterik"
+    ]
   },
   {
     "title": "Twist In My Sobriety",
@@ -17041,7 +17081,7 @@
     "genre": "Rock",
     "album": "Reckless (30th Anniversary)",
     "track_number": 4,
-    "artist_country": "Not found",
+    "artist_country": "CA",
     "songwriters": "Not found"
   },
   {
@@ -17185,7 +17225,9 @@
     "album": "The 30 Biggest Hits XXX",
     "track_number": 10,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Per Gessle"
+    ]
   },
   {
     "title": "Človečina",
@@ -17249,7 +17291,7 @@
     "genre": "Pop",
     "album": "Only You (1999 Mix)",
     "track_number": 6,
-    "artist_country": "Not found",
+    "artist_country": "GB",
     "songwriters": "Not found"
   },
   {
@@ -17488,7 +17530,9 @@
     "album": "Ten Summoner's Tales",
     "track_number": 3,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Sting"
+    ]
   },
   {
     "title": "The Locomotion",
@@ -17670,7 +17714,9 @@
     "album": "Greatest Hits, Pt. 2",
     "track_number": 8,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Tommy Shaw"
+    ]
   },
   {
     "title": "Live Is Life",
@@ -17761,7 +17807,11 @@
     "album": "Greatest Hits",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniel Vangarde",
+      "Jean Kluger",
+      "Nelly Byl"
+    ]
   },
   {
     "title": "Black Velvet",
@@ -17774,7 +17824,10 @@
     "album": "Alannah Myles",
     "track_number": 3,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Christopher Ward",
+      "David Tyson"
+    ]
   },
   {
     "title": "Mmuoj Boze",
@@ -17800,10 +17853,7 @@
     "album": "La Lambada",
     "track_number": 1,
     "artist_country": "FR",
-    "songwriters": [
-      "Gonzalo Hermosa",
-      "Ulises Hermosa"
-    ]
+    "songwriters": "Not found"
   },
   {
     "title": "Vráť Mi Tie Hviezdy",
@@ -17933,7 +17983,12 @@
     "album": "The Greatest Hits",
     "track_number": 2,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brent Dowe",
+      "Frank Farian",
+      "George Reyam",
+      "Trevor McNaughton"
+    ]
   },
   {
     "title": "Nedá Sa Újsť",
@@ -17985,7 +18040,10 @@
     "album": "L'autre",
     "track_number": 2,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
   },
   {
     "title": "One Of Us",
@@ -18024,7 +18082,10 @@
     "album": "Nothing's Gonna Change My Love for You",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Gerry Goffin",
+      "Michael Masser"
+    ]
   },
   {
     "title": "Sen",
@@ -18219,7 +18280,10 @@
     "album": "Tell It to My Heart (Expanded Edition)",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ernie Gold",
+      "Seth Swirsky"
+    ]
   },
   {
     "title": "Love To Hate You",
@@ -18232,7 +18296,10 @@
     "album": "Hits! The Very Best of Erasure",
     "track_number": 10,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
   },
   {
     "title": "It Must Have Been Love",
@@ -18297,7 +18364,10 @@
     "album": "Runaway Horses",
     "track_number": 1,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ellen Shipley",
+      "Rick Nowels"
+    ]
   },
   {
     "title": "Stoj",
@@ -18349,7 +18419,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "John Hill",
+      "Shakira"
+    ]
   },
   {
     "title": "Čím To Je",
@@ -18492,14 +18565,7 @@
     "album": "Believe",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": [
-      "Brian Higgins",
-      "Matt Gray",
-      "Paul Barry",
-      "Steve Torch",
-      "Stuart McLennan",
-      "Tim Powell"
-    ]
+    "songwriters": "Not found"
   },
   {
     "title": "Joyride",
@@ -18525,7 +18591,10 @@
     "album": "The Wild One: The Greatest Hits",
     "track_number": 12,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
   },
   {
     "title": "Let It Be",
@@ -18629,7 +18698,10 @@
     "album": "Life Thru a Lens",
     "track_number": 4,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ]
   },
   {
     "title": "Over The Rainbow/What A Wonderful World",
@@ -18785,7 +18857,9 @@
     "album": "The Definitive Collection",
     "track_number": 19,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Stevie Wonder"
+    ]
   },
   {
     "title": "Pierko pravdy",
@@ -18850,7 +18924,10 @@
     "album": "GOLD",
     "track_number": 2,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
   },
   {
     "title": "Hungry Eyes",
@@ -19279,7 +19356,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
   },
   {
     "title": "Neľutujem",
@@ -19500,7 +19580,11 @@
     "album": "Autoamerican (Bonus Track) [2001 Remaster]",
     "track_number": 4,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Howard Barrett",
+      "John Holt",
+      "Tyrone Evans"
+    ]
   },
   {
     "title": "The Riddle",
@@ -19552,7 +19636,9 @@
     "album": "Dreamland (Including One and One)",
     "track_number": 1,
     "artist_country": "IT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Roberto Concina"
+    ]
   },
   {
     "title": "Voulez Vous",
@@ -19630,7 +19716,9 @@
     "album": "Greatest Hits",
     "track_number": 14,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bruce Springsteen"
+    ]
   },
   {
     "title": "Dievča Neplač",
@@ -20280,7 +20368,11 @@
     "album": "Get A Grip",
     "track_number": 11,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Desmond Child",
+      "Joe Perry",
+      "Steven Tyler"
+    ]
   },
   {
     "title": "Báječná Ženská",
@@ -20345,7 +20437,9 @@
     "album": "Messenger Of The Gods: The Singles Collection",
     "track_number": 7,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Freddie Mercury"
+    ]
   },
   {
     "title": "Fuoco Nel Fuoco",
@@ -20488,7 +20582,10 @@
     "album": "Bioelektrovízia",
     "track_number": 6,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniel Mikletič",
+      "Vašo Patejdl"
+    ]
   },
   {
     "title": "Touch By Touch",
@@ -20540,7 +20637,10 @@
     "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
     "track_number": 7,
     "artist_country": "BE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jan Leyers",
+      "Paul Michiels"
+    ]
   },
   {
     "title": "What Is Love",
