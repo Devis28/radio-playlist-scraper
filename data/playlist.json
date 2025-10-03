@@ -1,5 +1,41 @@
 [
   {
+    "title": "Víc Než Přítel",
+    "artist": "Černoch Karel Brabec Filip",
+    "date": "03.10.2025",
+    "time": "19:28",
+    "year": 1968,
+    "duration_ms": 257880,
+    "genre": "Country",
+    "album": "Setkání",
+    "track_number": 2,
+    "artist_country": "Not found"
+  },
+  {
+    "title": "Sen",
+    "artist": "Mc Erik And Barbara",
+    "date": "03.10.2025",
+    "time": "19:25",
+    "year": 1996,
+    "duration_ms": 218427,
+    "genre": "Pop",
+    "album": "Second",
+    "track_number": 13,
+    "artist_country": "SK"
+  },
+  {
+    "title": "Všichni Jsou Už V Mexiku",
+    "artist": "Michal Tučný",
+    "date": "03.10.2025",
+    "time": "19:20",
+    "year": 1980,
+    "duration_ms": 257333,
+    "genre": "Traditional Country",
+    "album": "Jižanský Rok",
+    "track_number": 16,
+    "artist_country": "CZ"
+  },
+  {
     "title": "Stestí",
     "artist": "Rottrová Marie",
     "date": "03.10.2025",
@@ -1221,7 +1257,7 @@
     "genre": "Rock",
     "album": "The Amazing Kamikaze Syndrome (Expanded)",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Angels",
@@ -1233,7 +1269,7 @@
     "genre": "Pop",
     "album": "Life Thru a Lens",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Cez Plece",
@@ -1245,7 +1281,7 @@
     "genre": "Pop",
     "album": "The Best Of Pavol Hammel",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Every Breath You Take",
@@ -1257,7 +1293,7 @@
     "genre": "Rock",
     "album": "Synchronicity (Remastered 2003)",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Sen",
@@ -1269,7 +1305,7 @@
     "genre": "Pop",
     "album": "Cerny Kocky Mokry Zaby",
     "track_number": 13,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Seasons In The Sun",
@@ -1281,7 +1317,7 @@
     "genre": "Rock",
     "album": "Seasons In The Sun (Expanded Edition)",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "CA"
   },
   {
     "title": "I Just Called To Say I Love You",
@@ -1317,7 +1353,7 @@
     "genre": "Pop",
     "album": "Bon soir, mademoiselle Paris",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Jump",
@@ -1329,7 +1365,7 @@
     "genre": "Hard Rock",
     "album": "1984",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "V Slepých Uličkách",
@@ -1353,7 +1389,7 @@
     "genre": "Pop",
     "album": "Everytime We Touch (Remastered) - Single",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Jinak To Nejde",
@@ -1401,7 +1437,7 @@
     "genre": "Pop",
     "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "BE"
   },
   {
     "title": "Šípková Růženka",
@@ -1413,7 +1449,7 @@
     "genre": "Pop",
     "album": "Holubí Dům",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "Black Velvet",
@@ -1449,7 +1485,7 @@
     "genre": "Rock",
     "album": "The Wild One: The Greatest Hits",
     "track_number": 12,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "One & One",
@@ -1485,7 +1521,7 @@
     "genre": "Pop",
     "album": "4 Hits: Eruption - EP",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Flashdance ( What A Feeling )",
@@ -1509,7 +1545,7 @@
     "genre": "Pop",
     "album": "7edem",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Yes Sir, I Can Boogie",
@@ -1521,7 +1557,7 @@
     "genre": "Pop",
     "album": "Baccara",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "ES"
   },
   {
     "title": "Čerešně",
@@ -1533,7 +1569,7 @@
     "genre": "Pop",
     "album": "Všechno Nejlepší",
     "track_number": 25,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Rhythm Is A Dancer",
@@ -1545,7 +1581,7 @@
     "genre": "Dance",
     "album": "The Madman's Return",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "DE"
   },
   {
     "title": "Holubí Dúm",
@@ -1557,7 +1593,7 @@
     "genre": "Not found",
     "album": "Holubí dům",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "Heartbreak Hotel",
@@ -1581,7 +1617,7 @@
     "genre": "Pop",
     "album": "Keep the Faith",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Paloma Blanca",
@@ -1617,7 +1653,7 @@
     "genre": "Pop",
     "album": "You - Single",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "NL"
   },
   {
     "title": "Šiel, Šiel",
@@ -1653,7 +1689,7 @@
     "genre": "Soundtrack",
     "album": "Pokoj v dusi (Original Soundtrack)",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Cherish",
@@ -1665,7 +1701,7 @@
     "genre": "R&B/Soul",
     "album": "Emergency",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "El Condor Pasa",
@@ -1689,7 +1725,7 @@
     "genre": "Pop",
     "album": "22x Ilona - Best Of",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Lietam V Tom Tiež",
@@ -1701,7 +1737,7 @@
     "genre": "Pop",
     "album": "Prichytený pri živote",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Vzhůru K Výškám",
@@ -1725,7 +1761,7 @@
     "genre": "Pop",
     "album": "One Love",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SE"
   },
   {
     "title": "Stay",
@@ -1749,7 +1785,7 @@
     "genre": "Rock",
     "album": "KISS Off The Soundboard: Live In Virginia Beach",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Pěkná Pěkná Pěkná",
@@ -1785,7 +1821,7 @@
     "genre": "Rock",
     "album": "Abbey Road (Remastered)",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Go West",
@@ -1797,7 +1833,7 @@
     "genre": "Pop",
     "album": "Ultimate",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Be My Lover",
@@ -1893,7 +1929,7 @@
     "genre": "Pop",
     "album": "Prichytený pri živote",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "To Be With You",
@@ -1941,7 +1977,7 @@
     "genre": "Hard Rock",
     "album": "Slippery When Wet",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "74 - 75",
@@ -2397,7 +2433,7 @@
     "genre": "Pop",
     "album": "Team 3",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Big In Japan",
@@ -2613,7 +2649,7 @@
     "genre": "Pop",
     "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
     "track_number": 72,
-    "artist_country": "Not found"
+    "artist_country": "ES"
   },
   {
     "title": "Marcel Z Malého Mesta",
@@ -2721,7 +2757,7 @@
     "genre": "Pop",
     "album": "Team 3",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Cesta do rozprávky",
@@ -3201,7 +3237,7 @@
     "genre": "Pop",
     "album": "Watching My Mind",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Malý Princ",
@@ -3249,7 +3285,7 @@
     "genre": "Rock",
     "album": "Team 4",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Maniac",
@@ -3453,7 +3489,7 @@
     "genre": "Rock",
     "album": "Top Medleys",
     "track_number": 83,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Věnování",
@@ -3597,7 +3633,7 @@
     "genre": "Pop",
     "album": "Team",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Šumienky Z Polomu",
@@ -3909,7 +3945,7 @@
     "genre": "Pop",
     "album": "U Can’t Stop",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Ulica",
@@ -4185,7 +4221,7 @@
     "genre": "Pop",
     "album": "Vše nejlepší 88-99",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Řeka Lásky",
@@ -4329,7 +4365,7 @@
     "genre": "Pop",
     "album": "Best of… 1988–2005",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Som On (Snežný Pluh)",
@@ -4389,7 +4425,7 @@
     "genre": "Pop",
     "album": "Život je ...",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Knoflíky Lásky",
@@ -4425,7 +4461,7 @@
     "genre": "Pop",
     "album": "Lucie v opeře",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Hej, Sokoly!",
@@ -4809,7 +4845,7 @@
     "genre": "Rock",
     "album": "Come Together: Beatles in the '90s",
     "track_number": 18,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Netrpezliví",
@@ -4953,7 +4989,7 @@
     "genre": "Pop",
     "album": "Cross Road",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Time After Time",
@@ -5097,7 +5133,7 @@
     "genre": "Pop",
     "album": "Team",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Se Bastasse Una Canzone",
@@ -5853,7 +5889,7 @@
     "genre": "Pop",
     "album": "Team 3",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Hands Up",
@@ -5937,7 +5973,7 @@
     "genre": "Pop",
     "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
     "track_number": 72,
-    "artist_country": "Not found"
+    "artist_country": "ES"
   },
   {
     "title": "Aj Keď Bez Peňazí",
@@ -6105,7 +6141,7 @@
     "genre": "Pop",
     "album": "Team 3",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "I Will Survive",
@@ -6129,7 +6165,7 @@
     "genre": "Pop",
     "album": "Watching My Mind",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Čakám Ťa, Láska",
@@ -6753,7 +6789,7 @@
     "genre": "Not found",
     "album": "Holubí dům",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "Dolce Vita",
@@ -6777,7 +6813,7 @@
     "genre": "Rock",
     "album": "THE BEST OF PAVOL HAMMEL",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Největší Z Nálezů A Ztrát",
@@ -6813,7 +6849,7 @@
     "genre": "Rock",
     "album": "Seasons In The Sun (Expanded Edition)",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "CA"
   },
   {
     "title": "Preč, Preč",
@@ -7101,7 +7137,7 @@
     "genre": "Soundtrack",
     "album": "Pokoj v dusi (Original Soundtrack)",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Monika",
@@ -7245,7 +7281,7 @@
     "genre": "Pop",
     "album": "Ultimate",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "V Piatok Podvečer",
@@ -7377,7 +7413,7 @@
     "genre": "Pop",
     "album": "The Best Of Pavol Hammel",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Už Je Tu Láska",
@@ -7401,7 +7437,7 @@
     "genre": "Pop",
     "album": "One Love",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SE"
   },
   {
     "title": "Nikita",
@@ -7725,7 +7761,7 @@
     "genre": "Pop",
     "album": "V Cudzom Meste",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Slnečný Kalendár",
@@ -7809,7 +7845,7 @@
     "genre": "Pop",
     "album": "Keep the Faith",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Stonka",
@@ -7941,7 +7977,7 @@
     "genre": "Pop",
     "album": "Team",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Fuoco Nel Fuoco",
@@ -8121,7 +8157,7 @@
     "genre": "Pop",
     "album": "Escapology",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Ôsmy Svetadiel",
@@ -8397,7 +8433,7 @@
     "genre": "Pop",
     "album": "Jsem Prý Blázen Jen",
     "track_number": 13,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "Daruj Mi Svoj Najkrajší Deň",
@@ -8709,7 +8745,7 @@
     "genre": "Pop",
     "album": "7edem",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Midnight Lady",
@@ -8901,7 +8937,7 @@
     "genre": "Pop",
     "album": "Bon soir, mademoiselle Paris",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Here Comes The Sun",
@@ -8913,7 +8949,7 @@
     "genre": "Rock",
     "album": "Abbey Road (Remastered)",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Chráň Svoje Bláznovstvá",
@@ -8973,7 +9009,7 @@
     "genre": "Pop",
     "album": "Life Thru a Lens",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Úsmev",
@@ -8997,7 +9033,7 @@
     "genre": "Rock",
     "album": "KISS Off The Soundboard: Live In Virginia Beach",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Jesenná Láska",
@@ -9165,7 +9201,7 @@
     "genre": "Rock",
     "album": "The Wild One: The Greatest Hits",
     "track_number": 12,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Made In Italy",
@@ -9201,7 +9237,7 @@
     "genre": "Pop",
     "album": "4 Hits: Eruption - EP",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Especially For You",
@@ -9237,7 +9273,7 @@
     "genre": "Pop",
     "album": "Baccara",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "ES"
   },
   {
     "title": "Like A Prayer",
@@ -9537,7 +9573,7 @@
     "genre": "Vocal",
     "album": "Slunce / To Nejlepsi",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Máš Chuť Majoránky",
@@ -9609,7 +9645,7 @@
     "genre": "Pop",
     "album": "Second",
     "track_number": 13,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "I'd Love You To Want Me",
@@ -10281,7 +10317,7 @@
     "genre": "Soundtrack",
     "album": "Pokoj v dusi (Original Soundtrack)",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Saxana",
@@ -10389,7 +10425,7 @@
     "genre": "Not found",
     "album": "Holubí dům",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "One & One",
@@ -10425,7 +10461,7 @@
     "genre": "Rock",
     "album": "Seasons In The Sun (Expanded Edition)",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "CA"
   },
   {
     "title": "Skorápky Orechú",
@@ -10497,7 +10533,7 @@
     "genre": "Pop",
     "album": "Ultimate",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Come Back And Stay",
@@ -10557,7 +10593,7 @@
     "genre": "Pop",
     "album": "One Love",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SE"
   },
   {
     "title": "Oheň, Voda, Vítr",
@@ -10593,7 +10629,7 @@
     "genre": "Pop",
     "album": "The Best Of Pavol Hammel",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Never Gonna Give You Up",
@@ -10761,7 +10797,7 @@
     "genre": "Traditional Country",
     "album": "Jižanský Rok",
     "track_number": 16,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Always On My Mind",
@@ -10773,7 +10809,7 @@
     "genre": "Pop",
     "album": "Discography: The Complete Singles Collection",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Ja Viem",
@@ -11205,7 +11241,7 @@
     "genre": "Hard Rock",
     "album": "Slippery When Wet",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Chytila Jsem Na Pasece Motýlka",
@@ -11361,7 +11397,7 @@
     "genre": "Pop",
     "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
     "track_number": 72,
-    "artist_country": "Not found"
+    "artist_country": "ES"
   },
   {
     "title": "Brother Louie",
@@ -11445,7 +11481,7 @@
     "genre": "Pop",
     "album": "16 Naj Pesničiek",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Hero",
@@ -11481,7 +11517,7 @@
     "genre": "Pop",
     "album": "Team 3",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Love Is The Shield",
@@ -11565,7 +11601,7 @@
     "genre": "Pop",
     "album": "I've Been Expecting You",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Eye Of The Tiger",
@@ -11625,7 +11661,7 @@
     "genre": "Dance",
     "album": "The Madman's Return",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "DE"
   },
   {
     "title": "Twist In My Sobriety",
@@ -11745,7 +11781,7 @@
     "genre": "Pop",
     "album": "Prichytený pri živote",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Úsmev A Čaj",
@@ -11817,7 +11853,7 @@
     "genre": "Rock",
     "album": "Come Together: Beatles in the '90s",
     "track_number": 18,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Where Do You Go",
@@ -11985,7 +12021,7 @@
     "genre": "Pop",
     "album": "Cross Road",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Don't Play Your Rock 'n' Roll To Me",
@@ -12381,7 +12417,7 @@
     "genre": "Rock",
     "album": "Synchronicity (Remastered 2003)",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Mumuland",
@@ -12609,7 +12645,7 @@
     "genre": "Pop",
     "album": "V Cudzom Meste",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Predavačka Langošov",
@@ -13041,7 +13077,7 @@
     "genre": "Pop",
     "album": "You - Single",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "NL"
   },
   {
     "title": "Slzy Tvý Mámy",
@@ -13101,7 +13137,7 @@
     "genre": "Pop",
     "album": "Holubí Dům",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "Klasika",
@@ -13317,7 +13353,7 @@
     "genre": "Pop",
     "album": "Team",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Big Big World",
@@ -13449,7 +13485,7 @@
     "genre": "Pop",
     "album": "Jsem Prý Blázen Jen",
     "track_number": 13,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "Spending My Time",
@@ -13473,7 +13509,7 @@
     "genre": "Hard Rock",
     "album": "Slippery When Wet",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "I Wanna B with U",
@@ -13809,7 +13845,7 @@
     "genre": "Alternative",
     "album": "Hráč",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "The Road To Mandalay",
@@ -13857,7 +13893,7 @@
     "genre": "Pop",
     "album": "U Can’t Stop",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Always On My Mind",
@@ -13869,7 +13905,7 @@
     "genre": "Pop",
     "album": "Discography: The Complete Singles Collection",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Maluj Zase Obrázky",
@@ -13929,7 +13965,7 @@
     "genre": "Pop",
     "album": "Vše nejlepší 88-99",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "We Are The World",
@@ -14277,7 +14313,7 @@
     "genre": "Traditional Country",
     "album": "Jižanský Rok",
     "track_number": 16,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Crucified",
@@ -14445,7 +14481,7 @@
     "genre": "Hard Rock",
     "album": "Slippery When Wet",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Back For Good",
@@ -14637,7 +14673,7 @@
     "genre": "Pop",
     "album": "DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire",
     "track_number": 72,
-    "artist_country": "Not found"
+    "artist_country": "ES"
   },
   {
     "title": "Bon Soir, Mademoiselle Paris",
@@ -14649,7 +14685,7 @@
     "genre": "Pop",
     "album": "Bon soir, mademoiselle Paris",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Mrs. Robinson",
@@ -14697,7 +14733,7 @@
     "genre": "Pop",
     "album": "Team 3",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Řeka Lásky",
@@ -14757,7 +14793,7 @@
     "genre": "Pop",
     "album": "I've Been Expecting You",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Eye Of The Tiger",
@@ -14805,7 +14841,7 @@
     "genre": "Dance",
     "album": "The Madman's Return",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "DE"
   },
   {
     "title": "Prý Se Tomu Říká Láska",
@@ -14865,7 +14901,7 @@
     "genre": "Pop",
     "album": "Prichytený pri živote",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "I'll Stand By You",
@@ -15333,7 +15369,7 @@
     "genre": "Pop",
     "album": "7edem",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Pozhasínané",
@@ -15753,7 +15789,7 @@
     "genre": "Pop",
     "album": "Second",
     "track_number": 13,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Dnes Už Viem",
@@ -15765,7 +15801,7 @@
     "genre": "Pop",
     "album": "The Best Of Pavol Hammel",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Heal The World",
@@ -15885,7 +15921,7 @@
     "genre": "Rock",
     "album": "Abbey Road (Remastered)",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Hero (Metro Mix)",
@@ -15909,7 +15945,7 @@
     "genre": "Pop",
     "album": "Team",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Tell It To My Heart",
@@ -16065,7 +16101,7 @@
     "genre": "Pop",
     "album": "Prichytený pri živote",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Úsmev A Čaj",
@@ -16197,7 +16233,7 @@
     "genre": "Rock",
     "album": "The Wild One: The Greatest Hits",
     "track_number": 12,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Let It Be",
@@ -16209,7 +16245,7 @@
     "genre": "Rock",
     "album": "Come Together: Beatles in the '90s",
     "track_number": 18,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "When You Say Nothing At All",
@@ -16293,7 +16329,7 @@
     "genre": "Pop",
     "album": "Life Thru a Lens",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Over The Rainbow/What A Wonderful World",
@@ -16317,7 +16353,7 @@
     "genre": "Pop",
     "album": "Team",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Máš V Rukáve Máj",
@@ -16557,7 +16593,7 @@
     "genre": "Pop",
     "album": "Cross Road",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Can't Fight The Moonlight",
@@ -16845,7 +16881,7 @@
     "genre": "Pop",
     "album": "Everytime We Touch (Remastered) - Single",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Každý Mi Te Lásko Závidí",
@@ -17253,7 +17289,7 @@
     "genre": "Rock",
     "album": "KISS Off The Soundboard: Live In Virginia Beach",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Netrpezliví",
@@ -17505,7 +17541,7 @@
     "genre": "Pop",
     "album": "Prichytený pri živote",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Proč Mě Nikdo Nemá Rád",
@@ -17517,7 +17553,7 @@
     "genre": "Pop",
     "album": "22x Ilona - Best Of",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Srdce Jako Kniže Rohan",
@@ -17565,7 +17601,7 @@
     "genre": "Pop",
     "album": "Život je ...",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Zalúbení",
@@ -18057,7 +18093,7 @@
     "genre": "Pop",
     "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "BE"
   },
   {
     "title": "What Is Love",
@@ -18081,6 +18117,6 @@
     "genre": "Pop",
     "album": "Team",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   }
 ]
