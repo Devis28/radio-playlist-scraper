@@ -7180,5 +7180,21 @@
     "album": "Diesel and Dust (2008 Remaster)",
     "track_number": 1,
     "itunes_track_id": 288955173
+  },
+  "michael jackson|will you be there": {
+    "year": 1993,
+    "duration_ms": 219560,
+    "genre": "Pop",
+    "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+    "track_number": 7,
+    "itunes_track_id": 1341392347
+  },
+  "zentour|vsechno bude fajn": {
+    "year": 1991,
+    "duration_ms": 225787,
+    "genre": "Pop",
+    "album": "Hity Tommü",
+    "track_number": 10,
+    "itunes_track_id": 1292536732
   }
 }
