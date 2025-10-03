@@ -2243,5 +2243,161 @@
     "genre": "Not found",
     "track_number": 19,
     "artist_country_code": "Not found"
+  },
+  "david, f.r.|words": "__MISS__",
+  "the gibson brothers|que sera mi vida": {
+    "album": "Por fin es viernes",
+    "year": 1992,
+    "duration_ms": 356000,
+    "genre": "club",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "zbirka miroslav|len s nou": "__MISS__",
+  "a-ha|crying in rain": "__MISS__",
+  "vera spinarova|jednoho dne se vratis": {
+    "album": "Největší hity",
+    "year": 2000,
+    "duration_ms": 278000,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "gipsy kings|bamboleo": {
+    "album": "Live in Los Angeles",
+    "year": 1990,
+    "duration_ms": 246000,
+    "genre": "Not found",
+    "track_number": 3,
+    "artist_country_code": "Not found"
+  },
+  "haddaway|what is love": {
+    "album": "Breakdown: The Very Best Euphoric Old Skool",
+    "year": 2002,
+    "duration_ms": 203173,
+    "genre": "Not found",
+    "track_number": 10,
+    "artist_country_code": "Not found"
+  },
+  "john elton & dee kiki|don't go breaking my heart": "__MISS__",
+  "janda dalibor|hurikan": "__MISS__",
+  "mr. big|wild world": {
+    "album": "Channel V at the Hard Rock Live",
+    "year": 1996,
+    "duration_ms": 220866,
+    "genre": "Not found",
+    "track_number": 9,
+    "artist_country_code": "Not found"
+  },
+  "ronettes, the|be my baby": "__MISS__",
+  "corona|rhythm of the night": {
+    "album": "Disco 90 (La Mejor Musica Dance De Los 90)",
+    "year": 2015,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "david michal|nenapovidej": "__MISS__",
+  "queen|we are the champions": {
+    "album": "Best of Queen",
+    "year": "Not found",
+    "duration_ms": 191773,
+    "genre": "hard rock",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "karol duchon|hram": {
+    "album": "20 naj",
+    "year": 2006,
+    "duration_ms": 220693,
+    "genre": "Not found",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "umberto tozzi|ti amo": {
+    "album": "Yesterday, Today",
+    "year": 2012,
+    "duration_ms": 259000,
+    "genre": "Not found",
+    "track_number": 3,
+    "artist_country_code": "Not found"
+  },
+  "richard muller|nahy 2": {
+    "album": "Retro",
+    "year": 2002,
+    "duration_ms": 296000,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "vondrackova helena|chytila jsem na pasece motylka": "__MISS__",
+  "miro zbirka|zima, zima": {
+    "album": "22x2: The Best Of",
+    "year": 2007,
+    "duration_ms": 187000,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "streisand barbra|woman in love": "__MISS__",
+  "no name|zily": {
+    "album": "Dermacol Acoustic Tour",
+    "year": 2019,
+    "duration_ms": 254000,
+    "genre": "Not found",
+    "track_number": 6,
+    "artist_country_code": "Not found"
+  },
+  "depeche mode|enjoy the silence": {
+    "album": "1998‐12‐19: The Forum, Inglewood, CA, USA",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "jaroslav uhlir|severni vitr": {
+    "album": "Severní Vítr / Klavírista",
+    "year": 1981,
+    "duration_ms": 187000,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "abba|thank you for the music": {
+    "album": "Live",
+    "year": 1986,
+    "duration_ms": 219800,
+    "genre": "pop",
+    "track_number": 6,
+    "artist_country_code": "Not found"
+  },
+  "nagy, peter a raz, jozef|psi sa brania utokom": "__MISS__",
+  "michal docolomansky|lubim ta": {
+    "album": "The Best Of, Volume 1",
+    "year": 1993,
+    "duration_ms": 233000,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "boney m|sunny": {
+    "album": "In the Summer Time: Die tollsten Hits aus aller Welt",
+    "year": 1996,
+    "duration_ms": 240666,
+    "genre": "Not found",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  "grigorov robo|bol raz jeden ziak": "__MISS__",
+  "norman chris & quatro suzi|stumblin' in": "__MISS__",
+  "olympic|slzy tvy mamy": {
+    "album": "Největší hity z rádia",
+    "year": 2001,
+    "duration_ms": 273000,
+    "genre": "Not found",
+    "track_number": 6,
+    "artist_country_code": "Not found"
   }
 }
