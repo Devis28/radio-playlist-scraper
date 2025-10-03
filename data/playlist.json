@@ -1,5 +1,20 @@
 [
   {
+    "title": "Stars",
+    "artist": "Simply Red",
+    "date": "03.10.2025",
+    "time": "22:24",
+    "year": 1991,
+    "duration_ms": 248600,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "artist_country": "GB",
+    "songwriters": [
+      "Mick Hucknall"
+    ]
+  },
+  {
     "title": "Love Changes(Everything)",
     "artist": "Climie Fisher",
     "date": "03.10.2025",
@@ -12415,7 +12430,9 @@
     "album": "The Greatest Hits",
     "track_number": 2,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mick Hucknall"
+    ]
   },
   {
     "title": "Decibely Lásky",
@@ -15906,7 +15923,9 @@
     "album": "The Greatest Hits",
     "track_number": 2,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mick Hucknall"
+    ]
   },
   {
     "title": "Veľký Sen Mora",
