@@ -7148,5 +7148,21 @@
     "album": "Cerny Kocky Mokry Zaby",
     "track_number": 13,
     "itunes_track_id": 1444011254
+  },
+  "ub 40|can't help falling in love": {
+    "year": 1993,
+    "duration_ms": 208733,
+    "genre": "Reggae",
+    "album": "The Very Best of UB40: 1980-2000",
+    "track_number": 12,
+    "itunes_track_id": 724633818
+  },
+  "slade|my, oh my": {
+    "year": 1975,
+    "duration_ms": 252160,
+    "genre": "Rock",
+    "album": "The Amazing Kamikaze Syndrome (Expanded)",
+    "track_number": 5,
+    "itunes_track_id": 1456390852
   }
 }
