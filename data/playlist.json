@@ -1,5 +1,77 @@
 [
   {
+    "title": "Love Of The Common People",
+    "artist": "Paul Young",
+    "date": "03.10.2025",
+    "time": "13:19",
+    "country": "DE",
+    "year": 1983,
+    "duration_ms": 214381,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 10
+  },
+  {
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "03.10.2025",
+    "time": "13:16",
+    "country": "SK",
+    "year": 2005,
+    "duration_ms": 209427,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 14
+  },
+  {
+    "title": "Streets Of Philadelphia",
+    "artist": "Springsteen Bruce",
+    "date": "03.10.2025",
+    "time": "13:12",
+    "country": "UNKNOWN",
+    "year": 1993,
+    "duration_ms": 196813,
+    "genre": "Rock",
+    "album": "Greatest Hits",
+    "track_number": 14
+  },
+  {
+    "title": "Kamaráti",
+    "artist": "Elán",
+    "date": "03.10.2025",
+    "time": "13:07",
+    "country": "SK",
+    "year": 1982,
+    "duration_ms": 165227,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 1
+  },
+  {
+    "title": "Saxana",
+    "artist": "Petra Černocká",
+    "date": "03.10.2025",
+    "time": "13:04",
+    "country": "CZ",
+    "year": "2018",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found"
+  },
+  {
+    "title": "Happy People",
+    "artist": "Prince Ital Joe Feat.Marky Mark",
+    "date": "03.10.2025",
+    "time": "13:01",
+    "country": "UNKNOWN",
+    "year": 1994,
+    "duration_ms": 238467,
+    "genre": "Pop",
+    "album": "Life In the Streets",
+    "track_number": 4
+  },
+  {
     "title": "Like A Prayer",
     "artist": "Madonna",
     "date": "03.10.2025",

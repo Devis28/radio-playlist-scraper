@@ -7164,5 +7164,13 @@
     "album": "The Amazing Kamikaze Syndrome (Expanded)",
     "track_number": 5,
     "itunes_track_id": 1456390852
+  },
+  "paul young|love of the common people": {
+    "year": 1983,
+    "duration_ms": 214381,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 10,
+    "itunes_track_id": 355893452
   }
 }
