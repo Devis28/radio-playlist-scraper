@@ -7358,5 +7358,13 @@
     "album": "All the Best - His Greatest Hits",
     "track_number": 2,
     "itunes_track_id": 1731413661
+  },
+  "eiffel 65|blue da ba dee": {
+    "year": 1998,
+    "duration_ms": 219618,
+    "genre": "Dance",
+    "album": "Blue (Da Ba Dee) - Single",
+    "track_number": 3,
+    "itunes_track_id": 257425447
   }
 }
