@@ -7114,5 +7114,14 @@
     "album": "Právě teď",
     "track_number": 3,
     "itunes_track_id": 1386778416
+  },
+  "kool & the gang|cherish": {
+    "year": 1984,
+    "duration_ms": 290600,
+    "duration": "4:51",
+    "genre": "R&B/Soul",
+    "album": "Emergency",
+    "track_number": 4,
+    "itunes_track_id": 1431065459
   }
 }
