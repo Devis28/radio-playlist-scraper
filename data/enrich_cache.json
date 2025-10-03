@@ -7350,5 +7350,13 @@
     "album": "Number Ones",
     "track_number": 4,
     "itunes_track_id": 273598915
+  },
+  "haddaway|life": {
+    "year": 1993,
+    "duration_ms": 257360,
+    "genre": "Pop",
+    "album": "All the Best - His Greatest Hits",
+    "track_number": 2,
+    "itunes_track_id": 1731413661
   }
 }

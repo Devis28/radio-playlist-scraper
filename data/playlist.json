@@ -1,5 +1,29 @@
 [
   {
+    "title": "Love Is The Shield",
+    "artist": "Camouflage",
+    "date": "03.10.2025",
+    "time": "20:57",
+    "year": 1997,
+    "duration_ms": 236000,
+    "genre": "Pop",
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "track_number": 9,
+    "artist_country": "DE"
+  },
+  {
+    "title": "Life",
+    "artist": "Haddaway",
+    "date": "03.10.2025",
+    "time": "20:53",
+    "year": 1993,
+    "duration_ms": 257360,
+    "genre": "Pop",
+    "album": "All the Best - His Greatest Hits",
+    "track_number": 2,
+    "artist_country": "DE"
+  },
+  {
     "title": "You're The One That I Want",
     "artist": "Travolta John & Newton-John Olivia",
     "date": "03.10.2025",
@@ -8313,7 +8337,7 @@
     "genre": "Rock",
     "album": "No Protection",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Dievča Z Reklamy",
@@ -8493,7 +8517,7 @@
     "genre": "Alternative",
     "album": "Echoes",
     "track_number": 12,
-    "artist_country": "Not found"
+    "artist_country": "SE"
   },
   {
     "title": "Ja Som To Vedel",
@@ -8505,7 +8529,7 @@
     "genre": "Rock",
     "album": "Gangster-SKA",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "What A Wonderful World",
@@ -8553,7 +8577,7 @@
     "genre": "Soundtrack",
     "album": "The Bodyguard (Original Soundtrack Album)",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "La Isla Bonita",
@@ -8637,7 +8661,7 @@
     "genre": "Pop",
     "album": "Bláznivá Noc",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Cigaretka Na Dva Ťahy",
@@ -8685,7 +8709,7 @@
     "genre": "Pop",
     "album": "Happy Valentine",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Což Takhle Dát Si Špenát",
@@ -8781,7 +8805,7 @@
     "genre": "Pop",
     "album": "Hitparáda 70. Let",
     "track_number": 25,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "V Období Dažďa",
@@ -8841,7 +8865,7 @@
     "genre": "Pop",
     "album": "Butykvariát",
     "track_number": 18,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Dovtedy",
@@ -8865,7 +8889,7 @@
     "genre": "Pop",
     "album": "Disco 2008",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Vráť Trochu Lásky Medzi Nás",
@@ -8913,7 +8937,7 @@
     "genre": "Pop",
     "album": "Osmdesát / Největší hity 1965-2023",
     "track_number": 39,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Klid, Mír A Pokora",
@@ -8961,7 +8985,7 @@
     "genre": "Pop",
     "album": "Duran Duran (The Wedding Album)",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Oh, Pretty Woman",
@@ -9021,7 +9045,7 @@
     "genre": "Pop",
     "album": "Chris Norman: Greatest Hits",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Za Dverami Mojej Izby",
@@ -9057,7 +9081,7 @@
     "genre": "Rock",
     "album": "Wonderful Life",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "DE"
   },
   {
     "title": "Happy People",
@@ -9105,7 +9129,7 @@
     "genre": "Pop",
     "album": "Sex & Violins",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "SE"
   },
   {
     "title": "My Máme Prima Rodiče",
@@ -9141,7 +9165,7 @@
     "genre": "Rock",
     "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Right Beside You",
@@ -9153,7 +9177,7 @@
     "genre": "Pop",
     "album": "The Best of Sophie B. Hawkins",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "You Can Win If You Want",
@@ -9525,7 +9549,7 @@
     "genre": "Pop in Spanish",
     "album": "Laundry Service",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "CO"
   },
   {
     "title": "Yes Sir, I Can Boogie",
@@ -9561,7 +9585,7 @@
     "genre": "Pop",
     "album": "Jon Secada",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Povídej",
@@ -9945,7 +9969,7 @@
     "genre": "Latin",
     "album": "Mi Sangre",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "CO"
   },
   {
     "title": "Rivers Of Babylon",
@@ -10065,7 +10089,7 @@
     "genre": "Pop",
     "album": "Land of Gold",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "DE"
   },
   {
     "title": "Love To Hate You",
@@ -10221,7 +10245,7 @@
     "genre": "Rock",
     "album": "Hair of the Dog",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Za Všechno Může Čas",
@@ -10257,7 +10281,7 @@
     "genre": "Pop",
     "album": "A's, B's & EP's",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Čau, Lásko",
@@ -10401,7 +10425,7 @@
     "genre": "Pop",
     "album": "Greatest Hits",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Denisa",
@@ -11637,7 +11661,7 @@
     "genre": "R&B/Soul",
     "album": "The Ultimate Collection",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Kométa (Pre Gumpa)",
@@ -11793,7 +11817,7 @@
     "genre": "Pop",
     "album": "Best of Camouflage: We Stroke the Flames",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "DE"
   },
   {
     "title": "Niekto Ako Kráľ",
@@ -12177,7 +12201,7 @@
     "genre": "Rock",
     "album": "Gangster-SKA",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "In The Army Now",
@@ -12441,7 +12465,7 @@
     "genre": "Pop",
     "album": "Classic",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Já Půjdu Tam A Ty Tam",
@@ -12753,7 +12777,7 @@
     "genre": "Rock",
     "album": "2Xs",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Posledné Dobré Dievča",
@@ -12957,7 +12981,7 @@
     "genre": "Pop",
     "album": "Největší Hity 1965-2013",
     "track_number": 14,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Miestna Jednička",
@@ -13197,7 +13221,7 @@
     "genre": "Rock",
     "album": "Polemic: Live",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Kamaráti",
@@ -13857,7 +13881,7 @@
     "genre": "Pop",
     "album": "Thank You",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Motýl Admirál",
@@ -14097,7 +14121,7 @@
     "genre": "Rock",
     "album": "Voices & Images",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "DE"
   },
   {
     "title": "Učiteľka Tanca",
@@ -14709,7 +14733,7 @@
     "genre": "R&B/Soul",
     "album": "The Ultimate Collection",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Láska, Necestuj Tým Vlakom",
@@ -15021,7 +15045,7 @@
     "genre": "Pop",
     "album": "Best of Camouflage: We Stroke the Flames",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "DE"
   },
   {
     "title": "Miliónkrát",
@@ -15405,7 +15429,7 @@
     "genre": "Pop in Spanish",
     "album": "Laundry Service",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "CO"
   },
   {
     "title": "Naveky",
@@ -15525,7 +15549,7 @@
     "genre": "Pop",
     "album": "Happy Valentine",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Niekto Ti To Povie Skôr Než Ja",
@@ -15993,7 +16017,7 @@
     "genre": "Rock",
     "album": "Wonderful Life",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "DE"
   },
   {
     "title": "Désenchantee",
@@ -16425,7 +16449,7 @@
     "genre": "Pop",
     "album": "A's, B's & EP's",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Ak Náhodou",
@@ -16641,7 +16665,7 @@
     "genre": "Rock",
     "album": "Gangster-SKA",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Heartbreak Hotel",
@@ -17157,7 +17181,7 @@
     "genre": "Pop",
     "album": "Classic",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Milujem",
@@ -17841,7 +17865,7 @@
     "genre": "Pop",
     "album": "Open Air (Live)",
     "track_number": 13,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Hráli Jsme Kličkovanou",
