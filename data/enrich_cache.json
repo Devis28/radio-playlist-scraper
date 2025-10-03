@@ -4606,5 +4606,349 @@
     "album": "20 naj",
     "track_number": 14,
     "itunes_track_id": 1533365518
-  }
+  },
+  "sandra|innocent love": {
+    "year": 1986,
+    "duration_ms": 229160,
+    "duration": "3:49",
+    "genre": "Pop",
+    "album": "Sandra: Platinum Collection",
+    "track_number": 5,
+    "itunes_track_id": 712959433
+  },
+  "inner circle|sweat": {
+    "year": 1992,
+    "duration_ms": 227067,
+    "duration": "3:47",
+    "genre": "Reggae",
+    "album": "Blazzin' Fire",
+    "track_number": 2,
+    "itunes_track_id": 1718311595
+  },
+  "michal tucny|vsichni jsou uz v mexiku": {
+    "year": 1980,
+    "duration_ms": 257333,
+    "duration": "4:17",
+    "genre": "Traditional Country",
+    "album": "Jižanský Rok",
+    "track_number": 16,
+    "itunes_track_id": 1404899127
+  },
+  "pet shop boys|always on my mind": {
+    "year": 1987,
+    "duration_ms": 234907,
+    "duration": "3:55",
+    "genre": "Pop",
+    "album": "Discography: The Complete Singles Collection",
+    "track_number": 8,
+    "itunes_track_id": 710663065
+  },
+  "grigorov robo|ja viem": {
+    "year": 2008,
+    "duration_ms": 209427,
+    "duration": "3:29",
+    "genre": "Rock",
+    "album": "Complete Of",
+    "track_number": 1,
+    "itunes_track_id": 497997247
+  },
+  "simply red|stars": {
+    "year": 1991,
+    "duration_ms": 248600,
+    "duration": "4:09",
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "itunes_track_id": 834008099
+  },
+  "david michal kroky frantiska janecka|decibely lasky": {
+    "year": 1986,
+    "duration_ms": 193239,
+    "duration": "3:13",
+    "genre": "Pop",
+    "album": "Děti Ráje",
+    "track_number": 13,
+    "itunes_track_id": 1380713452
+  },
+  "elan & lojzo|ze mi je luto": {
+    "year": 1998,
+    "duration_ms": 235173,
+    "duration": "3:55",
+    "genre": "Rock",
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "track_number": 2,
+    "itunes_track_id": 1610600355
+  },
+  "backstreet boys|quit playing games": {
+    "year": 1996,
+    "duration_ms": 232667,
+    "duration": "3:53",
+    "genre": "Pop",
+    "album": "Backstreet Boys",
+    "track_number": 5,
+    "itunes_track_id": 217939769
+  },
+  "dara rolins|slub": {
+    "year": 2025,
+    "duration_ms": 201271,
+    "duration": "3:21",
+    "genre": "Pop",
+    "album": "Sľub - Single",
+    "track_number": 1,
+    "itunes_track_id": 1794911185
+  },
+  "usa for africa & jackson michael|we are the world": {
+    "year": 1985,
+    "duration_ms": 427333,
+    "duration": "7:07",
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "itunes_track_id": 41737859
+  },
+  "miro zbirka|letim tmou": {
+    "year": 1997,
+    "duration_ms": 188467,
+    "duration": "3:08",
+    "genre": "Pop",
+    "album": "Meky",
+    "track_number": 1,
+    "itunes_track_id": 1443391237
+  },
+  "heckovci peter a julia|kralovna pavlaci a dvorov": {
+    "year": 1987,
+    "duration_ms": 219095,
+    "duration": "3:39",
+    "genre": "Pop",
+    "album": "Taliansky muzikál",
+    "track_number": 4,
+    "itunes_track_id": 1615992776
+  },
+  "the art company|susanna": {
+    "year": 1983,
+    "duration_ms": 285062,
+    "duration": "4:45",
+    "genre": "Pop",
+    "album": "Susanna - Single",
+    "track_number": 1,
+    "itunes_track_id": 1511260492
+  },
+  "desmod|chybanie": {
+    "year": 2017,
+    "duration_ms": 207168,
+    "duration": "3:27",
+    "genre": "Rock",
+    "album": "Molekuly Zvuku",
+    "track_number": 4,
+    "itunes_track_id": 1519233541
+  },
+  "toto|africa": {
+    "year": 1982,
+    "duration_ms": 295283,
+    "duration": "4:55",
+    "genre": "Rock",
+    "album": "Toto IV",
+    "track_number": 10,
+    "itunes_track_id": 185717604
+  },
+  "dubasova beata|ucesy": {
+    "year": 2020,
+    "duration_ms": 173880,
+    "duration": "2:54",
+    "genre": "Pop",
+    "album": "Najväčšie hity 1985 - 2020",
+    "track_number": 18,
+    "itunes_track_id": 1536779967
+  },
+  "savage garden|truly madly deeply": {
+    "year": 1997,
+    "duration_ms": 277194,
+    "duration": "4:37",
+    "genre": "Pop",
+    "album": "Savage Garden",
+    "track_number": 3,
+    "itunes_track_id": 157485088
+  },
+  "vaso patejdl|nepriznana": {
+    "year": 1989,
+    "duration_ms": 273160,
+    "duration": "4:33",
+    "genre": "Pop",
+    "album": "Mon Amour",
+    "track_number": 3,
+    "itunes_track_id": 1533364708
+  },
+  "a-ha|take on me": {
+    "year": 1985,
+    "duration_ms": 228520,
+    "duration": "3:49",
+    "genre": "Pop",
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "track_number": 1,
+    "itunes_track_id": 380907765
+  },
+  "muller richard|neuc vtaka lietat": {
+    "year": 1992,
+    "duration_ms": 226133,
+    "duration": "3:46",
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 12,
+    "itunes_track_id": 1443012482
+  },
+  "cher|the shoop shoop song": {
+    "year": 1990,
+    "duration_ms": 170000,
+    "duration": "2:50",
+    "genre": "Pop",
+    "album": "Love Hurts",
+    "track_number": 12,
+    "itunes_track_id": 1425212833
+  },
+  "zuzana smatanova|v dobrom aj zlom": {
+    "year": 2015,
+    "duration_ms": 176415,
+    "duration": "2:56",
+    "genre": "Pop",
+    "album": "V Dobrom Aj V Zlom - Single",
+    "track_number": 1,
+    "itunes_track_id": 1008618438
+  },
+  "michael george|faith": {
+    "year": 1987,
+    "duration_ms": 193200,
+    "duration": "3:13",
+    "genre": "Pop",
+    "album": "Faith (Deluxe Edition)",
+    "track_number": 1,
+    "itunes_track_id": 417723935
+  },
+  "tublatanka|dnes": {
+    "year": 1987,
+    "duration_ms": 298893,
+    "duration": "4:59",
+    "genre": "Pop",
+    "album": "Skúsime to cez vesmír",
+    "track_number": 6,
+    "itunes_track_id": 1533361695
+  },
+  "kristina|v sieti ta mam": {
+    "year": 2010,
+    "duration_ms": 221000,
+    "duration": "3:41",
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 2,
+    "itunes_track_id": 1442797526
+  },
+  "esposito joe|lady lady lady": {
+    "year": 1983,
+    "duration_ms": 249640,
+    "duration": "4:10",
+    "genre": "Pop",
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "track_number": 5,
+    "itunes_track_id": 1425259698
+  },
+  "zdenka predna|ked to nejde": {
+    "year": 2007,
+    "duration_ms": 192608,
+    "duration": "3:13",
+    "genre": "Pop",
+    "album": "Zdenka Predná",
+    "track_number": 5,
+    "itunes_track_id": 339339643
+  },
+  "krystof|hvezdari": {
+    "year": 2019,
+    "duration_ms": 242553,
+    "duration": "4:03",
+    "genre": "Pop",
+    "album": "Hvězdáři (feat. Sima Martausová) - Single",
+    "track_number": 1,
+    "itunes_track_id": 1488043793
+  },
+  "enrique iglesias|bailamos": {
+    "year": 1999,
+    "duration_ms": 212693,
+    "duration": "3:33",
+    "genre": "Latin",
+    "album": "Enrique",
+    "track_number": 10,
+    "itunes_track_id": 1443479200
+  },
+  "bon jovi|livin' on a prayer": {
+    "year": 1986,
+    "duration_ms": 249581,
+    "duration": "4:10",
+    "genre": "Hard Rock",
+    "album": "Slippery When Wet",
+    "track_number": 3,
+    "itunes_track_id": 1422955211
+  },
+  "i.m.t. smile|co ak": {
+    "year": 2002,
+    "duration_ms": 210307,
+    "duration": "3:30",
+    "genre": "Pop",
+    "album": "Valec Extra",
+    "track_number": 22,
+    "itunes_track_id": 1443841353
+  },
+  "elan|laska moja": {
+    "year": 2003,
+    "duration_ms": 304160,
+    "duration": "5:04",
+    "genre": "Pop",
+    "album": "Tretie Oko",
+    "track_number": 3,
+    "itunes_track_id": 456472833
+  },
+  "gombitova marika|chlapci v pasci": {
+    "year": 1986,
+    "duration_ms": 210267,
+    "duration": "3:30",
+    "genre": "Pop",
+    "album": "Volné miesto v srdci",
+    "track_number": 5,
+    "itunes_track_id": 1533360347
+  },
+  "take that|back for good": {
+    "year": 1995,
+    "duration_ms": 242267,
+    "duration": "4:02",
+    "genre": "Pop",
+    "album": "Nobody Else (Expanded Edition)",
+    "track_number": 2,
+    "itunes_track_id": 1494127238
+  },
+  "karol duchon|elena": {
+    "year": 2006,
+    "duration_ms": 152867,
+    "duration": "2:33",
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 17,
+    "itunes_track_id": 1533365521
+  },
+  "jermaine jackson & pia zadora|when the rain begins to fall": {
+    "year": 1984,
+    "duration_ms": 248867,
+    "duration": "4:09",
+    "genre": "R&B/Soul",
+    "album": "Playlist: The Very Best of Jermaine Jackson",
+    "track_number": 7,
+    "itunes_track_id": 1593289615
+  },
+  "nagy peter muk petr|nelietaju": "__MISS__",
+  "whitney houston|i wanna dance with somebody": {
+    "year": 1987,
+    "duration_ms": 289373,
+    "duration": "4:49",
+    "genre": "R&B/Soul",
+    "album": "The Ultimate Collection",
+    "track_number": 5,
+    "itunes_track_id": 266232820
+  },
+  "desmod & majself|kometa": "__MISS__"
 }
