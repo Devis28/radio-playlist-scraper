@@ -4270,5 +4270,341 @@
     "album": "Lásko Voníš Deštěm",
     "track_number": 1,
     "itunes_track_id": 1386180491
+  },
+  "marika gombitova|mas v rukave maj": {
+    "year": 1982,
+    "duration_ms": 146013,
+    "duration": "2:26",
+    "genre": "Pop",
+    "album": "Slnečný kalendár",
+    "track_number": 1,
+    "itunes_track_id": 1533350949
+  },
+  "i.m.t. smile|kym stupa dym": {
+    "year": 2003,
+    "duration_ms": 277120,
+    "duration": "4:37",
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 13,
+    "itunes_track_id": 1443397977
+  },
+  "la bouche|be my lover": {
+    "year": 1995,
+    "duration_ms": 240867,
+    "duration": "4:01",
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 2,
+    "itunes_track_id": 215933368
+  },
+  "david, f.r.|words": {
+    "year": 1982,
+    "duration_ms": 208000,
+    "duration": "3:28",
+    "genre": "Pop",
+    "album": "Words",
+    "track_number": 1,
+    "itunes_track_id": 354686056
+  },
+  "abba|one of us": {
+    "year": 1981,
+    "duration_ms": 234573,
+    "duration": "3:55",
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 16,
+    "itunes_track_id": 1440816985
+  },
+  "shalom|stin katedral": {
+    "year": 1995,
+    "duration_ms": 213956,
+    "duration": "3:34",
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "itunes_track_id": 692182165
+  },
+  "karel zich|mas chut majoranky": {
+    "year": 1981,
+    "duration_ms": 198040,
+    "duration": "3:18",
+    "genre": "Pop",
+    "album": "Mosty",
+    "track_number": 3,
+    "itunes_track_id": 1400851134
+  },
+  "sandra|everlasting love": {
+    "year": 1987,
+    "duration_ms": 221107,
+    "duration": "3:41",
+    "genre": "R&B/Soul",
+    "album": "18 Greatest Hits: Sandra",
+    "track_number": 8,
+    "itunes_track_id": 712215077
+  },
+  "balet|hej pane diskzokej": "__MISS__",
+  "queen|bohemian rhapsody": {
+    "year": 2018,
+    "duration_ms": 147840,
+    "duration": "2:28",
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 16,
+    "itunes_track_id": 1435375371
+  },
+  "dubasova beata|sme take ake sme": {
+    "year": 1987,
+    "duration_ms": 255360,
+    "duration": "4:15",
+    "genre": "Pop",
+    "album": "Beáta",
+    "track_number": 1,
+    "itunes_track_id": 1533355169
+  },
+  "mc erik and barbara|sen": {
+    "year": 1996,
+    "duration_ms": 218427,
+    "duration": "3:38",
+    "genre": "Pop",
+    "album": "Second",
+    "track_number": 13,
+    "itunes_track_id": 1451480768
+  },
+  "lobo|i'd love you to want me": {
+    "year": 1974,
+    "duration_ms": 248973,
+    "duration": "4:09",
+    "genre": "Pop",
+    "album": "I'd Love You To Want Me - Single",
+    "track_number": 1,
+    "itunes_track_id": 436261603
+  },
+  "juanes|la camisa negra": {
+    "year": 2004,
+    "duration_ms": 216707,
+    "duration": "3:37",
+    "genre": "Latin",
+    "album": "Mi Sangre",
+    "track_number": 4,
+    "itunes_track_id": 1440652265
+  },
+  "boney m.|rivers of babylon": {
+    "year": 1978,
+    "duration_ms": 261200,
+    "duration": "4:21",
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "itunes_track_id": 402741385
+  },
+  "ben e. king|stand by me": {
+    "year": 1960,
+    "duration_ms": 174800,
+    "duration": "2:55",
+    "genre": "R&B/Soul",
+    "album": "The Very Best of Ben E. King",
+    "track_number": 7,
+    "itunes_track_id": 738196409
+  },
+  "zbirka miro & martha|co boli to preboli": "__MISS__",
+  "vondrackova helena|lasko ma, ja stunu": {
+    "year": 1964,
+    "duration_ms": 137680,
+    "duration": "2:18",
+    "genre": "Pop",
+    "album": "Best of the Best",
+    "track_number": 12,
+    "itunes_track_id": 1772044524
+  },
+  "goombay dance band|eldorado": {
+    "year": 1980,
+    "duration_ms": 265500,
+    "duration": "4:26",
+    "genre": "Pop",
+    "album": "Land of Gold",
+    "track_number": 7,
+    "itunes_track_id": 1100688607
+  },
+  "karel zich|neni vsechno parada": {
+    "year": 1981,
+    "duration_ms": 150133,
+    "duration": "2:30",
+    "genre": "Pop",
+    "album": "Není Všechno Paráda",
+    "track_number": 13,
+    "itunes_track_id": 1388031683
+  },
+  "john paul young|love is in the air": {
+    "year": 1977,
+    "duration_ms": 208413,
+    "duration": "3:28",
+    "genre": "Rock",
+    "album": "Vanda and Young: The Official Songbook",
+    "track_number": 18,
+    "itunes_track_id": 1440510010
+  },
+  "abba|super trouper": {
+    "year": 1980,
+    "duration_ms": 251298,
+    "duration": "4:11",
+    "genre": "Pop",
+    "album": "Super Trouper (Bonus Track Version)",
+    "track_number": 1,
+    "itunes_track_id": 1440823933
+  },
+  "grigorov robo|dvaja": {
+    "year": 1986,
+    "duration_ms": 288800,
+    "duration": "4:49",
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 5,
+    "itunes_track_id": 1533445990
+  },
+  "nazareth|love hurts": {
+    "year": 1975,
+    "duration_ms": 232120,
+    "duration": "3:52",
+    "genre": "Rock",
+    "album": "Hair of the Dog",
+    "track_number": 8,
+    "itunes_track_id": 1441033693
+  },
+  "herman's hermits|no milk today": {
+    "year": 1967,
+    "duration_ms": 174333,
+    "duration": "2:54",
+    "genre": "Pop",
+    "album": "A's, B's & EP's",
+    "track_number": 11,
+    "itunes_track_id": 697421494
+  },
+  "gott karel & holanova marcela|cau, lasko": "__MISS__",
+  "beatles, the|hey jude": {
+    "year": 1968,
+    "duration_ms": 431333,
+    "duration": "7:11",
+    "genre": "Rock",
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "track_number": 13,
+    "itunes_track_id": 1441133277
+  },
+  "hana zagorova|je naprosto nezbytne": {
+    "year": 2001,
+    "duration_ms": 182147,
+    "duration": "3:02",
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 2,
+    "itunes_track_id": 463999357
+  },
+  "rod stewart|sailing": {
+    "year": 1975,
+    "duration_ms": 278600,
+    "duration": "4:39",
+    "genre": "Rock",
+    "album": "Some Guys Have All the Luck",
+    "track_number": 6,
+    "itunes_track_id": 295534403
+  },
+  "the goombay dance band|sun of the jamaica": {
+    "year": 1980,
+    "duration_ms": 264000,
+    "duration": "4:24",
+    "genre": "Pop",
+    "album": "Sun of Jamaica",
+    "track_number": 7,
+    "itunes_track_id": 1100697829
+  },
+  "mariah carey|without you": {
+    "year": 1993,
+    "duration_ms": 214040,
+    "duration": "3:34",
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 11,
+    "itunes_track_id": 190174947
+  },
+  "marika gombitova|studentska laska": {
+    "year": 2016,
+    "duration_ms": 202960,
+    "duration": "3:23",
+    "genre": "Pop",
+    "album": "Single (1977 - 1989)",
+    "track_number": 5,
+    "itunes_track_id": 1533349771
+  },
+  "dalibor janda|tisickrat krasnejsi": {
+    "year": 1982,
+    "duration_ms": 293667,
+    "duration": "4:54",
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 10,
+    "itunes_track_id": 1391890751
+  },
+  "gott karel|kavu si osladim": {
+    "year": 1972,
+    "duration_ms": 156347,
+    "duration": "2:36",
+    "genre": "Pop",
+    "album": "Má Píseň",
+    "track_number": 7,
+    "itunes_track_id": 1388027186
+  },
+  "janda dalibor|ohen, voda, vitr": {
+    "year": 1982,
+    "duration_ms": 172707,
+    "duration": "2:53",
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 5,
+    "itunes_track_id": 1391889747
+  },
+  "zbirka miro|milionkrat": {
+    "year": 2001,
+    "duration_ms": 288387,
+    "duration": "4:48",
+    "genre": "Pop",
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "track_number": 22,
+    "itunes_track_id": 1530159892
+  },
+  "eric carmen|all by myself": {
+    "year": 1975,
+    "duration_ms": 429997,
+    "duration": "7:10",
+    "genre": "Rock",
+    "album": "Eric Carmen",
+    "track_number": 4,
+    "itunes_track_id": 1268087248
+  },
+  "habera pavol|lovesong": {
+    "year": 2001,
+    "duration_ms": 241000,
+    "duration": "4:01",
+    "genre": "Rock",
+    "album": "Fontána pre Zuzanu 2",
+    "track_number": 6,
+    "itunes_track_id": 1649723376
+  },
+  "rogers kenny &parton dolly|islands in the stream": {
+    "year": 1983,
+    "duration_ms": 248880,
+    "duration": "4:09",
+    "genre": "Country",
+    "album": "The Very Best of Dolly Parton",
+    "track_number": 3,
+    "itunes_track_id": 283305976
+  },
+  "karol duchon|primasovo srdce": {
+    "year": 2005,
+    "duration_ms": 209427,
+    "duration": "3:29",
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 14,
+    "itunes_track_id": 1533365518
   }
 }
