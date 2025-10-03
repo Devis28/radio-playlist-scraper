@@ -1,5 +1,71 @@
 [
   {
+    "title": "The Way To Your Heart",
+    "artist": "Soulsister",
+    "date": "03.10.2025",
+    "time": "11:21",
+    "year": 1988,
+    "duration_ms": 226187,
+    "genre": "Pop",
+    "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
+    "track_number": 7
+  },
+  {
+    "title": "Šípková Růženka",
+    "artist": "Jiří Schelinger",
+    "date": "03.10.2025",
+    "time": "11:18",
+    "year": 1991,
+    "duration_ms": 191475,
+    "genre": "Pop",
+    "album": "Holubí Dům",
+    "track_number": 7
+  },
+  {
+    "title": "Black Velvet",
+    "artist": "Myles Alannah",
+    "date": "03.10.2025",
+    "time": "11:13",
+    "year": 1989,
+    "duration_ms": 287440,
+    "genre": "Rock",
+    "album": "Alannah Myles",
+    "track_number": 3
+  },
+  {
+    "title": "Klasika",
+    "artist": "Elán",
+    "date": "03.10.2025",
+    "time": "11:09",
+    "year": 1986,
+    "duration_ms": 194973,
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 2
+  },
+  {
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "03.10.2025",
+    "time": "11:05",
+    "year": 1973,
+    "duration_ms": 233893,
+    "genre": "Rock",
+    "album": "The Wild One: The Greatest Hits",
+    "track_number": 12
+  },
+  {
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "03.10.2025",
+    "time": "11:02",
+    "year": 1996,
+    "duration_ms": 584747,
+    "genre": "Dance",
+    "album": "Deconstruction Reconstructed 019",
+    "track_number": 3
+  },
+  {
     "title": "The Show Must Go On",
     "artist": "Queen",
     "date": "03.10.2025",
