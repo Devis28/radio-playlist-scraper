@@ -1,5 +1,29 @@
 [
   {
+    "title": "Smútok Krásnych Dievčat",
+    "artist": "Duchoň Karol",
+    "date": "03.10.2025",
+    "time": "19:54",
+    "year": 2006,
+    "duration_ms": 209863,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 15,
+    "artist_country": "Not found"
+  },
+  {
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "03.10.2025",
+    "time": "19:51",
+    "year": 1975,
+    "duration_ms": 180253,
+    "genre": "Pop",
+    "album": "Ode Mne K Tobě",
+    "track_number": 13,
+    "artist_country": "Not found"
+  },
+  {
     "title": "Otázky",
     "artist": "Olympic",
     "date": "03.10.2025",
@@ -2673,7 +2697,7 @@
     "genre": "Pop",
     "album": "Hot Shot",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "JM"
   },
   {
     "title": "Štesti Je Krasna Vec",
@@ -2697,7 +2721,7 @@
     "genre": "Not found",
     "album": "Not found",
     "track_number": "Not found",
-    "artist_country": "Not found"
+    "artist_country": "IE"
   },
   {
     "title": "Sorry, I'm A Lady",
@@ -2721,7 +2745,7 @@
     "genre": "Pop",
     "album": "Aj tak sme frajeri",
     "track_number": 13,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Wind Of Change",
@@ -2733,7 +2757,7 @@
     "genre": "Hard Rock",
     "album": "Crazy World",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Mesto Snov",
@@ -2757,7 +2781,7 @@
     "genre": "Rock",
     "album": "Greatest Hits",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Hráč",
@@ -2769,7 +2793,7 @@
     "genre": "Rock",
     "album": "To Byla, Pánové, Jízda",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "PL"
   },
   {
     "title": "Spomaľ",
@@ -2781,7 +2805,7 @@
     "genre": "Pop",
     "album": "Donekonečna (The Best Of 1997-2010)",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Cherish",
@@ -2841,7 +2865,7 @@
     "genre": "Pop",
     "album": "Backstreet's Back",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Aj Keď Bez Peňazí",
@@ -2877,7 +2901,7 @@
     "genre": "Pop",
     "album": "Vikend",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Touch By Touch",
@@ -2889,7 +2913,7 @@
     "genre": "Dance",
     "album": "TOUCH BY TOUCH - HIT-MIX",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "AT"
   },
   {
     "title": "Killing Me Softly",
@@ -2949,7 +2973,7 @@
     "genre": "Pop",
     "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Nie Alebo Áno",
@@ -2997,7 +3021,7 @@
     "genre": "Pop",
     "album": "Vyberovka",
     "track_number": 14,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Moviestar",
@@ -3045,7 +3069,7 @@
     "genre": "Hard Rock",
     "album": "Use Your Illusion I",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Say You, Say Me",
@@ -3057,7 +3081,7 @@
     "genre": "R&B/Soul",
     "album": "The Definitive Collection",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "I Promised Myself",
@@ -3081,7 +3105,7 @@
     "genre": "Pop",
     "album": "Saturday Night Fever (The Original Movie Soundtrack)",
     "track_number": 20,
-    "artist_country": "Not found"
+    "artist_country": "AU"
   },
   {
     "title": "Chýbaš Mi",
@@ -3105,7 +3129,7 @@
     "genre": "Funk",
     "album": "Best of Love Songs",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Manic Monday",
@@ -3117,7 +3141,7 @@
     "genre": "Pop",
     "album": "The Bangles Greatest Hits",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Už Mi, Lásko, Není Dvacet Let",
@@ -3129,7 +3153,7 @@
     "genre": "Worldwide",
     "album": "Zlatá deska České muziky - Jiří Zmožek",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "Holky Z Naší Školky",
@@ -3153,7 +3177,7 @@
     "genre": "Pop",
     "album": "Nocadeň v Prahe (Live 2024)",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "In The Heat Of The Night",
@@ -3213,7 +3237,7 @@
     "genre": "R&B/Soul",
     "album": "The World's Greatest",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "To Je Naše Věc",
@@ -3249,7 +3273,7 @@
     "genre": "Pop",
     "album": "Vikend",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Tri Slová",
@@ -3285,7 +3309,7 @@
     "genre": "Worldwide",
     "album": "Casopriestor",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "It's A Sin",
@@ -3309,7 +3333,7 @@
     "genre": "Rock",
     "album": "AJ TY, AYA !?",
     "track_number": 12,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Modrá",
@@ -3357,7 +3381,7 @@
     "genre": "Soundtrack",
     "album": "The Very Best of Pop Music 1983–84",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Wake Me Up Before You Go Go",
@@ -3369,7 +3393,7 @@
     "genre": "Pop",
     "album": "Darsh Fest, Vol. 1",
     "track_number": 36,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Po Víne",
@@ -3417,7 +3441,7 @@
     "genre": "Pop",
     "album": "Výberovka - Music For All",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Sweet Dreams",
@@ -3429,7 +3453,7 @@
     "genre": "Pop",
     "album": "Romantic Collection: Disco",
     "track_number": 19,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "November Rain",
@@ -3441,7 +3465,7 @@
     "genre": "Hard Rock",
     "album": "Bad Obsession",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "SOS",
@@ -3513,7 +3537,7 @@
     "genre": "Not found",
     "album": "More piesní",
     "track_number": 14,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "I Won't Let The Sun Go Down On Me",
@@ -3537,7 +3561,7 @@
     "genre": "Pop",
     "album": "Ultrapop",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Yesterday",
@@ -3813,7 +3837,7 @@
     "genre": "Pop",
     "album": "Temas de Novelas Internacionais: Volume 2",
     "track_number": 12,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Nebude To Ľahké",
@@ -3909,7 +3933,7 @@
     "genre": "R&B/Soul",
     "album": "Symphonica in Rosso",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Vetroň",
@@ -3921,7 +3945,7 @@
     "genre": "Pop",
     "album": "Ultra Pop",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Já Budu Chodit Po Špičkách",
@@ -4437,7 +4461,7 @@
     "genre": "Pop",
     "album": "Ultra Pop",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Horehronie",
@@ -4749,7 +4773,7 @@
     "genre": "Pop",
     "album": "20 roků - 20 hitů",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Mexican Girl",
@@ -5061,7 +5085,7 @@
     "genre": "Pop",
     "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Čardáš Dvoch Sŕdc",
@@ -5157,7 +5181,7 @@
     "genre": "Pop",
     "album": "Singles (1984-1988)",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Je Jaká Je",
@@ -5793,7 +5817,7 @@
     "genre": "Pop",
     "album": "Hot Shot",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "JM"
   },
   {
     "title": "Štesti Je Krasna Vec",
@@ -5901,7 +5925,7 @@
     "genre": "Rock",
     "album": "Greatest Hits",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Wind Of Change",
@@ -5913,7 +5937,7 @@
     "genre": "Hard Rock",
     "album": "Crazy World",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Báječná Ženská",
@@ -5973,7 +5997,7 @@
     "genre": "Rock",
     "album": "To Byla, Pánové, Jízda",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "PL"
   },
   {
     "title": "As Long As You Love Me",
@@ -5985,7 +6009,7 @@
     "genre": "Pop",
     "album": "Backstreet's Back",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Jasná Zpráva",
@@ -6009,7 +6033,7 @@
     "genre": "Pop",
     "album": "The Bangles Greatest Hits",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Veselá Pesnička",
@@ -6081,7 +6105,7 @@
     "genre": "Hard Rock",
     "album": "Use Your Illusion I",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Touch By Touch",
@@ -6093,7 +6117,7 @@
     "genre": "Dance",
     "album": "TOUCH BY TOUCH - HIT-MIX",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "AT"
   },
   {
     "title": "Lady Carneval",
@@ -6189,7 +6213,7 @@
     "genre": "R&B/Soul",
     "album": "The Definitive Collection",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Severanka",
@@ -6249,7 +6273,7 @@
     "genre": "Worldwide",
     "album": "Zlatá deska České muziky - Jiří Zmožek",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "Holding Out For A Hero",
@@ -6285,7 +6309,7 @@
     "genre": "Pop",
     "album": "Saturday Night Fever (The Original Movie Soundtrack)",
     "track_number": 20,
-    "artist_country": "Not found"
+    "artist_country": "AU"
   },
   {
     "title": "Holky Z Naší Školky",
@@ -6309,7 +6333,7 @@
     "genre": "Funk",
     "album": "Best of Love Songs",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Zbohom Bud, Lipova Lyzka,...",
@@ -6333,7 +6357,7 @@
     "genre": "R&B/Soul",
     "album": "The World's Greatest",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "To Je Naše Věc",
@@ -6405,7 +6429,7 @@
     "genre": "Pop",
     "album": "Vikend",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Každá Trampota Má Svou Mez",
@@ -6429,7 +6453,7 @@
     "genre": "Pop",
     "album": "Darsh Fest, Vol. 1",
     "track_number": 36,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Malý Princ",
@@ -6441,7 +6465,7 @@
     "genre": "Rock",
     "album": "AJ TY, AYA !?",
     "track_number": 12,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Maniac",
@@ -6453,7 +6477,7 @@
     "genre": "Soundtrack",
     "album": "The Very Best of Pop Music 1983–84",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Arabela",
@@ -6969,7 +6993,7 @@
     "genre": "Pop",
     "album": "Singles (1984-1988)",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Especially For You",
@@ -7065,7 +7089,7 @@
     "genre": "Pop",
     "album": "Oteckovia - Single",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Fading Like A Flower",
@@ -7353,7 +7377,7 @@
     "genre": "Pop",
     "album": "Vikend",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Cause You Are Young",
@@ -7461,7 +7485,7 @@
     "genre": "Pop",
     "album": "High Civilization",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "AU"
   },
   {
     "title": "Cez Plece",
@@ -7485,7 +7509,7 @@
     "genre": "Pop",
     "album": "Singles (1984-1988)",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "It's My Life",
@@ -7713,7 +7737,7 @@
     "genre": "Pop",
     "album": "\"Ale\"",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Spočítaj Ma",
@@ -7881,7 +7905,7 @@
     "genre": "Pop",
     "album": "Best of Peha",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Juliet",
@@ -8145,7 +8169,7 @@
     "genre": "Pop",
     "album": "Kde je tu láska?",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Tell Him",
@@ -8397,7 +8421,7 @@
     "genre": "Pop",
     "album": "Myslíš na to, na čo ja?",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Chlap Z Kríža",
@@ -9021,7 +9045,7 @@
     "genre": "Pop",
     "album": "Chrán svoje bláznovstvá",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Celebration",
@@ -10737,7 +10761,7 @@
     "genre": "Pop",
     "album": "High Civilization",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "AU"
   },
   {
     "title": "Kamarátka Nádej",
@@ -10845,7 +10869,7 @@
     "genre": "Pop",
     "album": "20 roků - 20 hitů",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Všichni Jsou Už V Mexiku",
@@ -10977,7 +11001,7 @@
     "genre": "Pop",
     "album": "Backstreet Boys",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Slub",
@@ -11049,7 +11073,7 @@
     "genre": "Rock",
     "album": "Molekuly Zvuku",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Já Budu Chodit Po Špičkách",
@@ -11793,7 +11817,7 @@
     "genre": "Rock",
     "album": "Uhol Pohladu",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "I'm Still Standing",
@@ -11925,7 +11949,7 @@
     "genre": "Rock",
     "album": "Greatest Hits",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Mama Preco Nie Som Pekna",
@@ -12177,7 +12201,7 @@
     "genre": "New Age",
     "album": "Watermark (Remastered Bonus Track Version)",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "IE"
   },
   {
     "title": "Anjel",
@@ -12189,7 +12213,7 @@
     "genre": "Rock",
     "album": "Molekuly Zvuku",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Obchodník S Deštěm",
@@ -12417,7 +12441,7 @@
     "genre": "Pop",
     "album": "Best of Peha",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Streets Of Philadelphia",
@@ -12633,7 +12657,7 @@
     "genre": "Pop",
     "album": "Všetko Najlepšie 2013 - 1992",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Želva",
@@ -12909,7 +12933,7 @@
     "genre": "Pop",
     "album": "Donekonečna (The Best Of 1997-2010)",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Cecka Sbira Cecka",
@@ -13161,7 +13185,7 @@
     "genre": "Pop",
     "album": "80s 100 Hits",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Rhythm Of The Night",
@@ -13797,7 +13821,7 @@
     "genre": "Worldwide",
     "album": "Zlatá deska České muziky - Jiří Zmožek",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "XC"
   },
   {
     "title": "The Y.M.C.A",
@@ -14109,7 +14133,7 @@
     "genre": "Pop",
     "album": "20 roků - 20 hitů",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Stars",
@@ -14193,7 +14217,7 @@
     "genre": "Pop",
     "album": "Backstreet Boys",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Zrpš",
@@ -15333,7 +15357,7 @@
     "genre": "Pop",
     "album": "Vyberovka",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Fields Of Gold",
@@ -15825,7 +15849,7 @@
     "genre": "Rock",
     "album": "Molekuly Zvuku",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Nothing's Gonna Change My Love For You",
@@ -15933,7 +15957,7 @@
     "genre": "Not found",
     "album": "Not found",
     "track_number": "Not found",
-    "artist_country": "Not found"
+    "artist_country": "IE"
   },
   {
     "title": "Ty Ja A Moj Brat (Sklicka Dotykov)",
@@ -16053,7 +16077,7 @@
     "genre": "Rock",
     "album": "Uhol Pohladu",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Príliš Osobná Známosť",
@@ -16329,7 +16353,7 @@
     "genre": "Rock",
     "album": "Greatest Hits",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Všetci Sa Zídeme V Jednej Posteli",
@@ -16713,7 +16737,7 @@
     "genre": "Pop",
     "album": "Vikend",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Ako Vánok",
@@ -16785,7 +16809,7 @@
     "genre": "Pop",
     "album": "Donekonečna (The Best Of 1997-2010)",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Atlantída",
@@ -16833,7 +16857,7 @@
     "genre": "New Age",
     "album": "Watermark (Remastered Bonus Track Version)",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "IE"
   },
   {
     "title": "Holubička",
@@ -16857,7 +16881,7 @@
     "genre": "Rock",
     "album": "Molekuly Zvuku",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Woman In Love",
@@ -17061,7 +17085,7 @@
     "genre": "Hard Rock",
     "album": "Crazy World",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Se Bastasse Una Canzone",
@@ -17169,7 +17193,7 @@
     "genre": "Pop",
     "album": "Nocadeň v Prahe (Live 2024)",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Horúca Láska",
@@ -17217,7 +17241,7 @@
     "genre": "Rock",
     "album": "Uhol Pohladu",
     "track_number": 4,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Školská Lavica",
@@ -17289,7 +17313,7 @@
     "genre": "Pop",
     "album": "Best of Peha",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Nothing Else Matters",
@@ -17529,7 +17553,7 @@
     "genre": "Pop",
     "album": "Romantic Collection: Disco",
     "track_number": 19,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Bol Raz Jeden Žiak",
@@ -17577,7 +17601,7 @@
     "genre": "Rock",
     "album": "AJ TY, AYA !?",
     "track_number": 12,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Študentská Láska",
@@ -17793,7 +17817,7 @@
     "genre": "Pop",
     "album": "Nikdy Nebolo Lepsie",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Vyrobená Pre Mňa",
@@ -17805,7 +17829,7 @@
     "genre": "Pop",
     "album": "Vyberovka",
     "track_number": 14,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Školská Láska",
@@ -17853,7 +17877,7 @@
     "genre": "Rock",
     "album": "To Byla, Pánové, Jízda",
     "track_number": 14,
-    "artist_country": "Not found"
+    "artist_country": "PL"
   },
   {
     "title": "Rybičko Zlatá Přeju Si",
@@ -17889,7 +17913,7 @@
     "genre": "Pop",
     "album": "Aj tak sme frajeri",
     "track_number": 13,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Hurikán",
@@ -18057,7 +18081,7 @@
     "genre": "Pop",
     "album": "Hot Shot",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "JM"
   },
   {
     "title": "Zústanu Svúj",
@@ -18117,7 +18141,7 @@
     "genre": "Dance",
     "album": "TOUCH BY TOUCH - HIT-MIX",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "AT"
   },
   {
     "title": "Kamarát",
