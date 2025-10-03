@@ -1,5 +1,53 @@
 [
   {
+    "title": "What A Wonderful World",
+    "artist": "Louis Armstrong",
+    "date": "03.10.2025",
+    "time": "17:40",
+    "year": 1967,
+    "duration_ms": 139434,
+    "genre": "Jazz",
+    "album": "What a Wonderful World",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Sha La La",
+    "artist": "Vengaboys",
+    "date": "03.10.2025",
+    "time": "17:36",
+    "artist_country_code": "Not found",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found"
+  },
+  {
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "03.10.2025",
+    "time": "17:33",
+    "year": 1988,
+    "duration_ms": 220880,
+    "genre": "Pop",
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "03.10.2025",
+    "time": "17:30",
+    "year": 2001,
+    "duration_ms": 159227,
+    "genre": "Pop",
+    "album": "Na Kameni Kamen",
+    "track_number": 14,
+    "artist_country_code": "Not found"
+  },
+  {
     "title": "Hotel California",
     "artist": "Eagles The",
     "date": "03.10.2025",
@@ -6832,11 +6880,11 @@
     "artist": "Vanessa Amorosi",
     "date": "02.10.2025",
     "time": "01:53",
-    "year": "Not found",
-    "duration_ms": "Not found",
+    "year": 2001,
+    "duration_ms": 209000,
     "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Latin Fever 3",
+    "track_number": 6,
     "artist_country_code": "Not found"
   },
   {
@@ -10024,11 +10072,11 @@
     "artist": "Vanessa Amorosi",
     "date": "01.10.2025",
     "time": "07:49",
-    "year": "Not found",
-    "duration_ms": "Not found",
+    "year": 2001,
+    "duration_ms": 209000,
     "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Latin Fever 3",
+    "track_number": 6,
     "artist_country_code": "Not found"
   },
   {

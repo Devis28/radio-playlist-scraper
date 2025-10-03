@@ -2711,5 +2711,168 @@
     "track_number": 12,
     "artist_country_code": "Not found"
   },
-  "vengaboys|sha la la": "__MISS__"
+  "vengaboys|sha la la": "__MISS__",
+  "louis armstrong|what a wonderful world": {
+    "album": "It’s Christmas Time",
+    "year": 1999,
+    "duration_ms": 130800,
+    "genre": "Not found",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  "taylor dayne|tell it to my heart": {
+    "album": "Dancemania Super Classics Best",
+    "year": 2002,
+    "duration_ms": 162333,
+    "genre": "Not found",
+    "track_number": 17,
+    "artist_country_code": "Not found"
+  },
+  "balogh berco|milionar": "__MISS__",
+  "laid back|sunshine reggae": {
+    "album": "European Collection: …A Foreign Affair! Volume 2",
+    "year": "Not found",
+    "duration_ms": 262000,
+    "genre": "Not found",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "ventil rg|nervozna familia": {
+    "album": "Ventil RG",
+    "year": 1991,
+    "duration_ms": 189000,
+    "genre": "Not found",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  "grigorov robo|monika": "__MISS__",
+  "savage garden|to the moon and back": {
+    "album": "Jostens Hear the Year 98-99",
+    "year": 1999,
+    "duration_ms": 342213,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "michal david & kroky frantiska janecka|deti raje": "__MISS__",
+  "filipova lenka|zamilovana": "__MISS__",
+  "richard muller|nasa laska leti": {
+    "album": "Koniec sveta",
+    "year": 1999,
+    "duration_ms": 157000,
+    "genre": "rock",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "vanessa amorosi|absolutely everybody": {
+    "album": "Latin Fever 3",
+    "year": 2001,
+    "duration_ms": 209000,
+    "genre": "Not found",
+    "track_number": 6,
+    "artist_country_code": "Not found"
+  },
+  "habera pavol|kym pri mne spis": "__MISS__",
+  "u2|with or without you": {
+    "album": "Rotterdam Connection",
+    "year": 1992,
+    "duration_ms": 297666,
+    "genre": "rock",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "hex|v piatok podvecer": {
+    "album": "Víkend",
+    "year": 2002,
+    "duration_ms": 218120,
+    "genre": "Not found",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "c.c. catch|cause you are young": {
+    "album": "Dance Classics '80 II",
+    "year": 1994,
+    "duration_ms": 285000,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "tublatanka|moj stary dobry kabat": {
+    "album": "Najväčšie hity No. 1 - Pravda víťazí",
+    "year": 1996,
+    "duration_ms": 190000,
+    "genre": "Not found",
+    "track_number": 15,
+    "artist_country_code": "Not found"
+  },
+  "marie rottrova|skorapky orechu": {
+    "album": "Všechno nejlepší",
+    "year": 2003,
+    "duration_ms": 209786,
+    "genre": "Not found",
+    "track_number": 9,
+    "artist_country_code": "Not found"
+  },
+  "modus|spoluhracka": {
+    "album": "The Best of 1977-1988, Volume 1",
+    "year": 1998,
+    "duration_ms": 205000,
+    "genre": "Not found",
+    "track_number": 15,
+    "artist_country_code": "Not found"
+  },
+  "ricky martin|maria": {
+    "album": "A medio vivir",
+    "year": 1995,
+    "duration_ms": 248360,
+    "genre": "latin",
+    "track_number": 14,
+    "artist_country_code": "Not found"
+  },
+  "kelecsenyi martin|musim uz ist": "__MISS__",
+  "the bee gees|secret love": "__MISS__",
+  "peter nagy|uz je tu laska": {
+    "album": "Singles (1984-1988)",
+    "year": 2011,
+    "duration_ms": 177000,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "elton john|nikita": {
+    "album": "Classic Cuts presents… Wedding in a Box: The Ultimate Wedding Collection",
+    "year": 2003,
+    "duration_ms": 321000,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "smatanova zuzana|ceresne": "__MISS__",
+  "bad boys blue|come back and stay": {
+    "album": "Super 20",
+    "year": 1989,
+    "duration_ms": 247026,
+    "genre": "disco",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "rolincova darinka|az raz budem ucitelkou": "__MISS__",
+  "vidiek|nechajte si ju": {
+    "album": "Fun radio TPD Live unplugged",
+    "year": "Not found",
+    "duration_ms": 191000,
+    "genre": "Not found",
+    "track_number": 22,
+    "artist_country_code": "Not found"
+  },
+  "madonna|frozen": {
+    "album": "Frozen (Remixes)",
+    "year": 1993,
+    "duration_ms": 375400,
+    "genre": "pop",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "o'connor sinead|nothing compares 2 u": "__MISS__",
+  "habera pavol & ibrahim maiga|mama kami": "__MISS__"
 }
