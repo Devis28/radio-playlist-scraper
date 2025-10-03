@@ -1,5 +1,18 @@
 [
   {
+    "title": "Killer",
+    "artist": "Adamski/Seal",
+    "date": "03.10.2025",
+    "time": "21:47",
+    "year": 2003,
+    "duration_ms": 336400,
+    "genre": "Rock",
+    "album": "The Universal Masters Collection: Classic 90's",
+    "track_number": 9,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Beautiful Life",
     "artist": "Ace Of Base",
     "date": "03.10.2025",
@@ -135,7 +148,11 @@
     "album": "The Essential Boney M.",
     "track_number": 9,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frank Farian",
+      "Fred Jay",
+      "George Reyam"
+    ]
   },
   {
     "title": "Poraď Si Sám",
@@ -353,7 +370,9 @@
     "album": "Ring My Bell",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frederick Knight"
+    ]
   },
   {
     "title": "Maturitné Tablo",
