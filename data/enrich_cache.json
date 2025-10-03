@@ -6334,5 +6334,341 @@
     "album": "Best of 43 jasných hitových zpráv",
     "track_number": 2,
     "itunes_track_id": 1384676989
+  },
+  "houston whitney|one moment in time": {
+    "year": 1988,
+    "duration_ms": 283520,
+    "duration": "4:44",
+    "genre": "R&B/Soul",
+    "album": "The Ultimate Collection",
+    "track_number": 4,
+    "itunes_track_id": 266232725
+  },
+  "bryan adams|heaven": {
+    "year": 1984,
+    "duration_ms": 243360,
+    "duration": "4:03",
+    "genre": "Rock",
+    "album": "Reckless (30th Anniversary)",
+    "track_number": 4,
+    "itunes_track_id": 1440823902
+  },
+  "belinda carlisle|la luna": {
+    "year": 1989,
+    "duration_ms": 237693,
+    "duration": "3:58",
+    "genre": "Pop",
+    "album": "Runaway Horses (Deluxe Edition)",
+    "track_number": 27,
+    "itunes_track_id": 1821889016
+  },
+  "elan|clovecina": {
+    "year": 1983,
+    "duration_ms": 277787,
+    "duration": "4:38",
+    "genre": "Rock",
+    "album": "Elán 3",
+    "track_number": 9,
+    "itunes_track_id": 1610596600
+  },
+  "mr. big|to be with you": {
+    "year": 1991,
+    "duration_ms": 206973,
+    "duration": "3:27",
+    "genre": "Hard Rock",
+    "album": "Greatest Hits",
+    "track_number": 9,
+    "itunes_track_id": 1270576306
+  },
+  "michael, george|careless whisper": {
+    "year": 1984,
+    "duration_ms": 392267,
+    "duration": "6:32",
+    "genre": "Pop",
+    "album": "Make It Big",
+    "track_number": 8,
+    "itunes_track_id": 193085066
+  },
+  "yazoo|only you": {
+    "year": 1982,
+    "duration_ms": 192293,
+    "duration": "3:12",
+    "genre": "Pop",
+    "album": "Only You (1999 Mix)",
+    "track_number": 6,
+    "itunes_track_id": 1746978557
+  },
+  "orchestral manoeuvres in the dark|pandora's box": {
+    "year": 1991,
+    "duration_ms": 249173,
+    "duration": "4:09",
+    "genre": "New Wave",
+    "album": "Sugar Tax",
+    "track_number": 2,
+    "itunes_track_id": 714617960
+  },
+  "david michal|discopribeh": {
+    "year": 2012,
+    "duration_ms": 274600,
+    "duration": "4:35",
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 5,
+    "itunes_track_id": 1442642781
+  },
+  "katarina knechtova|naveky": "__MISS__",
+  "aerosmith|i don't want to miss a thing": {
+    "year": 1998,
+    "duration_ms": 299723,
+    "duration": "5:00",
+    "genre": "Soundtrack",
+    "album": "I Don't Want To Miss A Thing EP",
+    "track_number": 1,
+    "itunes_track_id": 1660108804
+  },
+  "patrick swayze|she's like the wind": {
+    "year": 1987,
+    "duration_ms": 232907,
+    "duration": "3:53",
+    "genre": "Soundtrack",
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "track_number": 3,
+    "itunes_track_id": 254938667
+  },
+  "no name|vecnost": {
+    "year": 2001,
+    "duration_ms": 197653,
+    "duration": "3:18",
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 1,
+    "itunes_track_id": 1442544678
+  },
+  "ub 40 hynde chrissie|i got you babe": {
+    "year": 1985,
+    "duration_ms": 190093,
+    "duration": "3:10",
+    "genre": "Reggae",
+    "album": "The Best of UB40, Vol. 1 & 2",
+    "track_number": 14,
+    "itunes_track_id": 714520068
+  },
+  "i.m.t. smile|vela lasky": {
+    "year": 2012,
+    "duration_ms": 193733,
+    "duration": "3:14",
+    "genre": "Pop",
+    "album": "Život IMT Smile 1998-2020",
+    "track_number": 12,
+    "itunes_track_id": 1517795837
+  },
+  "desmod|niekto ti to povie skor nez ja": {
+    "year": 2006,
+    "duration_ms": 275800,
+    "duration": "4:36",
+    "genre": "Pop",
+    "album": "Vyberovka",
+    "track_number": 8,
+    "itunes_track_id": 1443127594
+  },
+  "sting|fields of gold": {
+    "year": 1993,
+    "duration_ms": 222120,
+    "duration": "3:42",
+    "genre": "Rock",
+    "album": "Ten Summoner's Tales",
+    "track_number": 3,
+    "itunes_track_id": 1415203732
+  },
+  "peter cmorik|dazd": {
+    "year": 2006,
+    "duration_ms": 279720,
+    "duration": "4:40",
+    "genre": "Pop",
+    "album": "Nadherny Den",
+    "track_number": 1,
+    "itunes_track_id": 456462632
+  },
+  "ace of base|the sign": {
+    "year": 1993,
+    "duration_ms": 191040,
+    "duration": "3:11",
+    "genre": "Pop",
+    "album": "The Sign (2015 Remastered Version)",
+    "track_number": 4,
+    "itunes_track_id": 959563981
+  },
+  "modus|pozhasinane": {
+    "year": 1981,
+    "duration_ms": 257907,
+    "duration": "4:18",
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 5,
+    "itunes_track_id": 1533350774
+  },
+  "francesco napoli|balla...balla!": {
+    "year": 1988,
+    "duration_ms": 255391,
+    "duration": "4:15",
+    "genre": "Pop",
+    "album": "Balla..Balla!, Vol. 2 Italian Hit Connection - EP",
+    "track_number": 1,
+    "itunes_track_id": 1435329039
+  },
+  "richard muller|uz asi nie si": {
+    "year": 2006,
+    "duration_ms": 229507,
+    "duration": "3:50",
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 6,
+    "itunes_track_id": 1443013037
+  },
+  "smatanova zuzana|staci si priat": {
+    "year": 2009,
+    "duration_ms": 215439,
+    "duration": "3:35",
+    "genre": "Pop",
+    "album": "Gemini",
+    "track_number": 4,
+    "itunes_track_id": 334433730
+  },
+  "masterboy|land of dreaming": {
+    "year": 1995,
+    "duration_ms": 243000,
+    "duration": "4:03",
+    "genre": "Dance",
+    "album": "Generation of Love",
+    "track_number": 5,
+    "itunes_track_id": 117494322
+  },
+  "adam durica|zatancuj si so mnou": {
+    "year": 2018,
+    "duration_ms": 198444,
+    "duration": "3:18",
+    "genre": "Pop",
+    "album": "30",
+    "track_number": 4,
+    "itunes_track_id": 1437590670
+  },
+  "myles alannah|black velvet": {
+    "year": 1989,
+    "duration_ms": 287440,
+    "duration": "4:47",
+    "genre": "Rock",
+    "album": "Alannah Myles",
+    "track_number": 3,
+    "itunes_track_id": 217503142
+  },
+  "katarina knechtova|mmuoj boze": "__MISS__",
+  "kaoma|lambada": {
+    "year": 1989,
+    "duration_ms": 207467,
+    "duration": "3:27",
+    "genre": "Latin",
+    "album": "La Lambada",
+    "track_number": 1,
+    "itunes_track_id": 267982253
+  },
+  "sabrina|boys": {
+    "year": 1987,
+    "duration_ms": 231986,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 74,
+    "itunes_track_id": 355894461
+  },
+  "modus|maly velky vlak": {
+    "year": 1979,
+    "duration_ms": 218600,
+    "duration": "3:39",
+    "genre": "Pop",
+    "album": "Modus",
+    "track_number": 7,
+    "itunes_track_id": 1533349938
+  },
+  "g8|vrat trochu lasky medzi nas": "__MISS__",
+  "i.m.t. smile|neda sa ujst": {
+    "year": 2002,
+    "duration_ms": 193053,
+    "duration": "3:13",
+    "genre": "Pop",
+    "album": "Valec Extra",
+    "track_number": 18,
+    "itunes_track_id": 1443841332
+  },
+  "desmod|nevrav mi aky som": {
+    "year": 2017,
+    "duration_ms": 207978,
+    "duration": "3:28",
+    "genre": "Rock",
+    "album": "Molekuly Zvuku",
+    "track_number": 3,
+    "itunes_track_id": 1707789116
+  },
+  "glenn medeiros|nothing's gonna change my love for you": {
+    "year": 1987,
+    "duration_ms": 231587,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "Nothing's Gonna Change My Love for You",
+    "track_number": 1,
+    "itunes_track_id": 1604642641
+  },
+  "pavol hammel|dnes uz viem": {
+    "year": 2011,
+    "duration_ms": 209533,
+    "duration": "3:30",
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 1,
+    "itunes_track_id": 598346359
+  },
+  "jackson, michael|heal the world": {
+    "year": 1991,
+    "duration_ms": 385713,
+    "duration": "6:26",
+    "genre": "Pop",
+    "album": "The Essential Michael Jackson",
+    "track_number": 10,
+    "itunes_track_id": 159295278
+  },
+  "darina rolincova|anjelik moj": {
+    "year": 1990,
+    "duration_ms": 218600,
+    "duration": "3:39",
+    "genre": "Pop",
+    "album": "Téměř Růžový Příběh",
+    "track_number": 3,
+    "itunes_track_id": 1386107303
+  },
+  "zuzana smatanova|dvere": {
+    "year": 2011,
+    "duration_ms": 192467,
+    "duration": "3:12",
+    "genre": "Pop",
+    "album": "Dvere",
+    "track_number": 1,
+    "itunes_track_id": 472318503
+  },
+  "grigorov robo|edo": {
+    "year": 1987,
+    "duration_ms": 212402,
+    "duration": "3:32",
+    "genre": "Pop",
+    "album": "Midi",
+    "track_number": 2,
+    "itunes_track_id": 1475601006
+  },
+  "team|som v tom": {
+    "year": 1988,
+    "duration_ms": 221933,
+    "duration": "3:42",
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 9,
+    "itunes_track_id": 1533365806
   }
 }
