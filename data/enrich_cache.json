@@ -3566,5 +3566,365 @@
     "album": "Osmdesát / Největší hity 1965-2023",
     "track_number": 39,
     "itunes_track_id": 1744610509
+  },
+  "peha|spomal": {
+    "year": 2005,
+    "duration_ms": 254413,
+    "duration": "4:14",
+    "genre": "Pop",
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "track_number": 6,
+    "itunes_track_id": 1442804056
+  },
+  "marika gombitova|cukraren na dlani namestia": {
+    "year": 1982,
+    "duration_ms": 286013,
+    "duration": "4:46",
+    "genre": "Pop",
+    "album": "Slnečný kalendár",
+    "track_number": 2,
+    "itunes_track_id": 1533350950
+  },
+  "darina rolincova|cesta do rozpravky": {
+    "year": 1988,
+    "duration_ms": 238640,
+    "duration": "3:59",
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 12,
+    "itunes_track_id": 1594881962
+  },
+  "hex|chvilu ano, chvilu nie": {
+    "year": 2002,
+    "duration_ms": 222760,
+    "duration": "3:43",
+    "genre": "Pop",
+    "album": "Vikend",
+    "track_number": 5,
+    "itunes_track_id": 1443473016
+  },
+  "balogh berco|farbami dycha noc": {
+    "year": 2007,
+    "duration_ms": 202507,
+    "duration": "3:23",
+    "genre": "Pop",
+    "album": "Siedmy pád",
+    "track_number": 4,
+    "itunes_track_id": 1672534130
+  },
+  "adam durica|holubicka": {
+    "year": 2018,
+    "duration_ms": 273955,
+    "duration": "4:34",
+    "genre": "Pop",
+    "album": "Holubička - Single",
+    "track_number": 1,
+    "itunes_track_id": 1435603768
+  },
+  "desmod|vyrobena pre mna": {
+    "year": 2007,
+    "duration_ms": 222747,
+    "duration": "3:43",
+    "genre": "Pop",
+    "album": "Vyberovka",
+    "track_number": 14,
+    "itunes_track_id": 1443127960
+  },
+  "patejdl vaso|dvojcata": {
+    "year": 1986,
+    "duration_ms": 287667,
+    "duration": "4:48",
+    "genre": "Pop",
+    "album": "Chlapcenský úsmev",
+    "track_number": 3,
+    "itunes_track_id": 1533363813
+  },
+  "muller richard a tereza kerndlova|klid, mir a pokora": {
+    "year": 2011,
+    "duration_ms": 273813,
+    "duration": "4:34",
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 13,
+    "itunes_track_id": 1443013055
+  },
+  "imt smile|mam krasny sen": {
+    "year": 2008,
+    "duration_ms": 189787,
+    "duration": "3:10",
+    "genre": "Pop",
+    "album": "Hlava Ma Sedem Otvorov",
+    "track_number": 2,
+    "itunes_track_id": 1442361758
+  },
+  "elan|kralovna bielych tenisiek": {
+    "year": 2016,
+    "duration_ms": 225339,
+    "duration": "3:45",
+    "genre": "Pop",
+    "album": "Živých Nás Nedostanú (Extended Version)",
+    "track_number": 22,
+    "itunes_track_id": 1146954551
+  },
+  "duran duran|ordinary world": {
+    "year": 1993,
+    "duration_ms": 340200,
+    "duration": "5:40",
+    "genre": "Pop",
+    "album": "Duran Duran (The Wedding Album)",
+    "track_number": 2,
+    "itunes_track_id": 696247422
+  },
+  "orbison roy|oh, pretty woman": {
+    "year": 1964,
+    "duration_ms": 178929,
+    "duration": "2:59",
+    "genre": "Rock",
+    "album": "Oh! Pretty Woman",
+    "track_number": 1,
+    "itunes_track_id": 872478306
+  },
+  "patejdl vaso|vonavky dievcat": {
+    "year": 1987,
+    "duration_ms": 205813,
+    "duration": "3:26",
+    "genre": "Pop",
+    "album": "Lov na city",
+    "track_number": 3,
+    "itunes_track_id": 1533364995
+  },
+  "rubettes, the|sugar baby love": {
+    "year": 1974,
+    "duration_ms": 211413,
+    "duration": "3:31",
+    "genre": "Pop",
+    "album": "Wear It’s ‘At",
+    "track_number": 8,
+    "itunes_track_id": 1742394987
+  },
+  "team|kratke lasky": {
+    "year": 2000,
+    "duration_ms": 172547,
+    "duration": "2:53",
+    "genre": "Pop",
+    "album": "7edem",
+    "track_number": 3,
+    "itunes_track_id": 1533361110
+  },
+  "chris norman|midnight lady": {
+    "year": 2003,
+    "duration_ms": 250000,
+    "duration": "4:10",
+    "genre": "Pop",
+    "album": "Chris Norman: Greatest Hits",
+    "track_number": 1,
+    "itunes_track_id": 37746021
+  },
+  "beata dubasova|za dverami mojej izby": {
+    "year": 1990,
+    "duration_ms": 303903,
+    "duration": "5:04",
+    "genre": "Pop",
+    "album": "Za dverami mojej izby",
+    "track_number": 1,
+    "itunes_track_id": 1533350837
+  },
+  "matuska waldemar|a tak dal nosis po kapsach sny mladi": {
+    "year": 1991,
+    "duration_ms": 300107,
+    "duration": "5:00",
+    "genre": "Pop",
+    "album": "Co Neodnesl Čas",
+    "track_number": 15,
+    "itunes_track_id": 1385767392
+  },
+  "black|wonderful life": {
+    "year": 1986,
+    "duration_ms": 287933,
+    "duration": "4:48",
+    "genre": "Rock",
+    "album": "Wonderful Life",
+    "track_number": 1,
+    "itunes_track_id": 1443379066
+  },
+  "prince ital joe feat.marky mark|happy people": {
+    "year": 1994,
+    "duration_ms": 238467,
+    "duration": "3:58",
+    "genre": "Pop",
+    "album": "Life In the Streets",
+    "track_number": 4,
+    "itunes_track_id": 40620614
+  },
+  "darina rolincova|piesen o kamaratstve": {
+    "year": 1988,
+    "duration_ms": 178987,
+    "duration": "2:59",
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 4,
+    "itunes_track_id": 1594881950
+  },
+  "al bano & romina power|sharazan": {
+    "year": 2017,
+    "duration_ms": 319827,
+    "duration": "5:20",
+    "genre": "Pop",
+    "album": "Magic Reunion *Live*",
+    "track_number": 17,
+    "itunes_track_id": 1310671022
+  },
+  "rednex|wish you were here": {
+    "year": 1995,
+    "duration_ms": 236933,
+    "duration": "3:57",
+    "genre": "Pop",
+    "album": "Sex & Violins",
+    "track_number": 4,
+    "itunes_track_id": 1297392657
+  },
+  "david michal|my mame prima rodice": {
+    "year": 2008,
+    "duration_ms": 194604,
+    "duration": "3:15",
+    "genre": "Pop",
+    "album": "Disco 2008",
+    "track_number": 6,
+    "itunes_track_id": 295869658
+  },
+  "abba|gimme gimme gimme a man after midnight": {
+    "year": 1979,
+    "duration_ms": 289160,
+    "duration": "4:49",
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 14,
+    "itunes_track_id": 1440816980
+  },
+  "chicago|hard to say i'm sorry": {
+    "year": 1982,
+    "duration_ms": 223280,
+    "duration": "3:43",
+    "genre": "Rock",
+    "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
+    "track_number": 3,
+    "itunes_track_id": 265626452
+  },
+  "sophie b. hawkins|right beside you": {
+    "year": 1994,
+    "duration_ms": 286573,
+    "duration": "4:47",
+    "genre": "Pop",
+    "album": "The Best of Sophie B. Hawkins",
+    "track_number": 7,
+    "itunes_track_id": 192965609
+  },
+  "modern talking|you can win if you want": {
+    "year": 1985,
+    "duration_ms": 227880,
+    "duration": "3:48",
+    "genre": "Pop",
+    "album": "You're My Heart, You're My Soul",
+    "track_number": 6,
+    "itunes_track_id": 253891642
+  },
+  "penk michal|o blaznech": {
+    "year": 1992,
+    "duration_ms": 278000,
+    "duration": "4:38",
+    "genre": "Pop",
+    "album": "Hit Album",
+    "track_number": 2,
+    "itunes_track_id": 1404810973
+  },
+  "belinda carlisle|(we want) the same thing": {
+    "year": 1987,
+    "duration_ms": 239107,
+    "duration": "3:59",
+    "genre": "Pop",
+    "album": "Runaway Horses",
+    "track_number": 6,
+    "itunes_track_id": 1818607336
+  },
+  "shalom|bon soir, mademoiselle paris": {
+    "year": 2001,
+    "duration_ms": 288980,
+    "duration": "4:49",
+    "genre": "Pop",
+    "album": "Bon soir, mademoiselle Paris",
+    "track_number": 1,
+    "itunes_track_id": 1542999208
+  },
+  "the beatles|here comes the sun": {
+    "year": 1969,
+    "duration_ms": 185733,
+    "duration": "3:06",
+    "genre": "Rock",
+    "album": "Abbey Road (Remastered)",
+    "track_number": 7,
+    "itunes_track_id": 1441164589
+  },
+  "peter nagy|chran svoje blaznovstva": {
+    "year": 1984,
+    "duration_ms": 169987,
+    "duration": "2:50",
+    "genre": "Pop",
+    "album": "Chrán svoje bláznovstvá",
+    "track_number": 1,
+    "itunes_track_id": 1533359033
+  },
+  "fun factory|celebration": {
+    "year": 2016,
+    "duration_ms": 207000,
+    "duration": "3:27",
+    "genre": "Dance",
+    "album": "Back to the Factory",
+    "track_number": 15,
+    "itunes_track_id": 1135001227
+  },
+  "bonnie tyler|it's a heartache": {
+    "year": 1977,
+    "duration_ms": 209760,
+    "duration": "3:30",
+    "genre": "Pop",
+    "album": "It's a Heartache",
+    "track_number": 1,
+    "itunes_track_id": 1439423832
+  },
+  "collins phil|you can't hurry love": {
+    "year": 1982,
+    "duration_ms": 175747,
+    "duration": "2:56",
+    "genre": "Rock",
+    "album": "Hello, I Must Be Going! (Remastered)",
+    "track_number": 5,
+    "itunes_track_id": 1084058324
+  },
+  "robbie williams|angels": {
+    "year": 1997,
+    "duration_ms": 265000,
+    "duration": "4:25",
+    "genre": "Pop",
+    "album": "Life Thru a Lens",
+    "track_number": 4,
+    "itunes_track_id": 727506102
+  },
+  "kiss|i was made for loving you": {
+    "year": 2022,
+    "duration_ms": 372867,
+    "duration": "6:13",
+    "genre": "Rock",
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "track_number": 7,
+    "itunes_track_id": 1600980619
+  },
+  "zbirka miro|jesenna laska": {
+    "year": 1988,
+    "duration_ms": 164347,
+    "duration": "2:44",
+    "genre": "Pop",
+    "album": "Zlomky poznania",
+    "track_number": 11,
+    "itunes_track_id": 1533351694
   }
 }
