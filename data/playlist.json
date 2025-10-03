@@ -1,5 +1,18 @@
 [
   {
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "03.10.2025",
+    "time": "13:46",
+    "country": "FR",
+    "year": 2001,
+    "duration_ms": 255160,
+    "genre": "Pop",
+    "album": "It's Raining Men - Single",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  {
     "title": "Beds Are Burning",
     "artist": "Midnight Oil",
     "date": "03.10.2025",
@@ -598,11 +611,11 @@
     "artist": "Jiří Schelinger",
     "date": "03.10.2025",
     "time": "10:29",
-    "year": "Not found",
-    "duration_ms": "Not found",
+    "year": 1990,
+    "duration_ms": 242000,
     "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Holubí dům",
+    "track_number": 1,
     "artist_country_code": "Not found"
   },
   {
@@ -5794,11 +5807,11 @@
     "artist": "Jiří Schelinger",
     "date": "02.10.2025",
     "time": "04:03",
-    "year": "Not found",
-    "duration_ms": "Not found",
+    "year": 1990,
+    "duration_ms": 242000,
     "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Holubí dům",
+    "track_number": 1,
     "artist_country_code": "Not found"
   },
   {
@@ -9430,11 +9443,11 @@
     "artist": "Jiří Schelinger",
     "date": "01.10.2025",
     "time": "07:44",
-    "year": "Not found",
-    "duration_ms": "Not found",
+    "year": 1990,
+    "duration_ms": 242000,
     "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Holubí dům",
+    "track_number": 1,
     "artist_country_code": "Not found"
   },
   {
