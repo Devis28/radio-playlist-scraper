@@ -69,12 +69,6 @@ def _clean_name(s: str) -> str:
 def _norm_for_match(s: str) -> str:
     return _ascii_fold(_clean_name(s)).casefold()
 
-def _mmss(ms: Optional[int]) -> str:
-    if ms is None or ms < 0:
-        return NOT_FOUND
-    total = int(round(ms / 1000))
-    return f"{total // 60}:{total % 60:02d}"
-
 def _load_json(path: str, default):
     if not os.path.exists(path):
         return default
@@ -95,7 +89,7 @@ def _cache_key(artist: str, title: str) -> str:
     return f"{_norm_for_match(artist)}|{_norm_for_match(title)}"
 
 # meta polia, ktoré spravujeme (bez disc_number)
-META_KEYS = ("year", "duration_ms", "duration", "genre", "album", "track_number")
+META_KEYS = ("year", "duration_ms", "genre", "album", "track_number")
 
 def _has_all_meta(it: dict) -> bool:
     """Má položka všetky meta polia vyplnené a nie 'Not found'?"""
@@ -160,7 +154,6 @@ def itunes_lookup(artist: str, title: str, country: str) -> Optional[dict]:
     return {
         "year": year_val if year_val is not None else NOT_FOUND,
         "duration_ms": ms if ms is not None else NOT_FOUND,
-        "duration": _mmss(ms) if ms is not None else NOT_FOUND,
         "genre": best.get("primaryGenreName") or NOT_FOUND,
         "album": best.get("collectionName") or NOT_FOUND,
         "track_number": best.get("trackNumber") if best.get("trackNumber") is not None else NOT_FOUND,
@@ -234,7 +227,6 @@ def enrich_items(items: list, cache: dict, country: str, limit: int, pause_s: fl
             it.update({
                 "year": meta.get("year", NOT_FOUND),
                 "duration_ms": meta.get("duration_ms", NOT_FOUND),
-                "duration": meta.get("duration", NOT_FOUND),
                 "genre": meta.get("genre", NOT_FOUND),
                 "album": meta.get("album", NOT_FOUND),
                 "track_number": meta.get("track_number", NOT_FOUND),
