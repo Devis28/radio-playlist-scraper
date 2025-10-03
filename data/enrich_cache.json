@@ -7390,5 +7390,21 @@
     "album": "Sandra: Platinum Collection",
     "track_number": 10,
     "itunes_track_id": 712959515
+  },
+  "erasure|blue savannah": {
+    "year": 1990,
+    "duration_ms": 260227,
+    "genre": "Pop",
+    "album": "Hits! The Very Best of Erasure",
+    "track_number": 8,
+    "itunes_track_id": 1436488393
+  },
+  "mr. president|coco jambo": {
+    "year": 1996,
+    "duration_ms": 218733,
+    "genre": "Pop",
+    "album": "We See The Same Sun",
+    "track_number": 2,
+    "itunes_track_id": 1824196580
   }
 }

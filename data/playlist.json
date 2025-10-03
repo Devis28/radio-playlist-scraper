@@ -1,5 +1,29 @@
 [
   {
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "03.10.2025",
+    "time": "21:27",
+    "year": 1990,
+    "duration_ms": 260227,
+    "genre": "Pop",
+    "album": "Hits! The Very Best of Erasure",
+    "track_number": 8,
+    "artist_country": "GB"
+  },
+  {
+    "title": "Coco Jambo",
+    "artist": "Mr. President",
+    "date": "03.10.2025",
+    "time": "21:24",
+    "year": 1996,
+    "duration_ms": 218733,
+    "genre": "Pop",
+    "album": "We See The Same Sun",
+    "track_number": 2,
+    "artist_country": "DE"
+  },
+  {
     "title": "Stop For A Minute",
     "artist": "Sandra",
     "date": "03.10.2025",
