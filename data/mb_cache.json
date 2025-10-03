@@ -1244,5 +1244,175 @@
     "genre": "Not found",
     "track_number": 9,
     "artist_country_code": "Not found"
-  }
+  },
+  "metalinda|jan amos dzinovy": {
+    "album": "Tutovky",
+    "year": 2003,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "matthew wilder|break my stride": {
+    "album": "Mastermix: DJ Beats, Volume 19",
+    "year": 2014,
+    "duration_ms": 194552,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "tublatanka|matka": {
+    "album": "Nebo - Peklo - Raj",
+    "year": 1990,
+    "duration_ms": 290000,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "pet shop boys|it's a sin": {
+    "album": "Watching My Mind",
+    "year": 1991,
+    "duration_ms": 307400,
+    "genre": "Not found",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "aya|maly princ": {
+    "album": "AJ TY, AYA !?",
+    "year": 1994,
+    "duration_ms": 360000,
+    "genre": "Not found",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "kirschner jana|modra": "__MISS__",
+  "the gipsy kings|volare": "__MISS__",
+  "team|zenska menom panika": {
+    "album": "Team 4",
+    "year": 1991,
+    "duration_ms": 266000,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "michael sembello|maniac": {
+    "album": "The Very Best of Pop Music 1983–84",
+    "year": 1996,
+    "duration_ms": 254933,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "wham!|wake me up before you go go": {
+    "album": "Darsh Fest, Vol. 1",
+    "year": 2019,
+    "duration_ms": 206017,
+    "genre": "Not found",
+    "track_number": 36,
+    "artist_country_code": "Not found"
+  },
+  "robo grigorov|po vine": {
+    "album": "Balady",
+    "year": 2006,
+    "duration_ms": 256613,
+    "genre": "Not found",
+    "track_number": 16,
+    "artist_country_code": "Not found"
+  },
+  "prince ital joe & marky mark|united": {
+    "album": "D.J. Hits IX",
+    "year": 1994,
+    "duration_ms": 245000,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "rolincova darinka|arabela": "__MISS__",
+  "desmod|zober ma domov": {
+    "album": "Výberovka - Music For All",
+    "year": 2014,
+    "duration_ms": 296520,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "eurythmics|sweet dreams": {
+    "album": "Romantic Collection: Disco",
+    "year": "Not found",
+    "duration_ms": 261000,
+    "genre": "pop",
+    "track_number": 19,
+    "artist_country_code": "Not found"
+  },
+  "guns n roses|november rain": {
+    "album": "Bad Obsession",
+    "year": 1991,
+    "duration_ms": 576000,
+    "genre": "hard rock",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "abba|sos": {
+    "album": "På svenska",
+    "year": 1994,
+    "duration_ms": 202000,
+    "genre": "Not found",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "krystof|obchodnik s destem": {
+    "album": "Kryštof v Opeře",
+    "year": 2008,
+    "duration_ms": 225000,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "peter & julia heckovci|sputana laskou": "__MISS__",
+  "heart|alone": {
+    "album": "2013-06-17: Cruzan Amphitheatre, West Palm Beach, FL, USA",
+    "year": "Not found",
+    "duration_ms": 306186,
+    "genre": "Not found",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "kotvald petr|milujem se cim dal vic": "__MISS__",
+  "peter nagy|myslis na to na co myslim ja?": {
+    "album": "More piesní",
+    "year": 2011,
+    "duration_ms": 177666,
+    "genre": "Not found",
+    "track_number": 14,
+    "artist_country_code": "Not found"
+  },
+  "kershaw nik|i won't let the sun go down on me": "__MISS__",
+  "hex|mato a linda": {
+    "album": "Ultrapop",
+    "year": 1997,
+    "duration_ms": 254000,
+    "genre": "Not found",
+    "track_number": 6,
+    "artist_country_code": "Not found"
+  },
+  "the beatles|yesterday": {
+    "album": "Top Medleys",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 83,
+    "artist_country_code": "Not found"
+  },
+  "filipova lenka|venovani": "__MISS__",
+  "gombitova marika|dvaja": "__MISS__",
+  "imt smile / marian cekovsky|myslim ze moze byt": "__MISS__",
+  "modern talking|brother louie": {
+    "album": "Eurohits 2000, Volume 2",
+    "year": 1999,
+    "duration_ms": 190653,
+    "genre": "pop",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "sima martausova & for you|nenahraditelna": "__MISS__"
 }
