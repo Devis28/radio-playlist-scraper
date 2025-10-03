@@ -1917,5 +1917,161 @@
     "genre": "Not found",
     "track_number": 9,
     "artist_country_code": "Not found"
+  },
+  "smokie|living next door to alice": {
+    "album": "The Concert: Essen/Germany, 10th March 1978",
+    "year": 1998,
+    "duration_ms": 214560,
+    "genre": "Not found",
+    "track_number": 14,
+    "artist_country_code": "Not found"
+  },
+  "samantha fox|nothing's gonna stop me now": {
+    "album": "Hit Mix",
+    "year": 1987,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "robert miles|children": {
+    "album": "Breakdown: The Very Best of Euphoric Dance",
+    "year": 1999,
+    "duration_ms": 217266,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "styx|boat on the river": {
+    "album": "Caught in the Act: Live",
+    "year": "Not found",
+    "duration_ms": 190000,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "oldfield mike & reilly maggie|moonlight shadow": "__MISS__",
+  "gott karel & olympic|trezor": "__MISS__",
+  "branigan laura|self control": "__MISS__",
+  "guru josh|infinity": {
+    "album": "Dance Hits: 40 Dance Hits: The Complete Dance Collection",
+    "year": 1994,
+    "duration_ms": 267000,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "simon paul & garfunkel art|the sound of silence": "__MISS__",
+  "kylie minogue|the locomotion": {
+    "album": "Kylie: Live in New York",
+    "year": 2009,
+    "duration_ms": 296000,
+    "genre": "Not found",
+    "track_number": 19,
+    "artist_country_code": "Not found"
+  },
+  "p. m. sampson & double key|we love to love": {
+    "album": "Love Affair",
+    "year": 1993,
+    "duration_ms": 223000,
+    "genre": "Not found",
+    "track_number": 14,
+    "artist_country_code": "Not found"
+  },
+  "helena vondrackova|a ty se ptas co ja": {
+    "album": "Přejdi Jordán a další hity",
+    "year": 1990,
+    "duration_ms": 264000,
+    "genre": "Not found",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "miro zbirka|kup mi knihu": {
+    "album": "22x2: The Best Of",
+    "year": 2007,
+    "duration_ms": 247000,
+    "genre": "Not found",
+    "track_number": 19,
+    "artist_country_code": "Not found"
+  },
+  "ramazzotti eros|un emozione per sempre": "__MISS__",
+  "iglesias, enrique|hero": "__MISS__",
+  "gombitova marika|saty": "__MISS__",
+  "peter nagy|koralky od natalky": {
+    "album": "20 roků - 20 hitů",
+    "year": 2004,
+    "duration_ms": 196000,
+    "genre": "Not found",
+    "track_number": 9,
+    "artist_country_code": "Not found"
+  },
+  "smokie|mexican girl": {
+    "album": "The Best Of 20 Years",
+    "year": 1995,
+    "duration_ms": 237000,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "palonder marcel|laska": "__MISS__",
+  "men at work|down under": {
+    "album": "Is’ noch Brot da 2",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "imbruglia natalie|torn": "__MISS__",
+  "travolta john & newton-john olivia|you're the one that i want": "__MISS__",
+  "fancy|flames of love": {
+    "album": "Lato z radiem",
+    "year": "Not found",
+    "duration_ms": 241026,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "the cranberries|dreams": {
+    "album": "Ode to My Family",
+    "year": 1994,
+    "duration_ms": 265200,
+    "genre": "alt rock",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "rottrova marie|s tim blaznem si nic nezacinej": "__MISS__",
+  "hammel, pavol|zrps": "__MISS__",
+  "celine dion|my heart will go on": {
+    "album": "Classic Cuts: Ballad Box 2",
+    "year": "Not found",
+    "duration_ms": 311000,
+    "genre": "Not found",
+    "track_number": 15,
+    "artist_country_code": "Not found"
+  },
+  "gravis|skusky z lasky": {
+    "album": "Hitpanoráma - Výber najúspešnejších piesní Slovenskej populárnej hudby",
+    "year": 1989,
+    "duration_ms": 233000,
+    "genre": "Not found",
+    "track_number": 13,
+    "artist_country_code": "Not found"
+  },
+  "roxette|it must have been love": {
+    "album": "Live & Alive - The Best of Roxette",
+    "year": 1995,
+    "duration_ms": 431000,
+    "genre": "Not found",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "the beatles|let it be": {
+    "album": "Come Together: Beatles in the '90s",
+    "year": 1996,
+    "duration_ms": 241000,
+    "genre": "Not found",
+    "track_number": 18,
+    "artist_country_code": "Not found"
   }
 }

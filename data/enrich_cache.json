@@ -7204,5 +7204,13 @@
     "album": "The Best Of",
     "track_number": 2,
     "itunes_track_id": 1569583175
+  },
+  "samantha fox|nothing's gonna stop me now": {
+    "year": 1987,
+    "duration_ms": 225147,
+    "genre": "Pop",
+    "album": "Samantha Fox",
+    "track_number": 6,
+    "itunes_track_id": 550369905
   }
 }
