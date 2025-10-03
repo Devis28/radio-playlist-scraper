@@ -1,5 +1,307 @@
 [
   {
+    "title": "Maria Magdalena",
+    "artist": "Sandra",
+    "date": "03.10.2025",
+    "time": "23:28",
+    "year": 1985,
+    "duration_ms": 240440,
+    "genre": "R&B/Soul",
+    "album": "18 Greatest Hits: Sandra",
+    "track_number": 1,
+    "artist_country": "DE",
+    "songwriters": [
+      "Hubert Kemmler",
+      "Markus Löhr",
+      "Michael Cretu",
+      "Richard Palmer‐James"
+    ]
+  },
+  {
+    "title": "Sweat (A La La La Long)",
+    "artist": "Inner Circle",
+    "date": "03.10.2025",
+    "time": "23:24",
+    "year": 1992,
+    "duration_ms": 227067,
+    "genre": "Reggae",
+    "album": "Blazzin' Fire",
+    "track_number": 2,
+    "artist_country": "JM",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "99 Luftballons",
+    "artist": "Nena",
+    "date": "03.10.2025",
+    "time": "23:20",
+    "year": 1983,
+    "duration_ms": 231467,
+    "genre": "Pop",
+    "album": "Nena",
+    "track_number": 6,
+    "artist_country": "DE",
+    "songwriters": [
+      "Carlo Karges",
+      "Jörn‐Uwe Fahrenkrog‐Petersen"
+    ]
+  },
+  {
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "03.10.2025",
+    "time": "23:16",
+    "year": 1990,
+    "duration_ms": 240773,
+    "genre": "Pop",
+    "album": "Move Until We Fly",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Hooray! Hooray! Is A Holi-Holiday",
+    "artist": "Boney M",
+    "date": "03.10.2025",
+    "time": "23:13",
+    "year": 1979,
+    "duration_ms": 235600,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 8,
+    "artist_country": "DE",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Taliansky Muzikál",
+    "artist": "Júlia a Peter Hečkovci",
+    "date": "03.10.2025",
+    "time": "23:10",
+    "year": 1987,
+    "duration_ms": 164771,
+    "genre": "Pop",
+    "album": "Taliansky muzikál",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Don't Worry",
+    "artist": "Kim Appleby",
+    "date": "03.10.2025",
+    "time": "23:06",
+    "year": 1990,
+    "duration_ms": 210933,
+    "genre": "Pop",
+    "album": "Don't Worry - Single",
+    "track_number": 1,
+    "artist_country": "GB",
+    "songwriters": [
+      "Craig Logan",
+      "Kim Appleby"
+    ]
+  },
+  {
+    "title": "Malá Nočná Búrka",
+    "artist": "Team",
+    "date": "03.10.2025",
+    "time": "23:02",
+    "year": 1988,
+    "duration_ms": 246560,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 6,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Decibely Lásky",
+    "artist": "David Michal Kroky Františka Janečka",
+    "date": "03.10.2025",
+    "time": "22:59",
+    "year": 1986,
+    "duration_ms": 193239,
+    "genre": "Pop",
+    "album": "Děti Ráje",
+    "track_number": 13,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Copacabana At The Copa",
+    "artist": "Barry Manilow",
+    "date": "03.10.2025",
+    "time": "22:55",
+    "year": 1978,
+    "duration_ms": 236760,
+    "genre": "Pop",
+    "album": "Dance Vault Mixes: Copacabana (At the Copa) - EP",
+    "track_number": 1,
+    "artist_country": "US",
+    "songwriters": [
+      "Barry Manilow",
+      "Bruce Sussman",
+      "Jack Feldman"
+    ]
+  },
+  {
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "03.10.2025",
+    "time": "22:51",
+    "year": 2005,
+    "duration_ms": 208853,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "All Night Long (All Night)",
+    "artist": "Richie Lionel",
+    "date": "03.10.2025",
+    "time": "22:47",
+    "year": 1983,
+    "duration_ms": 385085,
+    "genre": "R&B/Soul",
+    "album": "Can't Slow Down",
+    "track_number": 2,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Lionel Richie"
+    ]
+  },
+  {
+    "title": "Believe",
+    "artist": "Cher",
+    "date": "03.10.2025",
+    "time": "22:43",
+    "year": 1998,
+    "duration_ms": 239027,
+    "genre": "Pop",
+    "album": "Believe",
+    "track_number": 1,
+    "artist_country": "US",
+    "songwriters": [
+      "Brian Higgins",
+      "Matt Gray",
+      "Paul Barry",
+      "Steve Torch",
+      "Stuart McLennan",
+      "Tim Powell"
+    ]
+  },
+  {
+    "title": "Come On Eileen",
+    "artist": "Dexy's Midnight Runners",
+    "date": "03.10.2025",
+    "time": "22:39",
+    "year": 1982,
+    "duration_ms": 273933,
+    "genre": "Pop",
+    "album": "Too Rye Ay",
+    "track_number": 10,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Študentská Láska",
+    "artist": "Marika Gombitová",
+    "date": "03.10.2025",
+    "time": "22:36",
+    "year": 2016,
+    "duration_ms": 202960,
+    "genre": "Pop",
+    "album": "Single (1977 - 1989)",
+    "track_number": 5,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "I Love Your Smile",
+    "artist": "Shanice",
+    "date": "03.10.2025",
+    "time": "22:32",
+    "year": 1991,
+    "duration_ms": 259627,
+    "genre": "R&B/Soul",
+    "album": "Ultimate Collection: Shanice",
+    "track_number": 3,
+    "artist_country": "US",
+    "songwriters": [
+      "Jarvis Baker",
+      "Narada Michael Walden",
+      "Shanice",
+      "Sylvester Jackson"
+    ]
+  },
+  {
+    "title": "Lambada",
+    "artist": "Kaoma",
+    "date": "03.10.2025",
+    "time": "22:28",
+    "year": 1989,
+    "duration_ms": 207467,
+    "genre": "Latin",
+    "album": "La Lambada",
+    "track_number": 1,
+    "artist_country": "FR",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Stars",
+    "artist": "Simply Red",
+    "date": "03.10.2025",
+    "time": "22:24",
+    "year": 1991,
+    "duration_ms": 248600,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "artist_country": "GB",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Love Changes(Everything)",
+    "artist": "Climie Fisher",
+    "date": "03.10.2025",
+    "time": "22:20",
+    "year": 1987,
+    "duration_ms": 271467,
+    "genre": "New Wave",
+    "album": "Everything",
+    "track_number": 1,
+    "artist_country": "GB",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "03.10.2025",
+    "time": "22:17",
+    "year": 1982,
+    "duration_ms": 180120,
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 2,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Cuba",
+    "artist": "The Gibson Brothers",
+    "date": "03.10.2025",
+    "time": "22:13",
+    "year": 2005,
+    "duration_ms": 218707,
+    "genre": "Pop",
+    "album": "Sunshine - Single",
+    "track_number": 2,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Living On My Own",
     "artist": "Mercury Freddie",
     "date": "03.10.2025",
@@ -10741,7 +11043,14 @@
     "album": "Believe",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brian Higgins",
+      "Matt Gray",
+      "Paul Barry",
+      "Steve Torch",
+      "Stuart McLennan",
+      "Tim Powell"
+    ]
   },
   {
     "title": "Snídane V Tráve",
@@ -18565,7 +18874,14 @@
     "album": "Believe",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brian Higgins",
+      "Matt Gray",
+      "Paul Barry",
+      "Steve Torch",
+      "Stuart McLennan",
+      "Tim Powell"
+    ]
   },
   {
     "title": "Joyride",
