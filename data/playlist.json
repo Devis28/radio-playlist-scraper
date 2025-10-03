@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "03.10.2025",
+    "time": "21:51",
+    "year": 1984,
+    "duration_ms": 210013,
+    "genre": "Soundtrack",
+    "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+    "track_number": 1,
+    "artist_country": "GB",
+    "songwriters": [
+      "Giorgio Moroder",
+      "Keith Forsey"
+    ]
+  },
+  {
     "title": "Killer",
     "artist": "Adamski/Seal",
     "date": "03.10.2025",
@@ -344,7 +360,9 @@
     "album": "Get Close (2007 Remaster)",
     "track_number": 6,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Chrissie Hynde"
+    ]
   },
   {
     "title": "Sunchyme",
@@ -398,7 +416,11 @@
     "album": "Greatest Hits",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alonzo Miller",
+      "MC Hammer",
+      "Rick James"
+    ]
   },
   {
     "title": "Eye Of The Tiger",
@@ -14681,7 +14703,10 @@
     "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
     "track_number": 1,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Giorgio Moroder",
+      "Keith Forsey"
+    ]
   },
   {
     "title": "You",
