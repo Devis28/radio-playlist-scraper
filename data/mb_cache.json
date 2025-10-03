@@ -3158,5 +3158,140 @@
     "track_number": 4,
     "artist_country_code": "Not found"
   },
-  "ivan tasler & i.m.t. smile|cesty ii. triedy": "__MISS__"
+  "ivan tasler & i.m.t. smile|cesty ii. triedy": "__MISS__",
+  "banket|po schodoch": {
+    "album": "Not found",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "Not found"
+  },
+  "zagorova hana|studanko stribrna": "__MISS__",
+  "zoo & jan kalousek|cas sluhu": "__MISS__",
+  "zuzana smatanova|nech sa deje co sa ma": {
+    "album": "Live",
+    "year": 2008,
+    "duration_ms": 275000,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "david michal|discopribeh": "__MISS__",
+  "hegerova hana & hapka petr|levandulova": "__MISS__",
+  "jozo raz|voda co ma drzi nad vodou": {
+    "album": "Fontána pre Zuzanu 3",
+    "year": 1999,
+    "duration_ms": 313000,
+    "genre": "Not found",
+    "track_number": 10,
+    "artist_country_code": "Not found"
+  },
+  "jiri schelinger|coz takhle dat si spenat": {
+    "album": "Švihák Lázeňský",
+    "year": 1999,
+    "duration_ms": 134000,
+    "genre": "Not found",
+    "track_number": 17,
+    "artist_country_code": "Not found"
+  },
+  "gravis|daruj mi svoj najkrajsi den": {
+    "album": "Ver mi!",
+    "year": 1989,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 10,
+    "artist_country_code": "Not found"
+  },
+  "vondrackova lucie|kdo te ma rad": "__MISS__",
+  "robo grigorov|bosy a sam": {
+    "album": "Gold",
+    "year": 2006,
+    "duration_ms": 249000,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "desmod & zuzana smatanova|par dni": "__MISS__",
+  "zbirka miro|s tebou": "__MISS__",
+  "bila lucie|trouba": "__MISS__",
+  "ladislav staidl|mzi ti do vlasu": {
+    "album": "Hitparáda 70",
+    "year": 2004,
+    "duration_ms": 160000,
+    "genre": "Not found",
+    "track_number": 3,
+    "artist_country_code": "Not found"
+  },
+  "gombitova marika|v obdobi dazda": "__MISS__",
+  "metalinda|slnko nevychadzaj": {
+    "album": "Noc s Metalindou (live)",
+    "year": 1996,
+    "duration_ms": 293000,
+    "genre": "Not found",
+    "track_number": 13,
+    "artist_country_code": "Not found"
+  },
+  "zich karel & filipova lenka|mosty": "__MISS__",
+  "bartosova iveta|leto": "__MISS__",
+  "buty|frantisek": {
+    "album": "České hity 90tých let a mnoho dalších",
+    "year": 1999,
+    "duration_ms": 216000,
+    "genre": "Not found",
+    "track_number": 3,
+    "artist_country_code": "Not found"
+  },
+  "adam durica|dovtedy": {
+    "album": "Adam Ďurica A Hostia (Akustické Koncerty)",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "michal david|colu, pijeme colu": {
+    "album": "Disco",
+    "year": 2008,
+    "duration_ms": 253000,
+    "genre": "Not found",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "zagorova hana&rezek petr|duhova vila": "__MISS__",
+  "janda dalibor|vzdycky jsem to ja": "__MISS__",
+  "vaclav neckar|mademoiselle giselle": {
+    "album": "Mýdlový Princ",
+    "year": 1981,
+    "duration_ms": 180000,
+    "genre": "Not found",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "muller richard a tereza kerndlova|klid, mir a pokora": "__MISS__",
+  "imt smile|mam krasny sen": {
+    "album": "Best Of",
+    "year": 2009,
+    "duration_ms": 192000,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "elan|kralovna bielych tenisiek": {
+    "album": "Megakoncert",
+    "year": 2004,
+    "duration_ms": 238000,
+    "genre": "Not found",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  "duran duran|ordinary world": {
+    "album": "Ultimate 90",
+    "year": 2004,
+    "duration_ms": 294573,
+    "genre": "Not found",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  "orbison roy|oh, pretty woman": "__MISS__"
 }

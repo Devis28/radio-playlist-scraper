@@ -1,5 +1,65 @@
 [
   {
+    "title": "Po Schodoch",
+    "artist": "Banket",
+    "date": "03.10.2025",
+    "time": "18:17",
+    "year": 1986,
+    "duration_ms": 189000,
+    "genre": "Pop",
+    "album": "Bioelektrovízia",
+    "track_number": 6,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Studánko Stříbrná",
+    "artist": "Zagorová Hana",
+    "date": "03.10.2025",
+    "time": "18:14",
+    "year": 1995,
+    "duration_ms": 178320,
+    "genre": "Pop",
+    "album": "Maluj Zase Obrázky",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Cas Sluhu",
+    "artist": "Zoo & Jan Kalousek",
+    "date": "03.10.2025",
+    "time": "18:11",
+    "artist_country_code": "Not found",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found"
+  },
+  {
+    "title": "Nech Sa Deje Čo Sa Má",
+    "artist": "Zuzana Smatanová",
+    "date": "03.10.2025",
+    "time": "18:05",
+    "year": 2005,
+    "duration_ms": 165093,
+    "genre": "Rock",
+    "album": "Svet Mi Stupil Na Nohu",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Discopříběh",
+    "artist": "David Michal",
+    "date": "03.10.2025",
+    "time": "18:02",
+    "year": 2012,
+    "duration_ms": 274600,
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  {
     "title": "Sadeness-Part 1",
     "artist": "Enigma",
     "date": "03.10.2025",
@@ -8176,11 +8236,11 @@
     "artist": "Robo Grigorov",
     "date": "01.10.2025",
     "time": "19:11",
-    "year": "Not found",
-    "duration_ms": "Not found",
+    "year": 2006,
+    "duration_ms": 249000,
     "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Gold",
+    "track_number": 11,
     "artist_country_code": "Not found"
   },
   {
@@ -8248,11 +8308,11 @@
     "artist": "Metalinda",
     "date": "01.10.2025",
     "time": "18:47",
-    "year": "Not found",
-    "duration_ms": "Not found",
+    "year": 1996,
+    "duration_ms": 293000,
     "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Noc s Metalindou (live)",
+    "track_number": 13,
     "artist_country_code": "Not found"
   },
   {
