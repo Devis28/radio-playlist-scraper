@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dva A Dva",
+    "artist": "Elán",
+    "date": "03.10.2025",
+    "time": "07:12",
+    "year": 1985,
+    "duration_ms": 275987,
+    "duration": "4:36",
+    "genre": "Rock",
+    "album": "Hodina slovenčiny",
+    "track_number": 3
+  },
+  {
+    "title": "When You Say Nothing At All",
+    "artist": "Keating Ronan",
+    "date": "03.10.2025",
+    "time": "07:05",
+    "year": 1999,
+    "duration_ms": 256827,
+    "duration": "4:17",
+    "genre": "Rock",
+    "album": "Ronan",
+    "track_number": 6
+  },
+  {
+    "title": "Prvý Bozk",
+    "artist": "Hammel Pavol",
+    "date": "03.10.2025",
+    "time": "07:03",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "duration": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found"
+  },
+  {
     "title": "One Moment In Time",
     "artist": "Houston Whitney",
     "date": "03.10.2025",
@@ -13828,12 +13864,12 @@
     "artist": "Taylor Dayne",
     "date": "30.09.2025",
     "time": "00:41",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1988,
+    "duration_ms": 220880,
+    "duration": "3:41",
+    "genre": "Pop",
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "track_number": 1
   },
   {
     "title": "Love To Hate You",
@@ -13876,12 +13912,12 @@
     "artist": "I.M.T. Smile & Nikol Štíbrová",
     "date": "30.09.2025",
     "time": "00:28",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2019,
+    "duration_ms": 271597,
+    "duration": "4:32",
+    "genre": "Pop",
+    "album": "SRDCE ROZUM BLVD",
+    "track_number": 10
   },
   {
     "title": "I'm Still Standing",
@@ -13900,12 +13936,12 @@
     "artist": "Carlisle Belinda",
     "date": "30.09.2025",
     "time": "00:24",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1989,
+    "duration_ms": 278360,
+    "duration": "4:38",
+    "genre": "Pop",
+    "album": "Runaway Horses",
+    "track_number": 1
   },
   {
     "title": "Stoj",
@@ -13960,12 +13996,12 @@
     "artist": "No Name",
     "date": "30.09.2025",
     "time": "00:14",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2005,
+    "duration_ms": 199680,
+    "duration": "3:20",
+    "genre": "Pop",
+    "album": "Cim to Je",
+    "track_number": 6
   },
   {
     "title": "Lietam V Tom Tiež",
@@ -13996,12 +14032,12 @@
     "artist": "Seal",
     "date": "30.09.2025",
     "time": "00:09",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1990,
+    "duration_ms": 356520,
+    "duration": "5:57",
+    "genre": "Pop",
+    "album": "Seal: Hits (Deluxe Version)",
+    "track_number": 3
   },
   {
     "title": "Made In Italy",
@@ -14068,12 +14104,12 @@
     "artist": "Richard Müller",
     "date": "29.09.2025",
     "time": "23:58",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1994,
+    "duration_ms": 266880,
+    "duration": "4:27",
+    "genre": "Pop",
+    "album": "Retro",
+    "track_number": 3
   },
   {
     "title": "Believe",
@@ -14128,12 +14164,12 @@
     "artist": "Keating Ronan",
     "date": "29.09.2025",
     "time": "23:47",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1999,
+    "duration_ms": 256827,
+    "duration": "4:17",
+    "genre": "Rock",
+    "album": "Ronan",
+    "track_number": 6
   },
   {
     "title": "Where Do You Go",
@@ -14176,12 +14212,12 @@
     "artist": "Donna Summer",
     "date": "29.09.2025",
     "time": "23:41",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1989,
+    "duration_ms": 208773,
+    "duration": "3:29",
+    "genre": "Pop",
+    "album": "Another Place & Time",
+    "track_number": 1
   },
   {
     "title": "Xanadu",
@@ -14260,12 +14296,12 @@
     "artist": "C.C. Catch",
     "date": "29.09.2025",
     "time": "23:27",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1986,
+    "duration_ms": 215800,
+    "duration": "3:36",
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 3
   },
   {
     "title": "In The Army Now",
@@ -14296,12 +14332,12 @@
     "artist": "Zuzana Smatanová",
     "date": "29.09.2025",
     "time": "23:22",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2018,
+    "duration_ms": 258669,
+    "duration": "4:19",
+    "genre": "Singer/Songwriter",
+    "album": "Jediný A Jediná - Single",
+    "track_number": 1
   },
   {
     "title": "Lady In Black",
@@ -14368,12 +14404,12 @@
     "artist": "U2",
     "date": "29.09.2025",
     "time": "23:10",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1988,
+    "duration_ms": 275400,
+    "duration": "4:35",
+    "genre": "Rock",
+    "album": "U218 Singles",
+    "track_number": 12
   },
   {
     "title": "Un-Break My Heart",
@@ -14392,12 +14428,12 @@
     "artist": "Elán",
     "date": "29.09.2025",
     "time": "23:05",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2017,
+    "duration_ms": 235040,
+    "duration": "3:55",
+    "genre": "Pop",
+    "album": "Smrtka Na Pražskom Orloji - Single",
+    "track_number": 1
   },
   {
     "title": "Dievčatá",
@@ -14548,12 +14584,12 @@
     "artist": "Wilde Kim",
     "date": "29.09.2025",
     "time": "22:39",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1986,
+    "duration_ms": 255220,
+    "duration": "4:15",
+    "genre": "Pop",
+    "album": "Another Step",
+    "track_number": 1
   },
   {
     "title": "Do You Really Want To Hurt Me",
@@ -14620,12 +14656,12 @@
     "artist": "Matthew Wilder",
     "date": "29.09.2025",
     "time": "22:28",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1983,
+    "duration_ms": 184408,
+    "duration": "3:04",
+    "genre": "Pop",
+    "album": "I Don't Speak the Language",
+    "track_number": 1
   },
   {
     "title": "Len Sa Smej",
@@ -14752,12 +14788,12 @@
     "artist": "Maggie Reilly",
     "date": "29.09.2025",
     "time": "22:07",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1992,
+    "duration_ms": 242974,
+    "duration": "4:03",
+    "genre": "Pop",
+    "album": "Everytime We Touch (Remastered) - Single",
+    "track_number": 1
   },
   {
     "title": "Každý Mi Te Lásko Závidí",
@@ -14896,12 +14932,12 @@
     "artist": "Paradis, Vanessa",
     "date": "29.09.2025",
     "time": "21:44",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1987,
+    "duration_ms": 235227,
+    "duration": "3:55",
+    "genre": "Pop",
+    "album": "M & J (CD2)",
+    "track_number": 6
   },
   {
     "title": "Je Jaká Je",
@@ -15004,12 +15040,12 @@
     "artist": "Blondie",
     "date": "29.09.2025",
     "time": "21:27",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1980,
+    "duration_ms": 280267,
+    "duration": "4:40",
+    "genre": "Pop",
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "track_number": 4
   },
   {
     "title": "The Riddle",
@@ -15028,12 +15064,12 @@
     "artist": "Desmod",
     "date": "29.09.2025",
     "time": "21:22",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2006,
+    "duration_ms": 290560,
+    "duration": "4:51",
+    "genre": "Rock",
+    "album": "Uhol Pohladu",
+    "track_number": 4
   },
   {
     "title": "Školská Lavica",
@@ -15112,12 +15148,12 @@
     "artist": "Metallica",
     "date": "29.09.2025",
     "time": "21:09",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1991,
+    "duration_ms": 388733,
+    "duration": "6:29",
+    "genre": "Metal",
+    "album": "Metallica (Deluxe Box Set)",
+    "track_number": 8
   },
   {
     "title": "Streets Of Philadelphia",
@@ -15184,12 +15220,12 @@
     "artist": "Brightman Sarah&Bocelli Andrea",
     "date": "29.09.2025",
     "time": "20:53",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1995,
+    "duration_ms": 246067,
+    "duration": "4:06",
+    "genre": "Classical Crossover",
+    "album": "The Best of Andrea Bocelli: Vivere",
+    "track_number": 9
   },
   {
     "title": "Gimme Gimme Gimme A Man After Midnight",
@@ -15268,12 +15304,12 @@
     "artist": "Timmy T",
     "date": "29.09.2025",
     "time": "20:26",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1990,
+    "duration_ms": 209427,
+    "duration": "3:29",
+    "genre": "Pop",
+    "album": "Time After Time",
+    "track_number": 2
   },
   {
     "title": "Mandolína",
@@ -15292,12 +15328,12 @@
     "artist": "B. J. Thomas",
     "date": "29.09.2025",
     "time": "20:20",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1970,
+    "duration_ms": 184493,
+    "duration": "3:04",
+    "genre": "Pop",
+    "album": "Raindrops Keep Fallin' On My Head",
+    "track_number": 2
   },
   {
     "title": "Aj Tak Sme Frajeri",
@@ -15376,12 +15412,12 @@
     "artist": "Wanastowi Vjecy",
     "date": "29.09.2025",
     "time": "19:51",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1996,
+    "duration_ms": 314027,
+    "duration": "5:14",
+    "genre": "Pop",
+    "album": "Lzi, sex a prachy",
+    "track_number": 3
   },
   {
     "title": "Malý Princ",
@@ -15412,48 +15448,48 @@
     "artist": "Team",
     "date": "29.09.2025",
     "time": "19:39",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1989,
+    "duration_ms": 270040,
+    "duration": "4:30",
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 10
   },
   {
     "title": "Proč Mě Nikdo Nemá Rád",
     "artist": "Ilona Csáková",
     "date": "29.09.2025",
     "time": "19:36",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2012,
+    "duration_ms": 205147,
+    "duration": "3:25",
+    "genre": "Pop",
+    "album": "22x Ilona - Best Of",
+    "track_number": 4
   },
   {
     "title": "Srdce Jako Kniže Rohan",
     "artist": "Muller Richard",
     "date": "29.09.2025",
     "time": "19:31",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2018,
+    "duration_ms": 537013,
+    "duration": "8:57",
+    "genre": "Pop",
+    "album": "Koncert (Live)",
+    "track_number": 12
   },
   {
     "title": "Soumen",
     "artist": "Michal David",
     "date": "29.09.2025",
     "time": "19:28",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2018,
+    "duration_ms": 176938,
+    "duration": "2:57",
+    "genre": "Pop",
+    "album": "Open Air (Live)",
+    "track_number": 13
   },
   {
     "title": "Hráli Jsme Kličkovanou",
@@ -15484,24 +15520,24 @@
     "artist": "Dušan Hlaváček",
     "date": "29.09.2025",
     "time": "19:19",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2007,
+    "duration_ms": 231640,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 4
   },
   {
     "title": "Je Ráno, Anno",
     "artist": "Neckář Václav",
     "date": "29.09.2025",
     "time": "19:15",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1965,
+    "duration_ms": 255133,
+    "duration": "4:15",
+    "genre": "Pop",
+    "album": "Největší Hity 1965-2013",
+    "track_number": 19
   },
   {
     "title": "Cas Sluhu",
@@ -15520,12 +15556,12 @@
     "artist": "Zuzana Smatanová",
     "date": "29.09.2025",
     "time": "19:07",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2005,
+    "duration_ms": 165093,
+    "duration": "2:45",
+    "genre": "Rock",
+    "album": "Svet Mi Stupil Na Nohu",
+    "track_number": 2
   },
   {
     "title": "Podvod",
@@ -15544,24 +15580,24 @@
     "artist": "Iveta Bartosova & Petr Sepesi",
     "date": "29.09.2025",
     "time": "19:00",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1984,
+    "duration_ms": 148773,
+    "duration": "2:29",
+    "genre": "Pop",
+    "album": "Knoflíky Lásky",
+    "track_number": 2
   },
   {
     "title": "Anjel",
     "artist": "Maduar",
     "date": "29.09.2025",
     "time": "18:55",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2017,
+    "duration_ms": 336773,
+    "duration": "5:37",
+    "genre": "Pop",
+    "album": "Hafanana the Best of, Vol. 2",
+    "track_number": 21
   },
   {
     "title": "Paráda",
@@ -15604,12 +15640,12 @@
     "artist": "Hex",
     "date": "29.09.2025",
     "time": "18:39",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 2006,
+    "duration_ms": 232840,
+    "duration": "3:53",
+    "genre": "Pop",
+    "album": "Nikdy Nebolo Lepsie",
+    "track_number": 1
   },
   {
     "title": "Vyrobená Pre Mňa",
@@ -15628,12 +15664,12 @@
     "artist": "Rolincová Darina",
     "date": "29.09.2025",
     "time": "18:31",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1988,
+    "duration_ms": 241867,
+    "duration": "4:02",
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 1
   },
   {
     "title": "Kým Stúpa Dym",
@@ -15664,36 +15700,36 @@
     "artist": "Turbo",
     "date": "29.09.2025",
     "time": "18:18",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1985,
+    "duration_ms": 270533,
+    "duration": "4:31",
+    "genre": "Rock",
+    "album": "To Byla, Pánové, Jízda",
+    "track_number": 14
   },
   {
     "title": "Rybičko Zlatá Přeju Si",
     "artist": "Zagorová Hana",
     "date": "29.09.2025",
     "time": "18:15",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1995,
+    "duration_ms": 164373,
+    "duration": "2:44",
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 3
   },
   {
     "title": "Je To Vo Hviezdach",
     "artist": "Pavol Habera",
     "date": "29.09.2025",
     "time": "18:11",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "duration": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found"
+    "year": 1991,
+    "duration_ms": 198533,
+    "duration": "3:19",
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 2
   },
   {
     "title": "Marcel Z Malého Mesta",

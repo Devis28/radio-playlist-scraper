@@ -6670,5 +6670,349 @@
     "album": "Team",
     "track_number": 9,
     "itunes_track_id": 1533365806
+  },
+  "elan|dva a dva": {
+    "year": 1985,
+    "duration_ms": 275987,
+    "duration": "4:36",
+    "genre": "Rock",
+    "album": "Hodina slovenčiny",
+    "track_number": 3,
+    "itunes_track_id": 1610603188
+  },
+  "keating ronan|when you say nothing at all": {
+    "year": 1999,
+    "duration_ms": 256827,
+    "duration": "4:17",
+    "genre": "Rock",
+    "album": "Ronan",
+    "track_number": 6,
+    "itunes_track_id": 1443996763
+  },
+  "taylor dayne|tell it to my heart": {
+    "year": 1988,
+    "duration_ms": 220880,
+    "duration": "3:41",
+    "genre": "Pop",
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "track_number": 1,
+    "itunes_track_id": 1329359020
+  },
+  "i.m.t. smile & nikol stibrova|prilis osobna znamost": {
+    "year": 2019,
+    "duration_ms": 271597,
+    "duration": "4:32",
+    "genre": "Pop",
+    "album": "SRDCE ROZUM BLVD",
+    "track_number": 10,
+    "itunes_track_id": 1564943642
+  },
+  "carlisle belinda|leave a light on": {
+    "year": 1989,
+    "duration_ms": 278360,
+    "duration": "4:38",
+    "genre": "Pop",
+    "album": "Runaway Horses",
+    "track_number": 1,
+    "itunes_track_id": 1818607260
+  },
+  "no name|cim to je": {
+    "year": 2005,
+    "duration_ms": 199680,
+    "duration": "3:20",
+    "genre": "Pop",
+    "album": "Cim to Je",
+    "track_number": 6,
+    "itunes_track_id": 1444125658
+  },
+  "seal|crazy": {
+    "year": 1990,
+    "duration_ms": 356520,
+    "duration": "5:57",
+    "genre": "Pop",
+    "album": "Seal: Hits (Deluxe Version)",
+    "track_number": 3,
+    "itunes_track_id": 340127684
+  },
+  "richard muller|milovanie v dazdi": {
+    "year": 1994,
+    "duration_ms": 266880,
+    "duration": "4:27",
+    "genre": "Pop",
+    "album": "Retro",
+    "track_number": 3,
+    "itunes_track_id": 1442237239
+  },
+  "donna summer|i don't wanna get hurt": {
+    "year": 1989,
+    "duration_ms": 208773,
+    "duration": "3:29",
+    "genre": "Pop",
+    "album": "Another Place & Time",
+    "track_number": 1,
+    "itunes_track_id": 901014039
+  },
+  "c.c. catch|heartbreak hotel": {
+    "year": 1986,
+    "duration_ms": 215800,
+    "duration": "3:36",
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "itunes_track_id": 1799308906
+  },
+  "zuzana smatanova|jediny a jedina": {
+    "year": 2018,
+    "duration_ms": 258669,
+    "duration": "4:19",
+    "genre": "Singer/Songwriter",
+    "album": "Jediný A Jediná - Single",
+    "track_number": 1,
+    "itunes_track_id": 1380280643
+  },
+  "u2|one": {
+    "year": 1988,
+    "duration_ms": 275400,
+    "duration": "4:35",
+    "genre": "Rock",
+    "album": "U218 Singles",
+    "track_number": 12,
+    "itunes_track_id": 1440729871
+  },
+  "elan|smrtka na prazskom orloji": {
+    "year": 2017,
+    "duration_ms": 235040,
+    "duration": "3:55",
+    "genre": "Pop",
+    "album": "Smrtka Na Pražskom Orloji - Single",
+    "track_number": 1,
+    "itunes_track_id": 1197472881
+  },
+  "wilde kim|you keep me hanging on": {
+    "year": 1986,
+    "duration_ms": 255220,
+    "duration": "4:15",
+    "genre": "Pop",
+    "album": "Another Step",
+    "track_number": 1,
+    "itunes_track_id": 1443630839
+  },
+  "matthew wilder|break my stride": {
+    "year": 1983,
+    "duration_ms": 184408,
+    "duration": "3:04",
+    "genre": "Pop",
+    "album": "I Don't Speak the Language",
+    "track_number": 1,
+    "itunes_track_id": 359713650
+  },
+  "maggie reilly|everytime we touch": {
+    "year": 1992,
+    "duration_ms": 242974,
+    "duration": "4:03",
+    "genre": "Pop",
+    "album": "Everytime We Touch (Remastered) - Single",
+    "track_number": 1,
+    "itunes_track_id": 978439376
+  },
+  "iglesias enrique|the rhythm divine": "__MISS__",
+  "paradis, vanessa|joe le taxi": {
+    "year": 1987,
+    "duration_ms": 235227,
+    "duration": "3:55",
+    "genre": "Pop",
+    "album": "M & J (CD2)",
+    "track_number": 6,
+    "itunes_track_id": 1444066523
+  },
+  "blondie|the tide is high": {
+    "year": 1980,
+    "duration_ms": 280267,
+    "duration": "4:40",
+    "genre": "Pop",
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "track_number": 4,
+    "itunes_track_id": 724403372
+  },
+  "desmod|zhori vsetko co mam": {
+    "year": 2006,
+    "duration_ms": 290560,
+    "duration": "4:51",
+    "genre": "Rock",
+    "album": "Uhol Pohladu",
+    "track_number": 4,
+    "itunes_track_id": 456469243
+  },
+  "metallica|nothing else matters": {
+    "year": 1991,
+    "duration_ms": 388733,
+    "duration": "6:29",
+    "genre": "Metal",
+    "album": "Metallica (Deluxe Box Set)",
+    "track_number": 8,
+    "itunes_track_id": 1571984673
+  },
+  "brightman sarah&bocelli andrea|time to say goodbye": {
+    "year": 1995,
+    "duration_ms": 246067,
+    "duration": "4:06",
+    "genre": "Classical Crossover",
+    "album": "The Best of Andrea Bocelli: Vivere",
+    "track_number": 9,
+    "itunes_track_id": 1443833108
+  },
+  "timmy t|one more try": {
+    "year": 1990,
+    "duration_ms": 209427,
+    "duration": "3:29",
+    "genre": "Pop",
+    "album": "Time After Time",
+    "track_number": 2,
+    "itunes_track_id": 13313926
+  },
+  "b. j. thomas|raindrops keep fallin' on my head": {
+    "year": 1970,
+    "duration_ms": 184493,
+    "duration": "3:04",
+    "genre": "Pop",
+    "album": "Raindrops Keep Fallin' On My Head",
+    "track_number": 2,
+    "itunes_track_id": 452353379
+  },
+  "wanastowi vjecy|sbirka zvadlejch ruzi": {
+    "year": 1996,
+    "duration_ms": 314027,
+    "duration": "5:14",
+    "genre": "Pop",
+    "album": "Lzi, sex a prachy",
+    "track_number": 3,
+    "itunes_track_id": 1443350222
+  },
+  "team|piesen pre nesmelych": {
+    "year": 1989,
+    "duration_ms": 270040,
+    "duration": "4:30",
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 10,
+    "itunes_track_id": 1533365679
+  },
+  "ilona csakova|proc me nikdo nema rad": {
+    "year": 2012,
+    "duration_ms": 205147,
+    "duration": "3:25",
+    "genre": "Pop",
+    "album": "22x Ilona - Best Of",
+    "track_number": 4,
+    "itunes_track_id": 692566081
+  },
+  "muller richard|srdce jako knize rohan": {
+    "year": 2018,
+    "duration_ms": 537013,
+    "duration": "8:57",
+    "genre": "Pop",
+    "album": "Koncert (Live)",
+    "track_number": 12,
+    "itunes_track_id": 1370930747
+  },
+  "michal david|soumen": {
+    "year": 2018,
+    "duration_ms": 176938,
+    "duration": "2:57",
+    "genre": "Pop",
+    "album": "Open Air (Live)",
+    "track_number": 13,
+    "itunes_track_id": 1439334440
+  },
+  "dusan hlavacek|zalubeni": {
+    "year": 2007,
+    "duration_ms": 231640,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 4,
+    "itunes_track_id": 1533449770
+  },
+  "neckar vaclav|je rano, anno": {
+    "year": 1965,
+    "duration_ms": 255133,
+    "duration": "4:15",
+    "genre": "Pop",
+    "album": "Největší Hity 1965-2013",
+    "track_number": 19,
+    "itunes_track_id": 1385969934
+  },
+  "zoo & jan kalousek|cas sluhu": "__MISS__",
+  "zuzana smatanova|nech sa deje co sa ma": {
+    "year": 2005,
+    "duration_ms": 165093,
+    "duration": "2:45",
+    "genre": "Rock",
+    "album": "Svet Mi Stupil Na Nohu",
+    "track_number": 2,
+    "itunes_track_id": 456479287
+  },
+  "iveta bartosova & petr sepesi|my to zvladnem": {
+    "year": 1984,
+    "duration_ms": 148773,
+    "duration": "2:29",
+    "genre": "Pop",
+    "album": "Knoflíky Lásky",
+    "track_number": 2,
+    "itunes_track_id": 1386106839
+  },
+  "maduar|anjel": {
+    "year": 2017,
+    "duration_ms": 336773,
+    "duration": "5:37",
+    "genre": "Pop",
+    "album": "Hafanana the Best of, Vol. 2",
+    "track_number": 21,
+    "itunes_track_id": 1330777656
+  },
+  "hex|nikdy nebolo lepsie": {
+    "year": 2006,
+    "duration_ms": 232840,
+    "duration": "3:53",
+    "genre": "Pop",
+    "album": "Nikdy Nebolo Lepsie",
+    "track_number": 1,
+    "itunes_track_id": 1443526427
+  },
+  "rolincova darina|skolska laska": {
+    "year": 1988,
+    "duration_ms": 241867,
+    "duration": "4:02",
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 1,
+    "itunes_track_id": 1594881945
+  },
+  "turbo|chtel jsem mit": {
+    "year": 1985,
+    "duration_ms": 270533,
+    "duration": "4:31",
+    "genre": "Rock",
+    "album": "To Byla, Pánové, Jízda",
+    "track_number": 14,
+    "itunes_track_id": 1384668381
+  },
+  "zagorova hana|rybicko zlata preju si": {
+    "year": 1995,
+    "duration_ms": 164373,
+    "duration": "2:44",
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 3,
+    "itunes_track_id": 463999368
+  },
+  "pavol habera|je to vo hviezdach": {
+    "year": 1991,
+    "duration_ms": 198533,
+    "duration": "3:19",
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 2,
+    "itunes_track_id": 1707823055
   }
 }
