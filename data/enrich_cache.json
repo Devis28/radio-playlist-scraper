@@ -5294,5 +5294,357 @@
     "album": "01",
     "track_number": 7,
     "itunes_track_id": 1442398267
+  },
+  "zich karel|parada": {
+    "year": 1981,
+    "duration_ms": 207133,
+    "duration": "3:27",
+    "genre": "Pop",
+    "album": "...To Nejlepší",
+    "track_number": 6,
+    "itunes_track_id": 1384677367
+  },
+  "enrique iglesias|be with you": {
+    "year": 1999,
+    "duration_ms": 220160,
+    "duration": "3:40",
+    "genre": "Pop in Spanish",
+    "album": "Enrique",
+    "track_number": 2,
+    "itunes_track_id": 1440915287
+  },
+  "dj bobo|there's a party": {
+    "year": 1994,
+    "duration_ms": 252093,
+    "duration": "4:12",
+    "genre": "Dance",
+    "album": "Greatest Hits",
+    "track_number": 6,
+    "itunes_track_id": 1438903357
+  },
+  "culture club|do you really want to hurt me": {
+    "year": 1982,
+    "duration_ms": 262173,
+    "duration": "4:22",
+    "genre": "Pop",
+    "album": "Kissing to Be Clever",
+    "track_number": 9,
+    "itunes_track_id": 724474136
+  },
+  "elton john|sacrifice": {
+    "year": 1989,
+    "duration_ms": 304133,
+    "duration": "5:04",
+    "genre": "Pop",
+    "album": "Sleeping With the Past (Remastered)",
+    "track_number": 7,
+    "itunes_track_id": 1440918552
+  },
+  "miro zbirka|atlantida": {
+    "year": 1982,
+    "duration_ms": 223787,
+    "duration": "3:44",
+    "genre": "Pop",
+    "album": "Sezónne lásky",
+    "track_number": 12,
+    "itunes_track_id": 1533351672
+  },
+  "peter bic project|len sa smej": {
+    "year": 2023,
+    "duration_ms": 164897,
+    "duration": "2:45",
+    "genre": "Pop",
+    "album": "Len sa smej - Single",
+    "track_number": 1,
+    "itunes_track_id": 1707377729
+  },
+  "enya|orinoco flow": {
+    "year": 1988,
+    "duration_ms": 266200,
+    "duration": "4:26",
+    "genre": "New Age",
+    "album": "Watermark (Remastered Bonus Track Version)",
+    "track_number": 7,
+    "itunes_track_id": 305695424
+  },
+  "desmod|anjel": {
+    "year": 2017,
+    "duration_ms": 188490,
+    "duration": "3:08",
+    "genre": "Rock",
+    "album": "Molekuly Zvuku",
+    "track_number": 10,
+    "itunes_track_id": 1519233637
+  },
+  "modus|roberta": {
+    "year": 2005,
+    "duration_ms": 260800,
+    "duration": "4:21",
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 7,
+    "itunes_track_id": 1533350776
+  },
+  "madonna|you'll see": {
+    "year": 1995,
+    "duration_ms": 278136,
+    "duration": "4:38",
+    "genre": "Pop",
+    "album": "You'll See (The Remixes) - EP",
+    "track_number": 1,
+    "itunes_track_id": 1712672504
+  },
+  "michal david|kazdy mi te lasko zavidi": {
+    "year": 2012,
+    "duration_ms": 296320,
+    "duration": "4:56",
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 10,
+    "itunes_track_id": 1442643159
+  },
+  "adam durica|nelutujem": {
+    "year": 2015,
+    "duration_ms": 210997,
+    "duration": "3:31",
+    "genre": "Pop",
+    "album": "Mandolina",
+    "track_number": 12,
+    "itunes_track_id": 1442934186
+  },
+  "meat loaf|i'd do anything for love but i won't do that": {
+    "year": 1993,
+    "duration_ms": 324600,
+    "duration": "5:25",
+    "genre": "Pop",
+    "album": "Virgin Records: 40 Years of Disruptions",
+    "track_number": 1,
+    "itunes_track_id": 1443154411
+  },
+  "vaso patejdl a olga zablacka|mopedova": {
+    "year": 1986,
+    "duration_ms": 141000,
+    "duration": "2:21",
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 8,
+    "itunes_track_id": 1533446014
+  },
+  "no name|hladam": {
+    "year": 2004,
+    "duration_ms": 216027,
+    "duration": "3:36",
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 6,
+    "itunes_track_id": 1442543723
+  },
+  "milli vanilli|girl i'm gonna miss you": {
+    "year": 1989,
+    "duration_ms": 264427,
+    "duration": "4:24",
+    "genre": "Pop",
+    "album": "The Best of Milli Vanilli",
+    "track_number": 15,
+    "itunes_track_id": 1708319209
+  },
+  "lukas adamec|horuca laska": {
+    "year": 2017,
+    "duration_ms": 208147,
+    "duration": "3:28",
+    "genre": "Indie Pop",
+    "album": "Lukáš Adamec",
+    "track_number": 9,
+    "itunes_track_id": 1589216604
+  },
+  "nik kershaw|the riddle": {
+    "year": 1991,
+    "duration_ms": 231133,
+    "duration": "3:51",
+    "genre": "Pop",
+    "album": "Nik Kershaw: The Collection",
+    "track_number": 4,
+    "itunes_track_id": 1443315009
+  },
+  "gombitova marika|skolska lavica": {
+    "year": 1983,
+    "duration_ms": 224013,
+    "duration": "3:44",
+    "genre": "Pop",
+    "album": "Mince na dne fontán",
+    "track_number": 15,
+    "itunes_track_id": 1533351662
+  },
+  "brontosauri|stanky": {
+    "year": 2001,
+    "duration_ms": 133293,
+    "duration": "2:13",
+    "genre": "Pop",
+    "album": "Vsechny Hity",
+    "track_number": 1,
+    "itunes_track_id": 1452892757
+  },
+  "peha|naoko spim": {
+    "year": 2003,
+    "duration_ms": 204160,
+    "duration": "3:24",
+    "genre": "Pop",
+    "album": "Best of Peha",
+    "track_number": 5,
+    "itunes_track_id": 464838189
+  },
+  "springsteen bruce|streets of philadelphia": {
+    "year": 1993,
+    "duration_ms": 196813,
+    "duration": "3:17",
+    "genre": "Rock",
+    "album": "Greatest Hits",
+    "track_number": 14,
+    "itunes_track_id": 1435854693
+  },
+  "zbirka miro|mur nasich lasok": {
+    "year": 1983,
+    "duration_ms": 245027,
+    "duration": "4:05",
+    "genre": "Pop",
+    "album": "Roky a dni",
+    "track_number": 11,
+    "itunes_track_id": 1533354924
+  },
+  "adams, bryan|here i am": {
+    "year": 2002,
+    "duration_ms": 284067,
+    "duration": "4:44",
+    "genre": "Soundtrack",
+    "album": "Spirit: Stallion of the Cimarron (Music from the Original Motion Picture)",
+    "track_number": 1,
+    "itunes_track_id": 1440870328
+  },
+  "muller richard & anna k. ivan tasler|baroko": "__MISS__",
+  "the police|every breath you take": {
+    "year": 1983,
+    "duration_ms": 253960,
+    "duration": "4:14",
+    "genre": "Rock",
+    "album": "Synchronicity (Remastered 2003)",
+    "track_number": 7,
+    "itunes_track_id": 1440674160
+  },
+  "kotvald petr|mumuland": {
+    "year": 2016,
+    "duration_ms": 197000,
+    "duration": "3:17",
+    "genre": "Pop",
+    "album": "Exxxclusive (Best Of - Zlatá Kolekce)",
+    "track_number": 41,
+    "itunes_track_id": 1384849536
+  },
+  "europe|carrie": {
+    "year": 1986,
+    "duration_ms": 272133,
+    "duration": "4:32",
+    "genre": "Hard Rock",
+    "album": "The Final Countdown (Expanded Edition)",
+    "track_number": 3,
+    "itunes_track_id": 196480545
+  },
+  "janda dalibor|pada hvezda": {
+    "year": 1982,
+    "duration_ms": 190627,
+    "duration": "3:11",
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 17,
+    "itunes_track_id": 1391891506
+  },
+  "peter bic project|coskoro": {
+    "year": 2019,
+    "duration_ms": 207516,
+    "duration": "3:28",
+    "genre": "Pop",
+    "album": "Čoskoro - Single",
+    "track_number": 1,
+    "itunes_track_id": 1483585473
+  },
+  "nazareth|dream on": {
+    "year": 1982,
+    "duration_ms": 204827,
+    "duration": "3:25",
+    "genre": "Rock",
+    "album": "2Xs",
+    "track_number": 7,
+    "itunes_track_id": 1435154434
+  },
+  "pavol habera|posledne dobre dievca": {
+    "year": 1995,
+    "duration_ms": 201667,
+    "duration": "3:22",
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 8,
+    "itunes_track_id": 1707823061
+  },
+  "modus|kapely starnu": {
+    "year": 1986,
+    "duration_ms": 208227,
+    "duration": "3:28",
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 12,
+    "itunes_track_id": 1533350786
+  },
+  "madonna|this used to be my playground": {
+    "year": 1992,
+    "duration_ms": 310267,
+    "duration": "5:10",
+    "genre": "Pop",
+    "album": "Something to Remember",
+    "track_number": 6,
+    "itunes_track_id": 80815022
+  },
+  "bad boys blue|pretty young girl": {
+    "year": 1985,
+    "duration_ms": 346507,
+    "duration": "5:47",
+    "genre": "Pop",
+    "album": "Super 20",
+    "track_number": 10,
+    "itunes_track_id": 1736764908
+  },
+  "abba|the winner takes it all": {
+    "year": 1980,
+    "duration_ms": 295280,
+    "duration": "4:55",
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 8,
+    "itunes_track_id": 1440816849
+  },
+  "hex|ked sme sami": {
+    "year": 2013,
+    "duration_ms": 250920,
+    "duration": "4:11",
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 1,
+    "itunes_track_id": 1675380579
+  },
+  "olympic|zelva": {
+    "year": 1965,
+    "duration_ms": 217773,
+    "duration": "3:38",
+    "genre": "Pop",
+    "album": "Best of 43 jasných hitových zpráv",
+    "track_number": 5,
+    "itunes_track_id": 1384676999
+  },
+  "zagorova hana hlozek stanislav kotvald petr|jinak to nejde": {
+    "year": 1985,
+    "duration_ms": 250200,
+    "duration": "4:10",
+    "genre": "Pop",
+    "album": "Jinak To Nejde (Bonus Track Version)",
+    "track_number": 7,
+    "itunes_track_id": 1403766871
   }
 }
