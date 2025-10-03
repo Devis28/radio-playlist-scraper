@@ -1,5 +1,77 @@
 [
   {
+    "title": "Sunchyme",
+    "artist": "Dario G",
+    "date": "03.10.2025",
+    "time": "20:18",
+    "year": 1998,
+    "duration_ms": 379200,
+    "genre": "Pop",
+    "album": "Sunmachine",
+    "track_number": 1,
+    "artist_country": "GB"
+  },
+  {
+    "title": "Ring My Bell",
+    "artist": "Anita Ward",
+    "date": "03.10.2025",
+    "time": "20:14",
+    "year": 2005,
+    "duration_ms": 491933,
+    "genre": "R&B/Soul",
+    "album": "Ring My Bell",
+    "track_number": 1,
+    "artist_country": "US"
+  },
+  {
+    "title": "Maturitné Tablo",
+    "artist": "Hečková Júlia",
+    "date": "03.10.2025",
+    "time": "20:10",
+    "year": 1987,
+    "duration_ms": 244316,
+    "genre": "Pop",
+    "album": "Maturitné tablo",
+    "track_number": 1,
+    "artist_country": "Not found"
+  },
+  {
+    "title": "U Can't Touch This",
+    "artist": "Mc Hammer",
+    "date": "03.10.2025",
+    "time": "20:05",
+    "year": 1990,
+    "duration_ms": 257000,
+    "genre": "Hip-Hop/Rap",
+    "album": "Greatest Hits",
+    "track_number": 1,
+    "artist_country": "US"
+  },
+  {
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "03.10.2025",
+    "time": "20:02",
+    "year": 1982,
+    "duration_ms": 243773,
+    "genre": "Rock",
+    "album": "Eye of the Tiger",
+    "track_number": 1,
+    "artist_country": "US"
+  },
+  {
+    "title": "Povedzme",
+    "artist": "Grigorov Robo",
+    "date": "03.10.2025",
+    "time": "19:58",
+    "year": 2006,
+    "duration_ms": 294013,
+    "genre": "Rock",
+    "album": "Complete Of",
+    "track_number": 2,
+    "artist_country": "Not found"
+  },
+  {
     "title": "Smútok Krásnych Dievčat",
     "artist": "Duchoň Karol",
     "date": "03.10.2025",
@@ -3489,7 +3561,7 @@
     "genre": "Pop",
     "album": "Kryštof v Opeře",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Sputana Laskou",
@@ -3513,7 +3585,7 @@
     "genre": "Hard Rock",
     "album": "2013-06-17: Cruzan Amphitheatre, West Palm Beach, FL, USA",
     "track_number": 12,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Milujem Se Čím Dál Víc",
@@ -3693,7 +3765,7 @@
     "genre": "Pop",
     "album": "Italian Classics",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "IT"
   },
   {
     "title": "Růže Z Papíru",
@@ -3765,7 +3837,7 @@
     "genre": "Pop",
     "album": "A Perfect Love",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Vidiečan",
@@ -3777,7 +3849,7 @@
     "genre": "Pop",
     "album": "Výber naživo",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Show Me Heaven",
@@ -3801,7 +3873,7 @@
     "genre": "Pop",
     "album": "Super Hit-News",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "IT"
   },
   {
     "title": "Medulienka",
@@ -3969,7 +4041,7 @@
     "genre": "R&B/Soul",
     "album": "Live & Alive",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "CH"
   },
   {
     "title": "V tichu",
@@ -3981,7 +4053,7 @@
     "genre": "Pop",
     "album": "Zodiak",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Prvá",
@@ -4017,7 +4089,7 @@
     "genre": "Pop",
     "album": "DJ Tools #3",
     "track_number": 16,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Keď Príde Láska",
@@ -4065,7 +4137,7 @@
     "genre": "Pop",
     "album": "Live",
     "track_number": 15,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Radio Ga Ga",
@@ -4089,7 +4161,7 @@
     "genre": "Rock",
     "album": "Zlaté hity",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "The Look",
@@ -4173,7 +4245,7 @@
     "genre": "Not found",
     "album": "Mysterium Magnum II",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Live Is Life",
@@ -4185,7 +4257,7 @@
     "genre": "Pop",
     "album": "One Hit Wonders",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "AT"
   },
   {
     "title": "Mandy",
@@ -4209,7 +4281,7 @@
     "genre": "Pop",
     "album": "Kdysi dávno jsem chtěl lítat",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Zústanu Svúj",
@@ -4317,7 +4389,7 @@
     "genre": "Pop",
     "album": "Všechno nejlepší",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Inženýrská",
@@ -4329,7 +4401,7 @@
     "genre": "Not found",
     "album": "Promovaní inženýři",
     "track_number": 18,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Gejzír",
@@ -4341,7 +4413,7 @@
     "genre": "Pop",
     "album": "Největší hity",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Ľudia Nie Sú Zlí",
@@ -4473,7 +4545,7 @@
     "genre": "Pop",
     "album": "Eurovision Song Contest Oslo 2010 - Share the Moment",
     "track_number": 18,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Profesor Indigo",
@@ -6945,7 +7017,7 @@
     "genre": "Rock",
     "album": "Habera 2",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Ešte Váham",
@@ -6957,7 +7029,7 @@
     "genre": "Pop",
     "album": "Kristína: TIE NAJ (Album verzia)",
     "track_number": 7,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Tarzan Boy",
@@ -7425,7 +7497,7 @@
     "genre": "Pop",
     "album": "Všechno Nejlepší...",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Spoluhráčka",
@@ -7617,7 +7689,7 @@
     "genre": "Pop",
     "album": "Nechajte si ju!",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Frozen",
@@ -7773,7 +7845,7 @@
     "genre": "Pop",
     "album": "hiSTORY",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Kamarát",
@@ -7941,7 +8013,7 @@
     "genre": "Pop",
     "album": "V Sieti Ta Mam",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Sealed With The Kiss",
@@ -8757,7 +8829,7 @@
     "genre": "Pop",
     "album": "Hlava Ma Sedem Otvorov",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Kráľovná Bielych Tenisiek",
@@ -8913,7 +8985,7 @@
     "genre": "Pop",
     "album": "Magic Reunion *Live*",
     "track_number": 17,
-    "artist_country": "Not found"
+    "artist_country": "IT"
   },
   {
     "title": "Wish You Were Here",
@@ -9417,7 +9489,7 @@
     "genre": "Pop",
     "album": "Sunmachine",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "High Hopes",
@@ -9585,7 +9657,7 @@
     "genre": "Pop",
     "album": "Lásko Voníš Deštěm",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Kým Stúpa Dym",
@@ -10257,7 +10329,7 @@
     "genre": "Rock",
     "album": "Habera 2",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Cause You Are Young",
@@ -10557,7 +10629,7 @@
     "genre": "Pop",
     "album": "Všechno Nejlepší...",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "María",
@@ -11229,7 +11301,7 @@
     "genre": "Rock",
     "album": "Zlaté hity",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Dnes",
@@ -11253,7 +11325,7 @@
     "genre": "Pop",
     "album": "V Sieti Ta Mam",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Lady Lady Lady",
@@ -11301,7 +11373,7 @@
     "genre": "Pop",
     "album": "Hvězdáři (feat. Sima Martausová) - Single",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Bailamos",
@@ -11553,7 +11625,7 @@
     "genre": "Pop",
     "album": "Všechno nejlepší",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Žienka Domáca",
@@ -11625,7 +11697,7 @@
     "genre": "Pop",
     "album": "hiSTORY",
     "track_number": 20,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Jeanny (Part 1)",
@@ -11697,7 +11769,7 @@
     "genre": "Rock",
     "album": "Eye of the Tiger",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Čardáš Dvoch Sŕdc",
@@ -12225,7 +12297,7 @@
     "genre": "Pop",
     "album": "Kryštof v Opeře",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Róberta",
@@ -12585,7 +12657,7 @@
     "genre": "Rock",
     "album": "Pavol Habera",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Ten Príbeh Je Preč",
@@ -12813,7 +12885,7 @@
     "genre": "Pop",
     "album": "hiSTORY",
     "track_number": 15,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Zdá Sa Že To Stací",
@@ -13125,7 +13197,7 @@
     "genre": "Pop",
     "album": "A Perfect Love",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Malovaný Džbánku",
@@ -14541,7 +14613,7 @@
     "genre": "Rock",
     "album": "Zlaté hity",
     "track_number": 10,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Já Budu Chodit Po Špičkách",
@@ -14829,7 +14901,7 @@
     "genre": "Pop",
     "album": "Všechno nejlepší",
     "track_number": 5,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Love Is The Shield",
@@ -14889,7 +14961,7 @@
     "genre": "Rock",
     "album": "Eye of the Tiger",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Twist In My Sobriety",
@@ -15141,7 +15213,7 @@
     "genre": "Pop",
     "album": "DJ Tools #3",
     "track_number": 16,
-    "artist_country": "Not found"
+    "artist_country": "US"
   },
   {
     "title": "Only You",
@@ -15237,7 +15309,7 @@
     "genre": "Not found",
     "album": "Not found",
     "track_number": "Not found",
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "I Don't Want To Miss A Thing",
@@ -15441,7 +15513,7 @@
     "genre": "R&B/Soul",
     "album": "Live & Alive",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "CH"
   },
   {
     "title": "Krátke Lásky",
@@ -15489,7 +15561,7 @@
     "genre": "Pop",
     "album": "Sunmachine",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "GB"
   },
   {
     "title": "Už Asi Nie Si",
@@ -15549,7 +15621,7 @@
     "genre": "Pop",
     "album": "One Hit Wonders",
     "track_number": 9,
-    "artist_country": "Not found"
+    "artist_country": "AT"
   },
   {
     "title": "Stačí Si Priať",
@@ -15645,7 +15717,7 @@
     "genre": "Not found",
     "album": "Not found",
     "track_number": "Not found",
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Lambada",
@@ -16137,7 +16209,7 @@
     "genre": "Pop",
     "album": "Zodiak",
     "track_number": 3,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Thank You For The Music",
@@ -16545,7 +16617,7 @@
     "genre": "Pop",
     "album": "Eurovision Song Contest Oslo 2010 - Share the Moment",
     "track_number": 18,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "I Just Called To Say I Love You",
@@ -16905,7 +16977,7 @@
     "genre": "Pop",
     "album": "Kryštof v Opeře",
     "track_number": 11,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Žít Jako Kaskadér",
@@ -17133,7 +17205,7 @@
     "genre": "Rock",
     "album": "Habera 2",
     "track_number": 8,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Hľadám",
@@ -17865,7 +17937,7 @@
     "genre": "Pop",
     "album": "Lásko Voníš Deštěm",
     "track_number": 1,
-    "artist_country": "Not found"
+    "artist_country": "CZ"
   },
   {
     "title": "Chtěl Jsem Mít",
@@ -17901,7 +17973,7 @@
     "genre": "Rock",
     "album": "Pavol Habera",
     "track_number": 2,
-    "artist_country": "Not found"
+    "artist_country": "SK"
   },
   {
     "title": "Marcel Z Malého Mesta",
@@ -18117,7 +18189,7 @@
     "genre": "Pop",
     "album": "Super Hit-News",
     "track_number": 6,
-    "artist_country": "Not found"
+    "artist_country": "IT"
   },
   {
     "title": "Po Schodoch",

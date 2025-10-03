@@ -7278,5 +7278,37 @@
     "album": "Hodiny Nehy",
     "track_number": 14,
     "itunes_track_id": 1462800631
+  },
+  "anita ward|ring my bell": {
+    "year": 2005,
+    "duration_ms": 491933,
+    "genre": "R&B/Soul",
+    "album": "Ring My Bell",
+    "track_number": 1,
+    "itunes_track_id": 147664822
+  },
+  "heckova julia|maturitne tablo": {
+    "year": 1987,
+    "duration_ms": 244316,
+    "genre": "Pop",
+    "album": "Maturitné tablo",
+    "track_number": 1,
+    "itunes_track_id": 1615592066
+  },
+  "mc hammer|u can't touch this": {
+    "year": 1990,
+    "duration_ms": 257000,
+    "genre": "Hip-Hop/Rap",
+    "album": "Greatest Hits",
+    "track_number": 1,
+    "itunes_track_id": 724647729
+  },
+  "grigorov robo|povedzme": {
+    "year": 2006,
+    "duration_ms": 294013,
+    "genre": "Rock",
+    "album": "Complete Of",
+    "track_number": 2,
+    "itunes_track_id": 497997248
   }
 }
