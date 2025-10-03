@@ -35,20 +35,8 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
-      - name: Enrich tracks (iTunes + MB fallback)
-        env:
-          MB_UA:
-            melody-playlist-bot/1.0 (+https://github.com/Devis28/radio-playlist-scraper; contact: you@example.com)
-        run: |
-          python enrich_itunes.py \
-            --input data/playlist.json \
-            --itunes-cache data/enrich_cache.json \
-            --mb-cache data/mb_cache.json \
-            --country sk \
-            --limit 40 \
-            --sleep 0.6 \
-            --mb-limit 30 \
-            --mb-sleep 1.1
+      - name: Enrich tracks (iTunes)
+        run: python enrich_itunes.py --input data/playlist.json --cache data/enrich_cache.json --country sk --limit 40 --sleep 0.6
 
       - name: Commit & push (commit → rebase → push)
         if: success()
