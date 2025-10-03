@@ -1,5 +1,47 @@
 [
   {
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "04.10.2025",
+    "time": "01:05",
+    "year": 1984,
+    "duration_ms": 392267,
+    "genre": "Pop",
+    "album": "Make It Big",
+    "track_number": 8,
+    "artist_country": "GB",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Nevrav Mi Aký Som",
+    "artist": "Desmod",
+    "date": "04.10.2025",
+    "time": "01:01",
+    "year": 2017,
+    "duration_ms": 207978,
+    "genre": "Rock",
+    "album": "Molekuly Zvuku",
+    "track_number": 3,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Strong Enough",
+    "artist": "Cher",
+    "date": "04.10.2025",
+    "time": "00:57",
+    "year": 1998,
+    "duration_ms": 224000,
+    "genre": "Pop",
+    "album": "Believe",
+    "track_number": 5,
+    "artist_country": "US",
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
     "title": "Neznámy Pár",
     "artist": "Marika Gombitová & Karel Gott",
     "date": "04.10.2025",
@@ -3859,7 +3901,10 @@
     "album": "Believe",
     "track_number": 5,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
   },
   {
     "title": "Paráda",
