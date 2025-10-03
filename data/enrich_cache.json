@@ -7087,5 +7087,14 @@
     "album": "Close (Remastered Expanded Edition)",
     "track_number": 15,
     "itunes_track_id": 1440873717
+  },
+  "the connells|74 - 75": {
+    "year": 1993,
+    "duration_ms": 279107,
+    "duration": "4:39",
+    "genre": "Rock",
+    "album": "Ring (Deluxe Edition)",
+    "track_number": 3,
+    "itunes_track_id": 1689482611
   }
 }
