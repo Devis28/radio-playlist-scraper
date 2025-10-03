@@ -445,7 +445,7 @@ def enrich_items(items: list, it_cache: dict, mb_cache: dict,
                     if changed_real_a or changed_real_b:
                         enriched_mb_ids.add(obj_id)
 
-        # Zabezpeč, aby chýbajúce meta polia mali aspoň "Not found"
+        # Zabezpeč, aby chýbajúce meta polia mali aspoň text "Not found"
         if not _has_all_meta(it):
             before = json.dumps({k: it.get(k) for k in META_KEYS}, ensure_ascii=False)
             _apply_not_found(it)
