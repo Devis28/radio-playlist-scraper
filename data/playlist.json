@@ -1,5 +1,27 @@
 [
   {
+    "title": "Ma Baker",
+    "artist": "Boney M.",
+    "date": "03.10.2025",
+    "time": "11:51",
+    "year": 1976,
+    "duration_ms": 274960,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 4
+  },
+  {
+    "title": "Bon Soir, Mademoiselle Paris",
+    "artist": "Shalom",
+    "date": "03.10.2025",
+    "time": "11:47",
+    "year": 2001,
+    "duration_ms": 288980,
+    "genre": "Pop",
+    "album": "Bon soir, mademoiselle Paris",
+    "track_number": 1
+  },
+  {
     "title": "Jump",
     "artist": "Van Halen",
     "date": "03.10.2025",
