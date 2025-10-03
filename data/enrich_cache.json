@@ -7414,5 +7414,13 @@
     "album": "On The 6",
     "track_number": 8,
     "itunes_track_id": 265144699
+  },
+  "madonna|who's that girl": {
+    "year": 1987,
+    "duration_ms": 239173,
+    "genre": "Pop",
+    "album": "Who's That Girl",
+    "track_number": 1,
+    "itunes_track_id": 953642
   }
 }
