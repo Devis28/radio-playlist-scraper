@@ -2874,5 +2874,154 @@
     "artist_country_code": "Not found"
   },
   "o'connor sinead|nothing compares 2 u": "__MISS__",
-  "habera pavol & ibrahim maiga|mama kami": "__MISS__"
+  "habera pavol & ibrahim maiga|mama kami": "__MISS__",
+  "dalibor janda|tisickrat krasnejsi": {
+    "album": "Kde jsi?",
+    "year": 2002,
+    "duration_ms": 291709,
+    "genre": "Not found",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "abba|fernando": {
+    "album": "Japan Tour 1980",
+    "year": "Not found",
+    "duration_ms": 255000,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "rimes leann|can't fight the moonlight": "__MISS__",
+  "minogue kylie|i should be so lucky": "__MISS__",
+  "grigorov robo|kym ta mam": "__MISS__",
+  "peter nagy|az sa znova narodim": {
+    "album": "\"Ale\"",
+    "year": 2003,
+    "duration_ms": 153000,
+    "genre": "Not found",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  "richard muller|spocitaj ma": {
+    "album": "Všetko",
+    "year": 2011,
+    "duration_ms": 383000,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "pointer sisters, the|i'm so excited": "__MISS__",
+  "imt smile|nic nie je iste": {
+    "album": "Best Of",
+    "year": 2009,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "exil|kamarat": {
+    "album": "I Want You",
+    "year": 1996,
+    "duration_ms": 209000,
+    "genre": "Not found",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "zuzana smatanova & richard autner|prutikar": "__MISS__",
+  "alexandra burke|hallelujah": {
+    "album": "100 Hits: Number 1s",
+    "year": 2018,
+    "duration_ms": 218000,
+    "genre": "pop",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "marx richard|right here waiting": "__MISS__",
+  "jana kirschner|liska": {
+    "album": "V cudzom meste",
+    "year": 1999,
+    "duration_ms": 194560,
+    "genre": "Not found",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "marika gombitova|slnecny kalendar": {
+    "album": "The Best of the Best",
+    "year": 1998,
+    "duration_ms": 163000,
+    "genre": "Not found",
+    "track_number": 17,
+    "artist_country_code": "Not found"
+  },
+  "zucchero,paul young|senza una donna": "__MISS__",
+  "r.e.m.|everybody hurts": {
+    "album": "Perfect Square",
+    "year": 2004,
+    "duration_ms": 385000,
+    "genre": "rock",
+    "track_number": 19,
+    "artist_country_code": "Not found"
+  },
+  "peha|slnecna balada": {
+    "album": "Experiment",
+    "year": 2003,
+    "duration_ms": 235960,
+    "genre": "rock",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "robin gibb|juliet": {
+    "album": "Magic 80’s Top 200",
+    "year": "Not found",
+    "duration_ms": 222000,
+    "genre": "Not found",
+    "track_number": 135,
+    "artist_country_code": "Not found"
+  },
+  "kristina|stonka": {
+    "album": "V sieti ťa mám",
+    "year": 2010,
+    "duration_ms": 227000,
+    "genre": "Not found",
+    "track_number": 9,
+    "artist_country_code": "Not found"
+  },
+  "jason donovan|sealed with the kiss": "__MISS__",
+  "miro zbirka|dr. jekyll a mr. hyde": {
+    "album": "22x2: The Best Of",
+    "year": 2007,
+    "duration_ms": 236000,
+    "genre": "Not found",
+    "track_number": 16,
+    "artist_country_code": "Not found"
+  },
+  "bartosova iveta|vis lasko": "__MISS__",
+  "cirova maria|burka": "__MISS__",
+  "palonder marcel|neznama": "__MISS__",
+  "bad boys blue|you're a woman": {
+    "album": "Europop: The Best of Eurodance Classics, Vol. 3",
+    "year": 2009,
+    "duration_ms": 228000,
+    "genre": "Not found",
+    "track_number": 13,
+    "artist_country_code": "Not found"
+  },
+  "karel gott & darinka rolincova|zvonky stesti": "__MISS__",
+  "team|kto z nas dvoch sa lasky opyta?": {
+    "album": "Team",
+    "year": 1988,
+    "duration_ms": 240000,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "ramazzotti eros|fuoco nel fuoco": "__MISS__",
+  "alphaville|sounds like a melody": {
+    "album": "Forever Young",
+    "year": 1984,
+    "duration_ms": 282000,
+    "genre": "new wave",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  }
 }
