@@ -2,8 +2,16 @@ name: Scrape Melody Playlist
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # každých ~5 min (best-effort)
+    - cron: "*/5 * * * *"     # každých ~5 min (best effort)
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/scrape.yml"
+      - "scraper.py"
+      - "enrich_itunes.py"
+      - "enrich_artist_country.py"
+      - "enrich_songwriters.py"
+      - "requirements.txt"
 
 permissions:
   contents: write
@@ -20,52 +28,94 @@ jobs:
       - name: Checkout repo (full history)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0      # dôležité pre rebase
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # Fallbacky (ak nie sú v requirements.txt)
+          pip install requests beautifulsoup4
 
       - name: Run scraper
-        run: python scraper.py
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python scraper.py
 
       - name: Enrich tracks (iTunes)
-        run: python enrich_itunes.py --input data/playlist.json --cache data/enrich_cache.json --country sk --limit 40 --sleep 0.6
+        run: |
+          python enrich_itunes.py \
+            --input data/playlist.json \
+            --cache data/enrich_cache.json \
+            --country sk \
+            --limit 40 \
+            --sleep 0.6
 
       - name: Enrich artist country (MusicBrainz)
-        run: python enrich_artist_country.py --input data/playlist.json --cache data/artist_cache.json --limit 45 --sleep 1.1 --email "miniclashko@gmail.com"
+        env:
+          MB_CONTACT_EMAIL: ${{ secrets.MB_CONTACT_EMAIL }}
+        run: |
+          python enrich_artist_country.py \
+            --input data/playlist.json \
+            --cache data/artist_cache.json \
+            --limit 45 \
+            --sleep 1.1 \
+            --email "${MB_CONTACT_EMAIL:-ci@example.com}"
 
-      - name: Commit & push (commit → rebase → push)
+      - name: Enrich songwriters (MusicBrainz)
+        if: ${{ hashFiles('enrich_songwriters.py') != '' }}
+        env:
+          MB_CONTACT_EMAIL: ${{ secrets.MB_CONTACT_EMAIL }}
+        run: |
+          python enrich_songwriters.py \
+            --input data/playlist.json \
+            --cache data/writers_cache.json \
+            --limit 40 \
+            --sleep 1.1 \
+            --email "${MB_CONTACT_EMAIL:-ci@example.com}"
+
+      - name: Commit & push (only playlist, auto-resolve)
         if: success()
         env:
-          TZ: Europe/Bratislava   # lokálny čas v commit message
+          TZ: Europe/Bratislava
         run: |
           set -e
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config pull.rebase true
+          git config rebase.autoStash true
 
-          git add -A
+          # Commituj iba playlist (keše NEposielame)
+          git add data/playlist.json
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
 
-          ts=$(date +'%Y-%m-%dT%H:%M:%S%z')   # napr. 2025-10-02T08:54:43+0200
+          ts=$(date +'%Y-%m-%dT%H:%M:%S%z')
           git commit -m "update playlist $ts"
 
-          git pull --rebase --autostash origin main
+          # Rebase na remote; pri konflikte vezmi našu verziu playlistu
+          if ! git pull --rebase --autostash origin main; then
+            echo "Conflict during rebase – resolving data/playlist.json as ours"
+            git checkout --ours -- data/playlist.json || true
+            git add data/playlist.json || true
+            git rebase --continue || true
+          fi
 
+          # Push s pár pokusmi
           for i in 1 2 3; do
-            if git push; then
+            if git push origin main; then
               echo "Push OK"
               break
             fi
-            echo "Push failed, retrying ($i)..."
-            git pull --rebase --autostash origin main
+            echo "Push failed, retrying ($i)…"
+            git pull --rebase --autostash origin main || true
           done
