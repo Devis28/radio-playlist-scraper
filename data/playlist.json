@@ -1,5 +1,77 @@
 [
   {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "03.10.2025",
+    "time": "08:42",
+    "year": 2018,
+    "duration_ms": 147840,
+    "duration": "2:28",
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 16
+  },
+  {
+    "title": "Co Bolí To Přebolí",
+    "artist": "Zbirka Miro & Martha",
+    "date": "03.10.2025",
+    "time": "08:39",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "duration": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found"
+  },
+  {
+    "title": "Heaven Is A Place On Earth",
+    "artist": "Belinda Carlisle",
+    "date": "03.10.2025",
+    "time": "08:36",
+    "year": 1987,
+    "duration_ms": 247093,
+    "duration": "4:07",
+    "genre": "Pop",
+    "album": "Heaven on Earth",
+    "track_number": 1
+  },
+  {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "03.10.2025",
+    "time": "08:31",
+    "year": 1992,
+    "duration_ms": 278200,
+    "duration": "4:38",
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise",
+    "track_number": 2
+  },
+  {
+    "title": "Waterloo",
+    "artist": "Abba",
+    "date": "03.10.2025",
+    "time": "08:23",
+    "year": 1974,
+    "duration_ms": 165800,
+    "duration": "2:46",
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 19
+  },
+  {
+    "title": "Pieseň Pre Nesmelých",
+    "artist": "Team",
+    "date": "03.10.2025",
+    "time": "08:19",
+    "year": 1989,
+    "duration_ms": 270040,
+    "duration": "4:30",
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 10
+  },
+  {
     "title": "To Be With You",
     "artist": "Mr. Big",
     "date": "03.10.2025",
