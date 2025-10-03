@@ -38,6 +38,9 @@ jobs:
       - name: Enrich tracks (iTunes)
         run: python enrich_itunes.py --input data/playlist.json --cache data/enrich_cache.json --country sk --limit 40 --sleep 0.6
 
+      - name: Enrich artist country (MusicBrainz)
+        run: python enrich_artist_country.py --input data/playlist.json --cache data/artist_cache.json --limit 45 --sleep 1.1 --email "miniclashko@gmail.com"
+
       - name: Commit & push (commit → rebase → push)
         if: success()
         env:
