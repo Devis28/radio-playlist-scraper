@@ -1,5 +1,71 @@
 [
   {
+    "title": "Heartbreak Hotel",
+    "artist": "C.C. Catch",
+    "date": "03.10.2025",
+    "time": "10:25",
+    "year": 1986,
+    "duration_ms": 215800,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 3
+  },
+  {
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "03.10.2025",
+    "time": "10:18",
+    "year": 1992,
+    "duration_ms": 394528,
+    "genre": "Pop",
+    "album": "Keep the Faith",
+    "track_number": 5
+  },
+  {
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "03.10.2025",
+    "time": "10:15",
+    "year": 1975,
+    "duration_ms": 209360,
+    "genre": "Pop",
+    "album": "Paloma Blanca",
+    "track_number": 1
+  },
+  {
+    "title": "Anjelik Môj",
+    "artist": "Darina Rolincová",
+    "date": "03.10.2025",
+    "time": "10:09",
+    "year": 1990,
+    "duration_ms": 218600,
+    "genre": "Pop",
+    "album": "Téměř Růžový Příběh",
+    "track_number": 3
+  },
+  {
+    "title": "You",
+    "artist": "Ten Sharp",
+    "date": "03.10.2025",
+    "time": "10:05",
+    "year": 1991,
+    "duration_ms": 272984,
+    "genre": "Pop",
+    "album": "You - Single",
+    "track_number": 1
+  },
+  {
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "03.10.2025",
+    "time": "10:01",
+    "year": 1974,
+    "duration_ms": 208160,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 10
+  },
+  {
     "title": "Gimme Gimme Gimme A Man After Midnight",
     "artist": "Abba",
     "date": "03.10.2025",
