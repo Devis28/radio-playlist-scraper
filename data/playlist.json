@@ -1,5 +1,65 @@
 [
   {
+    "title": "L' Italiano",
+    "artist": "Toto Cutugno",
+    "date": "03.10.2025",
+    "time": "16:20",
+    "year": 1983,
+    "duration_ms": 236547,
+    "genre": "Pop",
+    "album": "L'italiano",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Dievča Amerika",
+    "artist": "Habera Pavol",
+    "date": "03.10.2025",
+    "time": "16:14",
+    "year": 1995,
+    "duration_ms": 250427,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Rivers Of Babylon",
+    "artist": "Boney M.",
+    "date": "03.10.2025",
+    "time": "16:10",
+    "year": 1978,
+    "duration_ms": 261200,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Leave A Light On",
+    "artist": "Carlisle Belinda",
+    "date": "03.10.2025",
+    "time": "16:07",
+    "year": 1989,
+    "duration_ms": 278360,
+    "genre": "Pop",
+    "album": "Runaway Horses",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "03.10.2025",
+    "time": "16:04",
+    "year": 2001,
+    "duration_ms": 237613,
+    "genre": "Pop",
+    "album": "Hits! The Very Best of Erasure",
+    "track_number": 10,
+    "artist_country_code": "Not found"
+  },
+  {
     "title": "Sailing",
     "artist": "Rod Stewart",
     "date": "03.10.2025",
@@ -3604,11 +3664,11 @@
     "artist": "Plavci",
     "date": "02.10.2025",
     "time": "19:19",
-    "year": "Not found",
-    "duration_ms": "Not found",
+    "year": 1994,
+    "duration_ms": 183000,
     "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Promovaní inženýři",
+    "track_number": 18,
     "artist_country_code": "Not found"
   },
   {
@@ -3619,8 +3679,8 @@
     "year": 1990,
     "duration_ms": 220133,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Největší hity",
+    "track_number": 2,
     "artist_country_code": "Not found"
   },
   {
@@ -3631,8 +3691,8 @@
     "year": 2002,
     "duration_ms": 177333,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Největší slovenské hity všech dob",
+    "track_number": 11,
     "artist_country_code": "Not found"
   },
   {
@@ -3643,8 +3703,8 @@
     "year": 2016,
     "duration_ms": 246659,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Echo",
+    "track_number": 5,
     "artist_country_code": "Not found"
   },
   {
@@ -3679,8 +3739,8 @@
     "year": 1982,
     "duration_ms": 195253,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Hurikán",
+    "track_number": 6,
     "artist_country_code": "Not found"
   },
   {
@@ -3691,8 +3751,8 @@
     "year": 1983,
     "duration_ms": 215067,
     "genre": "Rock",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Čakám ťa, láska",
+    "track_number": 5,
     "artist_country_code": "Not found"
   },
   {
@@ -3715,8 +3775,8 @@
     "year": 1981,
     "duration_ms": 292507,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Olympic v Lucerně",
+    "track_number": 11,
     "artist_country_code": "Not found"
   },
   {
@@ -3727,8 +3787,8 @@
     "year": 1989,
     "duration_ms": 130373,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Best of… 1988–2005",
+    "track_number": 6,
     "artist_country_code": "Not found"
   },
   {
@@ -3739,8 +3799,8 @@
     "year": 1997,
     "duration_ms": 262867,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Ultra Pop",
+    "track_number": 3,
     "artist_country_code": "Not found"
   },
   {
@@ -3751,8 +3811,8 @@
     "year": 2010,
     "duration_ms": 183147,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Eurovision Song Contest Oslo 2010 - Share the Moment",
+    "track_number": 18,
     "artist_country_code": "Not found"
   },
   {
@@ -3775,8 +3835,8 @@
     "year": 2001,
     "duration_ms": 181307,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "22x2: The Best Of",
+    "track_number": 14,
     "artist_country_code": "Not found"
   },
   {
@@ -3787,8 +3847,8 @@
     "year": 2011,
     "duration_ms": 168587,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Život je ...",
+    "track_number": 10,
     "artist_country_code": "Not found"
   },
   {
@@ -3799,8 +3859,8 @@
     "year": 1984,
     "duration_ms": 188387,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "České hity",
+    "track_number": 33,
     "artist_country_code": "Not found"
   },
   {
@@ -3823,8 +3883,8 @@
     "year": 2003,
     "duration_ms": 305187,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Lucie v opeře",
+    "track_number": 1,
     "artist_country_code": "Not found"
   },
   {
@@ -3847,8 +3907,8 @@
     "year": 2006,
     "duration_ms": 278840,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "S úctou (Zlatá kolekce)",
+    "track_number": 7,
     "artist_country_code": "Not found"
   },
   {
@@ -3871,8 +3931,8 @@
     "year": 1979,
     "duration_ms": 308401,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Live in Concert",
+    "track_number": 15,
     "artist_country_code": "Not found"
   },
   {
@@ -3883,8 +3943,8 @@
     "year": 1983,
     "duration_ms": 232613,
     "genre": "Rock",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Best Of",
+    "track_number": 14,
     "artist_country_code": "Not found"
   },
   {
@@ -3895,8 +3955,8 @@
     "year": 1993,
     "duration_ms": 269000,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Best Of",
+    "track_number": 9,
     "artist_country_code": "Not found"
   },
   {
@@ -10711,8 +10771,8 @@
     "year": 2001,
     "duration_ms": 181307,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "22x2: The Best Of",
+    "track_number": 14,
     "artist_country_code": "Not found"
   },
   {
@@ -11695,8 +11755,8 @@
     "year": 1979,
     "duration_ms": 308401,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Live in Concert",
+    "track_number": 15,
     "artist_country_code": "Not found"
   },
   {
@@ -11875,8 +11935,8 @@
     "year": 1993,
     "duration_ms": 269000,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Best Of",
+    "track_number": 9,
     "artist_country_code": "Not found"
   },
   {
@@ -13231,8 +13291,8 @@
     "year": 1983,
     "duration_ms": 232613,
     "genre": "Rock",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Best Of",
+    "track_number": 14,
     "artist_country_code": "Not found"
   },
   {
@@ -13915,8 +13975,8 @@
     "year": 2001,
     "duration_ms": 181307,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "22x2: The Best Of",
+    "track_number": 14,
     "artist_country_code": "Not found"
   },
   {
@@ -15823,8 +15883,8 @@
     "year": 2010,
     "duration_ms": 183147,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Eurovision Song Contest Oslo 2010 - Share the Moment",
+    "track_number": 18,
     "artist_country_code": "Not found"
   },
   {
@@ -16555,8 +16615,8 @@
     "year": 1979,
     "duration_ms": 308401,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Live in Concert",
+    "track_number": 15,
     "artist_country_code": "Not found"
   },
   {
@@ -16963,8 +17023,8 @@
     "year": 2011,
     "duration_ms": 168587,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Život je ...",
+    "track_number": 10,
     "artist_country_code": "Not found"
   },
   {
