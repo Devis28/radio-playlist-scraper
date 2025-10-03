@@ -1,5 +1,34 @@
 [
   {
+    "title": "You Came",
+    "artist": "Wilde Kim",
+    "date": "04.10.2025",
+    "time": "00:41",
+    "year": 1988,
+    "duration_ms": 209133,
+    "genre": "Pop",
+    "album": "Close (Remastered Expanded Edition)",
+    "track_number": 15,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Kim Wilde",
+      "Ricky Wilde"
+    ]
+  },
+  {
+    "title": "Mumuland",
+    "artist": "Kotvald Petr",
+    "date": "04.10.2025",
+    "time": "00:37",
+    "year": 2016,
+    "duration_ms": 197000,
+    "genre": "Pop",
+    "album": "Exxxclusive (Best Of - Zlatá Kolekce)",
+    "track_number": 41,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Aj Tak Sme Frajeri",
     "artist": "Nagy Peter",
     "date": "04.10.2025",
@@ -229,7 +258,9 @@
     "album": "A's, B's & EP's",
     "track_number": 11,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Graham Gouldman"
+    ]
   },
   {
     "title": "Doctor Jones",
@@ -3562,7 +3593,10 @@
     "album": "Close (Remastered Expanded Edition)",
     "track_number": 15,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Kim Wilde",
+      "Ricky Wilde"
+    ]
   },
   {
     "title": "Zažni",
@@ -12300,7 +12334,9 @@
     "album": "A's, B's & EP's",
     "track_number": 11,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Graham Gouldman"
+    ]
   },
   {
     "title": "Čau, Lásko",
@@ -19126,7 +19162,9 @@
     "album": "A's, B's & EP's",
     "track_number": 11,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Graham Gouldman"
+    ]
   },
   {
     "title": "Ak Náhodou",
