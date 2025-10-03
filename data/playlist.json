@@ -1,5 +1,47 @@
 [
   {
+    "title": "Don't Worry",
+    "artist": "Kim Appleby",
+    "date": "03.10.2025",
+    "time": "23:06",
+    "year": 1990,
+    "duration_ms": 210933,
+    "genre": "Pop",
+    "album": "Don't Worry - Single",
+    "track_number": 1,
+    "artist_country": "GB",
+    "songwriters": [
+      "Craig Logan",
+      "Kim Appleby"
+    ]
+  },
+  {
+    "title": "Malá Nočná Búrka",
+    "artist": "Team",
+    "date": "03.10.2025",
+    "time": "23:02",
+    "year": 1988,
+    "duration_ms": 246560,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 6,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Decibely Lásky",
+    "artist": "David Michal Kroky Františka Janečka",
+    "date": "03.10.2025",
+    "time": "22:59",
+    "year": 1986,
+    "duration_ms": 193239,
+    "genre": "Pop",
+    "album": "Děti Ráje",
+    "track_number": 13,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Copacabana At The Copa",
     "artist": "Barry Manilow",
     "date": "03.10.2025",
