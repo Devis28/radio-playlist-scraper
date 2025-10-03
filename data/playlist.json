@@ -1,5 +1,53 @@
 [
   {
+    "title": "Hotel California",
+    "artist": "Eagles The",
+    "date": "03.10.2025",
+    "time": "17:25",
+    "year": 1976,
+    "duration_ms": 391357,
+    "genre": "Rock",
+    "album": "Hotel California (40th Anniversary Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Tanečnice Z Lúčnice",
+    "artist": "Elán",
+    "date": "03.10.2025",
+    "time": "17:22",
+    "year": 1986,
+    "duration_ms": 170800,
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "03.10.2025",
+    "time": "17:19",
+    "year": 1991,
+    "duration_ms": 230680,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 10,
+    "artist_country_code": "Not found"
+  },
+  {
+    "title": "Nothing's Gonna Change My Love For You",
+    "artist": "Glenn Medeiros",
+    "date": "03.10.2025",
+    "time": "17:13",
+    "year": 1987,
+    "duration_ms": 231587,
+    "genre": "Pop",
+    "album": "Nothing's Gonna Change My Love for You",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  {
     "title": "Tancujem S Tebou Rád",
     "artist": "Karol Duchoň",
     "date": "03.10.2025",
