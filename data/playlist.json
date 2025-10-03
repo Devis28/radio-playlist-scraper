@@ -1,5 +1,41 @@
 [
   {
+    "title": "Crazy",
+    "artist": "Aerosmith",
+    "date": "03.10.2025",
+    "time": "13:34",
+    "country": "GB",
+    "year": 1993,
+    "duration_ms": 316966,
+    "genre": "Pop",
+    "album": "Get A Grip",
+    "track_number": 11
+  },
+  {
+    "title": "Chlapci V Pasci",
+    "artist": "Gombitová Marika",
+    "date": "03.10.2025",
+    "time": "13:31",
+    "country": "UNKNOWN",
+    "year": 1986,
+    "duration_ms": 210267,
+    "genre": "Pop",
+    "album": "Volné miesto v srdci",
+    "track_number": 5
+  },
+  {
+    "title": "San Francisco",
+    "artist": "Mckenzie Scott",
+    "date": "03.10.2025",
+    "time": "13:28",
+    "country": "UNKNOWN",
+    "year": 1967,
+    "duration_ms": 177427,
+    "genre": "Pop",
+    "album": "Hear It Now! The Sound of the '60s",
+    "track_number": 7
+  },
+  {
     "title": "Za Dverami Mojej Izby",
     "artist": "Beata Dubasová",
     "date": "03.10.2025",
