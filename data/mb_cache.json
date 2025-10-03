@@ -1570,5 +1570,175 @@
     "genre": "Not found",
     "track_number": 8,
     "artist_country_code": "Not found"
+  },
+  "rod stewart|sailing": {
+    "album": "Zeppelin Hits 16",
+    "year": 1993,
+    "duration_ms": 262000,
+    "genre": "Not found",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  "katarina knechtova|v tichu": {
+    "album": "Zodiak",
+    "year": 2008,
+    "duration_ms": 209360,
+    "genre": "Not found",
+    "track_number": 3,
+    "artist_country_code": "Not found"
+  },
+  "no name|prva": {
+    "album": "Slovenské hity",
+    "year": 2023,
+    "duration_ms": 197000,
+    "genre": "Not found",
+    "track_number": 25,
+    "artist_country_code": "Not found"
+  },
+  "robo grigorov|modlitba lasky": {
+    "album": "Balady",
+    "year": 2006,
+    "duration_ms": 273293,
+    "genre": "Not found",
+    "track_number": 19,
+    "artist_country_code": "Not found"
+  },
+  "the righteous brothers|unchained melody": {
+    "album": "DJ Tools #3",
+    "year": "Not found",
+    "duration_ms": 225080,
+    "genre": "Not found",
+    "track_number": 16,
+    "artist_country_code": "Not found"
+  },
+  "mc erik and barbara|ked pride laska": {
+    "album": "U Can’t Stop",
+    "year": 1995,
+    "duration_ms": 247920,
+    "genre": "electronic",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  "elan|ulica": {
+    "album": "Best Of",
+    "year": 2006,
+    "duration_ms": 179066,
+    "genre": "Not found",
+    "track_number": 6,
+    "artist_country_code": "Not found"
+  },
+  "enigma|return to innocence": {
+    "album": "Hitti Buumi 3",
+    "year": 1994,
+    "duration_ms": 250173,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "imt smile|nepoznam": {
+    "album": "Live",
+    "year": 2007,
+    "duration_ms": 274000,
+    "genre": "Not found",
+    "track_number": 15,
+    "artist_country_code": "Not found"
+  },
+  "queen|radio ga ga": {
+    "album": "1984‐09‐15: The Jewels: Sports Palace, Milan, Italy",
+    "year": "Not found",
+    "duration_ms": 474200,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "pavol habera|laska, necestuj tym vlakom": {
+    "album": "Zlaté hity",
+    "year": 2001,
+    "duration_ms": 278000,
+    "genre": "Not found",
+    "track_number": 10,
+    "artist_country_code": "Not found"
+  },
+  "roxette|the look": {
+    "album": "All the Hits",
+    "year": 1992,
+    "duration_ms": 327533,
+    "genre": "Not found",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "gombitova marika & patejdl vaso|ulicnik bozk": "__MISS__",
+  "clapton eric|tears in heaven": "__MISS__",
+  "modus|ked sa raz oci dohodnu": {
+    "album": "GOLD",
+    "year": 2005,
+    "duration_ms": 278666,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "michael jackson|they don't care about us": {
+    "album": "The Braun MTV Eurochart ’96, Volume 5",
+    "year": 1996,
+    "duration_ms": 219626,
+    "genre": "pop",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "karmen pal-balaz|anjel": {
+    "album": "Slovenské hity",
+    "year": 2023,
+    "duration_ms": 255000,
+    "genre": "Not found",
+    "track_number": 33,
+    "artist_country_code": "Not found"
+  },
+  "adiemus|adiemus": {
+    "album": "Mysterium Magnum II",
+    "year": 1998,
+    "duration_ms": 236000,
+    "genre": "Not found",
+    "track_number": 10,
+    "artist_country_code": "Not found"
+  },
+  "opus|live is life": {
+    "album": "One Hit Wonders",
+    "year": 1991,
+    "duration_ms": 199426,
+    "genre": "general mainstream rock",
+    "track_number": 9,
+    "artist_country_code": "Not found"
+  },
+  "manilow barry|mandy": "__MISS__",
+  "petr rezek|kino gloria": {
+    "album": "Kdysi dávno jsem chtěl lítat",
+    "year": 2004,
+    "duration_ms": 224000,
+    "genre": "Not found",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "gott karel|zustanu svuj": "__MISS__",
+  "muller richard|nocna optika": "__MISS__",
+  "duchon karol|v slovenskych dolinach": "__MISS__",
+  "nagy peter|kristinka iba spi": "__MISS__",
+  "vondrackova helena|dlouha noc": "__MISS__",
+  "grigorov robo|mam 300 mesiacov": "__MISS__",
+  "bartosova iveta|kdyz laska schazi": "__MISS__",
+  "lucie|srouby do hlavy": {
+    "album": "Vše nejlepší 88-99",
+    "year": 1999,
+    "duration_ms": 248760,
+    "genre": "rock",
+    "track_number": 3,
+    "artist_country_code": "Not found"
+  },
+  "marie rottrova|reka lasky": {
+    "album": "Všechno nejlepší",
+    "year": 2003,
+    "duration_ms": 200306,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
   }
 }
