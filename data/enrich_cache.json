@@ -7172,5 +7172,13 @@
     "album": "80s 100 Hits",
     "track_number": 10,
     "itunes_track_id": 355893452
+  },
+  "midnight oil|beds are burning": {
+    "year": 1987,
+    "duration_ms": 255680,
+    "genre": "Rock",
+    "album": "Diesel and Dust (2008 Remaster)",
+    "track_number": 1,
+    "itunes_track_id": 288955173
   }
 }
