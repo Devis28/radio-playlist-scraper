@@ -1,5 +1,65 @@
 [
   {
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "04.10.2025",
+    "time": "00:06",
+    "year": 1985,
+    "duration_ms": 228520,
+    "genre": "Pop",
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country": "NO",
+    "songwriters": [
+      "Magne Furuholmen",
+      "Morten Harket",
+      "Paul Waaktaar-Savoy"
+    ]
+  },
+  {
+    "title": "Paráda",
+    "artist": "Zich Karel",
+    "date": "04.10.2025",
+    "time": "00:03",
+    "year": 1981,
+    "duration_ms": 207133,
+    "genre": "Pop",
+    "album": "...To Nejlepší",
+    "track_number": 6,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Rock Me Amadeus",
+    "artist": "Falco",
+    "date": "03.10.2025",
+    "time": "23:59",
+    "year": 1985,
+    "duration_ms": 201467,
+    "genre": "Pop",
+    "album": "Falco 3 (25th Anniversary Edition)",
+    "track_number": 1,
+    "artist_country": "AT",
+    "songwriters": [
+      "Falco",
+      "Ferdi Bolland",
+      "Rob Bolland"
+    ]
+  },
+  {
+    "title": "Horny ´98",
+    "artist": "Mousse T. & Hot 'n' Juicy",
+    "date": "03.10.2025",
+    "time": "23:56",
+    "year": 1998,
+    "duration_ms": 374267,
+    "genre": "Dance",
+    "album": "Essential Deluxe House Edition",
+    "track_number": 10,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Človečina",
     "artist": "Elán",
     "date": "03.10.2025",
@@ -55,7 +115,10 @@
     "album": "Madonna",
     "track_number": 5,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Curtis Hudson",
+      "Lisa Stevens"
+    ]
   },
   {
     "title": "No Milk Today",
@@ -3661,7 +3724,11 @@
     "album": "Hunting High and Low (Deluxe Edition)",
     "track_number": 1,
     "artist_country": "NO",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Magne Furuholmen",
+      "Morten Harket",
+      "Paul Waaktaar-Savoy"
+    ]
   },
   {
     "title": "There's A Party",
@@ -13315,7 +13382,11 @@
     "album": "Hunting High and Low (Deluxe Edition)",
     "track_number": 1,
     "artist_country": "NO",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Magne Furuholmen",
+      "Morten Harket",
+      "Paul Waaktaar-Savoy"
+    ]
   },
   {
     "title": "Neuč Vtáka Lietať",
@@ -16955,7 +17026,11 @@
     "album": "Hunting High and Low (Deluxe Edition)",
     "track_number": 1,
     "artist_country": "NO",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Magne Furuholmen",
+      "Morten Harket",
+      "Paul Waaktaar-Savoy"
+    ]
   },
   {
     "title": "Un Emozione Per Sempre",
