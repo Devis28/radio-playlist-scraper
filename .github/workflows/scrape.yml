@@ -42,7 +42,7 @@ jobs:
 
       - name: Enrich tracks (iTunes + MusicBrainz)
         env:
-          MB_UA: melody-playlist-bot/1.0 (+https://github.com/Devis28/radio-playlist-scraper; contact: you@example.com)
+          MB_UA: 'melody-playlist-bot/1.0 (+https://github.com/Devis28/radio-playlist-scraper; contact: you@example.com)'
         run: |
           python enrich_itunes.py \
             --input data/playlist.json \
