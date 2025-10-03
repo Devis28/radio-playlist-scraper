@@ -1414,5 +1414,161 @@
     "track_number": 2,
     "artist_country_code": "Not found"
   },
-  "sima martausova & for you|nenahraditelna": "__MISS__"
+  "sima martausova & for you|nenahraditelna": "__MISS__",
+  "ricchi e poveri|sara perche ti amo": {
+    "album": "Réveillon party",
+    "year": 2011,
+    "duration_ms": 182000,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "lobo|i'd love you to want me": {
+    "album": "In Liebe",
+    "year": 2003,
+    "duration_ms": 239960,
+    "genre": "Not found",
+    "track_number": 10,
+    "artist_country_code": "Not found"
+  },
+  "miro zbirka|zlodejka snov ii": "__MISS__",
+  "elton john|candle in the wind": {
+    "album": "One Night Only: The Greatest Hits",
+    "year": 2000,
+    "duration_ms": 230000,
+    "genre": "pop",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "smatanova zuzana|daj ruku do mojej ruky": "__MISS__",
+  "tina turner/eros ramazzotti|cose della vita / can't stop thinking of you": "__MISS__",
+  "al bano & romina power|sempre sempre": {
+    "album": "Italian Classics",
+    "year": "Not found",
+    "duration_ms": 220560,
+    "genre": "Not found",
+    "track_number": 9,
+    "artist_country_code": "Not found"
+  },
+  "brontosauri|ruze z papiru": {
+    "album": "Hlídej lásku, skálo má",
+    "year": 2007,
+    "duration_ms": 142226,
+    "genre": "Not found",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "team|narocni": {
+    "album": "Team",
+    "year": 1988,
+    "duration_ms": 308333,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "dubasova beata|sumienky z polomu": "__MISS__",
+  "pink floyd|another brick in the wall part 2": {
+    "album": "Every Brick in the Wall",
+    "year": 2000,
+    "duration_ms": 241000,
+    "genre": "Not found",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "grigorov robo|zuvacka za uchom": "__MISS__",
+  "no doubt|don't speak": {
+    "album": "A Perfect Love",
+    "year": 1997,
+    "duration_ms": 218560,
+    "genre": "dance pop",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "vidiek|vidiecan": {
+    "album": "Výber naživo",
+    "year": 2000,
+    "duration_ms": 202946,
+    "genre": "rock",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "mckee maria|show me heaven": "__MISS__",
+  "gazebo|i like chopin": {
+    "album": "Super Hit-News",
+    "year": 1983,
+    "duration_ms": 185400,
+    "genre": "Not found",
+    "track_number": 6,
+    "artist_country_code": "Not found"
+  },
+  "hammel pavol|medulienka": "__MISS__",
+  "ac+|klara": "__MISS__",
+  "the bangles|eternal flame": {
+    "album": "Temas de Novelas Internacionais: Volume 2",
+    "year": "Not found",
+    "duration_ms": 246680,
+    "genre": "Not found",
+    "track_number": 12,
+    "artist_country_code": "Not found"
+  },
+  "muller richard|nebude to lahke": "__MISS__",
+  "abba|lay all your love on me": {
+    "album": "Aqua Super Collection 3",
+    "year": "Not found",
+    "duration_ms": 300000,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "gladiator|ked sa laska podari": {
+    "album": "Best Of 1991 - 2021",
+    "year": 2020,
+    "duration_ms": 213626,
+    "genre": "Not found",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "nagy peter|nic nezmeni moj svet": "__MISS__",
+  "miro zbirka|nechodi": {
+    "album": "22x2: The Best Of",
+    "year": 2007,
+    "duration_ms": 223000,
+    "genre": "Not found",
+    "track_number": 11,
+    "artist_country_code": "Not found"
+  },
+  "dj bobo|everybody": {
+    "album": "WWW.DJBOBO.CH: The Ultimate Megamix '99",
+    "year": 1999,
+    "duration_ms": 116173,
+    "genre": "Not found",
+    "track_number": 3,
+    "artist_country_code": "Not found"
+  },
+  "smatanova zuzana|tam kde sa neumiera": "__MISS__",
+  "lionel richie|hello": {
+    "album": "Symphonica in Rosso",
+    "year": 2008,
+    "duration_ms": 383946,
+    "genre": "Not found",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  },
+  "hex|vetron": {
+    "album": "Ultra Pop",
+    "year": 1997,
+    "duration_ms": 240000,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "novak petr|ja budu chodit po spickach": "__MISS__",
+  "tina turner|the best": {
+    "album": "Live & Alive",
+    "year": 1994,
+    "duration_ms": 306040,
+    "genre": "Not found",
+    "track_number": 8,
+    "artist_country_code": "Not found"
+  }
 }
