@@ -1,5 +1,53 @@
 [
   {
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "03.10.2025",
+    "time": "09:28",
+    "year": 1992,
+    "duration_ms": 243133,
+    "duration": "4:03",
+    "genre": "Pop",
+    "album": "One Love",
+    "track_number": 2
+  },
+  {
+    "title": "Stay",
+    "artist": "Bonnie Bianco & Pierre Cosso",
+    "date": "03.10.2025",
+    "time": "09:24",
+    "year": 2008,
+    "duration_ms": 231598,
+    "duration": "3:52",
+    "genre": "Pop",
+    "album": "Stay",
+    "track_number": 1
+  },
+  {
+    "title": "I Was Made For Loving You",
+    "artist": "Kiss",
+    "date": "03.10.2025",
+    "time": "09:20",
+    "year": 2022,
+    "duration_ms": 372867,
+    "duration": "6:13",
+    "genre": "Rock",
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "track_number": 7
+  },
+  {
+    "title": "Pěkná Pěkná Pěkná",
+    "artist": "Ledecký Janek",
+    "date": "03.10.2025",
+    "time": "09:15",
+    "year": 1993,
+    "duration_ms": 269120,
+    "duration": "4:29",
+    "genre": "Pop",
+    "album": "Právě teď",
+    "track_number": 3
+  },
+  {
     "title": "Smrťka Na Pražskom Orloji",
     "artist": "Elán",
     "date": "03.10.2025",
