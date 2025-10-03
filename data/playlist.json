@@ -1,5 +1,60 @@
 [
   {
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "03.10.2025",
+    "time": "12:14",
+    "year": 2011,
+    "duration_ms": 152573,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 10
+  },
+  {
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "date": "03.10.2025",
+    "time": "12:09",
+    "year": 1983,
+    "duration_ms": 253960,
+    "genre": "Rock",
+    "album": "Synchronicity (Remastered 2003)",
+    "track_number": 7
+  },
+  {
+    "title": "Sen",
+    "artist": "Lucie",
+    "date": "03.10.2025",
+    "time": "12:05",
+    "year": 2013,
+    "duration_ms": 296600,
+    "genre": "Pop",
+    "album": "Cerny Kocky Mokry Zaby",
+    "track_number": 13
+  },
+  {
+    "title": "Seasons In The Sun",
+    "artist": "Terry Jacks",
+    "date": "03.10.2025",
+    "time": "12:02",
+    "year": 2013,
+    "duration_ms": 208853,
+    "genre": "Rock",
+    "album": "Seasons In The Sun (Expanded Edition)",
+    "track_number": 11
+  },
+  {
+    "title": "I Just Called To Say I Love You",
+    "artist": "Wonder Stevie",
+    "date": "03.10.2025",
+    "time": "11:56",
+    "year": 2002,
+    "duration_ms": 262598,
+    "genre": "R&B/Soul",
+    "album": "The Definitive Collection",
+    "track_number": 19
+  },
+  {
     "title": "Ma Baker",
     "artist": "Boney M.",
     "date": "03.10.2025",
