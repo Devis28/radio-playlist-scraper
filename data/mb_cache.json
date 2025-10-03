@@ -543,5 +543,175 @@
     "track_number": 13,
     "artist_country_code": "Not found"
   },
-  "wilde kim|you came": "__MISS__"
+  "wilde kim|you came": "__MISS__",
+  "miro zbirka|zazni": {
+    "album": "22x2: The Best Of",
+    "year": 2007,
+    "duration_ms": 213000,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "michael, george|careless whisper": "__MISS__",
+  "eros ramazzotti|piu bella cosa": {
+    "album": "Gerard Ekdom’s BBQ Box, Volume 2",
+    "year": 2011,
+    "duration_ms": 267706,
+    "genre": "Not found",
+    "track_number": 4,
+    "artist_country_code": "Not found"
+  },
+  "barry white|you're the first, the last,my everything": {
+    "album": "Audio News Collection nº 23 - Série Ritmos - Disco Music",
+    "year": 1996,
+    "duration_ms": 271373,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "elan|dva a dva": {
+    "album": "Detektívka",
+    "year": 2003,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 22,
+    "artist_country_code": "Not found"
+  },
+  "keating ronan|when you say nothing at all": "__MISS__",
+  "hammel pavol|prvy bozk": "__MISS__",
+  "houston whitney|one moment in time": "__MISS__",
+  "smokie|don't play your rock 'n' roll to me": {
+    "album": "Changing All the Time",
+    "year": 1975,
+    "duration_ms": 199293,
+    "genre": "rock",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "kotvald petr|mumuland": "__MISS__",
+  "the goombay dance band|sun of the jamaica": "__MISS__",
+  "gladiator|laska": {
+    "album": "Babylon hotel",
+    "year": 2000,
+    "duration_ms": 239000,
+    "genre": "Not found",
+    "track_number": 3,
+    "artist_country_code": "Not found"
+  },
+  "zenit|milujem": {
+    "album": "Ver mi!",
+    "year": 1989,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "erasure|always": {
+    "album": "The Erasure Show Tour 2005—Live at Norwich, UEA, 18th March 2005",
+    "year": 2005,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "john paul young|love is in the air": {
+    "album": "Now That’s What I Call Music 2",
+    "year": 1993,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "nagy peter|aj tak sme frajeri": "__MISS__",
+  "cher|strong enough": {
+    "album": "Simply the Best",
+    "year": 2000,
+    "duration_ms": 203573,
+    "genre": "Not found",
+    "track_number": 14,
+    "artist_country_code": "Not found"
+  },
+  "zich karel|parada": "__MISS__",
+  "enrique iglesias|be with you": {
+    "album": "Enrique",
+    "year": 1999,
+    "duration_ms": 220833,
+    "genre": "pop",
+    "track_number": 2,
+    "artist_country_code": "Not found"
+  },
+  "a-ha|take on me": {
+    "album": "トロと旅する-ポップス コレクション",
+    "year": 2003,
+    "duration_ms": 228733,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "dj bobo|there's a party": {
+    "album": "Mega Dance 5",
+    "year": 1995,
+    "duration_ms": 222800,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "roxette|listen to your heart": {
+    "album": "Τα Blues του Party",
+    "year": 2004,
+    "duration_ms": 329133,
+    "genre": "Not found",
+    "track_number": 10,
+    "artist_country_code": "Not found"
+  },
+  "queen|we will rock you": {
+    "album": "1978-11-19: Jazz Tour in Long Island 1978: Nassau Coliseum, Uniondale, NY, USA",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "arena rock",
+    "track_number": 7,
+    "artist_country_code": "Not found"
+  },
+  "fun factory|i wanna b with u": {
+    "album": "Mega Dance, Volume 7",
+    "year": 1995,
+    "duration_ms": 213800,
+    "genre": "Not found",
+    "track_number": 5,
+    "artist_country_code": "Not found"
+  },
+  "rush jennifer|ave maria": "__MISS__",
+  "boney m|daddy cool": {
+    "album": "Huisgenoot se Treffers 2 / Your YOU Album 2",
+    "year": "Not found",
+    "duration_ms": 206000,
+    "genre": "Not found",
+    "track_number": 6,
+    "artist_country_code": "Not found"
+  },
+  "vaya con dios|nah neh nah": {
+    "album": "De Après Skihut 9",
+    "year": 2002,
+    "duration_ms": 76000,
+    "genre": "Not found",
+    "track_number": 24,
+    "artist_country_code": "Not found"
+  },
+  "brezovska mirka|dievca neplac": "__MISS__",
+  "leo sayer|when i need you": {
+    "album": "When I Need You / I Think We Fell in Love Too Fast",
+    "year": 1976,
+    "duration_ms": 238000,
+    "genre": "Not found",
+    "track_number": 1,
+    "artist_country_code": "Not found"
+  },
+  "sandra|innocent love": {
+    "album": "P4 Sommerparty",
+    "year": 2006,
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "track_number": 9,
+    "artist_country_code": "Not found"
+  }
 }
