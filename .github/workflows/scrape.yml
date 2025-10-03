@@ -9,7 +9,7 @@ on:
       - ".github/workflows/scrape.yml"
       - "scraper.py"
       - "enrich_itunes.py"
-      - "enrich_artist_country.py"
+      - "enrich_musicbrainz.py"
       - "enrich_songwriters.py"
       - "requirements.txt"
 
@@ -62,22 +62,24 @@ jobs:
         env:
           MB_CONTACT_EMAIL: ${{ secrets.MB_CONTACT_EMAIL }}
         run: |
-          python enrich_artist_country.py \
+          python enrich_musicbrainz.py \
             --input data/playlist.json \
             --cache data/artist_cache.json \
             --limit 45 \
             --sleep 1.1 \
             --email "${MB_CONTACT_EMAIL:-ci@example.com}"
 
-      - name: Enrich songwriters (MusicBrainz)
-        if: ${{ hashFiles('enrich_songwriters.py') != '' }}
+      - name:
+          Enrich (MusicBrainz: country + writers)
         env:
           MB_CONTACT_EMAIL: ${{ secrets.MB_CONTACT_EMAIL }}
         run: |
-          python enrich_songwriters.py \
+          python enrich_musicbrainz.py \
             --input data/playlist.json \
-            --cache data/writers_cache.json \
-            --limit 40 \
+            --cache data/artist_cache.json \
+            --writers-cache data/writers_cache.json \
+            --limit 45 \
+            --writers-limit 40 \
             --sleep 1.1 \
             --email "${MB_CONTACT_EMAIL:-ci@example.com}"
 
