@@ -1,39 +1,24 @@
-# OS
-.DS_Store
-Thumbs.db
+# Windows drobnosti
+desktop.ini
 
-# IDE
-.idea/
-.vscode/
+# Editory / dočasné / konflikty
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*.rej
+*~
 
-# Python
-__pycache__/
-*.py[cod]
-*.so
-*.egg-info/
-.eggs/
-build/
-dist/
-pip-wheel-metadata/
+# Jupyter
+.ipynb_checkpoints/
 
-# Virtual envs / secrets
-.venv/
-venv/
-.env
+# Pyenv / asdf
+.python-version
+.tool-versions
 
-# Test / lint / coverage
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.coverage
-.coverage.*
-htmlcov/
-
-# Logy
-*.log
-
-# Projektové dočasné a cache súbory (NEVERZOVAŤ)
-# (Playlist CHCEME mať vo remote, preto ho tu NEignorujeme.)
-/data/artist_cache.json
-/data/enrich_cache.json
-/data/*.tmp
+# Ďalšie dočasné dáta v /data
+/data/*_cache.json
+/data/*cache*.json
+/data/*.lock
+/data/tmp/
