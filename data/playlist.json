@@ -1,5 +1,27 @@
 [
   {
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "date": "03.10.2025",
+    "time": "10:54",
+    "year": 1991,
+    "duration_ms": 271610,
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 22
+  },
+  {
+    "title": "One Way Ticket",
+    "artist": "Eruption",
+    "date": "03.10.2025",
+    "time": "10:51",
+    "year": 1978,
+    "duration_ms": 213200,
+    "genre": "Pop",
+    "album": "4 Hits: Eruption - EP",
+    "track_number": 1
+  },
+  {
     "title": "Flashdance ( What A Feeling )",
     "artist": "Cara Irene",
     "date": "03.10.2025",
