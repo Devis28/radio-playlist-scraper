@@ -1,5 +1,54 @@
 [
   {
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "04.10.2025",
+    "time": "01:36",
+    "year": 1996,
+    "duration_ms": 264547,
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 8,
+    "artist_country": "IT",
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
+  },
+  {
+    "title": "Večnosť",
+    "artist": "No Name",
+    "date": "04.10.2025",
+    "time": "01:33",
+    "year": 2001,
+    "duration_ms": 197653,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "04.10.2025",
+    "time": "01:29",
+    "year": 1983,
+    "duration_ms": 252773,
+    "genre": "Rock",
+    "album": "Colour By Numbers",
+    "track_number": 1,
+    "artist_country": "GB",
+    "songwriters": [
+      "Boy George",
+      "Jon Moss",
+      "Mikey Craig",
+      "Phil Pickett",
+      "Roy Hay"
+    ]
+  },
+  {
     "title": "Edo",
     "artist": "Grigorov Robo",
     "date": "04.10.2025",
@@ -3552,7 +3601,13 @@
     "album": "Colour By Numbers",
     "track_number": 1,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Boy George",
+      "Jon Moss",
+      "Mikey Craig",
+      "Phil Pickett",
+      "Roy Hay"
+    ]
   },
   {
     "title": "Bohemian Rhapsody",
@@ -3791,7 +3846,11 @@
     "album": "Eros 30 (Deluxe Version)",
     "track_number": 8,
     "artist_country": "IT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
   },
   {
     "title": "You're The First, The Last,My Everything",
@@ -8785,7 +8844,11 @@
     "album": "Eros 30 (Deluxe Version)",
     "track_number": 8,
     "artist_country": "IT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
   },
   {
     "title": "The Big L.",
@@ -12405,7 +12468,11 @@
     "album": "Eros 30 (Deluxe Version)",
     "track_number": 8,
     "artist_country": "IT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
   },
   {
     "title": "Super Trouper",
@@ -20679,7 +20746,11 @@
     "album": "Eros 30 (Deluxe Version)",
     "track_number": 8,
     "artist_country": "IT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
   },
   {
     "title": "Klára",
