@@ -1,1 +1,68 @@
-﻿SEM VLOŽ CELÝ OBSAH .github/workflows/scrape.yml Z TOHTO CHATU
+name: Scrape Melody Playlist
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # každých ~5 min (best-effort)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: playlist-main
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # dôležité pre rebase
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Enrich tracks (iTunes)
+        run: python enrich_itunes.py --input data/playlist.json --cache data/enrich_cache.json --country sk --limit 40 --sleep 0.6
+
+      - name: Commit & push (commit → rebase → push)
+        if: success()
+        env:
+          TZ: Europe/Bratislava   # lokálny čas v commit message
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          ts=$(date +'%Y-%m-%dT%H:%M:%S%z')   # napr. 2025-10-02T08:54:43+0200
+          git commit -m "update playlist $ts"
+
+          git pull --rebase --autostash origin main
+
+          for i in 1 2 3; do
+            if git push; then
+              echo "Push OK"
+              break
+            fi
+            echo "Push failed, retrying ($i)..."
+            git pull --rebase --autostash origin main
+          done
