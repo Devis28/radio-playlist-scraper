@@ -7342,5 +7342,13 @@
     "album": "Get Close (2007 Remaster)",
     "track_number": 6,
     "itunes_track_id": 1496250293
+  },
+  "michael jackson|beat it": {
+    "year": 1982,
+    "duration_ms": 259483,
+    "genre": "Pop",
+    "album": "Number Ones",
+    "track_number": 4,
+    "itunes_track_id": 273598915
   }
 }
