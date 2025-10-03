@@ -55,38 +55,6 @@ _session.mount("http://", _adapter)
 
 # ===== Logika =====
 
-
-def fetch_mb_metadata(title: str, artist: str) -> dict:
-    """Z MusicBrainz získa krajinu a rok vydania skladby."""
-    query = f'recording:"{title}" AND artist:"{artist}"'
-    url = f"https://musicbrainz.org/ws/2/recording/?query={query}&fmt=json&inc=releases"
-    headers = {"User-Agent": "MyMusicApp/1.0 (myemail@example.com)"}
-
-    try:
-        r = requests.get(url, headers=headers, timeout=20)
-        r.raise_for_status()
-        data = r.json()
-    except Exception:
-        return {}
-
-    if not data.get("recordings"):
-        return {}
-
-    rec = data["recordings"][0]  # vezmeme prvý výsledok
-    releases = rec.get("releases", [])
-    if not releases:
-        return {}
-
-    release = releases[0]  # prvé vydanie
-    country = release.get("country", "nezistená")
-    date = release.get("date", "nezistený")
-    # z date vytiahneme len rok, ak je celé YYYY-MM-DD
-    year = date.split("-")[0] if date != "nezistený" else "nezistený"
-
-    return {"country": country, "year": year}
-
-
-
 def fetch_html() -> str:
     time.sleep(random.uniform(0.0, 1.5))  # jitter, nech nerazíme server v jednej sekunde
     last_err = None
@@ -145,7 +113,6 @@ def parse_playlist(html: str):
         title = a.select_one("span.titul")
         artist_txt = artist.get_text(strip=True) if artist else ""
         title_txt = title.get_text(strip=True) if title else ""
-        meta = fetch_mb_metadata(title_txt, artist_txt)
 
         # vytvor záznam len s požadovanými poliami
         items.append(
@@ -154,8 +121,6 @@ def parse_playlist(html: str):
                 "artist": artist_txt,
                 "date": date_norm,   # DD.MM.RRRR
                 "time": time_hm,     # HH:MM
-                "country": meta.get("country", "UNKNOWN"),
-                "year": meta.get("year", "UNKNOWN"),
             }
         )
     return items
