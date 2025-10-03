@@ -7078,5 +7078,14 @@
     "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
     "track_number": 7,
     "itunes_track_id": 715589899
+  },
+  "wilde kim|you came": {
+    "year": 1988,
+    "duration_ms": 209133,
+    "duration": "3:29",
+    "genre": "Pop",
+    "album": "Close (Remastered Expanded Edition)",
+    "track_number": 15,
+    "itunes_track_id": 1440873717
   }
 }
