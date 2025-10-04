@@ -1,5 +1,50 @@
 [
   {
+    "title": "I Wanna B with U",
+    "artist": "Fun Factory",
+    "date": "04.10.2025",
+    "time": "20:44",
+    "year": 2016,
+    "duration_ms": 213600,
+    "genre": "Dance",
+    "album": "Back to the Factory",
+    "track_number": 17,
+    "artist_country": "DE",
+    "songwriters": [
+      "Rodney Hardison",
+      "Toni Cottura",
+      "Zoltan Bender"
+    ]
+  },
+  {
+    "title": "Gimme Hope Jo'anna",
+    "artist": "Grant Eddy",
+    "date": "04.10.2025",
+    "time": "20:40",
+    "year": 1983,
+    "duration_ms": 243696,
+    "genre": "Reggae",
+    "album": "The Dave Cash Collection: Gimmie Eddy",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Eddy Grant"
+    ]
+  },
+  {
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "04.10.2025",
+    "time": "20:36",
+    "year": 1980,
+    "duration_ms": 265500,
+    "genre": "Pop",
+    "album": "Land of Gold",
+    "track_number": 7,
+    "artist_country": "DE",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Alane     (Todd Terry Remix)",
     "artist": "Wes",
     "date": "04.10.2025",
@@ -8218,7 +8263,11 @@
     "album": "Back to the Factory",
     "track_number": 17,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Rodney Hardison",
+      "Toni Cottura",
+      "Zoltan Bender"
+    ]
   },
   {
     "title": "Ave Maria",
@@ -11741,7 +11790,11 @@
     "album": "Back to the Factory",
     "track_number": 17,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Rodney Hardison",
+      "Toni Cottura",
+      "Zoltan Bender"
+    ]
   },
   {
     "title": "Thank You For The Music",
@@ -20634,7 +20687,11 @@
     "album": "Back to the Factory",
     "track_number": 17,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Rodney Hardison",
+      "Toni Cottura",
+      "Zoltan Bender"
+    ]
   },
   {
     "title": "Hands Up",
