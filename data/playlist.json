@@ -1,5 +1,31 @@
 [
   {
+    "title": "Moviestar",
+    "artist": "Harpo",
+    "date": "04.10.2025",
+    "time": "21:53",
+    "year": 1975,
+    "duration_ms": 202280,
+    "genre": "Pop",
+    "album": "Moviestar",
+    "track_number": 1,
+    "artist_country": "SE",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Requiem",
+    "artist": "London Boys",
+    "date": "04.10.2025",
+    "time": "21:48",
+    "year": 1988,
+    "duration_ms": 259867,
+    "genre": "Pop",
+    "album": "The Twelve Commandments of Dance",
+    "track_number": 1,
+    "artist_country": "DE",
+    "songwriters": "Not found"
+  },
+  {
     "title": "What Is Love",
     "artist": "Haddaway",
     "date": "04.10.2025",
