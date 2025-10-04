@@ -1,5 +1,36 @@
 [
   {
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "04.10.2025",
+    "time": "22:44",
+    "year": 1993,
+    "duration_ms": 255107,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "IE",
+    "songwriters": [
+      "Dolores O’Riordan",
+      "Noel Hogan"
+    ]
+  },
+  {
+    "title": "Walking On Sunshine",
+    "artist": "Katrina And The Waves",
+    "date": "04.10.2025",
+    "time": "22:40",
+    "year": 1985,
+    "duration_ms": 241427,
+    "genre": "Pop",
+    "album": "Anthology",
+    "track_number": 1,
+    "artist_country": "GB",
+    "songwriters": [
+      "Kimberley Rew"
+    ]
+  },
+  {
     "title": "Oh, Pretty Woman",
     "artist": "Orbison Roy",
     "date": "04.10.2025",
@@ -11418,7 +11449,10 @@
     "album": "Ode to My Family",
     "track_number": 2,
     "artist_country": "IE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Dolores O’Riordan",
+      "Noel Hogan"
+    ]
   },
   {
     "title": "S Tím Bláznem Si Nic Nezačínej",
@@ -21727,7 +21761,10 @@
     "album": "Ode to My Family",
     "track_number": 2,
     "artist_country": "IE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Dolores O’Riordan",
+      "Noel Hogan"
+    ]
   },
   {
     "title": "Zažni",
