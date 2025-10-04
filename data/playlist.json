@@ -1,5 +1,57 @@
 [
   {
+    "title": "Ako Vánok",
+    "artist": "Müller Richard",
+    "date": "04.10.2025",
+    "time": "19:06",
+    "year": 2004,
+    "duration_ms": 189107,
+    "genre": "Pop",
+    "album": "01",
+    "track_number": 7,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Sestrička Z Kramárov",
+    "artist": "Elán",
+    "date": "04.10.2025",
+    "time": "19:02",
+    "year": 1991,
+    "duration_ms": 238000,
+    "genre": "Rock",
+    "album": "Netvor z čiernej hviezdy Q7A",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Srdce Nehasnou",
+    "artist": "Karel Gott & Charlotte Ella Gottová",
+    "date": "04.10.2025",
+    "time": "18:58",
+    "year": 1995,
+    "duration_ms": 228667,
+    "genre": "Pop",
+    "album": "Srdce nehasnou - Single",
+    "track_number": 1,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "04.10.2025",
+    "time": "18:55",
+    "year": 2000,
+    "duration_ms": 172547,
+    "genre": "Pop",
+    "album": "7edem",
+    "track_number": 3,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Umenie Žiť",
     "artist": "Patejdl Vašo",
     "date": "04.10.2025",
