@@ -1,5 +1,63 @@
 [
   {
+    "title": "Srdce Jako Kniže Rohan",
+    "artist": "Muller Richard",
+    "date": "05.10.2025",
+    "time": "01:16",
+    "year": 2018,
+    "duration_ms": 537013,
+    "genre": "Pop",
+    "album": "Koncert (Live)",
+    "track_number": 12,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Ivan Tásler",
+      "Michal Horáček"
+    ]
+  },
+  {
+    "title": "Amnestia Na Neveru",
+    "artist": "Elán",
+    "date": "05.10.2025",
+    "time": "01:13",
+    "year": 1994,
+    "duration_ms": 224000,
+    "genre": "Pop",
+    "album": "Hodiny Nehy",
+    "track_number": 13,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Africa",
+    "artist": "Toto",
+    "date": "05.10.2025",
+    "time": "01:08",
+    "year": 1982,
+    "duration_ms": 295283,
+    "genre": "Rock",
+    "album": "Toto IV",
+    "track_number": 10,
+    "artist_country": "US",
+    "songwriters": [
+      "David Paich",
+      "Jeff Porcaro"
+    ]
+  },
+  {
+    "title": "The Winner Takes It All",
+    "artist": "Abba",
+    "date": "05.10.2025",
+    "time": "01:03",
+    "year": 1980,
+    "duration_ms": 295280,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 8,
+    "artist_country": "SE",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Dnes Je Skvelý Den",
     "artist": "Gladiátor",
     "date": "05.10.2025",
@@ -115,7 +173,10 @@
     "album": "Greatest Hits",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alec Wilder",
+      "Arnold Sundgaard"
+    ]
   },
   {
     "title": "Oteckovia",
@@ -9724,7 +9785,10 @@
     "album": "Greatest Hits",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alec Wilder",
+      "Arnold Sundgaard"
+    ]
   },
   {
     "title": "Hráč",
@@ -13189,7 +13253,10 @@
     "album": "Greatest Hits",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alec Wilder",
+      "Arnold Sundgaard"
+    ]
   },
   {
     "title": "Wind Of Change",
@@ -19016,7 +19083,10 @@
     "album": "Toto IV",
     "track_number": 10,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "David Paich",
+      "Jeff Porcaro"
+    ]
   },
   {
     "title": "Účesy",
@@ -19971,7 +20041,10 @@
     "album": "Greatest Hits",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alec Wilder",
+      "Arnold Sundgaard"
+    ]
   },
   {
     "title": "Mama Preco Nie Som Pekna",
@@ -22569,7 +22642,10 @@
     "album": "Toto IV",
     "track_number": 10,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "David Paich",
+      "Jeff Porcaro"
+    ]
   },
   {
     "title": "Moviestar",
@@ -24975,7 +25051,10 @@
     "album": "Greatest Hits",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alec Wilder",
+      "Arnold Sundgaard"
+    ]
   },
   {
     "title": "Všetci Sa Zídeme V Jednej Posteli",
@@ -26432,7 +26511,10 @@
     "album": "Koncert (Live)",
     "track_number": 12,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ivan Tásler",
+      "Michal Horáček"
+    ]
   },
   {
     "title": "Soumen",
