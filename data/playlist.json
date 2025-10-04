@@ -1,5 +1,105 @@
 [
   {
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "04.10.2025",
+    "time": "22:17",
+    "year": 1991,
+    "duration_ms": 213760,
+    "genre": "Dance",
+    "album": "Massive Luxury Overdose",
+    "track_number": 2,
+    "artist_country": "SE",
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
+  },
+  {
+    "title": "Ladies Night",
+    "artist": "Kool & The Gang",
+    "date": "04.10.2025",
+    "time": "22:14",
+    "year": 1979,
+    "duration_ms": 208307,
+    "genre": "R&B/Soul",
+    "album": "The Very Best of Kool & The Gang",
+    "track_number": 8,
+    "artist_country": "US",
+    "songwriters": [
+      "Adam Ippolito",
+      "Chris Alberts",
+      "Claydes Smith",
+      "Cliff Adams",
+      "Dennis “D.T.” Thomas",
+      "George Brown",
+      "Jon Faddis",
+      "Robert Spike Mickens",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ]
+  },
+  {
+    "title": "I Don't Wanna Get Hurt",
+    "artist": "Donna Summer",
+    "date": "04.10.2025",
+    "time": "22:11",
+    "year": 1989,
+    "duration_ms": 208773,
+    "genre": "Pop",
+    "album": "Another Place & Time",
+    "track_number": 1,
+    "artist_country": "US",
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "Gypsy Woman",
+    "artist": "Crystal Waters",
+    "date": "04.10.2025",
+    "time": "22:07",
+    "year": 1991,
+    "duration_ms": 227440,
+    "genre": "Pop",
+    "album": "The Best of Crystal Waters",
+    "track_number": 1,
+    "artist_country": "US",
+    "songwriters": [
+      "Crystal Waters",
+      "Neal Conway"
+    ]
+  },
+  {
+    "title": "Můj Čas",
+    "artist": "Zagorová Hana Kotvald Petr Hložek Stanislav",
+    "date": "04.10.2025",
+    "time": "22:04",
+    "year": 2013,
+    "duration_ms": 217747,
+    "genre": "Soundtrack",
+    "album": "Sanitka 2",
+    "track_number": 35,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Denisa",
+    "artist": "Miro Žbirka",
+    "date": "04.10.2025",
+    "time": "22:01",
+    "year": 2004,
+    "duration_ms": 189560,
+    "genre": "Worldwide",
+    "album": "Miro Zbirka: Live",
+    "track_number": 2,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Kiss You All Over",
     "artist": "No Mercy",
     "date": "04.10.2025",
@@ -36,7 +136,9 @@
     "album": "The Twelve Commandments of Dance",
     "track_number": 1,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ralf-Rene Maue"
+    ]
   },
   {
     "title": "What Is Love",
@@ -11462,7 +11564,11 @@
     "album": "Massive Luxury Overdose",
     "track_number": 2,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
   },
   {
     "title": "Always",
@@ -18335,7 +18441,11 @@
     "album": "Massive Luxury Overdose",
     "track_number": 2,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
   },
   {
     "title": "Faith",
@@ -21915,7 +22025,11 @@
     "album": "Massive Luxury Overdose",
     "track_number": 2,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
   },
   {
     "title": "When The Rain Begins To Fall",
@@ -24144,7 +24258,11 @@
     "album": "Another Place & Time",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
   },
   {
     "title": "Xanadu",
