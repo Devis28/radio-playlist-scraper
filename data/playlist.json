@@ -1,5 +1,38 @@
 [
   {
+    "title": "Take A Chance On Me",
+    "artist": "Erasure",
+    "date": "04.10.2025",
+    "time": "21:32",
+    "year": 1992,
+    "duration_ms": 226080,
+    "genre": "Pop",
+    "album": "Abba-Esque - EP",
+    "track_number": 3,
+    "artist_country": "GB",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ]
+  },
+  {
+    "title": "You Keep Me Hanging On",
+    "artist": "Wilde Kim",
+    "date": "04.10.2025",
+    "time": "21:28",
+    "year": 1986,
+    "duration_ms": 255220,
+    "genre": "Pop",
+    "album": "Another Step",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Brian Holland",
+      "Eddie Holland",
+      "Lamont Dozier"
+    ]
+  },
+  {
     "title": "The Shoop Shoop Song",
     "artist": "Cher",
     "date": "04.10.2025",
@@ -24426,7 +24459,11 @@
     "album": "Another Step",
     "track_number": 1,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brian Holland",
+      "Eddie Holland",
+      "Lamont Dozier"
+    ]
   },
   {
     "title": "Do You Really Want To Hurt Me",
