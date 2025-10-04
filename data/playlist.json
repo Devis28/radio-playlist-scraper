@@ -1,5 +1,73 @@
 [
   {
+    "title": "Má Daleká",
+    "artist": "Michal Penk",
+    "date": "04.10.2025",
+    "time": "06:14",
+    "year": 1989,
+    "duration_ms": 154549,
+    "genre": "Pop",
+    "album": "Michal Penk",
+    "track_number": 8,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "04.10.2025",
+    "time": "06:11",
+    "year": 1995,
+    "duration_ms": 213956,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Veľa Lásky",
+    "artist": "I.M.T. Smile",
+    "date": "04.10.2025",
+    "time": "06:07",
+    "year": 2012,
+    "duration_ms": 193733,
+    "genre": "Pop",
+    "album": "Život IMT Smile 1998-2020",
+    "track_number": 12,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Dnes",
+    "artist": "Tublatanka",
+    "date": "04.10.2025",
+    "time": "06:02",
+    "year": 1987,
+    "duration_ms": 298893,
+    "genre": "Pop",
+    "album": "Skúsime to cez vesmír",
+    "track_number": 6,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Klasika",
+    "artist": "Elán",
+    "date": "04.10.2025",
+    "time": "05:58",
+    "year": 1986,
+    "duration_ms": 194973,
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": [
+      "Boris Filan",
+      "Ján Baláž"
+    ]
+  },
+  {
     "title": "Infinity",
     "artist": "Guru Josh",
     "date": "04.10.2025",
