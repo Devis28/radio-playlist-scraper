@@ -1,5 +1,39 @@
 [
   {
+    "title": "Over The Rainbow/What A Wonderful World",
+    "artist": "Israel",
+    "date": "05.10.2025",
+    "time": "00:45",
+    "year": 1990,
+    "duration_ms": 241360,
+    "genre": "Worldwide",
+    "album": "Ka 'Ano'i",
+    "track_number": 7,
+    "artist_country": "US",
+    "songwriters": [
+      "Bob Thiele",
+      "George David Weiss",
+      "Harold Arlen",
+      "Yip Harburg"
+    ]
+  },
+  {
+    "title": "Daddy Cool",
+    "artist": "Boney M",
+    "date": "05.10.2025",
+    "time": "00:42",
+    "year": 1976,
+    "duration_ms": 206086,
+    "genre": "R&B/Soul",
+    "album": "Daddy Cool",
+    "track_number": 7,
+    "artist_country": "DE",
+    "songwriters": [
+      "Frank Farian",
+      "George Reyam"
+    ]
+  },
+  {
     "title": "Ty A Tvoja Sestra",
     "artist": "No Name",
     "date": "05.10.2025",
@@ -95,7 +129,11 @@
     "album": "Barbra Streisand: The Ultimate Collection",
     "track_number": 8,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Andrew Lloyd Webber",
+      "T. S. Eliot",
+      "Trevor Nunn"
+    ]
   },
   {
     "title": "Together Forever",
@@ -9251,7 +9289,10 @@
     "album": "Daddy Cool",
     "track_number": 7,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frank Farian",
+      "George Reyam"
+    ]
   },
   {
     "title": "Nah Neh Nah",
@@ -12228,7 +12269,12 @@
     "album": "Ka 'Ano'i",
     "track_number": 7,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bob Thiele",
+      "George David Weiss",
+      "Harold Arlen",
+      "Yip Harburg"
+    ]
   },
   {
     "title": "The Y.M.C.A",
@@ -13369,7 +13415,10 @@
     "album": "Daddy Cool",
     "track_number": 7,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frank Farian",
+      "George Reyam"
+    ]
   },
   {
     "title": "Dávej, Ber",
@@ -19918,7 +19967,12 @@
     "album": "Ka 'Ano'i",
     "track_number": 7,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bob Thiele",
+      "George David Weiss",
+      "Harold Arlen",
+      "Yip Harburg"
+    ]
   },
   {
     "title": "Komplikovaná",
@@ -22150,7 +22204,10 @@
     "album": "Daddy Cool",
     "track_number": 7,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Frank Farian",
+      "George Reyam"
+    ]
   },
   {
     "title": "Keď Príde Láska",
@@ -24958,7 +25015,12 @@
     "album": "Ka 'Ano'i",
     "track_number": 7,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bob Thiele",
+      "George David Weiss",
+      "Harold Arlen",
+      "Yip Harburg"
+    ]
   },
   {
     "title": "Reklama Na Ticho",
@@ -26687,7 +26749,11 @@
     "album": "Barbra Streisand: The Ultimate Collection",
     "track_number": 8,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Andrew Lloyd Webber",
+      "T. S. Eliot",
+      "Trevor Nunn"
+    ]
   },
   {
     "title": "Co Bolí To Přebolí",
