@@ -1,5 +1,36 @@
 [
   {
+    "title": "Komplikovaná",
+    "artist": "Polemic",
+    "date": "05.10.2025",
+    "time": "01:34",
+    "year": 2000,
+    "duration_ms": 186560,
+    "genre": "Rock",
+    "album": "Gangster-SKA",
+    "track_number": 8,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "The Power Of Love",
+    "artist": "Rush Jennifer",
+    "date": "05.10.2025",
+    "time": "01:28",
+    "year": 1984,
+    "duration_ms": 361231,
+    "genre": "Rock",
+    "album": "Jennifer Rush",
+    "track_number": 10,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Gunther Mende",
+      "Jennifer Rush",
+      "Mary Applegate",
+      "Wolfgang Detmann"
+    ]
+  },
+  {
     "title": "Anjel",
     "artist": "Komajota",
     "date": "05.10.2025",
@@ -81,7 +112,10 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 8,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ]
   },
   {
     "title": "Dnes Je Skvelý Den",
@@ -20855,7 +20889,10 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 8,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ]
   },
   {
     "title": "Keď Sme Sami",
