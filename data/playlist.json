@@ -1,5 +1,57 @@
 [
   {
+    "title": "Lásko Voníš Deštem",
+    "artist": "Marie Rottrová",
+    "date": "04.10.2025",
+    "time": "19:20",
+    "year": 1980,
+    "duration_ms": 291600,
+    "genre": "Pop",
+    "album": "Lásko Voníš Deštěm",
+    "track_number": 1,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Nemožná",
+    "artist": "Slivová Silvia",
+    "date": "04.10.2025",
+    "time": "19:16",
+    "year": 1986,
+    "duration_ms": 233373,
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 10,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Na Kolena",
+    "artist": "Hlas Ivan",
+    "date": "04.10.2025",
+    "time": "19:13",
+    "year": 1993,
+    "duration_ms": 161077,
+    "genre": "Pop",
+    "album": "ČESKÉ A SLOVENSKÉ RETRO HITY",
+    "track_number": 13,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "04.10.2025",
+    "time": "19:09",
+    "year": 1996,
+    "duration_ms": 248867,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Ako Vánok",
     "artist": "Müller Richard",
     "date": "04.10.2025",
@@ -10,7 +62,12 @@
     "album": "01",
     "track_number": 7,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ivan Tásler",
+      "Jaroslav Filip",
+      "Marcel Buntaj",
+      "Richard Müller"
+    ]
   },
   {
     "title": "Sestrička Z Kramárov",
@@ -18654,7 +18711,12 @@
     "album": "01",
     "track_number": 7,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ivan Tásler",
+      "Jaroslav Filip",
+      "Marcel Buntaj",
+      "Richard Müller"
+    ]
   },
   {
     "title": "Do You Really Want To Hurt Me",
@@ -23814,7 +23876,12 @@
     "album": "01",
     "track_number": 7,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ivan Tásler",
+      "Jaroslav Filip",
+      "Marcel Buntaj",
+      "Richard Müller"
+    ]
   },
   {
     "title": "You Keep Me Hanging On",
