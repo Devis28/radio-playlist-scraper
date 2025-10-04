@@ -1,5 +1,300 @@
 [
   {
+    "title": "Flashdance ( What A Feeling )",
+    "artist": "Cara Irene",
+    "date": "04.10.2025",
+    "time": "04:04",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Bez Obáv",
+    "artist": "Čírová Mária",
+    "date": "04.10.2025",
+    "time": "04:00",
+    "year": 2011,
+    "duration_ms": 247707,
+    "genre": "Pop",
+    "album": "Na Dosah",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Smrťka Na Pražskom Orloji",
+    "artist": "Elán",
+    "date": "04.10.2025",
+    "time": "03:56",
+    "year": 2017,
+    "duration_ms": 235040,
+    "genre": "Pop",
+    "album": "Smrtka Na Pražskom Orloji - Single",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Proč Mě Nikdo Nemá Rád",
+    "artist": "Ilona Csáková",
+    "date": "04.10.2025",
+    "time": "03:52",
+    "year": 2012,
+    "duration_ms": 205147,
+    "genre": "Pop",
+    "album": "22x Ilona - Best Of",
+    "track_number": 4,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "date": "04.10.2025",
+    "time": "03:48",
+    "year": 1975,
+    "duration_ms": 278600,
+    "genre": "Rock",
+    "album": "Some Guys Have All the Luck",
+    "track_number": 6,
+    "artist_country": "GB",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "04.10.2025",
+    "time": "03:44",
+    "year": 1992,
+    "duration_ms": 243133,
+    "genre": "Pop",
+    "album": "One Love",
+    "track_number": 2,
+    "artist_country": "SE",
+    "songwriters": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ]
+  },
+  {
+    "title": "Jediný A Jediná",
+    "artist": "Zuzana Smatanová",
+    "date": "04.10.2025",
+    "time": "03:40",
+    "year": 2018,
+    "duration_ms": 258669,
+    "genre": "Singer/Songwriter",
+    "album": "Jediný A Jediná - Single",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Jump",
+    "artist": "Van Halen",
+    "date": "04.10.2025",
+    "time": "03:35",
+    "year": 1983,
+    "duration_ms": 241643,
+    "genre": "Hard Rock",
+    "album": "1984",
+    "track_number": 2,
+    "artist_country": "US",
+    "songwriters": [
+      "Alex Van Halen",
+      "David Lee Roth",
+      "Edward Van Halen",
+      "Michael Anthony"
+    ]
+  },
+  {
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "04.10.2025",
+    "time": "03:31",
+    "year": 1993,
+    "duration_ms": 302360,
+    "genre": "Pop",
+    "album": "Ultimate",
+    "track_number": 11,
+    "artist_country": "GB",
+    "songwriters": [
+      "Henri Belolo",
+      "Jacques Morali",
+      "Victor Willis"
+    ]
+  },
+  {
+    "title": "Poslednýkrát",
+    "artist": "Peter Nagy",
+    "date": "04.10.2025",
+    "time": "03:28",
+    "year": 2009,
+    "duration_ms": 191960,
+    "genre": "Pop",
+    "album": "Labute A Havrany",
+    "track_number": 21,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "The Way To Your Heart",
+    "artist": "Soulsister",
+    "date": "04.10.2025",
+    "time": "03:24",
+    "year": 1988,
+    "duration_ms": 226187,
+    "genre": "Pop",
+    "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
+    "track_number": 7,
+    "artist_country": "BE",
+    "songwriters": [
+      "Jan Leyers",
+      "Paul Michiels"
+    ]
+  },
+  {
+    "title": "Dnes Už Viem",
+    "artist": "Pavol Hammel",
+    "date": "04.10.2025",
+    "time": "03:20",
+    "year": 2011,
+    "duration_ms": 209533,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Waterloo",
+    "artist": "Abba",
+    "date": "04.10.2025",
+    "time": "03:18",
+    "year": 1974,
+    "duration_ms": 165800,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 19,
+    "artist_country": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
+    "title": "Čerešně",
+    "artist": "Hana Hegerová",
+    "date": "04.10.2025",
+    "time": "03:15",
+    "year": 1964,
+    "duration_ms": 183920,
+    "genre": "Pop",
+    "album": "Všechno Nejlepší",
+    "track_number": 25,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Tri Štvrte Na Jeseň",
+    "artist": "Vašo Patejdl",
+    "date": "04.10.2025",
+    "time": "03:10",
+    "year": 1986,
+    "duration_ms": 298267,
+    "genre": "Pop",
+    "album": "Chlapcenský úsmev",
+    "track_number": 11,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "The Rhythm Divine",
+    "artist": "Iglesias Enrique",
+    "date": "04.10.2025",
+    "time": "03:07",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "null",
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
+    "title": "Anjelik Môj",
+    "artist": "Darina Rolincová",
+    "date": "04.10.2025",
+    "time": "03:03",
+    "year": 1990,
+    "duration_ms": 218600,
+    "genre": "Pop",
+    "album": "Téměř Růžový Příběh",
+    "track_number": 3,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Fields Of Gold",
+    "artist": "Sting",
+    "date": "04.10.2025",
+    "time": "02:59",
+    "year": 1993,
+    "duration_ms": 222120,
+    "genre": "Rock",
+    "album": "Ten Summoner's Tales",
+    "track_number": 3,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "04.10.2025",
+    "time": "02:56",
+    "year": 1974,
+    "duration_ms": 276467,
+    "genre": "R&B/Soul",
+    "album": "Can't Get Enough",
+    "track_number": 2,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "04.10.2025",
+    "time": "02:51",
+    "year": 1995,
+    "duration_ms": 240867,
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 2,
+    "artist_country": "DE",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Zhorí Všetko Čo Mám",
+    "artist": "Desmod",
+    "date": "04.10.2025",
+    "time": "02:47",
+    "year": 2006,
+    "duration_ms": 290560,
+    "genre": "Rock",
+    "album": "Uhol Pohladu",
+    "track_number": 4,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Heartbreak Hotel",
     "artist": "C.C. Catch",
     "date": "04.10.2025",
@@ -3747,7 +4042,10 @@
     "album": "One Love",
     "track_number": 2,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ]
   },
   {
     "title": "Stay",
@@ -3825,7 +4123,11 @@
     "album": "Ultimate",
     "track_number": 11,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Henri Belolo",
+      "Jacques Morali",
+      "Victor Willis"
+    ]
   },
   {
     "title": "Be My Lover",
@@ -3924,7 +4226,11 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 19,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Pieseň Pre Nesmelých",
@@ -9800,7 +10106,11 @@
     "album": "Ultimate",
     "track_number": 11,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Henri Belolo",
+      "Jacques Morali",
+      "Victor Willis"
+    ]
   },
   {
     "title": "V Piatok Podvečer",
@@ -9969,7 +10279,10 @@
     "album": "One Love",
     "track_number": 2,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ]
   },
   {
     "title": "Nikita",
@@ -13426,7 +13739,11 @@
     "album": "Ultimate",
     "track_number": 11,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Henri Belolo",
+      "Jacques Morali",
+      "Victor Willis"
+    ]
   },
   {
     "title": "Come Back And Stay",
@@ -13491,7 +13808,10 @@
     "album": "One Love",
     "track_number": 2,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ]
   },
   {
     "title": "Oheň, Voda, Vítr",
@@ -16600,7 +16920,11 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 19,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Lady Lady Lady",
