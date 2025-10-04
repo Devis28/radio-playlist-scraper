@@ -1,5 +1,86 @@
 [
   {
+    "title": "Láska",
+    "artist": "Palonder Marcel",
+    "date": "04.10.2025",
+    "time": "15:10",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Ďakujem Že Si",
+    "artist": "No Name",
+    "date": "04.10.2025",
+    "time": "15:06",
+    "year": 2001,
+    "duration_ms": 202120,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 19,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Každý Mi Te Lásko Závidí",
+    "artist": "Michal David",
+    "date": "04.10.2025",
+    "time": "15:02",
+    "year": 2012,
+    "duration_ms": 296320,
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 10,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Snídane V Tráve",
+    "artist": "Tucný Michal",
+    "date": "04.10.2025",
+    "time": "14:59",
+    "year": 2015,
+    "duration_ms": 178120,
+    "genre": "Traditional Country",
+    "album": "Snídaně V Trávě",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "04.10.2025",
+    "time": "14:56",
+    "year": 1992,
+    "duration_ms": 181186,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "null",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
+  },
+  {
+    "title": "Zdá Se",
+    "artist": "Hana Zagorová",
+    "date": "04.10.2025",
+    "time": "14:52",
+    "year": 2006,
+    "duration_ms": 187987,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 9,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Zbohom Bud, Lipova Lyzka,...",
     "artist": "Dočolomanský Michal",
     "date": "04.10.2025",
@@ -9735,7 +9816,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
   },
   {
     "title": "Knowing Me, Knowing You",
@@ -18167,7 +18251,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
   },
   {
     "title": "Padá Hvězda",
