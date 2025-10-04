@@ -1,5 +1,48 @@
 [
   {
+    "title": "Jeanny (Part 1)",
+    "artist": "Falco",
+    "date": "05.10.2025",
+    "time": "00:34",
+    "year": 1999,
+    "duration_ms": 392933,
+    "genre": "Pop",
+    "album": "Live Forever",
+    "track_number": 2,
+    "artist_country": "AT",
+    "songwriters": [
+      "Falco",
+      "Ferdi Bolland",
+      "Rob Bolland"
+    ]
+  },
+  {
+    "title": "Where Do You Go",
+    "artist": "No Mercy",
+    "date": "05.10.2025",
+    "time": "00:29",
+    "year": 1996,
+    "duration_ms": 271440,
+    "genre": "Rock",
+    "album": "Greatest Hits",
+    "track_number": 2,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Oteckovia",
+    "artist": "Hex",
+    "date": "05.10.2025",
+    "time": "00:26",
+    "year": 2018,
+    "duration_ms": 208120,
+    "genre": "Pop",
+    "album": "Oteckovia - Single",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Heaven",
     "artist": "Bryan Adams",
     "date": "05.10.2025",
@@ -19478,7 +19521,11 @@
     "album": "Live Forever",
     "track_number": 2,
     "artist_country": "AT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Falco",
+      "Ferdi Bolland",
+      "Rob Bolland"
+    ]
   },
   {
     "title": "Tri Štvrte Na Jeseň",
@@ -22979,7 +23026,11 @@
     "album": "Live Forever",
     "track_number": 2,
     "artist_country": "AT",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Falco",
+      "Ferdi Bolland",
+      "Rob Bolland"
+    ]
   },
   {
     "title": "Sorry, I'm A Lady",
