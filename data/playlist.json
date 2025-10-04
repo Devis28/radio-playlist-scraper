@@ -1,5 +1,73 @@
 [
   {
+    "title": "Hej Pane Diskžokej",
+    "artist": "Balet",
+    "date": "04.10.2025",
+    "time": "08:11",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": [
+      "Petr Hejduk",
+      "Zdeněk Rytíř"
+    ]
+  },
+  {
+    "title": "Hlavu Maj Hore",
+    "artist": "Gladiátor",
+    "date": "04.10.2025",
+    "time": "08:07",
+    "year": 2009,
+    "duration_ms": 203929,
+    "genre": "Rock",
+    "album": "Hlavu Maj Hore",
+    "track_number": 3,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Cítim",
+    "artist": "Karol Duchoň",
+    "date": "04.10.2025",
+    "time": "08:03",
+    "year": 2005,
+    "duration_ms": 203093,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 6,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Rieka",
+    "artist": "Richard Müller",
+    "date": "04.10.2025",
+    "time": "07:59",
+    "year": 2006,
+    "duration_ms": 307080,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 8,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Bum, Bum, Bum",
+    "artist": "Gott Karel",
+    "date": "04.10.2025",
+    "time": "07:56",
+    "year": 2003,
+    "duration_ms": 185507,
+    "genre": "Pop",
+    "album": "Lady Carneval",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Kamarát",
     "artist": "Exil",
     "date": "04.10.2025",
@@ -13541,7 +13609,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Petr Hejduk",
+      "Zdeněk Rytíř"
+    ]
   },
   {
     "title": "Bohemian Rhapsody",
