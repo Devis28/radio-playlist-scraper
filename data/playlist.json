@@ -1,5 +1,39 @@
 [
   {
+    "title": "You Are The One",
+    "artist": "A-Ha",
+    "date": "04.10.2025",
+    "time": "22:56",
+    "year": 1988,
+    "duration_ms": 231573,
+    "genre": "Pop",
+    "album": "Stay On These Roads",
+    "track_number": 9,
+    "artist_country": "NO",
+    "songwriters": [
+      "Magne Furuholmen",
+      "Mags",
+      "Paul Waaktaar-Savoy"
+    ]
+  },
+  {
+    "title": "I Can't Stand It",
+    "artist": "Twenty 4 Seven",
+    "date": "04.10.2025",
+    "time": "22:52",
+    "year": 1989,
+    "duration_ms": 249413,
+    "genre": "Dance",
+    "album": "Streetmoves (feat. Capt. Hollywood)",
+    "track_number": 1,
+    "artist_country": "NL",
+    "songwriters": [
+      "Captain Hollywood",
+      "Ricardo Overman",
+      "Ruud van Rijen"
+    ]
+  },
+  {
     "title": "Voyage Voyage",
     "artist": "Desirelles",
     "date": "04.10.2025",
