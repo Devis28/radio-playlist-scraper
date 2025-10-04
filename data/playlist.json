@@ -1,5 +1,151 @@
 [
   {
+    "title": "Zbohom Bud, Lipova Lyzka,...",
+    "artist": "Dočolomanský Michal",
+    "date": "04.10.2025",
+    "time": "14:49",
+    "year": 2023,
+    "duration_ms": 219000,
+    "genre": "Pop",
+    "album": "Hity & Duety",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Ernest Bryll",
+      "Katarzyna Gärtner"
+    ]
+  },
+  {
+    "title": "Klid, Mír A Pokora",
+    "artist": "Muller Richard A Tereza Kerndlová",
+    "date": "04.10.2025",
+    "time": "14:44",
+    "year": 2011,
+    "duration_ms": 273813,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 13,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Elena",
+    "artist": "Karol Duchoň",
+    "date": "04.10.2025",
+    "time": "14:42",
+    "year": 2006,
+    "duration_ms": 152867,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 17,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "22 Dní",
+    "artist": "Žbirka Miro",
+    "date": "04.10.2025",
+    "time": "14:38",
+    "year": 1984,
+    "duration_ms": 222640,
+    "genre": "Pop",
+    "album": "Nemoderný chalan",
+    "track_number": 1,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Je To Vo Hviezdach",
+    "artist": "Pavol Habera",
+    "date": "04.10.2025",
+    "time": "14:35",
+    "year": 1991,
+    "duration_ms": 198533,
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Rosa Na Kolejích",
+    "artist": "Daněk Wabi",
+    "date": "04.10.2025",
+    "time": "14:32",
+    "year": 2008,
+    "duration_ms": 177440,
+    "genre": "Pop",
+    "album": "16 Nej Od Taborovych Ohnu",
+    "track_number": 15,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Územie Zázrakov",
+    "artist": "Gombitová Marika",
+    "date": "04.10.2025",
+    "time": "14:29",
+    "year": 1982,
+    "duration_ms": 216013,
+    "genre": "Pop",
+    "album": "Slnečný kalendár",
+    "track_number": 7,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Úsmev A Čaj",
+    "artist": "I.M.T Smile & Smatanova Zuzana",
+    "date": "04.10.2025",
+    "time": "14:25",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Řeka Lásky",
+    "artist": "Marie Rottrová",
+    "date": "04.10.2025",
+    "time": "14:22",
+    "year": 1971,
+    "duration_ms": 200307,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Spoločne",
+    "artist": "Rolincová Darina",
+    "date": "04.10.2025",
+    "time": "14:19",
+    "year": 1985,
+    "duration_ms": 180257,
+    "genre": "Pop",
+    "album": "Darinka",
+    "track_number": 1,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Taky Jsem Se Narodil Bos",
+    "artist": "Olympic",
+    "date": "04.10.2025",
+    "time": "14:14",
+    "year": 1965,
+    "duration_ms": 256373,
+    "genre": "Pop",
+    "album": "Balady",
+    "track_number": 9,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Kočka",
     "artist": "Elán",
     "date": "04.10.2025",
@@ -7343,7 +7489,10 @@
     "album": "Hity & Duety",
     "track_number": 1,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ernest Bryll",
+      "Katarzyna Gärtner"
+    ]
   },
   {
     "title": "Chvíľu áno, chvíľu nie",
@@ -11100,7 +11249,10 @@
     "album": "Hity & Duety",
     "track_number": 1,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ernest Bryll",
+      "Katarzyna Gärtner"
+    ]
   },
   {
     "title": "I Believe I Can Fly",
