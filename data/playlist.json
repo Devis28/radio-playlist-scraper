@@ -1,5 +1,37 @@
 [
   {
+    "title": "Oh, Pretty Woman",
+    "artist": "Orbison Roy",
+    "date": "04.10.2025",
+    "time": "22:37",
+    "year": 1964,
+    "duration_ms": 178929,
+    "genre": "Rock",
+    "album": "Oh! Pretty Woman",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Bill Dees",
+      "Roy Orbison"
+    ]
+  },
+  {
+    "title": "Show Me Love",
+    "artist": "Robin S",
+    "date": "04.10.2025",
+    "time": "22:33",
+    "year": 1990,
+    "duration_ms": 269440,
+    "genre": "Pop",
+    "album": "Show Me Love",
+    "track_number": 1,
+    "artist_country": "US",
+    "songwriters": [
+      "Allen George",
+      "Fred McFarlane"
+    ]
+  },
+  {
     "title": "Fero",
     "artist": "Elán",
     "date": "04.10.2025",
@@ -15754,7 +15786,10 @@
     "album": "Oh! Pretty Woman",
     "track_number": 1,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bill Dees",
+      "Roy Orbison"
+    ]
   },
   {
     "title": "Voňavky Dievčat",
