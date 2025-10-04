@@ -1,5 +1,94 @@
 [
   {
+    "title": "Alane     (Todd Terry Remix)",
+    "artist": "Wes",
+    "date": "04.10.2025",
+    "time": "20:32",
+    "year": 1997,
+    "duration_ms": 220107,
+    "genre": "Worldwide",
+    "album": "Alane - EP",
+    "track_number": 1,
+    "artist_country": "CM",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Čaba Neblázni",
+    "artist": "Elán",
+    "date": "04.10.2025",
+    "time": "20:27",
+    "year": 2016,
+    "duration_ms": 266927,
+    "genre": "Pop",
+    "album": "Živých Nás Nedostanú (Extended Version)",
+    "track_number": 26,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "The Sign",
+    "artist": "Ace Of Base",
+    "date": "04.10.2025",
+    "time": "20:24",
+    "year": 1993,
+    "duration_ms": 191040,
+    "genre": "Pop",
+    "album": "The Sign (2015 Remastered Version)",
+    "track_number": 4,
+    "artist_country": "SE",
+    "songwriters": [
+      "Jonas Berggren",
+      "Ulf Ekberg"
+    ]
+  },
+  {
+    "title": "Our House",
+    "artist": "Madness",
+    "date": "04.10.2025",
+    "time": "20:21",
+    "year": 1982,
+    "duration_ms": 334253,
+    "genre": "Pop",
+    "album": "Our House",
+    "track_number": 8,
+    "artist_country": "GB",
+    "songwriters": [
+      "Carl Smyth",
+      "Chris Foreman",
+      "Daniel Woodgate",
+      "Lee “Kix” Thompson",
+      "Mark Bedford",
+      "Mike Barson",
+      "Suggs"
+    ]
+  },
+  {
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "04.10.2025",
+    "time": "20:17",
+    "year": 2000,
+    "duration_ms": 241093,
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 14,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Go West",
+    "artist": "Village People, The",
+    "date": "04.10.2025",
+    "time": "20:13",
+    "year": 1979,
+    "duration_ms": 250880,
+    "genre": "Pop",
+    "album": "Go West In the Navy",
+    "track_number": 2,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Iko Iko",
     "artist": "The Belle Stars",
     "date": "04.10.2025",
@@ -10,7 +99,12 @@
     "album": "The Belle Stars",
     "track_number": 7,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Barbara Anne Hawkins",
+      "James Crawford, Jr.",
+      "Joan Marie Johnson",
+      "Rosa Lee Hawkins"
+    ]
   },
   {
     "title": "Boom Boom Boom Boom",
@@ -22567,7 +22661,10 @@
     "album": "The Sign (2015 Remastered Version)",
     "track_number": 4,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jonas Berggren",
+      "Ulf Ekberg"
+    ]
   },
   {
     "title": "The Best",
