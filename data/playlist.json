@@ -1,5 +1,51 @@
 [
   {
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "04.10.2025",
+    "time": "09:25",
+    "year": 2006,
+    "duration_ms": 261107,
+    "genre": "Pop",
+    "album": "Balady",
+    "track_number": 23,
+    "artist_country": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Roman Guryča",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
+    "title": "Což Takhle Dát Si Špenát",
+    "artist": "Jiří Schelinger",
+    "date": "04.10.2025",
+    "time": "09:21",
+    "year": 1973,
+    "duration_ms": 132800,
+    "genre": "Pop",
+    "album": "Jsem Prý Blázen Jen",
+    "track_number": 13,
+    "artist_country": "XC",
+    "songwriters": [
+      "František Ringo Čech",
+      "Karel Svoboda"
+    ]
+  },
+  {
+    "title": "Daruj Mi Svoj Najkrajší Deň",
+    "artist": "Gravis",
+    "date": "04.10.2025",
+    "time": "09:18",
+    "year": 1989,
+    "duration_ms": 194235,
+    "genre": "Pop",
+    "album": "Kolotoč masiek",
+    "track_number": 12,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Žal Se Odkládá",
     "artist": "Jiří Korn",
     "date": "04.10.2025",
@@ -11605,7 +11651,11 @@
     "album": "Balady",
     "track_number": 23,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Robo Grigorov",
+      "Roman Guryča",
+      "Ľuboš Zeman"
+    ]
   },
   {
     "title": "Až Sa Znova Narodím",
@@ -12482,7 +12532,10 @@
     "album": "Jsem Prý Blázen Jen",
     "track_number": 13,
     "artist_country": "XC",
-    "songwriters": "Not found"
+    "songwriters": [
+      "František Ringo Čech",
+      "Karel Svoboda"
+    ]
   },
   {
     "title": "Daruj Mi Svoj Najkrajší Deň",
@@ -18116,7 +18169,10 @@
     "album": "Jsem Prý Blázen Jen",
     "track_number": 13,
     "artist_country": "XC",
-    "songwriters": "Not found"
+    "songwriters": [
+      "František Ringo Čech",
+      "Karel Svoboda"
+    ]
   },
   {
     "title": "Spending My Time",
@@ -22829,7 +22885,11 @@
     "album": "Balady",
     "track_number": 23,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Robo Grigorov",
+      "Roman Guryča",
+      "Ľuboš Zeman"
+    ]
   },
   {
     "title": "Len S Ňou",
