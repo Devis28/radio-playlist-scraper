@@ -1,5 +1,31 @@
 [
   {
+    "title": "Malý Princ",
+    "artist": "Aya",
+    "date": "04.10.2025",
+    "time": "09:57",
+    "year": 2007,
+    "duration_ms": 250000,
+    "genre": "Rock",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Čoskoro",
+    "artist": "Peter Bič Project",
+    "date": "04.10.2025",
+    "time": "09:54",
+    "year": 2019,
+    "duration_ms": 207516,
+    "genre": "Pop",
+    "album": "Čoskoro - Single",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Tlaková Níž",
     "artist": "Banket",
     "date": "04.10.2025",
