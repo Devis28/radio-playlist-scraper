@@ -1,5 +1,77 @@
 [
   {
+    "title": "Heaven",
+    "artist": "Bryan Adams",
+    "date": "05.10.2025",
+    "time": "00:22",
+    "year": 1984,
+    "duration_ms": 243360,
+    "genre": "Rock",
+    "album": "Reckless (30th Anniversary)",
+    "track_number": 4,
+    "artist_country": "CA",
+    "songwriters": [
+      "Bryan Adams",
+      "Jim Vallance"
+    ]
+  },
+  {
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "05.10.2025",
+    "time": "00:19",
+    "year": 1987,
+    "duration_ms": 209800,
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 11,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "05.10.2025",
+    "time": "00:15",
+    "year": 1981,
+    "duration_ms": 233280,
+    "genre": "Vocal",
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "track_number": 8,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Together Forever",
+    "artist": "Astley Rick",
+    "date": "05.10.2025",
+    "time": "00:12",
+    "year": 1987,
+    "duration_ms": 205573,
+    "genre": "Pop",
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "track_number": 3,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "Dr. Jekyll A Mr. Hyde",
+    "artist": "Miro Žbirka",
+    "date": "05.10.2025",
+    "time": "00:08",
+    "year": 1986,
+    "duration_ms": 223427,
+    "genre": "Pop",
+    "album": "Chlapec z ulice",
+    "track_number": 4,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Nah Neh Nah",
     "artist": "Vaya Con Dios",
     "date": "05.10.2025",
@@ -13715,7 +13787,11 @@
     "album": "Whenever You Need Somebody (2022 Remaster)",
     "track_number": 3,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
   },
   {
     "title": "True Colors",
@@ -17272,7 +17348,11 @@
     "album": "Whenever You Need Somebody (2022 Remaster)",
     "track_number": 3,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
   },
   {
     "title": "La Camisa Negra",
@@ -23139,7 +23219,10 @@
     "album": "Reckless (30th Anniversary)",
     "track_number": 4,
     "artist_country": "CA",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bryan Adams",
+      "Jim Vallance"
+    ]
   },
   {
     "title": "Čardáš Dvoch Sŕdc",
