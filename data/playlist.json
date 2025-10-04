@@ -1,5 +1,18 @@
 [
   {
+    "title": "Lekná",
+    "artist": "No Name",
+    "date": "04.10.2025",
+    "time": "08:52",
+    "year": 2004,
+    "duration_ms": 210253,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 3,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Kdo Vchází Do Tvých Snů Má Lásko",
     "artist": "Neckář Václav",
     "date": "04.10.2025",
@@ -169,7 +182,10 @@
     "album": "Výberovka",
     "track_number": 8,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ivan Tásler",
+      "Richard Müller"
+    ]
   },
   {
     "title": "Bum, Bum, Bum",
@@ -17227,7 +17243,10 @@
     "album": "Výberovka",
     "track_number": 8,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ivan Tásler",
+      "Richard Müller"
+    ]
   },
   {
     "title": "Zpívat Jako Déšť",
