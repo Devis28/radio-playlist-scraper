@@ -1,5 +1,57 @@
 [
   {
+    "title": "Odpusťte Nám",
+    "artist": "Michal Penk",
+    "date": "04.10.2025",
+    "time": "12:31",
+    "year": 1987,
+    "duration_ms": 219061,
+    "genre": "Pop",
+    "album": "Michal Penk",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Bez Veľkej Slávy",
+    "artist": "Darina Rolincová",
+    "date": "04.10.2025",
+    "time": "12:26",
+    "year": 1989,
+    "duration_ms": 269827,
+    "genre": "Pop",
+    "album": "Skús Ma Najsť, Bez Veľkej Slávy - Single",
+    "track_number": 2,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Dážď",
+    "artist": "Peter Cmorík",
+    "date": "04.10.2025",
+    "time": "12:22",
+    "year": 2006,
+    "duration_ms": 279720,
+    "genre": "Pop",
+    "album": "Nadherny Den",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "A Tak Dál Nosíš Po Kapsách Sny Mládí",
+    "artist": "Matuška Waldemar",
+    "date": "04.10.2025",
+    "time": "12:17",
+    "year": 1991,
+    "duration_ms": 300107,
+    "genre": "Pop",
+    "album": "Co Neodnesl Čas",
+    "track_number": 15,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Soumen",
     "artist": "Michal David",
     "date": "04.10.2025",
@@ -101,7 +153,10 @@
     "album": "Dál Jen Vejdi",
     "track_number": 6,
     "artist_country": "CZ",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Eduard Krečmar",
+      "Pavel Krejča"
+    ]
   },
   {
     "title": "Tri Slová",
