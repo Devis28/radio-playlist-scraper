@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Shoop Shoop Song",
+    "artist": "Cher",
+    "date": "04.10.2025",
+    "time": "21:25",
+    "year": 1990,
+    "duration_ms": 170000,
+    "genre": "Pop",
+    "album": "Love Hurts",
+    "track_number": 12,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "It's Raining Men",
+    "artist": "The Weather Girls",
+    "date": "04.10.2025",
+    "time": "21:22",
+    "year": 1982,
+    "duration_ms": 211955,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 45,
+    "artist_country": "US",
+    "songwriters": [
+      "Paul Jabara",
+      "Paul Shaffer"
+    ]
+  },
+  {
     "title": "Enjoy The Silence",
     "artist": "Depeche Mode",
     "date": "04.10.2025",
