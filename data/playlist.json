@@ -1,5 +1,172 @@
 [
   {
+    "title": "Hľadám",
+    "artist": "No Name",
+    "date": "04.10.2025",
+    "time": "04:53",
+    "year": 2004,
+    "duration_ms": 216027,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 6,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "04.10.2025",
+    "time": "04:47",
+    "year": 1992,
+    "duration_ms": 394528,
+    "genre": "Pop",
+    "album": "Keep the Faith",
+    "track_number": 5,
+    "artist_country": "US",
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
+  },
+  {
+    "title": "Love Of The Common People",
+    "artist": "Paul Young",
+    "date": "04.10.2025",
+    "time": "04:43",
+    "year": 1983,
+    "duration_ms": 214381,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 10,
+    "artist_country": "GB",
+    "songwriters": [
+      "John Hurley",
+      "Ronnie Wilkins"
+    ]
+  },
+  {
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "04.10.2025",
+    "time": "04:39",
+    "year": 1996,
+    "duration_ms": 584747,
+    "genre": "Dance",
+    "album": "Deconstruction Reconstructed 019",
+    "track_number": 3,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Lietam V Tom Tiež",
+    "artist": "Team",
+    "date": "04.10.2025",
+    "time": "04:35",
+    "year": 1989,
+    "duration_ms": 233253,
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 6,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Horúca Láska",
+    "artist": "Lukáš Adamec",
+    "date": "04.10.2025",
+    "time": "04:32",
+    "year": 2017,
+    "duration_ms": 208147,
+    "genre": "Indie Pop",
+    "album": "Lukáš Adamec",
+    "track_number": 9,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "My, Oh My",
+    "artist": "Slade",
+    "date": "04.10.2025",
+    "time": "04:28",
+    "year": 1975,
+    "duration_ms": 252160,
+    "genre": "Rock",
+    "album": "The Amazing Kamikaze Syndrome (Expanded)",
+    "track_number": 5,
+    "artist_country": "GB",
+    "songwriters": [
+      "Jim Lea",
+      "Noddy Holder"
+    ]
+  },
+  {
+    "title": "Už Asi Nie Si",
+    "artist": "Richard Müller",
+    "date": "04.10.2025",
+    "time": "04:24",
+    "year": 2006,
+    "duration_ms": 229507,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 6,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "04.10.2025",
+    "time": "04:21",
+    "year": 2009,
+    "duration_ms": 211627,
+    "genre": "Soundtrack",
+    "album": "Pokoj v dusi (Original Soundtrack)",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Príliš Osobná Známosť",
+    "artist": "I.M.T. Smile & Nikol Štíbrová",
+    "date": "04.10.2025",
+    "time": "04:16",
+    "year": 2019,
+    "duration_ms": 271597,
+    "genre": "Pop",
+    "album": "SRDCE ROZUM BLVD",
+    "track_number": 10,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "You",
+    "artist": "Ten Sharp",
+    "date": "04.10.2025",
+    "time": "04:12",
+    "year": 1991,
+    "duration_ms": 272984,
+    "genre": "Pop",
+    "album": "You - Single",
+    "track_number": 1,
+    "artist_country": "NL",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Seasons In The Sun",
+    "artist": "Terry Jacks",
+    "date": "04.10.2025",
+    "time": "04:08",
+    "year": 2013,
+    "duration_ms": 208853,
+    "genre": "Rock",
+    "album": "Seasons In The Sun (Expanded Edition)",
+    "track_number": 11,
+    "artist_country": "CA",
+    "songwriters": [
+      "Jacques Brel",
+      "Rod McKuen"
+    ]
+  },
+  {
     "title": "Flashdance ( What A Feeling )",
     "artist": "Cara Irene",
     "date": "04.10.2025",
@@ -62,7 +229,9 @@
     "album": "Some Guys Have All the Luck",
     "track_number": 6,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Gavin Sutherland"
+    ]
   },
   {
     "title": "It's My Life",
@@ -3877,7 +4046,9 @@
     "album": "Keep the Faith",
     "track_number": 5,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
   },
   {
     "title": "Paloma Blanca",
@@ -10733,7 +10904,9 @@
     "album": "Keep the Faith",
     "track_number": 5,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
   },
   {
     "title": "Stonka",
