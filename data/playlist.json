@@ -1,5 +1,31 @@
 [
   {
+    "title": "Spálená Láska",
+    "artist": "Tublatanka",
+    "date": "04.10.2025",
+    "time": "13:34",
+    "year": 2008,
+    "duration_ms": 327893,
+    "genre": "Rock",
+    "album": "Rockové Balady",
+    "track_number": 8,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Sbohem Lásko, Já Jedu Dál",
+    "artist": "Josef Laufer",
+    "date": "04.10.2025",
+    "time": "13:30",
+    "year": 1983,
+    "duration_ms": 216280,
+    "genre": "Pop",
+    "album": "Maraton 1969-2008",
+    "track_number": 13,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Zalúbení",
     "artist": "Dušan Hlaváček",
     "date": "04.10.2025",
@@ -130,7 +156,10 @@
     "album": "60",
     "track_number": 17,
     "artist_country": "CZ",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Petr Janda",
+      "Zdeněk Rytíř"
+    ]
   },
   {
     "title": "Když Muž Se Ženou Snída",
