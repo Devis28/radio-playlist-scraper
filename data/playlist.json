@@ -1,5 +1,46 @@
 [
   {
+    "title": "Dvaja",
+    "artist": "Grigorov Robo",
+    "date": "04.10.2025",
+    "time": "17:39",
+    "year": 1986,
+    "duration_ms": 288800,
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 5,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Dlouhá Noc",
+    "artist": "Vondráčková Helena",
+    "date": "04.10.2025",
+    "time": "17:36",
+    "year": 1964,
+    "duration_ms": 217827,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "null",
+    "songwriters": [
+      "Michal David"
+    ]
+  },
+  {
+    "title": "Krásnejší Než Rúže",
+    "artist": "Pavel Roth",
+    "date": "04.10.2025",
+    "time": "17:32",
+    "year": 1978,
+    "duration_ms": 222867,
+    "genre": "Pop",
+    "album": "Krásnější Než Růže",
+    "track_number": 8,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Vždycky Jsem To Já",
     "artist": "Janda Dalibor",
     "date": "04.10.2025",
@@ -9555,7 +9596,9 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Michal David"
+    ]
   },
   {
     "title": "Mám 300 Mesiacov",
