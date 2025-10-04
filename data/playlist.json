@@ -1,5 +1,63 @@
 [
   {
+    "title": "Bílá Královna",
+    "artist": "Stanislav Hlozek & Petr Kotvald",
+    "date": "04.10.2025",
+    "time": "06:30",
+    "year": 1983,
+    "duration_ms": 217400,
+    "genre": "Pop",
+    "album": "Holky Z Naší Školky",
+    "track_number": 2,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Jan Krůta",
+      "Pavel Vaculík"
+    ]
+  },
+  {
+    "title": "Baroko",
+    "artist": "Muller Richard & Anna K. Ivan Tasler",
+    "date": "04.10.2025",
+    "time": "06:25",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": [
+      "Ivan Tásler",
+      "Michal Horáček"
+    ]
+  },
+  {
+    "title": "Chci Tě Líbat",
+    "artist": "Václav Neckář",
+    "date": "04.10.2025",
+    "time": "06:21",
+    "year": 1965,
+    "duration_ms": 268907,
+    "genre": "Pop",
+    "album": "Největší Hity 1965-2013",
+    "track_number": 14,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Adresa Ja Adresa Ty",
+    "artist": "Gombitová Marika",
+    "date": "04.10.2025",
+    "time": "06:17",
+    "year": 1986,
+    "duration_ms": 221440,
+    "genre": "Pop",
+    "album": "Volné miesto v srdci",
+    "track_number": 4,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Má Daleká",
     "artist": "Michal Penk",
     "date": "04.10.2025",
@@ -23,7 +81,10 @@
     "album": "Slunce / To Nejlepsi",
     "track_number": 8,
     "artist_country": "CZ",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
   },
   {
     "title": "Veľa Lásky",
@@ -13158,7 +13219,10 @@
     "album": "Slunce / To Nejlepsi",
     "track_number": 8,
     "artist_country": "CZ",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
   },
   {
     "title": "Máš Chuť Majoránky",
@@ -16303,7 +16367,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Ivan Tásler",
+      "Michal Horáček"
+    ]
   },
   {
     "title": "Every Breath You Take",
