@@ -1,5 +1,189 @@
 [
   {
+    "title": "Heartbreak Hotel",
+    "artist": "C.C. Catch",
+    "date": "04.10.2025",
+    "time": "02:43",
+    "year": 1986,
+    "duration_ms": 215800,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Co Bolí To Přebolí",
+    "artist": "Zbirka Miro & Martha",
+    "date": "04.10.2025",
+    "time": "02:40",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Pieseň Pre Nesmelých",
+    "artist": "Team",
+    "date": "04.10.2025",
+    "time": "02:36",
+    "year": 1989,
+    "duration_ms": 270040,
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 10,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Keď Odchádzajú Lásky",
+    "artist": "Richard Müller",
+    "date": "04.10.2025",
+    "time": "02:31",
+    "year": 1992,
+    "duration_ms": 297640,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 13,
+    "artist_country": "SK",
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Cherish",
+    "artist": "Kool & The Gang",
+    "date": "04.10.2025",
+    "time": "02:28",
+    "year": 1984,
+    "duration_ms": 290600,
+    "genre": "R&B/Soul",
+    "album": "Emergency",
+    "track_number": 4,
+    "artist_country": "US",
+    "songwriters": [
+      "Claydes Smith",
+      "Clifford Adams",
+      "Curtis “Fitz” Williams",
+      "George Brown",
+      "James “J.T.” Taylor",
+      "Jim Bonnefond",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ]
+  },
+  {
+    "title": "Dvere",
+    "artist": "Zuzana Smatanová",
+    "date": "04.10.2025",
+    "time": "02:24",
+    "year": 2011,
+    "duration_ms": 192467,
+    "genre": "Pop",
+    "album": "Dvere",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "04.10.2025",
+    "time": "02:20",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise",
+    "track_number": 2,
+    "artist_country": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
+    "title": "Pozhasínané",
+    "artist": "Modus",
+    "date": "04.10.2025",
+    "time": "02:15",
+    "year": 1981,
+    "duration_ms": 257907,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 5,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Pandora's Box",
+    "artist": "Orchestral Manoeuvres In The Dark",
+    "date": "04.10.2025",
+    "time": "02:11",
+    "year": 1991,
+    "duration_ms": 249173,
+    "genre": "New Wave",
+    "album": "Sugar Tax",
+    "track_number": 2,
+    "artist_country": "GB",
+    "songwriters": [
+      "Andy McCluskey"
+    ]
+  },
+  {
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "date": "04.10.2025",
+    "time": "02:08",
+    "year": 1986,
+    "duration_ms": 249581,
+    "genre": "Hard Rock",
+    "album": "Slippery When Wet",
+    "track_number": 3,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Prvý Bozk",
+    "artist": "Hammel Pavol",
+    "date": "04.10.2025",
+    "time": "02:05",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Dva A Dva",
+    "artist": "Elán",
+    "date": "04.10.2025",
+    "time": "02:00",
+    "year": 1985,
+    "duration_ms": 275987,
+    "genre": "Rock",
+    "album": "Hodina slovenčiny",
+    "track_number": 3,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Kým Stúpa Dym",
+    "artist": "I.M.T. Smile",
+    "date": "04.10.2025",
+    "time": "01:57",
+    "year": 2003,
+    "duration_ms": 277120,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 13,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Sun Of The Jamaica",
     "artist": "The Goombay Dance Band",
     "date": "04.10.2025",
@@ -3489,7 +3673,16 @@
     "album": "Emergency",
     "track_number": 4,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Claydes Smith",
+      "Clifford Adams",
+      "Curtis “Fitz” Williams",
+      "George Brown",
+      "James “J.T.” Taylor",
+      "Jim Bonnefond",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ]
   },
   {
     "title": "El Condor Pasa",
@@ -3716,7 +3909,9 @@
     "album": "1492 - Conquest of Paradise",
     "track_number": 2,
     "artist_country": "GR",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Vangelis"
+    ]
   },
   {
     "title": "Waterloo",
@@ -3781,7 +3976,9 @@
     "album": "Sugar Tax",
     "track_number": 2,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Andy McCluskey"
+    ]
   },
   {
     "title": "Livin' On A Prayer",
@@ -11602,7 +11799,9 @@
     "album": "1492 - Conquest of Paradise",
     "track_number": 2,
     "artist_country": "GR",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Vangelis"
+    ]
   },
   {
     "title": "Felicita",
@@ -18270,7 +18469,9 @@
     "album": "Sugar Tax",
     "track_number": 2,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Andy McCluskey"
+    ]
   },
   {
     "title": "San Francisco",
@@ -19788,7 +19989,9 @@
     "album": "1492 - Conquest of Paradise",
     "track_number": 2,
     "artist_country": "GR",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Vangelis"
+    ]
   },
   {
     "title": "Horehronie",
