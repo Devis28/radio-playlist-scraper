@@ -1,5 +1,21 @@
 [
   {
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "date": "04.10.2025",
+    "time": "23:39",
+    "year": 1978,
+    "duration_ms": 481693,
+    "genre": "Funk",
+    "album": "I Will Survive: The Anthology",
+    "track_number": 1,
+    "artist_country": "US",
+    "songwriters": [
+      "Dino Fekaris",
+      "Freddie Perren"
+    ]
+  },
+  {
     "title": "There Is A Star",
     "artist": "Pharao",
     "date": "04.10.2025",
@@ -9074,7 +9090,10 @@
     "album": "I Will Survive: The Anthology",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Dino Fekaris",
+      "Freddie Perren"
+    ]
   },
   {
     "title": "Severanka",
@@ -13173,7 +13192,10 @@
     "album": "I Will Survive: The Anthology",
     "track_number": 1,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Dino Fekaris",
+      "Freddie Perren"
+    ]
   },
   {
     "title": "It's A Sin",
