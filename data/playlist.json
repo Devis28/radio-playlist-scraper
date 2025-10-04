@@ -1,5 +1,38 @@
 [
   {
+    "title": "Heart Of Glass",
+    "artist": "Blondie",
+    "date": "04.10.2025",
+    "time": "21:40",
+    "year": 1978,
+    "duration_ms": 350240,
+    "genre": "Rock",
+    "album": "Parallel Lines",
+    "track_number": 10,
+    "artist_country": "US",
+    "songwriters": [
+      "Chris Stein",
+      "Deborah Harry"
+    ]
+  },
+  {
+    "title": "Dancing Queen",
+    "artist": "Abba",
+    "date": "04.10.2025",
+    "time": "21:36",
+    "year": 1976,
+    "duration_ms": 231844,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 1,
+    "artist_country": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
     "title": "Take A Chance On Me",
     "artist": "Erasure",
     "date": "04.10.2025",
@@ -43,7 +76,9 @@
     "album": "Love Hurts",
     "track_number": 12,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Rudy Clark"
+    ]
   },
   {
     "title": "It's Raining Men",
@@ -9050,7 +9085,11 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 1,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Veselá Pesnička",
@@ -12842,7 +12881,11 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 1,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Forever Young",
@@ -18199,7 +18242,9 @@
     "album": "Love Hurts",
     "track_number": 12,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Rudy Clark"
+    ]
   },
   {
     "title": "V Dobrom Aj Zlom",
@@ -21719,7 +21764,11 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 1,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Infinity",
@@ -21773,7 +21822,9 @@
     "album": "Love Hurts",
     "track_number": 12,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Rudy Clark"
+    ]
   },
   {
     "title": "Nepriznaná",
