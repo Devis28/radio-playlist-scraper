@@ -1,5 +1,57 @@
 [
   {
+    "title": "Bludička Julie",
+    "artist": "Zagorová Hana",
+    "date": "04.10.2025",
+    "time": "13:11",
+    "year": 1968,
+    "duration_ms": 186600,
+    "genre": "Pop",
+    "album": "Bludička Julie",
+    "track_number": 1,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "04.10.2025",
+    "time": "13:09",
+    "year": 2001,
+    "duration_ms": 159227,
+    "genre": "Pop",
+    "album": "Na Kameni Kamen",
+    "track_number": 14,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Posledné Dobré Dievča",
+    "artist": "Pavol Habera",
+    "date": "04.10.2025",
+    "time": "13:05",
+    "year": 1995,
+    "duration_ms": 201667,
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 8,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "C�est La Vie",
+    "artist": "Miro Zbirka",
+    "date": "04.10.2025",
+    "time": "13:01",
+    "year": 1990,
+    "duration_ms": 277053,
+    "genre": "Pop",
+    "album": "K.O.",
+    "track_number": 1,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Pesnička O Medulienke",
     "artist": "Gladiator Hammel Pavol",
     "date": "04.10.2025",
