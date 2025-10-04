@@ -1,5 +1,33 @@
 [
   {
+    "title": "Už Mi, Lásko, Není Dvacet Let",
+    "artist": "Jiří Zmožek",
+    "date": "04.10.2025",
+    "time": "10:55",
+    "year": 2010,
+    "duration_ms": 246093,
+    "genre": "Worldwide",
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "track_number": 1,
+    "artist_country": "XC",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Neuč Vtáka Lietať",
+    "artist": "Müller Richard",
+    "date": "04.10.2025",
+    "time": "10:51",
+    "year": 1992,
+    "duration_ms": 226133,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 12,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
     "title": "Školská Láska",
     "artist": "Rolincová Darina",
     "date": "04.10.2025",
@@ -15793,7 +15821,9 @@
     "album": "Výberovka",
     "track_number": 12,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Richard Müller"
+    ]
   },
   {
     "title": "The Shoop Shoop Song",
