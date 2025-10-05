@@ -1,5 +1,33 @@
 [
   {
+    "title": "Moi...Lolita",
+    "artist": "Alizee",
+    "date": "05.10.2025",
+    "time": "05:55",
+    "year": 2000,
+    "duration_ms": 264283,
+    "genre": "French Pop",
+    "album": "Gourmandises",
+    "track_number": 1,
+    "artist_country": "FR",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Love Hurts",
+    "artist": "Nazareth",
+    "date": "05.10.2025",
+    "time": "05:52",
+    "year": 1975,
+    "duration_ms": 232120,
+    "genre": "Rock",
+    "album": "Hair of the Dog",
+    "track_number": 8,
+    "artist_country": "GB",
+    "songwriters": [
+      "Boudleaux Bryant"
+    ]
+  },
+  {
     "title": "Don't Speak",
     "artist": "No Doubt",
     "date": "05.10.2025",
@@ -69,7 +97,10 @@
     "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
     "track_number": 3,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "David Foster",
+      "Peter Cetera"
+    ]
   },
   {
     "title": "Spoluhráčka",
@@ -165,7 +196,11 @@
     "album": "Celebration (Deluxe Version)",
     "track_number": 21,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bruce Gaitsch",
+      "Madonna",
+      "Patrick Leonard"
+    ]
   },
   {
     "title": "Mrs. Robinson",
@@ -17043,7 +17078,11 @@
     "album": "Celebration (Deluxe Version)",
     "track_number": 21,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bruce Gaitsch",
+      "Madonna",
+      "Patrick Leonard"
+    ]
   },
   {
     "title": "Pesnička O Medulienke",
@@ -17678,7 +17717,10 @@
     "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
     "track_number": 3,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "David Foster",
+      "Peter Cetera"
+    ]
   },
   {
     "title": "Right Beside You",
@@ -18923,7 +18965,9 @@
     "album": "Hair of the Dog",
     "track_number": 8,
     "artist_country": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Boudleaux Bryant"
+    ]
   },
   {
     "title": "Za Všechno Může Čas",
