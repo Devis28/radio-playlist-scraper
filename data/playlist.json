@@ -1,5 +1,44 @@
 [
   {
+    "title": "Nenahraditeľná",
+    "artist": "Sima Martausová & For You",
+    "date": "05.10.2025",
+    "time": "17:26",
+    "year": 2018,
+    "duration_ms": 198649,
+    "genre": "Folk",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Řeka Lásky",
+    "artist": "Marie Rottrová",
+    "date": "05.10.2025",
+    "time": "17:23",
+    "year": 1971,
+    "duration_ms": 200307,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Hurikán",
+    "artist": "Janda Dalibor",
+    "date": "05.10.2025",
+    "time": "17:20",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Je Ráno, Anno",
     "artist": "Neckář Václav",
     "date": "05.10.2025",
@@ -52,7 +91,10 @@
     "album": "Výberovka",
     "track_number": 9,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Michal Horáček",
+      "Petr Hapka"
+    ]
   },
   {
     "title": "Veselá Pesnička",
@@ -13125,7 +13167,10 @@
     "album": "Výberovka",
     "track_number": 9,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Michal Horáček",
+      "Petr Hapka"
+    ]
   },
   {
     "title": "Only Time (Two Tribes Remix))",
@@ -16614,7 +16659,10 @@
     "album": "Výberovka",
     "track_number": 9,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Michal Horáček",
+      "Petr Hapka"
+    ]
   },
   {
     "title": "Mrs. Robinson",
