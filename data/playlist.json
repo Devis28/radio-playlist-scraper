@@ -1,5 +1,38 @@
 [
   {
+    "title": "Always",
+    "artist": "Erasure",
+    "date": "05.10.2025",
+    "time": "21:19",
+    "year": 1994,
+    "duration_ms": 237840,
+    "genre": "Pop",
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
+  },
+  {
+    "title": "Stayin' Alive",
+    "artist": "The Bee Gees",
+    "date": "05.10.2025",
+    "time": "21:14",
+    "year": 1977,
+    "duration_ms": 283147,
+    "genre": "Pop",
+    "album": "The Ultimate Bee Gees",
+    "track_number": 2,
+    "artist_country_code": "AU",
+    "songwriters": [
+      "Barry Gibb",
+      "Maurice Gibb",
+      "Robin Gibb"
+    ]
+  },
+  {
     "title": "Zaľúbil Sa Chlapec",
     "artist": "Elán",
     "date": "05.10.2025",
@@ -135,7 +168,9 @@
     "album": "Comment Ca Va",
     "track_number": 1,
     "artist_country_code": "NL",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Eddy de Heer"
+    ]
   },
   {
     "title": "Stumblin' In",
