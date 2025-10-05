@@ -1,5 +1,18 @@
 [
   {
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "G8",
+    "date": "05.10.2025",
+    "time": "08:57",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "IT",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Modrá",
     "artist": "Kirschner Jana",
     "date": "05.10.2025",
@@ -10,7 +23,9 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jana Kirschner"
+    ]
   },
   {
     "title": "Ver mi",
@@ -36,7 +51,9 @@
     "album": "Růže Kvetou Dál",
     "track_number": 7,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jiří Štaidl"
+    ]
   },
   {
     "title": "Sbírka Zvadlejch Růží",
@@ -12069,7 +12086,9 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jana Kirschner"
+    ]
   },
   {
     "title": "Volare (Nel Blu Di Pinto Di Blu)",
@@ -14502,7 +14521,9 @@
     "album": "Růže Kvetou Dál",
     "track_number": 7,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jiří Štaidl"
+    ]
   },
   {
     "title": "Zima, Zima",
@@ -21086,7 +21107,9 @@
     "album": "Růže Kvetou Dál",
     "track_number": 7,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jiří Štaidl"
+    ]
   },
   {
     "title": "Čo Ak",
@@ -25101,7 +25124,9 @@
     "album": "Růže Kvetou Dál",
     "track_number": 7,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jiří Štaidl"
+    ]
   },
   {
     "title": "She's The One",
