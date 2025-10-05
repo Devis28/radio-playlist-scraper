@@ -1,5 +1,31 @@
 [
   {
+    "title": "Katka",
+    "artist": "Miro Žbirka",
+    "date": "05.10.2025",
+    "time": "07:39",
+    "year": 1986,
+    "duration_ms": 202107,
+    "genre": "Pop",
+    "album": "Chlapec z ulice",
+    "track_number": 7,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Útoč Láskou",
+    "artist": "Bartosova, Iveta",
+    "date": "05.10.2025",
+    "time": "07:36",
+    "year": 1984,
+    "duration_ms": 208667,
+    "genre": "Pop",
+    "album": "Top 13",
+    "track_number": 3,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Severanka",
     "artist": "Team",
     "date": "05.10.2025",
@@ -75,7 +101,9 @@
     "album": "Butykvariát",
     "track_number": 6,
     "artist_country": "CZ",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Radek Pastrňák"
+    ]
   },
   {
     "title": "Láska",
