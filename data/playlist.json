@@ -1,5 +1,57 @@
 [
   {
+    "title": "When The Rain Begins To Fall",
+    "artist": "Jermaine Jackson & Pia Zadora",
+    "date": "05.10.2025",
+    "time": "23:10",
+    "year": 1984,
+    "duration_ms": 248867,
+    "genre": "R&B/Soul",
+    "album": "Playlist: The Very Best of Jermaine Jackson",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sky",
+    "artist": "Sonique",
+    "date": "05.10.2025",
+    "time": "23:06",
+    "year": 2000,
+    "duration_ms": 460752,
+    "genre": "Dance",
+    "album": "Sky - Single",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "The Locomotion",
+    "artist": "Kylie Minogue",
+    "date": "05.10.2025",
+    "time": "23:03",
+    "year": 2009,
+    "duration_ms": 296543,
+    "genre": "Pop",
+    "album": "Kylie (Live In New York)",
+    "track_number": 19,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Barbie Girl",
+    "artist": "Aqua",
+    "date": "05.10.2025",
+    "time": "22:59",
+    "year": 1997,
+    "duration_ms": 197907,
+    "genre": "Pop",
+    "album": "Aquarium",
+    "track_number": 3,
+    "artist_country_code": "DK",
+    "songwriters": null
+  },
+  {
     "title": "Flames Of Love",
     "artist": "Fancy",
     "date": "05.10.2025",
