@@ -1,5 +1,31 @@
 [
   {
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "date": "06.10.2025",
+    "time": "00:54",
+    "year": 1991,
+    "duration_ms": 388733,
+    "genre": "Metal",
+    "album": "Metallica (Deluxe Box Set)",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "One Way Ticket",
+    "artist": "Eruption",
+    "date": "06.10.2025",
+    "time": "00:51",
+    "year": 1978,
+    "duration_ms": 213200,
+    "genre": "Pop",
+    "album": "4 Hits: Eruption - EP",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Everybody Hurts",
     "artist": "R.E.M.",
     "date": "06.10.2025",
