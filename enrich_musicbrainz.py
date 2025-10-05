@@ -265,24 +265,24 @@ def main():
 
     for it in items:
         # ===== 1) ARTIST COUNTRY =====
-        if it.get("artist_country") in (None, "", NOT_FOUND):
+        if it.get("artist_country_code") in (None, "", NOT_FOUND):
             artist_raw = (it.get("artist") or "").strip()
             if not artist_raw:
-                it["artist_country"] = NOT_FOUND
+                it["artist_country_code"] = NOT_FOUND
             else:
                 k_artist = _key_artist(artist_raw)
                 cached = artist_cache.get(k_artist)
                 if cached is not None:
-                    it["artist_country"] = cached or NOT_FOUND
+                    it["artist_country_code"] = cached or NOT_FOUND
                 elif lookups_country < args.limit:
                     country = mb_lookup_country(artist_raw, args.email)
                     lookups_country += 1
                     time.sleep(args.sleep)
                     artist_cache[k_artist] = country
-                    it["artist_country"] = country or NOT_FOUND
+                    it["artist_country_code"] = country or NOT_FOUND
                     if country: enriched_country += 1
                 else:
-                    it["artist_country"] = NOT_FOUND  # pre tento beh, nabudúce sa doplní
+                    it["artist_country_code"] = NOT_FOUND  # pre tento beh, nabudúce sa doplní
 
         # ===== 2) SONGWRITERS =====
         if it.get("songwriters") in (None, "", NOT_FOUND):
