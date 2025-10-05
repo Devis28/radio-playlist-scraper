@@ -1,5 +1,62 @@
 [
   {
+    "title": "Pěkná Pěkná Pěkná",
+    "artist": "Ledecký Janek",
+    "date": "05.10.2025",
+    "time": "08:09",
+    "year": 1993,
+    "duration_ms": 269120,
+    "genre": "Pop",
+    "album": "Právě teď",
+    "track_number": 3,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "V Sieti Ťa Mám",
+    "artist": "Kristína",
+    "date": "05.10.2025",
+    "time": "08:05",
+    "year": 2010,
+    "duration_ms": 221000,
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Diskohrátky",
+    "artist": "Hana Zagorová",
+    "date": "05.10.2025",
+    "time": "08:02",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Skúšky Z Lásky",
+    "artist": "Gravis",
+    "date": "05.10.2025",
+    "time": "07:57",
+    "year": 1989,
+    "duration_ms": 245180,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Nebude To Ľahké",
     "artist": "Müller Richard",
     "date": "05.10.2025",
@@ -10,7 +67,9 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Richard Müller"
+    ]
   },
   {
     "title": "Jó Tresne Zraly",
@@ -12415,7 +12474,9 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Richard Müller"
+    ]
   },
   {
     "title": "Lay All Your Love On Me",
@@ -20776,7 +20837,12 @@
     "album": "V Sieti Ta Mam",
     "track_number": 2,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
   },
   {
     "title": "Lady Lady Lady",
