@@ -2,38 +2,40 @@
 # -*- coding: utf-8 -*-
 
 import argparse, json, os, time, difflib, unicodedata, re, requests
-from typing import Optional, Dict, Any, List, Tuple, Set
+from typing import Optional, Any, List, Set
 
 # ===== Cesty a konštanty =====
 DEFAULT_INPUT = os.path.join("data", "playlist.json")
-DEFAULT_ARTIST_CACHE = os.path.join("data", "artist_cache.json")   # krajiny interpretov
-DEFAULT_WRITERS_CACHE = os.path.join("data", "writers_cache.json") # songwriters podľa artist+title
+DEFAULT_ARTIST_CACHE = os.path.join("data", "artist_cache.json")     # krajiny interpretov (ISO kód)
+DEFAULT_WRITERS_CACHE = os.path.join("data", "writers_cache.json")   # songwriters podľa artist|title
 
-NOT_FOUND = "Not found"
+# Dôležité: používame None => v JSON to bude null (žiadny text "Not found")
+NOT_FOUND = None
 
 # MusicBrainz endpointy
 MB_URL_ARTIST = "https://musicbrainz.org/ws/2/artist/"
 MB_URL_RECORDING = "https://musicbrainz.org/ws/2/recording"
-MB_URL_GET_RECORDING = "https://musicbrainz.org/ws/2/recording/{mbid}"
-MB_URL_GET_WORK = "https://musicbrainz.org/ws/2/work/{mbid}"
+MB_URL_RECORDING_DETAIL = "https://musicbrainz.org/ws/2/recording/{id}"
+MB_URL_WORK = "https://musicbrainz.org/ws/2/work/{id}"
 
-# MB roly, ktoré považujeme za "songwriter" kredit
-WRITER_ROLES = {"writer", "composer", "lyricist", "author"}
-
-# ===== Normalizácia textu =====
-def _ascii_fold(s: str) -> str:
-    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
+# ===== Utility =====
+def _save_atomic(path: str, data: Any):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, path)
 
 def _clean_name(s: str) -> str:
-    # odstráni zátvorky a 'feat./ft./featuring ...'
-    s = re.sub(r"\s+\(.*?\)", "", s, flags=re.IGNORECASE)
-    s = re.sub(r"\s+(feat\.|ft\.|featuring)\s+.*$", "", s, flags=re.IGNORECASE)
-    return " ".join(s.split())
+    s = re.sub(r"\s+", " ", s or "").strip()
+    s = re.sub(r"\s+\b(feat|featuring|ft|with|vs)\b\.?.*$", "", s, flags=re.I)
+    return s
 
 def _clean_title(s: str) -> str:
-    # z titulov väčšinou stačí odstrániť zátvorky typu (Remastered), (Radio Edit) atď.
-    s = re.sub(r"\s+\(.*?\)", "", s, flags=re.IGNORECASE)
-    return " ".join(s.split())
+    return re.sub(r"\s+", " ", s or "").strip()
+
+def _ascii_fold(s: str) -> str:
+    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
 
 def _norm(s: str) -> str:
     return _ascii_fold(_clean_name(s)).casefold()
@@ -41,7 +43,6 @@ def _norm(s: str) -> str:
 def _norm_title(s: str) -> str:
     return _ascii_fold(_clean_title(s)).casefold()
 
-# rozdeľovače pre multi-interpretov
 SEPARATORS = [" & ", " × ", " x ", " + ", " / ", ";", " and "]
 
 def _reorder_if_surname_first(name: str) -> str:
@@ -53,7 +54,7 @@ def _reorder_if_surname_first(name: str) -> str:
     return name
 
 def _primary_artist(raw: str) -> str:
-    s = _clean_name(raw.strip())
+    s = _clean_name((raw or "").strip())
     for sep in SEPARATORS:
         if sep in s:
             s = s.split(sep, 1)[0].strip()
@@ -63,38 +64,18 @@ def _primary_artist(raw: str) -> str:
 
 def _maybe_swap_order(name: str) -> str:
     # fallback pre "Rolincova Darina" -> "Darina Rolincova"
-    parts = name.split()
+    parts = (name or "").split()
     if len(parts) == 2:
-        return f"{parts[1]} {parts[0]}"
+        a, b = parts
+        if len(a) > 2 and len(b) > 2:
+            return f"{b} {a}"
     return name
 
-# ===== IO helpery =====
-def _load(path, default):
-    if not os.path.exists(path): return default
-    try:
-        with open(path, "r", encoding="utf-8") as f: return json.load(f)
-    except Exception:
-        return default
-
-def _save_atomic(path, data):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    tmp = path + ".tmp"
-    with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    os.replace(tmp, path)
-
-# ===== Kľúče do keší =====
-def _key_artist(artist: str) -> str:
-    # pre krajiny – kľúč len podľa interpreta (normalizovaný prvý interpret)
-    return _norm(_primary_artist(artist))
-
-def _key_recording(artist: str, title: str) -> str:
-    # pre songwritera – kľúč podľa (prvý interpret, očistený titul)
-    return f"{_norm(_primary_artist(artist))}|{_norm_title(title)}"
-
-# ====== MusicBrainz – COUNTRY LOOKUP (artists) =====
-def mb_lookup_country(artist: str, email: str, timeout=(15,45)) -> Optional[str]:
-    if not artist: return None
+# ====== MusicBrainz – ARTIST COUNTRY LOOKUP =====
+def mb_lookup_country(artist: str, email: str, timeout=(15, 45)) -> Optional[str]:
+    """Vráti ISO 3166-1 alpha-2 kód (napr. 'SK') alebo None."""
+    if not artist:
+        return None
     headers = {"User-Agent": f"radio-playlist-scraper/1.0 ({email})"}
     params = {"query": f'artist:"{artist}"', "fmt": "json", "limit": 5}
     try:
@@ -107,29 +88,28 @@ def mb_lookup_country(artist: str, email: str, timeout=(15,45)) -> Optional[str]
     want = _norm(artist)
     best, best_score = None, 0.0
     for a in data.get("artists", []):
-        name = a.get("name","")
+        name = a.get("name", "")
         ratio = difflib.SequenceMatcher(a=_norm(name), b=want).ratio()
-        score = 0.7*ratio + 0.3*(a.get("score",0)/100.0) + (0.05 if a.get("country") else 0.0)
+        score = 0.7 * ratio + 0.3 * (a.get("score", 0) / 100.0) + (0.05 if a.get("country") else 0.0)
         if score > best_score:
             best, best_score = a, score
 
-    if not best: return None
-    # country je ISO kód (napr. "SE"); fallback cez area kód
+    if not best:
+        return None
+
     country = best.get("country")
     if not country:
-        area = best.get("area", {}) or {}
+        area = best.get("area") or {}
         codes = area.get("iso-3166-1-codes") or []
         country = codes[0] if codes else None
-    return country
+    return country  # môže byť None
 
-# ====== MusicBrainz – SONGWRITER LOOKUP (recording -> work) =====
-def mb_search_recording(artist: str, title: str, email: str, timeout=(15,45)) -> Optional[dict]:
+# ====== MusicBrainz – SONGWRITER LOOKUP =====
+def mb_search_recording(artist: str, title: str, email: str, timeout=(15, 45)) -> Optional[str]:
+    """Nájde najvhodnejší recording a vráti jeho ID alebo None."""
     headers = {"User-Agent": f"radio-playlist-scraper/1.0 ({email})"}
-    params = {
-        "query": f'recording:"{title}" AND artist:"{artist}"',
-        "fmt": "json",
-        "limit": 5,
-    }
+    q = f'artist:"{_primary_artist(artist)}" AND recording:"{title}"'
+    params = {"query": q, "fmt": "json", "limit": 10}
     try:
         r = requests.get(MB_URL_RECORDING, params=params, headers=headers, timeout=timeout)
         r.raise_for_status()
@@ -137,80 +117,88 @@ def mb_search_recording(artist: str, title: str, email: str, timeout=(15,45)) ->
     except Exception:
         return None
 
-    want_a = _norm(_primary_artist(artist))
-    want_t = _norm_title(title)
+    want_title = _norm_title(title)
+    want_artist = _norm(_primary_artist(artist))
 
-    best, best_score = None, 0.0
+    best_id, best_score = None, 0.0
     for rec in data.get("recordings", []):
-        rt = _norm_title(rec.get("title","") or "")
-        credit = rec.get("artist-credit") or []
-        ra = _norm((credit[0].get("name") if credit else "") or "")
-        s_title  = difflib.SequenceMatcher(a=want_t, b=rt).ratio()
-        s_artist = difflib.SequenceMatcher(a=want_a, b=ra).ratio()
-        mb_score = (rec.get("score", 0) or 0) / 100.0
-        score = 0.55*s_title + 0.35*s_artist + 0.10*mb_score
+        rec_title = rec.get("title", "")
+        rec_score_mb = rec.get("score", 0) / 100.0
+        title_ratio = difflib.SequenceMatcher(a=_norm_title(rec_title), b=want_title).ratio()
+
+        # bonus, ak medzi artist-credit je náš primary interpret
+        artists = []
+        for ac in rec.get("artist-credit", []):
+            if isinstance(ac, dict) and "name" in ac:
+                artists.append(ac.get("name", ""))
+            elif isinstance(ac, str):
+                artists.append(ac)
+        artist_hit = any(difflib.SequenceMatcher(a=_norm(a), b=want_artist).ratio() > 0.85 for a in artists)
+
+        score = 0.6 * title_ratio + 0.35 * rec_score_mb + (0.05 if artist_hit else 0.0)
         if score > best_score:
-            best, best_score = rec, score
+            best_score = score
+            best_id = rec.get("id")
 
-    return best if best and best_score >= 0.72 else None
+    return best_id
 
-def mb_get_recording_details(rec_id: str, email: str, timeout=(15,45)) -> Optional[dict]:
+def mb_get_recording_details(rec_id: str, email: str, timeout=(15, 45)) -> Optional[dict]:
     headers = {"User-Agent": f"radio-playlist-scraper/1.0 ({email})"}
-    params = {"inc": "artist-credits+artist-rels+work-rels", "fmt": "json"}
+    inc = "artists+releases+work-rels+artist-rels+recording-rels+work-level-rels+writers+composer+lyricist+relations"
+    params = {"fmt": "json", "inc": inc}
     try:
-        r = requests.get(MB_URL_GET_RECORDING.format(mbid=rec_id), params=params, headers=headers, timeout=timeout)
+        r = requests.get(MB_URL_RECORDING_DETAIL.format(id=rec_id), params=params, headers=headers, timeout=timeout)
         r.raise_for_status()
         return r.json()
     except Exception:
         return None
 
-def mb_get_work_details(work_id: str, email: str, timeout=(15,45)) -> Optional[dict]:
+def mb_get_work(work_id: str, email: str, timeout=(15, 45)) -> Optional[dict]:
     headers = {"User-Agent": f"radio-playlist-scraper/1.0 ({email})"}
-    params = {"inc": "artist-rels", "fmt": "json"}
+    inc = "artist-rels+relations+writers+composer+lyricist"
+    params = {"fmt": "json", "inc": inc}
     try:
-        r = requests.get(MB_URL_GET_WORK.format(mbid=work_id), params=params, headers=headers, timeout=timeout)
+        r = requests.get(MB_URL_WORK.format(id=work_id), params=params, headers=headers, timeout=timeout)
         r.raise_for_status()
         return r.json()
     except Exception:
         return None
 
-def _collect_writer_names_from_rels(relations: List[dict]) -> Set[str]:
-    names: Set[str] = set()
-    for rel in relations or []:
-        rtype = (rel.get("type") or "").casefold()
-        if rtype in WRITER_ROLES:
-            artist = (rel.get("artist") or {}).get("name")
-            if artist:
-                names.add(artist)
+def _collect_writer_names_from_rels(rels: List[dict]) -> Set[str]:
+    names = set()
+    for rel in rels or []:
+        if rel.get("type") in {"writer", "composer", "lyricist", "author"}:
+            art = rel.get("artist") or {}
+            nm = (art.get("name") or art.get("sort-name") or "").strip()
+            if nm:
+                names.add(nm)
     return names
 
-def lookup_songwriters(artist: str, title: str, email: str, sleep_s: float,
-                       calls_budget: List[int]) -> Optional[List[str]]:
-    """
-    Vráti list mien songwriterov alebo None pri zlyhaní/bez zhody.
-    calls_budget: jednoprvkové pole s počítadlom zostávajúcich volaní (kvôli --writers-limit)
-    """
-    if calls_budget[0] <= 0:
+def _key_artist(artist: str) -> str:
+    return _norm(artist)
+
+def _key_recording(artist: str, title: str) -> str:
+    return f"{_norm(artist)}|{_norm_title(title)}"
+
+def lookup_songwriters(artist: str, title: str, email: str, sleep_s: float, calls_budget: List[int]) -> Optional[List[str]]:
+    if not artist or not title:
         return None
 
-    # 1) recording search
-    rec = mb_search_recording(artist, title, email=email)
+    rec_id = mb_search_recording(artist, title, email=email)
     calls_budget[0] -= 1
     time.sleep(sleep_s)
 
-    # fallback: skús prehodiť poradie mena (Habera Pavol -> Pavol Habera)
-    if not rec and calls_budget[0] > 0:
+    if not rec_id and calls_budget[0] > 0:
         alt = _maybe_swap_order(_primary_artist(artist))
         if alt and alt != artist:
-            rec = mb_search_recording(alt, title, email=email)
+            rec_id = mb_search_recording(alt, title, email=email)
             calls_budget[0] -= 1
             time.sleep(sleep_s)
 
-    if not rec or calls_budget[0] <= 0:
+    if not rec_id or calls_budget[0] <= 0:
         return None
 
-    # 2) recording details – môžu mať priamo writer/composer/lyricist/author
-    det = mb_get_recording_details(rec["id"], email=email)
+    det = mb_get_recording_details(rec_id, email=email)
     calls_budget[0] -= 1
     time.sleep(sleep_s)
     if not det:
@@ -219,16 +207,15 @@ def lookup_songwriters(artist: str, title: str, email: str, sleep_s: float,
     names = set()
     names |= _collect_writer_names_from_rels(det.get("relations") or [])
 
-    # 3) naviazané works – doplň mená z work relations (limitni sa na 2 worky)
+    # doplň z naviazaných works (limit 2)
     work_rels = [rel for rel in (det.get("relations") or []) if rel.get("target-type") == "work"]
     for rel in work_rels[:2]:
         if calls_budget[0] <= 0:
             break
-        work = rel.get("work") or {}
-        wid = work.get("id")
+        wid = (rel.get("work") or {}).get("id")
         if not wid:
             continue
-        wdet = mb_get_work_details(wid, email=email)
+        wdet = mb_get_work(wid, email=email)
         calls_budget[0] -= 1
         time.sleep(sleep_s)
         if wdet:
@@ -240,9 +227,9 @@ def lookup_songwriters(artist: str, title: str, email: str, sleep_s: float,
 
 # ===== Hlavný beh =====
 def main():
-    ap = argparse.ArgumentParser(description="Enrich artist country + songwriters via MusicBrainz.")
+    ap = argparse.ArgumentParser(description="Enrich artist country code + songwriters via MusicBrainz.")
     ap.add_argument("--input", default=DEFAULT_INPUT, help="Vstupný JSON s playlistom")
-    ap.add_argument("--cache", dest="artist_cache", default=DEFAULT_ARTIST_CACHE, help="Keš pre štát interpreta")
+    ap.add_argument("--cache", dest="artist_cache", default=DEFAULT_ARTIST_CACHE, help="Keš pre štát interpreta (ISO kód)")
     ap.add_argument("--writers-cache", default=DEFAULT_WRITERS_CACHE, help="Keš pre songwritera (artist|title)")
     ap.add_argument("--limit", type=int, default=45, help="Max. lookupov interpretov (country) za beh")
     ap.add_argument("--writers-limit", type=int, default=40, help="Rozpočet API volaní pre songwriter lookup (search+detail+works)")
@@ -250,65 +237,70 @@ def main():
     ap.add_argument("--email", required=True, help="Kontakt do User-Agent, napr. tvoje@meno.sk")
     args = ap.parse_args()
 
-    items = _load(args.input, default=None)
-    if not isinstance(items, list):
-        print("Chyba: playlist.json neobsahuje zoznam položiek."); return 1
+    # načítaj dáta a cache
+    items = json.load(open(args.input, "r", encoding="utf-8")) if os.path.exists(args.input) else []
+    artist_cache = json.load(open(args.artist_cache, "r", encoding="utf-8")) if os.path.exists(args.artist_cache) else {}
+    writers_cache = json.load(open(args.writers_cache, "r", encoding="utf-8")) if os.path.exists(args.writers_cache) else {}
 
-    artist_cache: Dict[str, Any] = _load(args.artist_cache, default={})
-    writers_cache: Dict[str, Any] = _load(args.writers_cache, default={})
+    # kompatibilita: ak boli v cache staré stringy "Not found", premeň ich na None
+    for k, v in list(artist_cache.items()):
+        if isinstance(v, str) and v.strip().lower() == "not found":
+            artist_cache[k] = None
 
     enriched_country = 0
     enriched_writers = 0
     lookups_country = 0
-    calls_writers_used = 0
     writers_budget = [args.writers_limit]
 
     for it in items:
-        # ===== 1) ARTIST COUNTRY =====
-        if it.get("artist_country_code") in (None, "", NOT_FOUND):
+        # ===== 1) ARTIST COUNTRY CODE =====
+        if it.get("artist_country_code") in (None, ""):
             artist_raw = (it.get("artist") or "").strip()
             if not artist_raw:
-                it["artist_country_code"] = NOT_FOUND
+                it["artist_country_code"] = NOT_FOUND  # None
             else:
                 k_artist = _key_artist(artist_raw)
                 cached = artist_cache.get(k_artist)
+                # cached môže byť None (čo je v poriadku)
                 if cached is not None:
-                    it["artist_country_code"] = cached or NOT_FOUND
+                    it["artist_country_code"] = cached
                 elif lookups_country < args.limit:
                     country = mb_lookup_country(artist_raw, args.email)
                     lookups_country += 1
                     time.sleep(args.sleep)
-                    artist_cache[k_artist] = country
-                    it["artist_country_code"] = country or NOT_FOUND
-                    if country: enriched_country += 1
+                    artist_cache[k_artist] = country  # môže byť None
+                    it["artist_country_code"] = country
+                    if country:
+                        enriched_country += 1
                 else:
-                    it["artist_country_code"] = NOT_FOUND  # pre tento beh, nabudúce sa doplní
+                    it["artist_country_code"] = NOT_FOUND  # None
 
         # ===== 2) SONGWRITERS =====
-        if it.get("songwriters") in (None, "", NOT_FOUND):
+        if it.get("songwriters") in (None, "", []):
             artist_raw = (it.get("artist") or "").strip()
             title_raw = (it.get("title") or "").strip()
             if not artist_raw or not title_raw:
-                it["songwriters"] = NOT_FOUND
+                it["songwriters"] = NOT_FOUND  # None
             else:
                 k_rec = _key_recording(artist_raw, title_raw)
                 cached_sw = writers_cache.get(k_rec)
                 if isinstance(cached_sw, list) and cached_sw:
                     it["songwriters"] = cached_sw
+                elif isinstance(cached_sw, list) and not cached_sw:
+                    # v cache je "miss" – nechaj None v dátach
+                    it["songwriters"] = NOT_FOUND
                 else:
-                    # pozor: 1 skladba môže minúť 2–4 volania (search + rec detail + až 2× work)
                     if writers_budget[0] <= 0:
                         it["songwriters"] = NOT_FOUND
                     else:
                         sw = lookup_songwriters(artist_raw, title_raw, email=args.email,
                                                 sleep_s=args.sleep, calls_budget=writers_budget)
-                        calls_writers_used = (args.writers_limit - writers_budget[0])
                         if sw:
                             writers_cache[k_rec] = sw
                             it["songwriters"] = sw
                             enriched_writers += 1
                         else:
-                            # ulož prázdny list ako "miss" – nabudúce sa nebudú míňať volania
+                            # ulož prázdny list ako "miss", v JSON nechaj None
                             writers_cache[k_rec] = []
                             it["songwriters"] = NOT_FOUND
 
@@ -316,7 +308,7 @@ def main():
     _save_atomic(args.artist_cache, artist_cache)
     _save_atomic(args.writers_cache, writers_cache)
 
-    print(f"Artist country enriched: {enriched_country} (lookups: {lookups_country})")
+    print(f"Artist country code enriched: {enriched_country} (lookups: {lookups_country})")
     print(f"Songwriters enriched: {enriched_writers} (API calls used: {args.writers_limit - writers_budget[0]})")
     return 0
 
