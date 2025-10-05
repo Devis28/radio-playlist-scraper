@@ -1,5 +1,199 @@
 [
   {
+    "title": "Ja Som To Vedel",
+    "artist": "Polemic",
+    "date": "05.10.2025",
+    "time": "05:14",
+    "year": 2000,
+    "duration_ms": 149880,
+    "genre": "Rock",
+    "album": "Gangster-SKA",
+    "track_number": 9,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "The River Of Dreams",
+    "artist": "Joel Billy",
+    "date": "05.10.2025",
+    "time": "05:10",
+    "year": 1993,
+    "duration_ms": 245893,
+    "genre": "Rock",
+    "album": "River of Dreams",
+    "track_number": 8,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Billy Joel"
+    ]
+  },
+  {
+    "title": "La Isla Bonita",
+    "artist": "Madonna",
+    "date": "05.10.2025",
+    "time": "05:06",
+    "year": 1986,
+    "duration_ms": 242947,
+    "genre": "Pop",
+    "album": "Celebration (Deluxe Version)",
+    "track_number": 21,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Mrs. Robinson",
+    "artist": "Simon, Paul & Garfunkel, Art",
+    "date": "05.10.2025",
+    "time": "05:03",
+    "year": 1968,
+    "duration_ms": 247420,
+    "genre": "Singer/Songwriter",
+    "album": "Bookends",
+    "track_number": 10,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "L' Italiano",
+    "artist": "Toto Cutugno",
+    "date": "05.10.2025",
+    "time": "04:59",
+    "year": 1983,
+    "duration_ms": 236547,
+    "genre": "Pop",
+    "album": "L'italiano",
+    "track_number": 1,
+    "artist_country": "IT",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Coco Jambo",
+    "artist": "Mr. President",
+    "date": "05.10.2025",
+    "time": "04:55",
+    "year": 1996,
+    "duration_ms": 218733,
+    "genre": "Pop",
+    "album": "We See The Same Sun",
+    "track_number": 2,
+    "artist_country": "DE",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "One Of Us",
+    "artist": "Abba",
+    "date": "05.10.2025",
+    "time": "04:51",
+    "year": 1981,
+    "duration_ms": 234573,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 16,
+    "artist_country": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ]
+  },
+  {
+    "title": "Always",
+    "artist": "Bon Jovi",
+    "date": "05.10.2025",
+    "time": "04:46",
+    "year": 1994,
+    "duration_ms": 353027,
+    "genre": "Pop",
+    "album": "Cross Road",
+    "track_number": 4,
+    "artist_country": "US",
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
+  },
+  {
+    "title": "Búrka",
+    "artist": "Čírová Mária",
+    "date": "05.10.2025",
+    "time": "04:41",
+    "year": 2008,
+    "duration_ms": 245680,
+    "genre": "Pop",
+    "album": "Búrka",
+    "track_number": 3,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "05.10.2025",
+    "time": "04:38",
+    "year": 1988,
+    "duration_ms": 220880,
+    "genre": "Pop",
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "track_number": 1,
+    "artist_country": "US",
+    "songwriters": [
+      "Ernie Gold",
+      "Seth Swirsky"
+    ]
+  },
+  {
+    "title": "Wind Of Change",
+    "artist": "The Scorpions",
+    "date": "05.10.2025",
+    "time": "04:33",
+    "year": 1990,
+    "duration_ms": 312360,
+    "genre": "Hard Rock",
+    "album": "Crazy World",
+    "track_number": 4,
+    "artist_country": "GB",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Dievča Z Reklamy",
+    "artist": "Dubasová Beáta",
+    "date": "05.10.2025",
+    "time": "04:29",
+    "year": 1987,
+    "duration_ms": 214413,
+    "genre": "Pop",
+    "album": "Beáta",
+    "track_number": 11,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Living On My Own",
+    "artist": "Mercury Freddie",
+    "date": "05.10.2025",
+    "time": "04:25",
+    "year": 1985,
+    "duration_ms": 217159,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 10,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Freddie Mercury"
+    ]
+  },
+  {
+    "title": "Spočítaj Ma",
+    "artist": "Richard Müller",
+    "date": "05.10.2025",
+    "time": "04:21",
+    "year": 2006,
+    "duration_ms": 275653,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 7,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Raindrops Keep Fallin' On My Head",
     "artist": "B. J. Thomas",
     "date": "05.10.2025",
@@ -12971,7 +13165,9 @@
     "album": "Cross Road",
     "track_number": 4,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
   },
   {
     "title": "Time After Time",
@@ -18105,7 +18301,10 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 16,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ]
   },
   {
     "title": "Some People",
@@ -20910,7 +21109,9 @@
     "album": "Cross Road",
     "track_number": 4,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
   },
   {
     "title": "Don't Play Your Rock 'n' Roll To Me",
@@ -25158,7 +25359,10 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 16,
     "artist_country": "SE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ]
   },
   {
     "title": "Nevrav Mi Aký Som",
@@ -26125,7 +26329,9 @@
     "album": "Cross Road",
     "track_number": 4,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
   },
   {
     "title": "Can't Fight The Moonlight",
