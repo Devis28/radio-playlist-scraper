@@ -1,5 +1,62 @@
 [
   {
+    "title": "Zaľúbil Sa Chlapec",
+    "artist": "Elán",
+    "date": "05.10.2025",
+    "time": "21:11",
+    "year": 1985,
+    "duration_ms": 195707,
+    "genre": "Rock",
+    "album": "Hodina slovenčiny",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "U Can't Stop",
+    "artist": "Mc Erik & Barbara",
+    "date": "05.10.2025",
+    "time": "21:07",
+    "year": 1996,
+    "duration_ms": 247827,
+    "genre": "Pop",
+    "album": "U Can't Stop (96 Version)",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Holding Out For A Hero",
+    "artist": "Tyler Bonnie",
+    "date": "05.10.2025",
+    "time": "21:03",
+    "year": 1984,
+    "duration_ms": 350705,
+    "genre": "Soundtrack",
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "track_number": 4,
+    "artist_country_code": "Not found",
+    "songwriters": [
+      "Dean Pitchford",
+      "Jim Steinman"
+    ]
+  },
+  {
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "05.10.2025",
+    "time": "20:59",
+    "year": 1984,
+    "duration_ms": 230667,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Michael"
+    ]
+  },
+  {
     "title": "Wannabe",
     "artist": "Spice Girls",
     "date": "05.10.2025",
@@ -14716,7 +14773,9 @@
     "album": "Darsh Fest, Vol. 1",
     "track_number": 36,
     "artist_country_code": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "George Michael"
+    ]
   },
   {
     "title": "Po Víne",
@@ -17963,7 +18022,10 @@
     "album": "Footloose (Original Motion Picture Soundtrack)",
     "track_number": 4,
     "artist_country_code": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Dean Pitchford",
+      "Jim Steinman"
+    ]
   },
   {
     "title": "S Nohami Na Stole",
@@ -18159,7 +18221,9 @@
     "album": "Darsh Fest, Vol. 1",
     "track_number": 36,
     "artist_country_code": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "George Michael"
+    ]
   },
   {
     "title": "Malý Princ",
@@ -28111,7 +28175,10 @@
     "album": "Footloose (Original Motion Picture Soundtrack)",
     "track_number": 4,
     "artist_country_code": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Dean Pitchford",
+      "Jim Steinman"
+    ]
   },
   {
     "title": "Pandora's Box",
