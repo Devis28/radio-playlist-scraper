@@ -1,5 +1,35 @@
 [
   {
+    "title": "If I Can't Have You",
+    "artist": "Wilde Kim",
+    "date": "05.10.2025",
+    "time": "21:59",
+    "year": 1992,
+    "duration_ms": 210427,
+    "genre": "Pop",
+    "album": "If I Can't Have You - Single",
+    "track_number": 1,
+    "artist_country_code": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "date": "05.10.2025",
+    "time": "21:55",
+    "year": 1984,
+    "duration_ms": 286160,
+    "genre": "Pop",
+    "album": "Forever Young",
+    "track_number": 3,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Bernhard Lloyd",
+      "Frank Mertens",
+      "Marian Gold"
+    ]
+  },
+  {
     "title": "We Will Rock You",
     "artist": "Queen",
     "date": "05.10.2025",
@@ -13984,7 +14014,11 @@
     "album": "Forever Young",
     "track_number": 3,
     "artist_country_code": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bernhard Lloyd",
+      "Frank Mertens",
+      "Marian Gold"
+    ]
   },
   {
     "title": "Ty Ja A Moj Brat (Sklicka Dotykov)",
@@ -17384,7 +17418,11 @@
     "album": "Forever Young",
     "track_number": 3,
     "artist_country_code": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bernhard Lloyd",
+      "Frank Mertens",
+      "Marian Gold"
+    ]
   },
   {
     "title": "Woman In Love",
@@ -29039,7 +29077,11 @@
     "album": "Forever Young",
     "track_number": 3,
     "artist_country_code": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Bernhard Lloyd",
+      "Frank Mertens",
+      "Marian Gold"
+    ]
   },
   {
     "title": "Rivers Of Babylon",
