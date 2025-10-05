@@ -1,5 +1,31 @@
 [
   {
+    "title": "Amerika",
+    "artist": "Lucie",
+    "date": "05.10.2025",
+    "time": "15:48",
+    "year": 2013,
+    "duration_ms": 331907,
+    "genre": "Pop",
+    "album": "Best Of",
+    "track_number": 1,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Trezor",
+    "artist": "Gott Karel & Olympic",
+    "date": "05.10.2025",
+    "time": "15:47",
+    "year": 1965,
+    "duration_ms": 116573,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Daj Ruku Do Mojej Ruky",
     "artist": "Smatanová Zuzana",
     "date": "05.10.2025",
@@ -36,7 +62,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Petr Hejduk",
+      "Zdeněk Rytíř"
+    ]
   },
   {
     "title": "Tentokrát Se Budu Smát Já",
@@ -140,7 +169,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Kuric"
+    ]
   },
   {
     "title": "Správne Dievčatá",
@@ -13977,7 +14009,10 @@
     "album": "Výber naživo",
     "track_number": 2,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Kuric"
+    ]
   },
   {
     "title": "Show Me Heaven",
