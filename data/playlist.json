@@ -1,5 +1,48 @@
 [
   {
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "05.10.2025",
+    "time": "20:43",
+    "year": 1993,
+    "duration_ms": 302360,
+    "genre": "Pop",
+    "album": "Ultimate",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Henri Belolo",
+      "Jacques Morali",
+      "Victor Willis"
+    ]
+  },
+  {
+    "title": "Comment Ca Va",
+    "artist": "The Shorts",
+    "date": "05.10.2025",
+    "time": "20:39",
+    "year": 2004,
+    "duration_ms": 209427,
+    "genre": "Pop",
+    "album": "Comment Ca Va",
+    "track_number": 1,
+    "artist_country_code": "NL",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Stumblin' In",
+    "artist": "Norman Chris & Quatro Suzi",
+    "date": "05.10.2025",
+    "time": "20:36",
+    "year": 1977,
+    "duration_ms": 238200,
+    "genre": "Rock",
+    "album": "Collections: Smokie",
+    "track_number": 18,
+    "artist_country_code": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "The Bomb! (These Sounds Fall Into My Mind)",
     "artist": "The Bucketheads",
     "date": "05.10.2025",
