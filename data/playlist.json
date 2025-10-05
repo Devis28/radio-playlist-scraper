@@ -1,5 +1,70 @@
 [
   {
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "date": "05.10.2025",
+    "time": "20:10",
+    "year": 1986,
+    "duration_ms": 222644,
+    "genre": "Hard Rock",
+    "album": "Slippery When Wet",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ]
+  },
+  {
+    "title": "No Limit",
+    "artist": "2 Unlimited",
+    "date": "05.10.2025",
+    "time": "20:06",
+    "year": 1992,
+    "duration_ms": 224221,
+    "genre": "Pop",
+    "album": "No Limits",
+    "track_number": 1,
+    "artist_country_code": "NL",
+    "songwriters": [
+      "Anita Doth",
+      "Jean-Paul de Coster",
+      "Phil Wilde",
+      "Ray Slijngaard"
+    ]
+  },
+  {
+    "title": "You're A Woman",
+    "artist": "Bad Boys Blue",
+    "date": "05.10.2025",
+    "time": "20:02",
+    "year": 1985,
+    "duration_ms": 321840,
+    "genre": "Pop",
+    "album": "Super 20",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Karin van Haaren",
+      "Mary Applegate",
+      "Tony Hendrik"
+    ]
+  },
+  {
+    "title": "Neposlušné Tenisky",
+    "artist": "Bílá Lucie",
+    "date": "05.10.2025",
+    "time": "19:58",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "S Nohami Na Stole",
     "artist": "Nagy Peter",
     "date": "05.10.2025",
@@ -19673,7 +19738,11 @@
     "album": "Super 20",
     "track_number": 7,
     "artist_country_code": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Karin van Haaren",
+      "Mary Applegate",
+      "Tony Hendrik"
+    ]
   },
   {
     "title": "Zvonky Štestí",
@@ -26013,7 +26082,11 @@
     "album": "Slippery When Wet",
     "track_number": 2,
     "artist_country_code": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ]
   },
   {
     "title": "I Wanna B with U",
