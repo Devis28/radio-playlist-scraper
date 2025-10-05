@@ -1,5 +1,21 @@
 [
   {
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "05.10.2025",
+    "time": "21:45",
+    "year": 1992,
+    "duration_ms": 243133,
+    "genre": "Pop",
+    "album": "One Love",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ]
+  },
+  {
     "title": "I Can Lose My Heart Tonight",
     "artist": "C.C. Catch",
     "date": "05.10.2025",
@@ -10,7 +26,9 @@
     "album": "Catch The Catch",
     "track_number": 2,
     "artist_country_code": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Dieter Bohlen"
+    ]
   },
   {
     "title": "Be My Baby",
