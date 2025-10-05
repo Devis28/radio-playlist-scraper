@@ -1,5 +1,187 @@
 [
   {
+    "title": "Líška",
+    "artist": "Jana Kirschner",
+    "date": "05.10.2025",
+    "time": "02:39",
+    "year": 2000,
+    "duration_ms": 194560,
+    "genre": "Pop",
+    "album": "V Cudzom Meste",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Only You",
+    "artist": "Yazoo",
+    "date": "05.10.2025",
+    "time": "02:36",
+    "year": 1982,
+    "duration_ms": 192293,
+    "genre": "Pop",
+    "album": "Only You (1999 Mix)",
+    "track_number": 6,
+    "artist_country": "GB",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "05.10.2025",
+    "time": "02:33",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country": "Not found",
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
+    "title": "Mám Krásny Sen (Hawaii)",
+    "artist": "Imt Smile",
+    "date": "05.10.2025",
+    "time": "02:29",
+    "year": 2008,
+    "duration_ms": 189787,
+    "genre": "Pop",
+    "album": "Hlava Ma Sedem Otvorov",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "I Got You Babe",
+    "artist": "Ub 40 Hynde Chrissie",
+    "date": "05.10.2025",
+    "time": "02:26",
+    "year": 1985,
+    "duration_ms": 190093,
+    "genre": "Reggae",
+    "album": "The Best of UB40, Vol. 1 & 2",
+    "track_number": 14,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Boli Sme Raz Milovaní",
+    "artist": "Habera Pavol",
+    "date": "05.10.2025",
+    "time": "02:23",
+    "year": 2000,
+    "duration_ms": 232293,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 5,
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "All By Myself",
+    "artist": "Eric Carmen",
+    "date": "05.10.2025",
+    "time": "02:18",
+    "year": 1975,
+    "duration_ms": 429997,
+    "genre": "Rock",
+    "album": "Eric Carmen",
+    "track_number": 4,
+    "artist_country": "US",
+    "songwriters": [
+      "Eric Carmen",
+      "Сергей Васильевич Рахманинов"
+    ]
+  },
+  {
+    "title": "Chráň Svoje Bláznovstvá",
+    "artist": "Peter Nagy",
+    "date": "05.10.2025",
+    "time": "02:15",
+    "year": 1984,
+    "duration_ms": 169987,
+    "genre": "Pop",
+    "album": "Chrán svoje bláznovstvá",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Pár Dní",
+    "artist": "Desmod & Zuzana Smatanová",
+    "date": "05.10.2025",
+    "time": "02:11",
+    "year": 2004,
+    "duration_ms": 210480,
+    "genre": "Rock",
+    "album": "Skupinova Terapia",
+    "track_number": 5,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "date": "05.10.2025",
+    "time": "02:07",
+    "year": 1994,
+    "duration_ms": 259853,
+    "genre": "Pop",
+    "album": "All-4-One",
+    "track_number": 4,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Sará Perché Ti Amo",
+    "artist": "Ricchi E Poveri",
+    "date": "05.10.2025",
+    "time": "02:03",
+    "year": 1981,
+    "duration_ms": 190693,
+    "genre": "Pop",
+    "album": "Ricchi e Poveri: The Collection",
+    "track_number": 7,
+    "artist_country": "IT",
+    "songwriters": [
+      "Daniele Pace",
+      "Dario Farina",
+      "Enzo Ghinazzi"
+    ]
+  },
+  {
+    "title": "Stay",
+    "artist": "Shakespear's Sister",
+    "date": "05.10.2025",
+    "time": "02:00",
+    "year": 1992,
+    "duration_ms": 229000,
+    "genre": "Rock",
+    "album": "Hormonally Yours",
+    "track_number": 6,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Jean Guiot",
+      "Marcella Detroit",
+      "Siobhan Fahey"
+    ]
+  },
+  {
+    "title": "Imagine",
+    "artist": "John Lennon, The Plastic Ono Band",
+    "date": "05.10.2025",
+    "time": "01:57",
+    "year": 1971,
+    "duration_ms": 186221,
+    "genre": "Rock",
+    "album": "Imagine (The Ultimate Mixes)",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Unikát",
     "artist": "Mária Čírová",
     "date": "05.10.2025",
@@ -12584,7 +12766,11 @@
     "album": "Hormonally Yours",
     "track_number": 6,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jean Guiot",
+      "Marcella Detroit",
+      "Siobhan Fahey"
+    ]
   },
   {
     "title": "Reklama Na Ticho",
@@ -15818,7 +16004,9 @@
     "album": "Over the Hump",
     "track_number": 12,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "The Kelly Family"
+    ]
   },
   {
     "title": "Loď do neznáma",
@@ -18890,7 +19078,10 @@
     "album": "Eric Carmen",
     "track_number": 4,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Eric Carmen",
+      "Сергей Васильевич Рахманинов"
+    ]
   },
   {
     "title": "Lovesong",
