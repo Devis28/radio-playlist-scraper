@@ -1,5 +1,101 @@
 [
   {
+    "title": "The Bomb! (These Sounds Fall Into My Mind)",
+    "artist": "The Bucketheads",
+    "date": "05.10.2025",
+    "time": "20:32",
+    "year": 1995,
+    "duration_ms": 202934,
+    "genre": "Dance",
+    "album": "All In the Mind",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Danny Seraphine",
+      "David “Hawk” Wolinski",
+      "Kenny “Dope” Gonzalez"
+    ]
+  },
+  {
+    "title": "Girls Just Wanna Have Fun",
+    "artist": "Cyndi Lauper",
+    "date": "05.10.2025",
+    "time": "20:29",
+    "year": 1983,
+    "duration_ms": 224510,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Robert Hazard"
+    ]
+  },
+  {
+    "title": "The Road To Mandalay",
+    "artist": "Williams, Robbie",
+    "date": "05.10.2025",
+    "time": "20:25",
+    "year": 2000,
+    "duration_ms": 237401,
+    "genre": "Adult Alternative",
+    "album": "Sing When You're Winning",
+    "track_number": 12,
+    "artist_country_code": "GB",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Comment Te Dire Adieu",
+    "artist": "Somerville Jimmy & June Miles Kingston",
+    "date": "05.10.2025",
+    "time": "20:21",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "Not found",
+    "songwriters": [
+      "Arnold Goland",
+      "Jack Gold",
+      "Serge Gainsbourg"
+    ]
+  },
+  {
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "05.10.2025",
+    "time": "20:17",
+    "year": 1995,
+    "duration_ms": 240867,
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
+  },
+  {
+    "title": "Le Freak",
+    "artist": "Chic",
+    "date": "05.10.2025",
+    "time": "20:13",
+    "year": 1978,
+    "duration_ms": 331387,
+    "genre": "Dance",
+    "album": "C'est Chic (2018 Remaster)",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Bernard Edwards",
+      "Nile Rodgers"
+    ]
+  },
+  {
     "title": "You Give Love A Bad Name",
     "artist": "Bon Jovi",
     "date": "05.10.2025",
@@ -8951,7 +9047,12 @@
     "album": "La Bouche: Greatest Hits",
     "track_number": 2,
     "artist_country_code": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
   },
   {
     "title": "Zhorí Všetko Čo Mám",
@@ -12833,7 +12934,12 @@
     "album": "La Bouche: Greatest Hits",
     "track_number": 2,
     "artist_country_code": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
   },
   {
     "title": "Karma Chameleon",
@@ -21543,7 +21649,12 @@
     "album": "La Bouche: Greatest Hits",
     "track_number": 2,
     "artist_country_code": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
   },
   {
     "title": "Words",
@@ -25609,7 +25720,9 @@
     "album": "80s 100 Hits",
     "track_number": 2,
     "artist_country_code": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Robert Hazard"
+    ]
   },
   {
     "title": "Rhythm Of The Night",
@@ -31192,7 +31305,12 @@
     "album": "La Bouche: Greatest Hits",
     "track_number": 2,
     "artist_country_code": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
   },
   {
     "title": "Stay",
