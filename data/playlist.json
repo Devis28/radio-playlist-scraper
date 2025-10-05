@@ -1,5 +1,42 @@
 [
   {
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "date": "05.10.2025",
+    "time": "21:53",
+    "year": 1977,
+    "duration_ms": 121235,
+    "genre": "Rock",
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Brian May"
+    ]
+  },
+  {
+    "title": "Fresh",
+    "artist": "Kool & The Gang",
+    "date": "05.10.2025",
+    "time": "21:49",
+    "year": 1984,
+    "duration_ms": 266560,
+    "genre": "R&B/Soul",
+    "album": "Emergency",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Claydes Smith",
+      "Curtis “Fitz” Williams",
+      "George Brown",
+      "James “J.T.” Taylor",
+      "Jim Bonnefond",
+      "Robert “Kool” Bell",
+      "Ronald Bell",
+      "Sandy Linzer"
+    ]
+  },
+  {
     "title": "It's My Life",
     "artist": "Dr. Alban",
     "date": "05.10.2025",
@@ -13785,7 +13822,9 @@
     "album": "News Of The World (Deluxe Edition / Remastered 2011)",
     "track_number": 1,
     "artist_country_code": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brian May"
+    ]
   },
   {
     "title": "I Wanna B with U",
@@ -17600,7 +17639,9 @@
     "album": "News Of The World (Deluxe Edition / Remastered 2011)",
     "track_number": 1,
     "artist_country_code": "GB",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Brian May"
+    ]
   },
   {
     "title": "Mesto Snov",
