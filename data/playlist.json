@@ -1,5 +1,99 @@
 [
   {
+    "title": "Když Se Načančám",
+    "artist": "Heidi Janků",
+    "date": "05.10.2025",
+    "time": "14:57",
+    "year": 2002,
+    "duration_ms": 223000,
+    "genre": "Pop",
+    "album": "Veselé Dětské Písničky",
+    "track_number": 17,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Zrpš",
+    "artist": "Hammel, Pavol",
+    "date": "05.10.2025",
+    "time": "14:54",
+    "year": 1981,
+    "duration_ms": 179747,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Ona Je Taká",
+    "artist": "Polemic",
+    "date": "05.10.2025",
+    "time": "14:51",
+    "year": 2007,
+    "duration_ms": 233433,
+    "genre": "Rock",
+    "album": "Polemic: Live",
+    "track_number": 3,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Zlodejka Snov Ii",
+    "artist": "Miro Žbirka",
+    "date": "05.10.2025",
+    "time": "14:46",
+    "year": 2002,
+    "duration_ms": 237400,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Holky Z Naší Školky",
+    "artist": "Stanislav Hložek & Petr Kotvald",
+    "date": "05.10.2025",
+    "time": "14:43",
+    "year": 1983,
+    "duration_ms": 232493,
+    "genre": "Pop",
+    "album": "Holky Z Naší Školky",
+    "track_number": 1,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Karel Vágner",
+      "Pavel Žák"
+    ]
+  },
+  {
+    "title": "Anjel",
+    "artist": "Maduar",
+    "date": "05.10.2025",
+    "time": "14:37",
+    "year": 2017,
+    "duration_ms": 336773,
+    "genre": "Pop",
+    "album": "Hafanana the Best of, Vol. 2",
+    "track_number": 21,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Růže Z Texasu",
+    "artist": "Matuška Waldemar",
+    "date": "05.10.2025",
+    "time": "14:34",
+    "year": 1963,
+    "duration_ms": 239947,
+    "genre": "Pop",
+    "album": "Zpívá Waldemar Matuška",
+    "track_number": 12,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Čo O Mne Vieš",
     "artist": "Rolincova Darinka",
     "date": "05.10.2025",
@@ -13034,7 +13128,10 @@
     "album": "Holky Z Naší Školky",
     "track_number": 1,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Karel Vágner",
+      "Pavel Žák"
+    ]
   },
   {
     "title": "V nás",
@@ -16556,7 +16653,10 @@
     "album": "Holky Z Naší Školky",
     "track_number": 1,
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Karel Vágner",
+      "Pavel Žák"
+    ]
   },
   {
     "title": "Because I Love You",
