@@ -1,5 +1,39 @@
 [
   {
+    "title": "Keep On Dancing",
+    "artist": "DJ Bobo",
+    "date": "05.10.2025",
+    "time": "21:35",
+    "year": 2002,
+    "duration_ms": 211747,
+    "genre": "Pop",
+    "album": "25 Years - Greatest Hits",
+    "track_number": 6,
+    "artist_country_code": "CH",
+    "songwriters": [
+      "Daniel Peyer",
+      "Gutze Gautschi",
+      "Mark Wyss",
+      "René Baumann"
+    ]
+  },
+  {
+    "title": "I Wanna Dance With Somebody",
+    "artist": "Whitney Houston",
+    "date": "05.10.2025",
+    "time": "21:30",
+    "year": 1987,
+    "duration_ms": 289373,
+    "genre": "R&B/Soul",
+    "album": "The Ultimate Collection",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": [
+      "George Merrill",
+      "Shannon Rubicam"
+    ]
+  },
+  {
     "title": "Joyride",
     "artist": "Roxette",
     "date": "05.10.2025",
@@ -25,7 +59,9 @@
     "album": "Business As Usual",
     "track_number": 1,
     "artist_country_code": "AU",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Colin Hay"
+    ]
   },
   {
     "title": "Always",
@@ -23991,7 +24027,10 @@
     "album": "The Ultimate Collection",
     "track_number": 5,
     "artist_country_code": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "George Merrill",
+      "Shannon Rubicam"
+    ]
   },
   {
     "title": "Kométa (Pre Gumpa)",
@@ -27509,7 +27548,10 @@
     "album": "The Ultimate Collection",
     "track_number": 5,
     "artist_country_code": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "George Merrill",
+      "Shannon Rubicam"
+    ]
   },
   {
     "title": "Láska, Necestuj Tým Vlakom",
