@@ -1,5 +1,83 @@
 [
   {
+    "title": "Colu, Pijeme Colu",
+    "artist": "Michal David",
+    "date": "05.10.2025",
+    "time": "15:19",
+    "year": 2008,
+    "duration_ms": 253331,
+    "genre": "Pop",
+    "album": "Disco 2008",
+    "track_number": 2,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Rozvíjej Se Poupátko",
+    "artist": "Iveta Bartošová",
+    "date": "05.10.2025",
+    "time": "15:16",
+    "year": 2000,
+    "duration_ms": 194733,
+    "genre": "Pop",
+    "album": "Jedna jedina",
+    "track_number": 1,
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "05.10.2025",
+    "time": "15:12",
+    "year": 1995,
+    "duration_ms": 224493,
+    "genre": "Rock",
+    "album": "Habera 2",
+    "track_number": 8,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "05.10.2025",
+    "time": "15:07",
+    "year": 1988,
+    "duration_ms": 221040,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Správne Dievčatá",
+    "artist": "Gombitová Marika",
+    "date": "05.10.2025",
+    "time": "15:03",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "null",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Žily",
+    "artist": "No Name",
+    "date": "05.10.2025",
+    "time": "15:00",
+    "year": 2001,
+    "duration_ms": 202040,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Když Se Načančám",
     "artist": "Heidi Janků",
     "date": "05.10.2025",
@@ -867,7 +945,7 @@
     "genre": "Pop",
     "album": "Not found",
     "track_number": "Not found",
-    "artist_country": "Not found",
+    "artist_country": "CZ",
     "songwriters": "Not found"
   },
   {
@@ -1532,7 +1610,7 @@
     "genre": "Pop",
     "album": "Top 13",
     "track_number": 3,
-    "artist_country": "Not found",
+    "artist_country": "CZ",
     "songwriters": "Not found"
   },
   {
@@ -14631,7 +14709,7 @@
     "genre": "Pop",
     "album": "České hity",
     "track_number": 33,
-    "artist_country": "Not found",
+    "artist_country": "CZ",
     "songwriters": "Not found"
   },
   {
@@ -20195,7 +20273,7 @@
     "genre": "Pop",
     "album": "Top 13",
     "track_number": 3,
-    "artist_country": "Not found",
+    "artist_country": "CZ",
     "songwriters": "Not found"
   },
   {
@@ -29691,7 +29769,7 @@
     "genre": "Pop",
     "album": "Knoflíky Lásky",
     "track_number": 2,
-    "artist_country": "Not found",
+    "artist_country": "CZ",
     "songwriters": "Not found"
   },
   {
