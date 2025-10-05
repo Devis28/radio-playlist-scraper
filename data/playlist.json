@@ -1,5 +1,352 @@
 [
   {
+    "title": "Raindrops Keep Fallin' On My Head",
+    "artist": "B. J. Thomas",
+    "date": "05.10.2025",
+    "time": "04:18",
+    "year": 1970,
+    "duration_ms": 184493,
+    "genre": "Pop",
+    "album": "Raindrops Keep Fallin' On My Head",
+    "track_number": 2,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Burt Bacharach",
+      "Hal David"
+    ]
+  },
+  {
+    "title": "Love Is The Shield",
+    "artist": "Camouflage",
+    "date": "05.10.2025",
+    "time": "04:14",
+    "year": 1997,
+    "duration_ms": 236000,
+    "genre": "Pop",
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "track_number": 9,
+    "artist_country": "DE",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Stonka",
+    "artist": "Kristína",
+    "date": "05.10.2025",
+    "time": "04:11",
+    "year": 2010,
+    "duration_ms": 227267,
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 9,
+    "artist_country": "SK",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Land Of Dreaming",
+    "artist": "Masterboy",
+    "date": "05.10.2025",
+    "time": "04:06",
+    "year": 1995,
+    "duration_ms": 243000,
+    "genre": "Dance",
+    "album": "Generation of Love",
+    "track_number": 5,
+    "artist_country": "DE",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Kráľovná Bielych Tenisiek",
+    "artist": "Elán",
+    "date": "05.10.2025",
+    "time": "04:03",
+    "year": 2016,
+    "duration_ms": 225339,
+    "genre": "Pop",
+    "album": "Živých Nás Nedostanú (Extended Version)",
+    "track_number": 22,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Kto Z Nás Dvoch Sa Lásky Opýta?",
+    "artist": "Team",
+    "date": "05.10.2025",
+    "time": "03:59",
+    "year": 1988,
+    "duration_ms": 242413,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 10,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Break My Stride",
+    "artist": "Unique Ii",
+    "date": "05.10.2025",
+    "time": "03:55",
+    "year": 1996,
+    "duration_ms": 198200,
+    "genre": "Dance",
+    "album": "LEVEL II",
+    "track_number": 1,
+    "artist_country": "AT",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Cesty II. Triedy",
+    "artist": "Ivan Tásler & I.M.T. Smile",
+    "date": "05.10.2025",
+    "time": "03:51",
+    "year": 2015,
+    "duration_ms": 234587,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 9,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "How Deep Is Your Love",
+    "artist": "The Bee Gees",
+    "date": "05.10.2025",
+    "time": "03:47",
+    "year": 1977,
+    "duration_ms": 246241,
+    "genre": "Pop",
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "track_number": 20,
+    "artist_country": "AU",
+    "songwriters": [
+      "Barry Gibb",
+      "Maurice Gibb",
+      "Robin Gibb"
+    ]
+  },
+  {
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "05.10.2025",
+    "time": "03:44",
+    "year": 1995,
+    "duration_ms": 284310,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "US",
+    "songwriters": [
+      "Michael Jackson"
+    ]
+  },
+  {
+    "title": "Touch Me (I Want Your Body)",
+    "artist": "Fox Samantha",
+    "date": "05.10.2025",
+    "time": "03:40",
+    "year": 1986,
+    "duration_ms": 213684,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 93,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Se Bastasse Una Canzone",
+    "artist": "Ramazzotti Eros",
+    "date": "05.10.2025",
+    "time": "03:36",
+    "year": 1987,
+    "duration_ms": 323867,
+    "genre": "Pop",
+    "album": "Eros",
+    "track_number": 13,
+    "artist_country": "Not found",
+    "songwriters": [
+      "Adelio Cogliati",
+      "Eros Ramazzotti",
+      "Piero Cassano"
+    ]
+  },
+  {
+    "title": "Wonderful Life",
+    "artist": "Black",
+    "date": "05.10.2025",
+    "time": "03:31",
+    "year": 1986,
+    "duration_ms": 287933,
+    "genre": "Rock",
+    "album": "Wonderful Life",
+    "track_number": 1,
+    "artist_country": "DE",
+    "songwriters": [
+      "Colin Vearncombe"
+    ]
+  },
+  {
+    "title": "Prútikár",
+    "artist": "Zuzana Smatanová & Richard Autner",
+    "date": "05.10.2025",
+    "time": "03:27",
+    "year": 2024,
+    "duration_ms": 244947,
+    "genre": "Pop",
+    "album": "Prútikár (feat. Richard Autner) - Single",
+    "track_number": 1,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "One More Try",
+    "artist": "Timmy T",
+    "date": "05.10.2025",
+    "time": "03:23",
+    "year": 1990,
+    "duration_ms": 209427,
+    "genre": "Pop",
+    "album": "Time After Time",
+    "track_number": 2,
+    "artist_country": "US",
+    "songwriters": [
+      "Timmy T"
+    ]
+  },
+  {
+    "title": "Mama Kúp Mi Rontgen",
+    "artist": "Yps",
+    "date": "05.10.2025",
+    "time": "03:21",
+    "year": 2007,
+    "duration_ms": 155440,
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "05.10.2025",
+    "time": "03:16",
+    "year": 1991,
+    "duration_ms": 275667,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 7,
+    "artist_country": "SE",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Dovtedy",
+    "artist": "Adam Ďurica",
+    "date": "05.10.2025",
+    "time": "03:14",
+    "year": 2016,
+    "duration_ms": 147750,
+    "genre": "Pop",
+    "album": "Spolu",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "I Don't Want To Miss A Thing",
+    "artist": "Aerosmith",
+    "date": "05.10.2025",
+    "time": "03:09",
+    "year": 1998,
+    "duration_ms": 299723,
+    "genre": "Soundtrack",
+    "album": "I Don't Want To Miss A Thing EP",
+    "track_number": 1,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "You Can Win If You Want",
+    "artist": "Modern Talking",
+    "date": "05.10.2025",
+    "time": "03:05",
+    "year": 1985,
+    "duration_ms": 227880,
+    "genre": "Pop",
+    "album": "You're My Heart, You're My Soul",
+    "track_number": 6,
+    "artist_country": "DE",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "05.10.2025",
+    "time": "03:02",
+    "year": 1977,
+    "duration_ms": 209760,
+    "genre": "Pop",
+    "album": "It's a Heartache",
+    "track_number": 1,
+    "artist_country": "GB",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Like A Prayer",
+    "artist": "Madonna",
+    "date": "05.10.2025",
+    "time": "02:56",
+    "year": 1989,
+    "duration_ms": 340867,
+    "genre": "Pop",
+    "album": "Like a Prayer",
+    "track_number": 1,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Seal",
+    "date": "05.10.2025",
+    "time": "02:52",
+    "year": 1990,
+    "duration_ms": 356520,
+    "genre": "Pop",
+    "album": "Seal: Hits (Deluxe Version)",
+    "track_number": 3,
+    "artist_country": "GB",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Super Trouper",
+    "artist": "Abba",
+    "date": "05.10.2025",
+    "time": "02:47",
+    "year": 1980,
+    "duration_ms": 251298,
+    "genre": "Pop",
+    "album": "Super Trouper (Bonus Track Version)",
+    "track_number": 1,
+    "artist_country": "SE",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "05.10.2025",
+    "time": "02:43",
+    "year": 2022,
+    "duration_ms": 76173,
+    "genre": "House",
+    "album": "Claptone at DAY.MVS XL 2022: Northside (DJ Mix)",
+    "track_number": 4,
+    "artist_country": "IT",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Líška",
     "artist": "Jana Kirschner",
     "date": "05.10.2025",
@@ -10455,7 +10802,11 @@
     "album": "Saturday Night Fever (The Original Movie Soundtrack)",
     "track_number": 20,
     "artist_country": "AU",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Barry Gibb",
+      "Maurice Gibb",
+      "Robin Gibb"
+    ]
   },
   {
     "title": "Chýbaš Mi",
@@ -11592,7 +11943,9 @@
     "album": "The Braun MTV Eurochart ’96, Volume 5",
     "track_number": 7,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Michael Jackson"
+    ]
   },
   {
     "title": "Anjel",
@@ -12796,7 +13149,11 @@
     "album": "Eros",
     "track_number": 13,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Adelio Cogliati",
+      "Eros Ramazzotti",
+      "Piero Cassano"
+    ]
   },
   {
     "title": "Podvod",
@@ -13998,7 +14355,11 @@
     "album": "Saturday Night Fever (The Original Movie Soundtrack)",
     "track_number": 20,
     "artist_country": "AU",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Barry Gibb",
+      "Maurice Gibb",
+      "Robin Gibb"
+    ]
   },
   {
     "title": "Holky Z Naší Školky",
@@ -15831,7 +16192,12 @@
     "album": "V Sieti Ta Mam",
     "track_number": 9,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
   },
   {
     "title": "Sealed With The Kiss",
@@ -16876,7 +17242,9 @@
     "album": "Wonderful Life",
     "track_number": 1,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Colin Vearncombe"
+    ]
   },
   {
     "title": "Happy People",
@@ -20166,7 +20534,9 @@
     "album": "The Braun MTV Eurochart ’96, Volume 5",
     "track_number": 7,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Michael Jackson"
+    ]
   },
   {
     "title": "Unikát",
@@ -20782,7 +21152,11 @@
     "album": "Eros",
     "track_number": 13,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Adelio Cogliati",
+      "Eros Ramazzotti",
+      "Piero Cassano"
+    ]
   },
   {
     "title": "Je Jaká Je",
@@ -23771,7 +24145,9 @@
     "album": "The Braun MTV Eurochart ’96, Volume 5",
     "track_number": 7,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Michael Jackson"
+    ]
   },
   {
     "title": "Heaven",
@@ -24751,7 +25127,9 @@
     "album": "Wonderful Life",
     "track_number": 1,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Colin Vearncombe"
+    ]
   },
   {
     "title": "Désenchantee",
@@ -26223,7 +26601,11 @@
     "album": "Eros",
     "track_number": 13,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Adelio Cogliati",
+      "Eros Ramazzotti",
+      "Piero Cassano"
+    ]
   },
   {
     "title": "Joe Le Taxi",
@@ -26654,7 +27036,9 @@
     "album": "Time After Time",
     "track_number": 2,
     "artist_country": "US",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Timmy T"
+    ]
   },
   {
     "title": "Mandolína",
@@ -26680,7 +27064,10 @@
     "album": "Raindrops Keep Fallin' On My Head",
     "track_number": 2,
     "artist_country": "Not found",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Burt Bacharach",
+      "Hal David"
+    ]
   },
   {
     "title": "Aj Tak Sme Frajeri",
