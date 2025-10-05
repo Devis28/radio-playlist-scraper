@@ -1,5 +1,31 @@
 [
   {
+    "title": "Faith",
+    "artist": "Michael George",
+    "date": "05.10.2025",
+    "time": "23:30",
+    "year": 1987,
+    "duration_ms": 193200,
+    "genre": "Pop",
+    "album": "Faith (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Losing My Religion",
+    "artist": "R.E.M.",
+    "date": "05.10.2025",
+    "time": "23:26",
+    "year": 1991,
+    "duration_ms": 268427,
+    "genre": "Alternative",
+    "album": "Out of Time (25th Anniversary Edition)",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Just An Illusion",
     "artist": "Imagination",
     "date": "05.10.2025",
