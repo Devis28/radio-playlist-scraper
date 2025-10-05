@@ -1,5 +1,100 @@
 [
   {
+    "title": "Heal The World",
+    "artist": "Jackson, Michael",
+    "date": "05.10.2025",
+    "time": "05:37",
+    "year": 1991,
+    "duration_ms": 385713,
+    "genre": "Pop",
+    "album": "The Essential Michael Jackson",
+    "track_number": 10,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "05.10.2025",
+    "time": "05:33",
+    "year": 2012,
+    "duration_ms": 229893,
+    "genre": "Dance",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "CH",
+    "songwriters": [
+      "Daniel Peyer",
+      "Joe South",
+      "René Baumann"
+    ]
+  },
+  {
+    "title": "Hard To Say I'm Sorry",
+    "artist": "Chicago",
+    "date": "05.10.2025",
+    "time": "05:30",
+    "year": 1982,
+    "duration_ms": 223280,
+    "genre": "Rock",
+    "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
+    "track_number": 3,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Spoluhráčka",
+    "artist": "Modus",
+    "date": "05.10.2025",
+    "time": "05:27",
+    "year": 2005,
+    "duration_ms": 205947,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 6,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "She's Like The Wind",
+    "artist": "Patrick Swayze",
+    "date": "05.10.2025",
+    "time": "05:23",
+    "year": 1987,
+    "duration_ms": 232907,
+    "genre": "Soundtrack",
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "track_number": 3,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Neobzerajte Sa Pani Lótová",
+    "artist": "Elán",
+    "date": "05.10.2025",
+    "time": "05:20",
+    "year": 1986,
+    "duration_ms": 164893,
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 4,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "I'll Stand By You",
+    "artist": "Pretenders, The",
+    "date": "05.10.2025",
+    "time": "05:17",
+    "year": 1994,
+    "duration_ms": 238827,
+    "genre": "Rock",
+    "album": "Last of the Independents",
+    "track_number": 7,
+    "artist_country": "US",
+    "songwriters": "Not found"
+  },
+  {
     "title": "Ja Som To Vedel",
     "artist": "Polemic",
     "date": "05.10.2025",
@@ -77,7 +172,11 @@
     "album": "We See The Same Sun",
     "track_number": 2,
     "artist_country": "DE",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Delroy Rennalls",
+      "Kai Matthiesen",
+      "Rainer Gaffrey"
+    ]
   },
   {
     "title": "One Of Us",
@@ -191,7 +290,10 @@
     "album": "Výberovka",
     "track_number": 7,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ]
   },
   {
     "title": "Raindrops Keep Fallin' On My Head",
@@ -11877,7 +11979,11 @@
     "album": "WWW.DJBOBO.CH: The Ultimate Megamix '99",
     "track_number": 3,
     "artist_country": "CH",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniel Peyer",
+      "Joe South",
+      "René Baumann"
+    ]
   },
   {
     "title": "Tam Kde Sa Neumiera",
@@ -16178,7 +16284,10 @@
     "album": "Výberovka",
     "track_number": 7,
     "artist_country": "SK",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ]
   },
   {
     "title": "I'm So Excited",
@@ -22588,7 +22697,11 @@
     "album": "WWW.DJBOBO.CH: The Ultimate Megamix '99",
     "track_number": 3,
     "artist_country": "CH",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Daniel Peyer",
+      "Joe South",
+      "René Baumann"
+    ]
   },
   {
     "title": "Červená Řeka",
