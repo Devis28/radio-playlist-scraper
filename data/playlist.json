@@ -1,5 +1,125 @@
 [
   {
+    "title": "Nepoznám",
+    "artist": "Imt Smile",
+    "date": "05.10.2025",
+    "time": "18:29",
+    "year": 2002,
+    "duration_ms": 237813,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Saxana",
+    "artist": "Petra Černocká",
+    "date": "05.10.2025",
+    "time": "18:27",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "CZ",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Reklama Na Ticho",
+    "artist": "Team",
+    "date": "05.10.2025",
+    "time": "18:23",
+    "year": 1988,
+    "duration_ms": 222427,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 2,
+    "artist_country": "SK",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Co Sudičky Přály Nám",
+    "artist": "Bílá Lucie Gott Karel",
+    "date": "05.10.2025",
+    "time": "18:18",
+    "year": 1997,
+    "duration_ms": 305093,
+    "genre": "Pop",
+    "album": "Duety (2018 Edition)",
+    "track_number": 3,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "05.10.2025",
+    "time": "18:13",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Tam Kde Sa Neumiera",
+    "artist": "Smatanová Zuzana",
+    "date": "05.10.2025",
+    "time": "18:08",
+    "year": 2003,
+    "duration_ms": 231611,
+    "genre": "Pop",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Psi Sa Bránia Útokom",
+    "artist": "Nagy, Peter A Raz, Jozef",
+    "date": "05.10.2025",
+    "time": "18:04",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Už Po Nás Lásko Má Jdou",
+    "artist": "Kotvald Petr",
+    "date": "05.10.2025",
+    "time": "18:00",
+    "year": 1992,
+    "duration_ms": 260560,
+    "genre": "Pop",
+    "album": "Můj Hlas",
+    "track_number": 2,
+    "artist_country": "Not found",
+    "songwriters": "Not found"
+  },
+  {
+    "title": "Šaty",
+    "artist": "Gombitová Marika",
+    "date": "05.10.2025",
+    "time": "17:57",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
     "title": "Kamarát",
     "artist": "Exil",
     "date": "05.10.2025",
@@ -15547,7 +15667,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
   },
   {
     "title": "Korálky Od Natálky",
@@ -25737,7 +25860,10 @@
     "album": "Not found",
     "track_number": "Not found",
     "artist_country": "null",
-    "songwriters": "Not found"
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
   },
   {
     "title": "Atlantis Is Calling (S.O.S. For Love)",
