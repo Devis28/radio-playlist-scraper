@@ -1,5 +1,47 @@
 [
   {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "06.10.2025",
+    "time": "13:22",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Time After Time",
+    "artist": "Cyndi Lauper",
+    "date": "06.10.2025",
+    "time": "13:18",
+    "year": 1984,
+    "duration_ms": 243067,
+    "genre": "Pop",
+    "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Zbohom Bud, Lipova Lyzka,...",
+    "artist": "Dočolomanský Michal",
+    "date": "06.10.2025",
+    "time": "13:15",
+    "year": 2023,
+    "duration_ms": 219000,
+    "genre": "Pop",
+    "album": "Hity & Duety",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Ernest Bryll",
+      "Katarzyna Gärtner"
+    ]
+  },
+  {
     "title": "Hallelujah",
     "artist": "Alexandra Burke",
     "date": "06.10.2025",
