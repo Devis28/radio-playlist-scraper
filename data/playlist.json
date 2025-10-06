@@ -1,5 +1,18 @@
 [
   {
+    "title": "Zažni",
+    "artist": "Miro Žbirka",
+    "date": "06.10.2025",
+    "time": "12:23",
+    "year": 2011,
+    "duration_ms": 215293,
+    "genre": "Pop",
+    "album": "Symphonic Album",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Volare (Nel Blu Di Pinto Di Blu)",
     "artist": "The Gipsy Kings",
     "date": "06.10.2025",
@@ -48,7 +61,7 @@
     "genre": "Pop",
     "album": "Kto Chce & Ak Náhodou - Single",
     "track_number": 2,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -74,7 +87,7 @@
     "genre": "Pop",
     "album": "Rendez Vous",
     "track_number": 21,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -231,7 +244,10 @@
     "album": "Ronan",
     "track_number": 6,
     "artist_country_code": null,
-    "songwriters": null
+    "songwriters": [
+      "Don Schlitz",
+      "Paul Overstreet"
+    ]
   },
   {
     "title": "Prvá",
@@ -243,7 +259,7 @@
     "genre": "Pop",
     "album": "Zlomky poznania",
     "track_number": 6,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -348,7 +364,10 @@
     "album": "What a Wonderful World",
     "track_number": 1,
     "artist_country_code": "US",
-    "songwriters": null
+    "songwriters": [
+      "Bob Thiele",
+      "George David Weiss"
+    ]
   },
   {
     "title": "I Want To Break Free",
@@ -361,7 +380,9 @@
     "album": "The Works (Deluxe Edition)",
     "track_number": 6,
     "artist_country_code": "GB",
-    "songwriters": null
+    "songwriters": [
+      "John Deacon"
+    ]
   },
   {
     "title": "I Believe I Can Fly",
@@ -412,8 +433,11 @@
     "genre": "Pop",
     "album": "Chýbaš Mi...",
     "track_number": 7,
-    "artist_country_code": null,
-    "songwriters": null
+    "artist_country_code": "null",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
   },
   {
     "title": "Que Sera Mi Vida",
@@ -426,7 +450,11 @@
     "album": "54 (Music from the Miramax Motion Picture) [Volume 1]",
     "track_number": 15,
     "artist_country_code": "US",
-    "songwriters": null
+    "songwriters": [
+      "Daniel Vangarde",
+      "Jean Kluger",
+      "Nelly Byl"
+    ]
   },
   {
     "title": "Ulica",
@@ -504,7 +532,9 @@
     "album": "Coyote Ugly",
     "track_number": 1,
     "artist_country_code": null,
-    "songwriters": null
+    "songwriters": [
+      "Diane Warren"
+    ]
   },
   {
     "title": "Hiroshima",
@@ -529,7 +559,7 @@
     "genre": "Pop",
     "album": "Kam Zmizel Ten Starý Song",
     "track_number": 15,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -595,7 +625,10 @@
     "album": "Eye of the Tiger",
     "track_number": 1,
     "artist_country_code": "US",
-    "songwriters": null
+    "songwriters": [
+      "Frankie Sullivan",
+      "Jim Peterik"
+    ]
   },
   {
     "title": "Prvý Bozk",
@@ -686,7 +719,9 @@
     "album": "90s 100 Hits",
     "track_number": 34,
     "artist_country_code": "GB",
-    "songwriters": null
+    "songwriters": [
+      "Paul Walden"
+    ]
   },
   {
     "title": "22 Dní",
@@ -698,7 +733,7 @@
     "genre": "Pop",
     "album": "Nemoderný chalan",
     "track_number": 1,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -764,7 +799,9 @@
     "album": "Synchronicity (Remastered 2003)",
     "track_number": 7,
     "artist_country_code": "GB",
-    "songwriters": null
+    "songwriters": [
+      "Sting"
+    ]
   },
   {
     "title": "Perfect Day",
@@ -790,7 +827,12 @@
     "album": "The Greatest Hits",
     "track_number": 2,
     "artist_country_code": "DE",
-    "songwriters": null
+    "songwriters": [
+      "Brent Dowe",
+      "Frank Farian",
+      "George Reyam",
+      "Trevor McNaughton"
+    ]
   },
   {
     "title": "Show Me Heaven",
@@ -881,7 +923,14 @@
     "album": "Believe",
     "track_number": 1,
     "artist_country_code": "US",
-    "songwriters": null
+    "songwriters": [
+      "Brian Higgins",
+      "Matt Gray",
+      "Paul Barry",
+      "Steve Torch",
+      "Stuart McLennan",
+      "Tim Powell"
+    ]
   },
   {
     "title": "Orinoco Flow",
@@ -907,7 +956,11 @@
     "album": "ABBA Gold: Greatest Hits",
     "track_number": 7,
     "artist_country_code": "SE",
-    "songwriters": null
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
   },
   {
     "title": "Hungry Eyes",
@@ -919,7 +972,7 @@
     "genre": "Soundtrack",
     "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
     "track_number": 4,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -933,7 +986,11 @@
     "album": "Laundry Service",
     "track_number": 3,
     "artist_country_code": "CO",
-    "songwriters": null
+    "songwriters": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ]
   },
   {
     "title": "We Are The Champions",
@@ -1023,7 +1080,7 @@
     "genre": "Not found",
     "album": "Not found",
     "track_number": "Not found",
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -1037,7 +1094,10 @@
     "album": "The Bridge (Remastered)",
     "track_number": 1,
     "artist_country_code": "SE",
-    "songwriters": null
+    "songwriters": [
+      "John Ballard",
+      "Jonas Berggren"
+    ]
   },
   {
     "title": "Jinak To Nejde",
@@ -1063,7 +1123,9 @@
     "album": "The 30 Biggest Hits XXX",
     "track_number": 10,
     "artist_country_code": "SE",
-    "songwriters": null
+    "songwriters": [
+      "Per Gessle"
+    ]
   },
   {
     "title": "Unchained Melody",
@@ -1270,8 +1332,12 @@
     "genre": "Pop",
     "album": "Never Say Never",
     "track_number": 16,
-    "artist_country_code": null,
-    "songwriters": null
+    "artist_country_code": "null",
+    "songwriters": [
+      "Bryan Adams",
+      "Michael Kamen",
+      "Robert John “Mutt” Lange"
+    ]
   },
   {
     "title": "Severní Vítr",
@@ -1362,7 +1428,10 @@
     "album": "Life Thru a Lens",
     "track_number": 4,
     "artist_country_code": "GB",
-    "songwriters": null
+    "songwriters": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ]
   },
   {
     "title": "Nevrav Mi Aký Som",
@@ -1401,7 +1470,9 @@
     "album": "Dreamland (Including One and One)",
     "track_number": 1,
     "artist_country_code": "IT",
-    "songwriters": null
+    "songwriters": [
+      "Roberto Concina"
+    ]
   },
   {
     "title": "Nech Sa Deje Čo Sa Má",
@@ -1479,7 +1550,9 @@
     "album": "Výberovka",
     "track_number": 13,
     "artist_country_code": "SK",
-    "songwriters": null
+    "songwriters": [
+      "Richard Müller"
+    ]
   },
   {
     "title": "7 Seconds",
@@ -1570,7 +1643,10 @@
     "album": "Hits! The Very Best of Erasure",
     "track_number": 10,
     "artist_country_code": "GB",
-    "songwriters": null
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
   },
   {
     "title": "Dream On",
@@ -1661,7 +1737,10 @@
     "album": "It's Raining Men - Single",
     "track_number": 1,
     "artist_country_code": "GB",
-    "songwriters": null
+    "songwriters": [
+      "Paul Jabara",
+      "Paul Shaffer"
+    ]
   },
   {
     "title": "Nekráčaj Predo Mnou",
@@ -1738,7 +1817,7 @@
     "genre": "Soundtrack",
     "album": "Spirit: Stallion of the Cimarron (Music from the Original Motion Picture)",
     "track_number": 1,
-    "artist_country_code": null,
+    "artist_country_code": "CA",
     "songwriters": null
   },
   {
@@ -1765,7 +1844,12 @@
     "album": "Bohemian Rhapsody (The Original Soundtrack)",
     "track_number": 22,
     "artist_country_code": "GB",
-    "songwriters": null
+    "songwriters": [
+      "Brian May",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor"
+    ]
   },
   {
     "title": "Dvaja",
@@ -1777,7 +1861,7 @@
     "genre": "Pop",
     "album": "Kam idú ľudia?",
     "track_number": 7,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -1804,7 +1888,11 @@
     "album": "Eros 30 (Deluxe Version)",
     "track_number": 8,
     "artist_country_code": "IT",
-    "songwriters": null
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
   },
   {
     "title": "Slovenská",
@@ -1816,7 +1904,7 @@
     "genre": "Pop",
     "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
     "track_number": 24,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -1856,7 +1944,11 @@
     "album": "Barbra Streisand: The Ultimate Collection",
     "track_number": 8,
     "artist_country_code": "US",
-    "songwriters": null
+    "songwriters": [
+      "Andrew Lloyd Webber",
+      "T. S. Eliot",
+      "Trevor Nunn"
+    ]
   },
   {
     "title": "Korálky Od Natálky",
@@ -1960,7 +2052,9 @@
     "album": "Keep the Faith",
     "track_number": 5,
     "artist_country_code": "US",
-    "songwriters": null
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
   },
   {
     "title": "I Should Be So Lucky",
@@ -1986,7 +2080,9 @@
     "album": "1492 - Conquest of Paradise",
     "track_number": 2,
     "artist_country_code": "GR",
-    "songwriters": null
+    "songwriters": [
+      "Vangelis"
+    ]
   },
   {
     "title": "Say You, Say Me",
@@ -2050,7 +2146,7 @@
     "genre": "Soundtrack",
     "album": "The Lion King Collection (Deluxe Edition)",
     "track_number": 8,
-    "artist_country_code": null,
+    "artist_country_code": "GB",
     "songwriters": null
   },
   {
@@ -2246,7 +2342,10 @@
     "album": "Raindrops Keep Fallin' On My Head",
     "track_number": 2,
     "artist_country_code": null,
-    "songwriters": null
+    "songwriters": [
+      "Burt Bacharach",
+      "Hal David"
+    ]
   },
   {
     "title": "Ci Sarà",
@@ -2362,8 +2461,11 @@
     "genre": "Not found",
     "album": "Not found",
     "track_number": "Not found",
-    "artist_country_code": null,
-    "songwriters": null
+    "artist_country_code": "null",
+    "songwriters": [
+      "John Hill",
+      "Shakira"
+    ]
   },
   {
     "title": "Thriller",
@@ -2453,7 +2555,7 @@
     "genre": "Pop",
     "album": "Life In the Streets",
     "track_number": 4,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -2570,8 +2672,11 @@
     "genre": "French Pop",
     "album": "L'autre",
     "track_number": 2,
-    "artist_country_code": null,
-    "songwriters": null
+    "artist_country_code": "null",
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
   },
   {
     "title": "You Spin Me 'round (Like A Record)",
@@ -3398,7 +3503,11 @@
     "album": "Balady",
     "track_number": 23,
     "artist_country_code": "null",
-    "songwriters": null
+    "songwriters": [
+      "Robo Grigorov",
+      "Roman Guryča",
+      "Ľuboš Zeman"
+    ]
   },
   {
     "title": "Klára",
@@ -3867,7 +3976,7 @@
     "genre": "Pop",
     "album": "Knoflíky Lásky",
     "track_number": 2,
-    "artist_country_code": null,
+    "artist_country_code": "CZ",
     "songwriters": null
   },
   {
@@ -4359,7 +4468,7 @@
     "genre": "Pop",
     "album": "Holky Z Naší Školky",
     "track_number": 1,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": [
       "Karel Vágner",
       "Pavel Žák"
@@ -5353,7 +5462,7 @@
     "genre": "Pop",
     "album": "Holky Z Naší Školky (Největší Hity)",
     "track_number": 1,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": [
       "Jan Krůta",
       "Karel Vágner"
@@ -5502,7 +5611,7 @@
     "genre": "Not found",
     "album": "Not found",
     "track_number": "Not found",
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -6891,7 +7000,13 @@
     "album": "Claptone at DAY.MVS XL 2022: Northside (DJ Mix)",
     "track_number": 4,
     "artist_country_code": "IT",
-    "songwriters": null
+    "songwriters": [
+      "Annerley Gordon",
+      "Francesco Bontempi",
+      "Giorgio Spagna",
+      "M. Gaffey",
+      "P. Glenister"
+    ]
   },
   {
     "title": "Líška",
@@ -7298,7 +7413,7 @@
     "genre": "Pop",
     "album": "Words",
     "track_number": 1,
-    "artist_country_code": null,
+    "artist_country_code": "null",
     "songwriters": null
   },
   {
@@ -12099,7 +12214,9 @@
     "album": "Ten Summoner's Tales",
     "track_number": 3,
     "artist_country_code": "null",
-    "songwriters": null
+    "songwriters": [
+      "Sting"
+    ]
   },
   {
     "title": "You're The First, The Last,My Everything",
