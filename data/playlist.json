@@ -1,5 +1,44 @@
 [
   {
+    "title": "Milionár",
+    "artist": "Balogh Berco",
+    "date": "07.10.2025",
+    "time": "01:22",
+    "year": 2007,
+    "duration_ms": 241747,
+    "genre": "Pop",
+    "album": "Siedmy pád",
+    "track_number": 11,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "We Are The Champions",
+    "artist": "Queen",
+    "date": "07.10.2025",
+    "time": "01:19",
+    "year": 1977,
+    "duration_ms": 179191,
+    "genre": "Rock",
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Hungry Eyes",
+    "artist": "Carmen, Eric",
+    "date": "07.10.2025",
+    "time": "01:16",
+    "year": 1987,
+    "duration_ms": 248427,
+    "genre": "Soundtrack",
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Už Asi Nie Si",
     "artist": "Richard Müller",
     "date": "07.10.2025",
