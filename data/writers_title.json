@@ -10,7 +10,10 @@
   "Palonder Marcel|Láska": null,
   "Pet Shop Boys|It's A Sin": null,
   "Gott Karel|Kávu Si Osladím": null,
-  "Keating Ronan|When You Say Nothing At All": null,
+  "Keating Ronan|When You Say Nothing At All": [
+    "Don Schlitz",
+    "Paul Overstreet"
+  ],
   "Miro Žbirka|Prvá": null,
   "Simon Paul & Garfunkel Art|The Sound Of Silence": null,
   "Kamen, Nick|I Promised Myself": null,
@@ -19,52 +22,93 @@
   "Karel Zich|Není Všechno Paráda": null,
   "Alphaville|Sounds Like A Melody": null,
   "Ramazzotti Eros|Fuoco Nel Fuoco": null,
-  "Louis Armstrong|What A Wonderful World": null,
-  "Queen|I Want To Break Free": null,
+  "Louis Armstrong|What A Wonderful World": [
+    "Bob Thiele",
+    "George David Weiss"
+  ],
+  "Queen|I Want To Break Free": [
+    "John Deacon"
+  ],
   "R. Kelly|I Believe I Can Fly": null,
   "The Goombay Dance Band|Sun Of The Jamaica": null,
   "Starship|Nothing's Gonna Stop Us Now": null,
-  "Grigorov Robo|Ona Je Madona": null,
-  "The Gibson Brothers|Que Sera Mi Vida": null,
+  "Grigorov Robo|Ona Je Madona": [
+    "Kamil Peteraj",
+    "Robo Grigorov"
+  ],
+  "The Gibson Brothers|Que Sera Mi Vida": [
+    "Daniel Vangarde",
+    "Jean Kluger",
+    "Nelly Byl"
+  ],
   "Elán|Ulica": null,
   "Savage Garden|To The Moon And Back": null,
   "The Beatles|Let It Be": null,
   "Bad Boys Blue|Come Back And Stay": null,
   "Abba|Fernando": null,
-  "Rimes Leann|Can't Fight The Moonlight": null,
+  "Rimes Leann|Can't Fight The Moonlight": [
+    "Diane Warren"
+  ],
   "Sandra|Hiroshima": null,
   "Vondráčková Helena|Lásko Má, Já Stůňu": null,
   "Zucchero,Paul Young|Senza Una Donna": null,
   "Lenka Filipová|Prý Se Tomu Říká Láska": null,
   "Zich Karel|Paráda": null,
   "Kryštof|Obchodník S Deštěm": null,
-  "Survivor|Eye Of The Tiger": null,
+  "Survivor|Eye Of The Tiger": [
+    "Frankie Sullivan",
+    "Jim Peterik"
+  ],
   "Hammel Pavol|Prvý Bozk": null,
   "Brightman Sarah&Bocelli Andrea|Time To Say Goodbye": null,
   "Zenit|Milujem": null,
   "Mamas & The Papas|California Dreamin'": null,
   "Gladiator|Keď Sa Láska Podarí": null,
   "Umberto Tozzi|Ti Amo": null,
-  "Guru Josh|Infinity": null,
+  "Guru Josh|Infinity": [
+    "Paul Walden"
+  ],
   "Žbirka Miro|22 Dní": null,
   "Beata Dubasová|Ten Príbeh Je Preč": null,
   "Camouflage|The Great Commandment": null,
   "I.M.T. Smile|Bozk": null,
   "Elton John|Candle In The Wind": null,
-  "The Police|Every Breath You Take": null,
+  "The Police|Every Breath You Take": [
+    "Sting"
+  ],
   "Duran Duran|Perfect Day": null,
-  "Boney M.|Rivers Of Babylon": null,
+  "Boney M.|Rivers Of Babylon": [
+    "Brent Dowe",
+    "Frank Farian",
+    "George Reyam",
+    "Trevor McNaughton"
+  ],
   "Mckee Maria|Show Me Heaven": null,
   "Elán|Slobodná": null,
   "Madonna|You'll See": null,
   "Vašo Patejdl|Kamarátka Nádej": null,
   "Vengaboys|Sha La La": null,
   "Smokie|Living Next Door To Alice": null,
-  "Cher|Believe": null,
+  "Cher|Believe": [
+    "Brian Higgins",
+    "Matt Gray",
+    "Paul Barry",
+    "Steve Torch",
+    "Stuart McLennan",
+    "Tim Powell"
+  ],
   "Enya|Orinoco Flow": null,
-  "Abba|Honey Honey": null,
+  "Abba|Honey Honey": [
+    "Benny Andersson",
+    "Björn Ulvaeus",
+    "Stig Anderson"
+  ],
   "Carmen, Eric|Hungry Eyes": null,
-  "Shakira|Whenever, Wherever": null,
+  "Shakira|Whenever, Wherever": [
+    "Gloria Estefan",
+    "Shakira",
+    "Tim Mitchell"
+  ],
   "Queen|We Are The Champions": null,
   "Eurythmics|Sweet Dreams": null,
   "Londonbeat|I've Been Thinking About You": null,
@@ -72,9 +116,14 @@
   "Westlife|Total Eclipse Of The Heart": null,
   "Pet Shop Boys|Always On My Mind": null,
   "Zbirka Miro & Gombitova Marika|V Slepých Uličkách": null,
-  "Ace Of Base|Beautiful Life": null,
+  "Ace Of Base|Beautiful Life": [
+    "John Ballard",
+    "Jonas Berggren"
+  ],
   "Zagorová Hana Hložek Stanislav Kotvald Petr|Jinak To Nejde": null,
-  "Roxette|Fading Like A Flower": null,
+  "Roxette|Fading Like A Flower": [
+    "Per Gessle"
+  ],
   "The Righteous Brothers|Unchained Melody": null,
   "Opus|Live Is Life": null,
   "Big Mountain|Baby, I Love Your Way": null,
@@ -90,37 +139,54 @@
   "Gazebo|I Like Chopin": null,
   "Uriah Heep|Lady In Black": null,
   "Robin Gibb|Juliet": null,
-  "Adams Bryan|(Everything I Do) I Do It For You": null,
+  "Adams Bryan|(Everything I Do) I Do It For You": [
+    "Bryan Adams",
+    "Michael Kamen",
+    "Robert John “Mutt” Lange"
+  ],
   "Jaroslav Uhlíř|Severní Vítr": null,
   "Soul Asylum|Runaway Train": null,
   "The Bangles|Eternal Flame": null,
   "Tina Turner|The Best": null,
   "East 17|Stay Another Day": null,
   "Abba|Lay All Your Love On Me": null,
-  "Robbie Williams|Angels": null,
+  "Robbie Williams|Angels": [
+    "Guy Chambers",
+    "Robbie Williams"
+  ],
   "Desmod|Nevrav Mi Aký Som": null,
   "Queen|Who Wants To Live Forever": null,
-  "Robert Miles|Chíldren": null,
+  "Robert Miles|Chíldren": [
+    "Roberto Concina"
+  ],
   "Zuzana Smatanová|Nech Sa Deje Čo Sa Má": null,
   "Europe|Carrie": null,
   "Team|Ženská Menom Panika": null,
   "Streisand Barbra|Woman In Love": null,
   "Nagy Peter|Kristínka Iba Spí": null,
-  "Richard Müller|Keď Odchádzajú Lásky": null,
+  "Richard Müller|Keď Odchádzajú Lásky": [
+    "Richard Müller"
+  ],
   "N'dour Youssou & Cherry Neneh|7 Seconds": null,
   "Robo Grigorov|Modlitba Lásky": null,
   "Marika Gombitová|Máš V Rukáve Máj": null,
   "Fool's Garden|Lemon Tree": null,
   "Leo Sayer|When I Need You": null,
   "No Name|Čím To Je": null,
-  "Erasure|Love To Hate You": null,
+  "Erasure|Love To Hate You": [
+    "Andy Bell",
+    "Vince Clarke"
+  ],
   "Nazareth|Dream On": null,
   "Elton John|Sacrifice": null,
   "Gott Karel|Zústanu Svúj": null,
   "Modus|Malý Veľký Vlak": null,
   "Gene Pitney/Marc Almond|Something's Gotten Hold Of My Heart": null,
   "Desmod|Vyrobená Pre Mňa": null,
-  "Geri Halliwell|It's Raining Men": null,
+  "Geri Halliwell|It's Raining Men": [
+    "Paul Jabara",
+    "Paul Shaffer"
+  ],
   "Smatanová Zuzana|Nekráčaj Predo Mnou": null,
   "Céline Dion|Because You Loved Me": null,
   "Team|Jeden Kabát, Jedna Koža, Jedna Tvár": null,
@@ -128,14 +194,27 @@
   "Elán|Mám, Kým Nemám": null,
   "Adams, Bryan|Here I Am": null,
   "Al Bano & Romina Power|Sharazan": null,
-  "Queen|The Show Must Go On": null,
+  "Queen|The Show Must Go On": [
+    "Brian May",
+    "Freddie Mercury",
+    "John Deacon",
+    "Roger Taylor"
+  ],
   "Gombitová Marika|Dvaja": null,
   "Collins Phil|Another Day In Paradise": null,
-  "Eros Ramazzotti|Piú Bella Cosa": null,
+  "Eros Ramazzotti|Piú Bella Cosa": [
+    "Adelio Cogliati",
+    "Claudio Guidetti",
+    "Eros Ramazzotti"
+  ],
   "Miro Žbirka|Slovenská": null,
   "Rogers Kenny &Parton Dolly|Islands In The Stream": null,
   "Gladiátor|Bonboniéra": null,
-  "Barbra Streisand|Memory": null,
+  "Barbra Streisand|Memory": [
+    "Andrew Lloyd Webber",
+    "T. S. Eliot",
+    "Trevor Nunn"
+  ],
   "Peter Nagy|Korálky Od Natálky": null,
   "Kelecsényi Martin|Musím Už Ísť": null,
   "Emilia|Big Big World": null,
@@ -143,9 +222,13 @@
   "The Bee Gees|Secret Love": null,
   "Village People|The Y.M.C.A": null,
   "Balogh Berco|Farbami Dýcha Noc": null,
-  "Bon Jovi|Bed Of Roses": null,
+  "Bon Jovi|Bed Of Roses": [
+    "Jon Bon Jovi"
+  ],
   "Minogue Kylie|I Should Be So Lucky": null,
-  "Vangelis|Conquest Of Paradise": null,
+  "Vangelis|Conquest Of Paradise": [
+    "Vangelis"
+  ],
   "Lionel Richie|Say You, Say Me": null,
   "Robo Grigorov|Všetci Sa Zídeme V Jednej Posteli": null,
   "Olivia Newton-John And Electric Light Orchestra|Xanadu": null,
@@ -165,7 +248,10 @@
   "Robo Opatovský|Keď Muž Miluje Ženu": null,
   "Queen|A Kind Of Magic": null,
   "Smatanová Zuzana|Včely": null,
-  "B. J. Thomas|Raindrops Keep Fallin' On My Head": null,
+  "B. J. Thomas|Raindrops Keep Fallin' On My Head": [
+    "Burt Bacharach",
+    "Hal David"
+  ],
   "Bano Al & Power Romina|Ci Sarà": null,
   "Heckovci Julia A Peter|Náhlenie": null,
   "Osborne Joan|One Of Us": null,
@@ -174,7 +260,10 @@
   "Oldfield Mike & Reilly Maggie|Moonlight Shadow": null,
   "Abba|Take A Chance On Me": null,
   "Collins, Phil|Something Happend On The Way To Heaven": null,
-  "Shakira & Freshlyground|Waka Waka (This Time For Africa)": null,
+  "Shakira & Freshlyground|Waka Waka (This Time For Africa)": [
+    "John Hill",
+    "Shakira"
+  ],
   "Jackson Michael|Thriller": null,
   "Ricchi E Poveri|Mamma Maria": null,
   "Twenty 4 Seven|Slave To The Music": null,
@@ -190,7 +279,10 @@
   "Fancy|Flames Of Love": null,
   "John Elton & Dee Kiki|Don't Go Breaking My Heart": null,
   "Donna Summer|On The Radio": null,
-  "Farmer Mylene|Désenchantee": null,
+  "Farmer Mylene|Désenchantee": [
+    "Laurent Boutonnat",
+    "Mylène Farmer"
+  ],
   "Dead Or Alive|You Spin Me 'round (Like A Record)": null,
   "ABBA|SOS": null,
   "Anastacia|I'm Outta Love": null,
@@ -219,7 +311,11 @@
   "Marie Rottrová|Lásko Voníš Deštem": null,
   "Elán|Zlodej Slnečníc": null,
   "Jitka Zelenkova|Kdyz Se Narodime": null,
-  "Grigorov Robo|Kým Ťa Mám": null,
+  "Grigorov Robo|Kým Ťa Mám": [
+    "Robo Grigorov",
+    "Roman Guryča",
+    "Ľuboš Zeman"
+  ],
   "AC+|Klára": null,
   "Kryštof ft. Tomáš Klus|Cesta": null,
   "No Name|Nie Alebo Áno": null,
@@ -423,7 +519,13 @@
   "Madonna|Like A Prayer": null,
   "Seal|Crazy": null,
   "Abba|Super Trouper": null,
-  "Corona|Rhythm Of The Night": null,
+  "Corona|Rhythm Of The Night": [
+    "Annerley Gordon",
+    "Francesco Bontempi",
+    "Giorgio Spagna",
+    "M. Gaffey",
+    "P. Glenister"
+  ],
   "Jana Kirschner|Líška": null,
   "Yazoo|Only You": null,
   "Imt Smile|Mám Krásny Sen (Hawaii)": null,
@@ -642,7 +744,9 @@
   "Hana Hegerová|Čerešně": null,
   "Vašo Patejdl|Tri Štvrte Na Jeseň": null,
   "Darina Rolincová|Anjelik Môj": null,
-  "Sting|Fields Of Gold": null,
+  "Sting|Fields Of Gold": [
+    "Sting"
+  ],
   "Barry White|You're The First, The Last,My Everything": null,
   "Desmod|Zhorí Všetko Čo Mám": null,
   "C.C. Catch|Heartbreak Hotel": null,
@@ -854,5 +958,1011 @@
   "Spice Girls|Viva Forever": null,
   "Team|Som V Tom": null,
   "U2|One": null,
-  "Zagorová Hana|Rybičko Zlatá Přeju Si": null
+  "Zagorová Hana|Rybičko Zlatá Přeju Si": null,
+  "Alphaville|Big In Japan": [
+    "Bernhard Lloyd",
+    "Frank Mertens",
+    "Marian Gold"
+  ],
+  "Queen|We Will Rock You": [
+    "Brian May"
+  ],
+  "Kool & The Gang|Fresh": [
+    "Claydes Smith",
+    "Curtis “Fitz” Williams",
+    "George Brown",
+    "James “J.T.” Taylor",
+    "Jim Bonnefond",
+    "Robert “Kool” Bell",
+    "Ronald Bell",
+    "Sandy Linzer"
+  ],
+  "Dr. Alban|It's My Life": [
+    "Denniz PoP",
+    "Dr. Alban"
+  ],
+  "C.C. Catch|I Can Lose My Heart Tonight": [
+    "Dieter Bohlen"
+  ],
+  "DJ Bobo|Keep On Dancing": [
+    "Daniel Peyer",
+    "Gutze Gautschi",
+    "Mark Wyss",
+    "René Baumann"
+  ],
+  "Whitney Houston|I Wanna Dance With Somebody": [
+    "George Merrill",
+    "Shannon Rubicam"
+  ],
+  "Roxette|Joyride": [
+    "Per Gessle"
+  ],
+  "Men At Work|Who Can It Be Now?": [
+    "Colin Hay"
+  ],
+  "Erasure|Always": [
+    "Andy Bell",
+    "Vince Clarke"
+  ],
+  "The Bee Gees|Stayin' Alive": [
+    "Barry Gibb",
+    "Maurice Gibb",
+    "Robin Gibb"
+  ],
+  "Tyler Bonnie|Holding Out For A Hero": [
+    "Dean Pitchford",
+    "Jim Steinman"
+  ],
+  "Wham!|Wake Me Up Before You Go Go": [
+    "George Michael"
+  ],
+  "Spice Girls|Wannabe": [
+    "Emma Bunton",
+    "Geri Halliwell",
+    "Matt Rowe",
+    "Melanie Brown",
+    "Melanie C",
+    "Richard “Biff” Stannard",
+    "Victoria Beckham"
+  ],
+  "Boney M|Sunny": [
+    "Bobby Hebb"
+  ],
+  "The Communards|Never Can Say Goodbye": [
+    "Clifton Davis"
+  ],
+  "Pet Shop Boys|Go West": [
+    "Henri Belolo",
+    "Jacques Morali",
+    "Victor Willis"
+  ],
+  "The Shorts|Comment Ca Va": [
+    "Eddy de Heer"
+  ],
+  "The Bucketheads|The Bomb! (These Sounds Fall Into My Mind)": [
+    "Danny Seraphine",
+    "David “Hawk” Wolinski",
+    "Kenny “Dope” Gonzalez"
+  ],
+  "Cyndi Lauper|Girls Just Wanna Have Fun": [
+    "Robert Hazard"
+  ],
+  "Somerville Jimmy & June Miles Kingston|Comment Te Dire Adieu": [
+    "Arnold Goland",
+    "Jack Gold",
+    "Serge Gainsbourg"
+  ],
+  "La Bouche|Be My Lover": [
+    "Amir Saraf",
+    "Lane McCray",
+    "Melanie Thornton",
+    "Ulli Brenner"
+  ],
+  "Chic|Le Freak": [
+    "Bernard Edwards",
+    "Nile Rodgers"
+  ],
+  "Bon Jovi|You Give Love A Bad Name": [
+    "Desmond Child",
+    "Jon Bon Jovi",
+    "Richie Sambora"
+  ],
+  "2 Unlimited|No Limit": [
+    "Anita Doth",
+    "Jean-Paul de Coster",
+    "Phil Wilde",
+    "Ray Slijngaard"
+  ],
+  "Bad Boys Blue|You're A Woman": [
+    "Karin van Haaren",
+    "Mary Applegate",
+    "Tony Hendrik"
+  ],
+  "Kristína|Horehronie": [
+    "Anna Servická",
+    "Kamil Peteraj",
+    "Kristína",
+    "Marián Kavulič",
+    "Martin Kavulič"
+  ],
+  "Brezovská Mirka|Dievča Neplač": [
+    "Daniel Mikletič",
+    "Ján Hyža"
+  ],
+  "Gombitová Marika|Šaty": [
+    "Dežo Ursiny",
+    "Ján Štrasser"
+  ],
+  "Shalom|Stín Katedrál": [
+    "Ivo Fischer",
+    "Karel Svoboda"
+  ],
+  "Grigorov Robo|Žuvačka Za Uchom": [
+    "Robo Grigorov",
+    "Ľuboš Zeman"
+  ],
+  "Müller Richard|Štesti Je Krasna Vec": [
+    "Michal Horáček",
+    "Petr Hapka"
+  ],
+  "Buty|Mám Jednu Ruku Dlouhou": [
+    "Radek Pastrňák"
+  ],
+  "Richard Müller|Rieka": [
+    "Ivan Tásler",
+    "Richard Müller"
+  ],
+  "Balet|Hej Pane Diskžokej": [
+    "Petr Hejduk",
+    "Zdeněk Rytíř"
+  ],
+  "Vidiek|Vidiečan": [
+    "Daniel Mikletič",
+    "Ján Kuric"
+  ],
+  "Stanislav Hložek & Petr Kotvald|Holky Z Naší Školky": [
+    "Karel Vágner",
+    "Pavel Žák"
+  ],
+  "Kristína|Ešte Váham": [
+    "Braňo Jančich",
+    "Marián Kavulič",
+    "Martin Kavulič"
+  ],
+  "Matuška Waldemar|Tereza": [
+    "Jiří Suchý",
+    "Jiří Šlitr"
+  ],
+  "Banket|Po Schodoch": [
+    "Daniel Mikletič",
+    "Vašo Patejdl"
+  ],
+  "Grigorov Robo|Povedzme": [
+    "Robo Grigorov",
+    "Vladimír Krausz"
+  ],
+  "Žentour|Všechno Bude Fajn": [
+    "Žentour"
+  ],
+  "Robo Grigorov|Bosý A Sám": [
+    "Kamil Peteraj",
+    "Robo Grigorov"
+  ],
+  "Richard Müller|Naša Láska Letí": [
+    "Richard Müller"
+  ],
+  "Vidiek|Nechajte Si Ju": [
+    "Daniel Mikletič",
+    "Ján Kuric"
+  ],
+  "Grigorov Robo|Ja Viem": [
+    "Pavol Jursa",
+    "Vašo Patejdl"
+  ],
+  "Modus|Keď Sa Raz Oči Dohodnú": [
+    "Ján Lehotský",
+    "Kamil Peteraj"
+  ],
+  "Stanislav Hložek & Petr Kotvald|V Pohodě": [
+    "Jan Krůta",
+    "Karel Vágner"
+  ],
+  "Dubasová Beáta|Vráť Mi Tie Hviezdy": [
+    "Juraj Žák",
+    "Robo Grigorov"
+  ],
+  "Kirschner Jana|Modrá": [
+    "Jana Kirschner"
+  ],
+  "Vondráčková Helena|Chytila Jsem Na Pasece Motýlka": [
+    "Jiří Štaidl"
+  ],
+  "Jiří Schelinger|Což Takhle Dát Si Špenát": [
+    "František Ringo Čech",
+    "Karel Svoboda"
+  ],
+  "Ledecký Janek|Pěkná Pěkná Pěkná": [
+    "Janek Ledecký"
+  ],
+  "Kristína|V Sieti Ťa Mám": [
+    "Kamil Peteraj",
+    "Kristína",
+    "Marián Kavulič",
+    "Martin Kavulič"
+  ],
+  "Müller Richard|Nebude To Ľahké": [
+    "Richard Müller"
+  ],
+  "Buty|Jednou Ráno": [
+    "Radek Pastrňák"
+  ],
+  "Shalom|Až Jednou": [
+    "Petr Hons",
+    "Petr Kučera",
+    "Petr Muk"
+  ],
+  "Kotvald Petr|Milujem Se Čím Dál Víc": [
+    "Jindřich Parma",
+    "Pavel Cmíral"
+  ],
+  "Alizee|Moi...Lolita": [
+    "Laurent Boutonnat",
+    "Mylène Farmer"
+  ],
+  "Nazareth|Love Hurts": [
+    "Boudleaux Bryant"
+  ],
+  "No Doubt|Don't Speak": [
+    "Eric Stefani",
+    "Gwen Stefani"
+  ],
+  "Dj Bobo|Everybody": [
+    "Daniel Peyer",
+    "Joe South",
+    "René Baumann"
+  ],
+  "Chicago|Hard To Say I'm Sorry": [
+    "David Foster",
+    "Peter Cetera"
+  ],
+  "Modus|Spoluhráčka": [
+    "Ján Lehotský",
+    "Kamil Peteraj"
+  ],
+  "Joel Billy|The River Of Dreams": [
+    "Billy Joel"
+  ],
+  "Madonna|La Isla Bonita": [
+    "Bruce Gaitsch",
+    "Madonna",
+    "Patrick Leonard"
+  ],
+  "Mr. President|Coco Jambo": [
+    "Delroy Rennalls",
+    "Kai Matthiesen",
+    "Rainer Gaffrey"
+  ],
+  "Abba|One Of Us": [
+    "Benny Andersson",
+    "Björn Ulvaeus"
+  ],
+  "Bon Jovi|Always": [
+    "Jon Bon Jovi"
+  ],
+  "Taylor Dayne|Tell It To My Heart": [
+    "Ernie Gold",
+    "Seth Swirsky"
+  ],
+  "Mercury Freddie|Living On My Own": [
+    "Freddie Mercury"
+  ],
+  "Richard Müller|Spočítaj Ma": [
+    "Jaroslav Filip",
+    "Richard Müller"
+  ],
+  "Kristína|Stonka": [
+    "Kamil Peteraj",
+    "Kristína",
+    "Marián Kavulič",
+    "Martin Kavulič"
+  ],
+  "The Bee Gees|How Deep Is Your Love": [
+    "Barry Gibb",
+    "Maurice Gibb",
+    "Robin Gibb"
+  ],
+  "Michael Jackson|They Don't Care About Us": [
+    "Michael Jackson"
+  ],
+  "Ramazzotti Eros|Se Bastasse Una Canzone": [
+    "Adelio Cogliati",
+    "Eros Ramazzotti",
+    "Piero Cassano"
+  ],
+  "Black|Wonderful Life": [
+    "Colin Vearncombe"
+  ],
+  "Timmy T|One More Try": [
+    "Timmy T"
+  ],
+  "Kelly Family, The|An Angel": [
+    "The Kelly Family"
+  ],
+  "Eric Carmen|All By Myself": [
+    "Eric Carmen",
+    "Сергей Васильевич Рахманинов"
+  ],
+  "Ricchi E Poveri|Sará Perché Ti Amo": [
+    "Daniele Pace",
+    "Dario Farina",
+    "Enzo Ghinazzi"
+  ],
+  "Shakespear's Sister|Stay": [
+    "Jean Guiot",
+    "Marcella Detroit",
+    "Siobhan Fahey"
+  ],
+  "Rush Jennifer|The Power Of Love": [
+    "Gunther Mende",
+    "Jennifer Rush",
+    "Mary Applegate",
+    "Wolfgang Detmann"
+  ],
+  "Muller Richard|Srdce Jako Kniže Rohan": [
+    "Ivan Tásler",
+    "Michal Horáček"
+  ],
+  "Toto|Africa": [
+    "David Paich",
+    "Jeff Porcaro"
+  ],
+  "Abba|The Winner Takes It All": [
+    "Benny Andersson",
+    "Björn Ulvaeus"
+  ],
+  "Robbie Williams|She's The One": [
+    "Karl Wallinger"
+  ],
+  "Israel|Over The Rainbow/What A Wonderful World": [
+    "Bob Thiele",
+    "George David Weiss",
+    "Harold Arlen",
+    "Yip Harburg"
+  ],
+  "Boney M|Daddy Cool": [
+    "Frank Farian",
+    "George Reyam"
+  ],
+  "Falco|Jeanny (Part 1)": [
+    "Falco",
+    "Ferdi Bolland",
+    "Rob Bolland"
+  ],
+  "No Mercy|Where Do You Go": [
+    "Alec Wilder",
+    "Arnold Sundgaard"
+  ],
+  "Bryan Adams|Heaven": [
+    "Bryan Adams",
+    "Jim Vallance"
+  ],
+  "Astley Rick|Together Forever": [
+    "Matt Aitken",
+    "Mike Stock",
+    "Pete Waterman"
+  ],
+  "Vaya Con Dios|Nah Neh Nah": [
+    "Dani Klein",
+    "Dirk Schoufs",
+    "Una Balfe"
+  ],
+  "Sandra|Everlasting Love": [
+    "James “Buzz” Cason",
+    "Mac Gayden"
+  ],
+  "Deee-Lite|Groove Is In The Heart": [
+    "Dmitry Brill",
+    "Herbie Hancock",
+    "Lady Miss Kier",
+    "Q‐Tip",
+    "鄭東和"
+  ],
+  "Ottawan|Hands Up": [
+    "Daniel Vangarde",
+    "Jean Kluger",
+    "Nelly Byl"
+  ],
+  "Pet Shop Boys|West End Girls": [
+    "Chris Lowe",
+    "Neil Tennant"
+  ],
+  "Gloria Gaynor|I Will Survive": [
+    "Dino Fekaris",
+    "Freddie Perren"
+  ],
+  "Pharao|There Is A Star": [
+    "Alexander Hawking",
+    "DJ Stevie Steve",
+    "Marcus Deon Thomas"
+  ],
+  "Belinda Carlisle|La Luna": [
+    "Ellen Shipley",
+    "Rick Nowels"
+  ],
+  "Enrique Iglesias|Bailamos": [
+    "Mark Taylor",
+    "Paul Barry"
+  ],
+  "Imbruglia Natalie|Torn": [
+    "Anne Preven",
+    "Phil Thornalley",
+    "Scott Cutler"
+  ],
+  "Baccara|Sorry, I'm A Lady": [
+    "Frank Dostal",
+    "Rolf Soja"
+  ],
+  "A-Ha|You Are The One": [
+    "Magne Furuholmen",
+    "Mags",
+    "Paul Waaktaar-Savoy"
+  ],
+  "Twenty 4 Seven|I Can't Stand It": [
+    "Captain Hollywood",
+    "Ricardo Overman",
+    "Ruud van Rijen"
+  ],
+  "The Cranberries|Dreams": [
+    "Dolores O’Riordan",
+    "Noel Hogan"
+  ],
+  "Katrina And The Waves|Walking On Sunshine": [
+    "Kimberley Rew"
+  ],
+  "Orbison Roy|Oh, Pretty Woman": [
+    "Bill Dees",
+    "Roy Orbison"
+  ],
+  "Robin S|Show Me Love": [
+    "Allen George",
+    "Fred McFarlane"
+  ],
+  "Elán|Fero": [
+    "Boris Filan",
+    "Jožo Ráž"
+  ],
+  "Backstreet Boys|Quit Playing Games (With My Heart)": [
+    "Herbie Crichlow",
+    "Max Martin"
+  ],
+  "Bronski Beat|Smalltown Boy": [
+    "Jimmy Somerville",
+    "Larry Steinbachek",
+    "Steve Bronski"
+  ],
+  "Army Of Lovers|Crucified": [
+    "Alexander Bard",
+    "Anders Wollbeck",
+    "Jean-Pierre Barda"
+  ],
+  "Kool & The Gang|Ladies Night": [
+    "Adam Ippolito",
+    "Chris Alberts",
+    "Claydes Smith",
+    "Cliff Adams",
+    "Dennis “D.T.” Thomas",
+    "George Brown",
+    "Jon Faddis",
+    "Robert Spike Mickens",
+    "Robert “Kool” Bell",
+    "Ronald Bell"
+  ],
+  "Donna Summer|I Don't Wanna Get Hurt": [
+    "Matt Aitken",
+    "Mike Stock",
+    "Pete Waterman"
+  ],
+  "Crystal Waters|Gypsy Woman": [
+    "Crystal Waters",
+    "Neal Conway"
+  ],
+  "London Boys|Requiem": [
+    "Ralf-Rene Maue"
+  ],
+  "Blondie|Heart Of Glass": [
+    "Chris Stein",
+    "Deborah Harry"
+  ],
+  "Abba|Dancing Queen": [
+    "Benny Andersson",
+    "Björn Ulvaeus",
+    "Stig Anderson"
+  ],
+  "Erasure|Take A Chance On Me": [
+    "Benny Andersson",
+    "Björn Ulvaeus"
+  ],
+  "Wilde Kim|You Keep Me Hanging On": [
+    "Brian Holland",
+    "Eddie Holland",
+    "Lamont Dozier"
+  ],
+  "Cher|The Shoop Shoop Song": [
+    "Rudy Clark"
+  ],
+  "The Weather Girls|It's Raining Men": [
+    "Paul Jabara",
+    "Paul Shaffer"
+  ],
+  "Depeche Mode|Enjoy The Silence": [
+    "Martin L. Gore"
+  ],
+  "Billy Ocean|Love Really Hurts Without You": [
+    "Ben Findon",
+    "Billy Ocean"
+  ],
+  "The Bee Gees|You Win Again": [
+    "Barry Gibb",
+    "Maurice Gibb",
+    "Robin Gibb"
+  ],
+  "Bad Boys Blue|Pretty Young Girl": [
+    "Karin van Haaren",
+    "Tony Hendrik"
+  ],
+  "Europe|The Final Countdown": [
+    "Joey Tempest"
+  ],
+  "The Original|I Luv You Baby": [
+    "Giuseppe Nuzzo",
+    "Walter Taieb"
+  ],
+  "Michael Sembello|Maniac": [
+    "Dennis Matkosky",
+    "Michael Sembello"
+  ],
+  "Lisa Stansfield|All Around The World": [
+    "Andy Morris",
+    "Ian Devaney",
+    "Lisa Stansfield"
+  ],
+  "Fun Factory|I Wanna B with U": [
+    "Rodney Hardison",
+    "Toni Cottura",
+    "Zoltan Bender"
+  ],
+  "Grant Eddy|Gimme Hope Jo'anna": [
+    "Eddy Grant"
+  ],
+  "Ace Of Base|The Sign": [
+    "Jonas Berggren",
+    "Ulf Ekberg"
+  ],
+  "Madness|Our House": [
+    "Carl Smyth",
+    "Chris Foreman",
+    "Daniel Woodgate",
+    "Lee “Kix” Thompson",
+    "Mark Bedford",
+    "Mike Barson",
+    "Suggs"
+  ],
+  "The Belle Stars|Iko Iko": [
+    "Barbara Anne Hawkins",
+    "James Crawford, Jr.",
+    "Joan Marie Johnson",
+    "Rosa Lee Hawkins"
+  ],
+  "Vengaboys|Boom Boom Boom Boom": [
+    "Benny Andersson",
+    "Björn Ulvaeus",
+    "Dennis van der Driesschen",
+    "Wessel van Diepen"
+  ],
+  "Slivová Silvia|Nemožná": [
+    "Boris Filan",
+    "Vašo Patejdl"
+  ],
+  "Müller Richard|Ako Vánok": [
+    "Ivan Tásler",
+    "Jaroslav Filip",
+    "Marcel Buntaj",
+    "Richard Müller"
+  ],
+  "Patejdl Vašo|Umenie Žiť": [
+    "Vašo Patejdl",
+    "Ľuboš Zeman"
+  ],
+  "Müller Richard|Nočná Optika": [
+    "Richard Müller"
+  ],
+  "Grigorov Robo|Dvaja": [
+    "Boris Filan",
+    "Vašo Patejdl"
+  ],
+  "Vondráčková Helena|Dlouhá Noc": [
+    "Michal David"
+  ],
+  "Bílá Lucie|Most Přes Minulost": [
+    "Gabriela Osvaldová",
+    "Ondřej Soukup"
+  ],
+  "Dočolomanský Michal|Zbohom Bud, Lipova Lyzka,...": [
+    "Ernest Bryll",
+    "Katarzyna Gärtner"
+  ],
+  "Modus|Róberta": [
+    "Ján Lehotský",
+    "Kamil Peteraj"
+  ],
+  "Olympic|Bon Soir Mademoiselle Paris": [
+    "Petr Janda",
+    "Zdeněk Rytíř"
+  ],
+  "Ráž Jožo|Prvá Láska": [
+    "Boris Filan",
+    "Vašo Patejdl"
+  ],
+  "Věra Martinová|Až Na Vrcholky Hor": [
+    "Eduard Krečmar",
+    "Pavel Krejča"
+  ],
+  "Gombitova Marika & Rottrova Marie & Zbirka Miro|Tri Slová": [
+    "Dežo Ursiny",
+    "Ján Štrasser"
+  ],
+  "Modus|Kapely Starnú": [
+    "Ján Lehotský",
+    "Kamil Peteraj"
+  ],
+  "Müller Richard|Neuč Vtáka Lietať": [
+    "Richard Müller"
+  ],
+  "Věra Martinová|Malý Dům Nad Skálou": [
+    "Michal Bukovič",
+    "Pavel Krejča"
+  ],
+  "Banket|Tlaková Níž": [
+    "Ján Štrasser",
+    "Richard Müller"
+  ],
+  "Modus|Veľký Sen Mora": [
+    "Boris Filan",
+    "Ján Lehotský"
+  ],
+  "Stanislav Hlozek & Petr Kotvald|Bílá Královna": [
+    "Jan Krůta",
+    "Pavel Vaculík"
+  ],
+  "Muller Richard & Anna K. Ivan Tasler|Baroko": [
+    "Ivan Tásler",
+    "Michal Horáček"
+  ],
+  "Elán|Klasika": [
+    "Boris Filan",
+    "Ján Baláž"
+  ],
+  "Maggie Reilly|Everytime We Touch": [
+    "Maggie Reilly",
+    "Peter Risavy",
+    "Stuart MacKillop"
+  ],
+  "Midnight Oil|Beds Are Burning": [
+    "Jim Moginie",
+    "Peter Garrett",
+    "Rob Hirst"
+  ],
+  "Katarína Knechtová|Naveky": [
+    "Katarína Knechtová"
+  ],
+  "Myles Alannah|Black Velvet": [
+    "Christopher Ward",
+    "David Tyson"
+  ],
+  "Wonder Stevie|I Just Called To Say I Love You": [
+    "Stevie Wonder"
+  ],
+  "The Beatles|Here Comes The Sun": [
+    "George Harrison"
+  ],
+  "Paul Young|Love Of The Common People": [
+    "John Hurley",
+    "Ronnie Wilkins"
+  ],
+  "Slade|My, Oh My": [
+    "Jim Lea",
+    "Noddy Holder"
+  ],
+  "Richard Müller|Už Asi Nie Si": [
+    "Richard Müller"
+  ],
+  "Ten Sharp|You": [
+    "Niels Hermes",
+    "Ton Groen"
+  ],
+  "Terry Jacks|Seasons In The Sun": [
+    "Jacques Brel",
+    "Rod McKuen"
+  ],
+  "Rod Stewart|Sailing": [
+    "Gavin Sutherland"
+  ],
+  "Van Halen|Jump": [
+    "Alex Van Halen",
+    "David Lee Roth",
+    "Edward Van Halen",
+    "Michael Anthony"
+  ],
+  "Soulsister|The Way To Your Heart": [
+    "Jan Leyers",
+    "Paul Michiels"
+  ],
+  "Abba|Waterloo": [
+    "Benny Andersson",
+    "Björn Ulvaeus",
+    "Stig Anderson"
+  ],
+  "Iglesias Enrique|The Rhythm Divine": [
+    "Mark Taylor",
+    "Paul Barry"
+  ],
+  "Kool & The Gang|Cherish": [
+    "Claydes Smith",
+    "Clifford Adams",
+    "Curtis “Fitz” Williams",
+    "George Brown",
+    "James “J.T.” Taylor",
+    "Jim Bonnefond",
+    "Robert “Kool” Bell",
+    "Ronald Bell"
+  ],
+  "Orchestral Manoeuvres In The Dark|Pandora's Box": [
+    "Andy McCluskey"
+  ],
+  "The Connells|74 - 75": [
+    "Mike Connell"
+  ],
+  "Culture Club|Karma Chameleon": [
+    "Boy George",
+    "Jon Moss",
+    "Mikey Craig",
+    "Phil Pickett",
+    "Roy Hay"
+  ],
+  "Modern Talking|Atlantis Is Calling (S.O.S. For Love)": [
+    "Dieter Bohlen"
+  ],
+  "Richard Müller|Milovanie V Daždi": [
+    "Jaroslav Filip",
+    "Richard Müller"
+  ],
+  "Cher|Strong Enough": [
+    "Mark Taylor",
+    "Paul Barry"
+  ],
+  "Wilde Kim|You Came": [
+    "Kim Wilde",
+    "Ricky Wilde"
+  ],
+  "Houston Whitney|One Moment In Time": [
+    "Albert Hammond",
+    "John Bettis"
+  ],
+  "Enrique Iglesias|Be With You": [
+    "Enrique Iglesias",
+    "Mark Taylor",
+    "Paul Barry"
+  ],
+  "A-Ha|Take On Me": [
+    "Magne Furuholmen",
+    "Morten Harket",
+    "Paul Waaktaar-Savoy"
+  ],
+  "Falco|Rock Me Amadeus": [
+    "Falco",
+    "Ferdi Bolland",
+    "Rob Bolland"
+  ],
+  "Madonna|Holiday": [
+    "Curtis Hudson",
+    "Lisa Stevens"
+  ],
+  "Herman's Hermits|No Milk Today": [
+    "Graham Gouldman"
+  ],
+  "Aqua|Doctor Jones": [
+    "Anders Øland",
+    "Claus Norreen",
+    "René Dif",
+    "Søren Rasted"
+  ],
+  "Sandra|Maria Magdalena": [
+    "Hubert Kemmler",
+    "Markus Löhr",
+    "Michael Cretu",
+    "Richard Palmer‐James"
+  ],
+  "Nena|99 Luftballons": [
+    "Carlo Karges",
+    "Jörn‐Uwe Fahrenkrog‐Petersen"
+  ],
+  "Kim Appleby|Don't Worry": [
+    "Craig Logan",
+    "Kim Appleby"
+  ],
+  "Barry Manilow|Copacabana At The Copa": [
+    "Barry Manilow",
+    "Bruce Sussman",
+    "Jack Feldman"
+  ],
+  "Richie Lionel|All Night Long (All Night)": [
+    "Lionel Richie"
+  ],
+  "Dexy's Midnight Runners|Come On Eileen": [
+    "Jimmy Paterson",
+    "Kevin Adams",
+    "Kevin Rowland"
+  ],
+  "Shanice|I Love Your Smile": [
+    "Jarvis Baker",
+    "Narada Michael Walden",
+    "Shanice",
+    "Sylvester Jackson"
+  ],
+  "Kaoma|Lambada": [
+    "Gonzalo Hermosa",
+    "Ulises Hermosa"
+  ],
+  "Simply Red|Stars": [
+    "Mick Hucknall"
+  ],
+  "Climie Fisher|Love Changes(Everything)": [
+    "Dennis Morgan",
+    "Rob Fisher",
+    "Simon Climie"
+  ],
+  "Modern Talking|Cheri Cheri Lady": [
+    "Dieter Bohlen"
+  ],
+  "The B-52's|Love Shack": [
+    "Cindy Wilson",
+    "Fred Schneider",
+    "Kate Pierson",
+    "Keith Strickland"
+  ],
+  "Limahl|The Neverending Story": [
+    "Giorgio Moroder",
+    "Keith Forsey"
+  ],
+  "Lopez Jennifer|Waiting For Tonight": [
+    "Maria Christensen",
+    "Michael Garvin",
+    "Phil Temple"
+  ],
+  "Erasure|Blue Savannah": [
+    "Andy Bell",
+    "Vince Clarke"
+  ],
+  "Sandra|Stop For A Minute": [
+    "Klaus Hirschburger",
+    "Michael Cretu"
+  ],
+  "Boney M.|Rasputin": [
+    "Frank Farian",
+    "Fred Jay",
+    "George Reyam"
+  ],
+  "Travolta John & Newton-John Olivia|You're The One That I Want": [
+    "John Farrar"
+  ],
+  "Michael Jackson|Beat It": [
+    "Michael Jackson"
+  ],
+  "Alphaville|Dance With Me": [
+    "Bernhard Lloyd",
+    "Marian Gold",
+    "Ricky Echolette"
+  ],
+  "Ice Mc|Think About The Way": [
+    "Roberto Zanetti"
+  ],
+  "The Pretenders|Don't Get Me Wrong": [
+    "Chrissie Hynde"
+  ],
+  "Anita Ward|Ring My Bell": [
+    "Frederick Knight"
+  ],
+  "Mc Hammer|U Can't Touch This": [
+    "Alonzo Miller",
+    "MC Hammer",
+    "Rick James"
+  ],
+  "Enigma|Sadeness-Part 1": [
+    "Curly M.C.",
+    "David Fairstein",
+    "F. Gregorian",
+    "Frank Peterson",
+    "Michael Cretu"
+  ],
+  "Modus|Dievčatá": [
+    "Ján Lehotský",
+    "Kamil Peteraj"
+  ],
+  "Glenn Medeiros|Nothing's Gonna Change My Love For You": [
+    "Gerry Goffin",
+    "Michael Masser"
+  ],
+  "Take That|Back For Good": [
+    "Gary Barlow"
+  ],
+  "Carey Mariah|Hero": [
+    "Mariah Carey",
+    "Walter Afanasieff"
+  ],
+  "Samantha Fox|Nothing's Gonna Stop Me Now": [
+    "Matt Aitken",
+    "Mike Stock",
+    "Pete Waterman"
+  ],
+  "Styx|Boat On The River": [
+    "Tommy Shaw"
+  ],
+  "Carlisle Belinda|Leave A Light On": [
+    "Ellen Shipley",
+    "Rick Nowels"
+  ],
+  "Lobo|I'd Love You To Want Me": [
+    "Lobo"
+  ],
+  "Blondie|The Tide Is High": [
+    "Howard Barrett",
+    "John Holt",
+    "Tyrone Evans"
+  ],
+  "Rick Astley|Never Gonna Give You Up": [
+    "Matt Aitken",
+    "Mike Stock",
+    "Pete Waterman"
+  ],
+  "Michael Jackson|Will You Be There": [
+    "Michael Jackson"
+  ],
+  "Smokie|Lay Back In The Arms Of Someone": [
+    "Mike Chapman",
+    "Nicky Chinn"
+  ],
+  "Aerosmith|Crazy": [
+    "Desmond Child",
+    "Joe Perry",
+    "Steven Tyler"
+  ],
+  "Springsteen Bruce|Streets Of Philadelphia": [
+    "Bruce Springsteen"
+  ],
+  "Abba|Mamma Mia": [
+    "Benny Andersson",
+    "Björn Ulvaeus",
+    "Stig Anderson"
+  ],
+  "Freddie Mercury|I Was Born To Love You": [
+    "Freddie Mercury"
+  ],
+  "Ledecký Janek|Proklínám": [
+    "Jan Černý",
+    "Janek Ledecký"
+  ],
+  "Boney M.|Ma Baker": [
+    "Frank Farian",
+    "Fred Jay",
+    "George Reyam"
+  ],
+  "Jiří Schelinger|Šípková Růženka": [
+    "David Coverdale",
+    "Ritchie Blackmore",
+    "Zdeněk Svěrák"
+  ],
+  "Suzi Quatro|If You Can't Give Me Love": [
+    "Mike Chapman",
+    "Nicky Chinn"
+  ]
 }

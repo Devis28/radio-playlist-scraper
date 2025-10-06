@@ -1,5 +1,31 @@
 [
   {
+    "title": "Volare (Nel Blu Di Pinto Di Blu)",
+    "artist": "The Gipsy Kings",
+    "date": "06.10.2025",
+    "time": "12:20",
+    "year": 1989,
+    "duration_ms": 219667,
+    "genre": "Pop",
+    "album": "The Essential Gipsy Kings",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Voda Čo Ma Drží Nad Vodou",
+    "artist": "Jožo Ráž",
+    "date": "06.10.2025",
+    "time": "12:15",
+    "year": 2002,
+    "duration_ms": 309392,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Don't Play Your Rock 'n' Roll To Me",
     "artist": "Smokie",
     "date": "06.10.2025",
@@ -17635,8 +17661,8 @@
     "year": 1989,
     "duration_ms": 219667,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "The Essential Gipsy Kings",
+    "track_number": 1,
     "artist_country_code": null,
     "songwriters": null
   },
@@ -21062,8 +21088,8 @@
     "year": 1989,
     "duration_ms": 219667,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "The Essential Gipsy Kings",
+    "track_number": 1,
     "artist_country_code": null,
     "songwriters": null
   },
