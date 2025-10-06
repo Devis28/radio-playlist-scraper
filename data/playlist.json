@@ -1,5 +1,44 @@
 [
   {
+    "title": "Ulica",
+    "artist": "Elán",
+    "date": "06.10.2025",
+    "time": "10:10",
+    "year": 1982,
+    "duration_ms": 184880,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "To The Moon And Back",
+    "artist": "Savage Garden",
+    "date": "06.10.2025",
+    "time": "10:05",
+    "year": 1996,
+    "duration_ms": 274707,
+    "genre": "Pop",
+    "album": "Essential 90's",
+    "track_number": 6,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "date": "06.10.2025",
+    "time": "10:01",
+    "year": 1970,
+    "duration_ms": 243027,
+    "genre": "Rock",
+    "album": "Let It Be",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Come Back And Stay",
     "artist": "Bad Boys Blue",
     "date": "06.10.2025",
