@@ -1,5 +1,74 @@
 [
   {
+    "title": "Love Message",
+    "artist": "Love Message",
+    "date": "07.10.2025",
+    "time": "00:12",
+    "year": 1996,
+    "duration_ms": 229177,
+    "genre": "Dance",
+    "album": "Love Message (The 90s Version) - Single",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "07.10.2025",
+    "time": "00:08",
+    "year": 1997,
+    "duration_ms": 254600,
+    "genre": "Pop",
+    "album": "Die Grossten Hits Aus 15 Jahren",
+    "track_number": 1,
+    "artist_country_code": "AT",
+    "songwriters": null
+  },
+  {
+    "title": "I Was Made For Loving You",
+    "artist": "Kiss",
+    "date": "07.10.2025",
+    "time": "00:03",
+    "year": 2022,
+    "duration_ms": 372867,
+    "genre": "Rock",
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "07.10.2025",
+    "time": "00:00",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "06.10.2025",
+    "time": "23:57",
+    "year": 1969,
+    "duration_ms": 185733,
+    "genre": "Rock",
+    "album": "Abbey Road (Remastered)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Harrison"
+    ]
+  },
+  {
     "title": "Naveky",
     "artist": "Katarína Knechtová",
     "date": "06.10.2025",
