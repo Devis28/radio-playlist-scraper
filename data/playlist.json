@@ -1,5 +1,31 @@
 [
   {
+    "title": "Total Eclipse Of The Heart",
+    "artist": "Westlife",
+    "date": "07.10.2025",
+    "time": "00:48",
+    "year": 2006,
+    "duration_ms": 279619,
+    "genre": "Pop",
+    "album": "The Love Album",
+    "track_number": 2,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "Marcel Z Malého Mesta",
+    "artist": "Peter Nagy",
+    "date": "07.10.2025",
+    "time": "00:45",
+    "year": 2021,
+    "duration_ms": 195427,
+    "genre": "Pop",
+    "album": "Aj tak sme frajeri",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Orinoco Flow",
     "artist": "Enya",
     "date": "07.10.2025",
