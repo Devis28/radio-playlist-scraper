@@ -1,5 +1,31 @@
 [
   {
+    "title": "Cause You Are Young",
+    "artist": "C.C. Catch",
+    "date": "06.10.2025",
+    "time": "23:29",
+    "year": 1986,
+    "duration_ms": 209533,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Nič Nezmení Môj Svet",
+    "artist": "Nagy Peter",
+    "date": "06.10.2025",
+    "time": "23:25",
+    "year": 2011,
+    "duration_ms": 253000,
+    "genre": "Pop",
+    "album": "Singles (1984-1988)",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "I'll Be Missing You",
     "artist": "Daddy, Puff & Evans, Faith",
     "date": "06.10.2025",
@@ -20497,8 +20523,8 @@
     "year": 2011,
     "duration_ms": 253000,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Singles (1984-1988)",
+    "track_number": 10,
     "artist_country_code": null,
     "songwriters": null
   },
