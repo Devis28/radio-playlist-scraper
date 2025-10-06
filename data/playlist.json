@@ -1,5 +1,31 @@
 [
   {
+    "title": "You'll See",
+    "artist": "Madonna",
+    "date": "06.10.2025",
+    "time": "07:53",
+    "year": 1995,
+    "duration_ms": 278136,
+    "genre": "Pop",
+    "album": "You'll See (The Remixes) - EP",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Kamarátka Nádej",
+    "artist": "Vašo Patejdl",
+    "date": "06.10.2025",
+    "time": "07:50",
+    "year": 1989,
+    "duration_ms": 192507,
+    "genre": "Pop",
+    "album": "Mon Amour",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Sha La La",
     "artist": "Vengaboys",
     "date": "06.10.2025",
