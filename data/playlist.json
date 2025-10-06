@@ -1,5 +1,57 @@
 [
   {
+    "title": "We Are The Champions",
+    "artist": "Queen",
+    "date": "06.10.2025",
+    "time": "07:16",
+    "year": 1977,
+    "duration_ms": 179191,
+    "genre": "Rock",
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Sweet Dreams",
+    "artist": "Eurythmics",
+    "date": "06.10.2025",
+    "time": "07:12",
+    "year": 1983,
+    "duration_ms": 216933,
+    "genre": "Pop",
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "I've Been Thinking About You",
+    "artist": "Londonbeat",
+    "date": "06.10.2025",
+    "time": "07:05",
+    "year": 1990,
+    "duration_ms": 228280,
+    "genre": "Pop",
+    "album": "90s 100 Hits",
+    "track_number": 9,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Zamilovaná",
+    "artist": "Filipová Lenka",
+    "date": "06.10.2025",
+    "time": "07:02",
+    "year": 1980,
+    "duration_ms": 172800,
+    "genre": "Pop",
+    "album": "1982-92",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Total Eclipse Of The Heart",
     "artist": "Westlife",
     "date": "06.10.2025",
