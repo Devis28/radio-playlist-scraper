@@ -57,20 +57,20 @@ jobs:
             --limit 40 \
             --sleep 0.6
 
-      - name: "Enrich (MusicBrainz: country + writers)"
+      - name: "Enrich (MusicBrainz: artist_country_code + songwriters)"
         env:
           MB_CONTACT_EMAIL: ${{ secrets.MB_CONTACT_EMAIL }}
         run: |
           python enrich_musicbrainz.py \
             --input data/playlist.json \
-            --cache data/artist_cache.json \
-            --writers-cache data/writers_cache.json \
+            --artist-country-json data/artist_country.json \
+            --writers-title-json data/writers_title.json \
             --limit 45 \
             --writers-limit 40 \
             --sleep 1.1 \
             --email "${MB_CONTACT_EMAIL:-ci@example.com}"
 
-      - name: Commit & push (only playlist, auto-resolve)
+      - name: Commit & push (playlist + public maps)
         if: success()
         env:
           TZ: Europe/Bratislava
@@ -81,8 +81,9 @@ jobs:
           git config pull.rebase true
           git config rebase.autoStash true
 
-          # Commituj iba playlist (keše NEposielame)
-          git add data/playlist.json
+          # Commituj playlist + public mapy (keše NEposielame)
+          git add data/playlist.json data/artist_country.json data/writers_title.json
+
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
@@ -91,11 +92,13 @@ jobs:
           ts=$(date +'%Y-%m-%dT%H:%M:%S%z')
           git commit -m "update playlist $ts"
 
-          # Rebase na remote; pri konflikte vezmi našu verziu playlistu
+          # Rebase na remote; pri konflikte vezmi naše verzie dátových súborov
           if ! git pull --rebase --autostash origin main; then
-            echo "Conflict during rebase – resolving data/playlist.json as ours"
+            echo "Conflict during rebase – resolving data files as ours"
             git checkout --ours -- data/playlist.json || true
-            git add data/playlist.json || true
+            git checkout --ours -- data/artist_country.json || true
+            git checkout --ours -- data/writers_title.json || true
+            git add data/playlist.json data/artist_country.json data/writers_title.json || true
             git rebase --continue || true
           fi
 
