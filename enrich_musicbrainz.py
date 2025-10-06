@@ -1,16 +1,42 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import argparse, json, os, time, difflib, unicodedata, re, requests
-from typing import Optional, Any, List, Set
+"""
+Enrichuje playlist.json o:
+  - artist_country_code (ISO 3166-1 alpha-2) cez MusicBrainz
+  - songwriters (zoznam mien) cez MusicBrainz
+
+Zároveň udržiava a publikuje 2 mapovacie JSONy:
+  - data/artist_country.json         : { "<artist>": "<ISO>" | null, ... }
+  - data/writers_title.json          : { "<artist>|<title>": ["Writer A", ...] | null, ... }
+
+POZNÁMKY:
+- writers_title.json kľúčuje podľa "artist|title" (bez normalizácie, len trim).
+- prítomná je migrácia zo starej schémy, kde kľúčom bol iba "title":
+    - ak pre "<artist>|<title>" kľúč nič nenájdeme a existuje položka s kľúčom "<title>",
+      použije sa táto hodnota a zároveň sa doplní aj nový kľúč.
+- staré pole `artist_country` sa pri zápise migruje do `artist_country_code` a odstráni.
+- texty "Not found" sa konvertujú na None (null).
+- Dodržaná pauza >= 1s medzi volaniami MB API (default 1.1s).
+"""
+
+import argparse
+import difflib
+import json
+import os
+import re
+import time
+import unicodedata
+from typing import Any, List, Optional, Set
+
+import requests
 
 # ===== Cesty a konštanty =====
 DEFAULT_INPUT = os.path.join("data", "playlist.json")
-DEFAULT_ARTIST_CACHE = os.path.join("data", "artist_cache.json")     # krajiny interpretov (ISO kód)
-DEFAULT_WRITERS_CACHE = os.path.join("data", "writers_cache.json")   # songwriters podľa artist|title
+ARTIST_COUNTRY_JSON = os.path.join("data", "artist_country.json")   # public map: artist -> country (ISO) or null
+WRITERS_TITLE_JSON = os.path.join("data", "writers_title.json")     # public map: artist|title -> [writers] or null
 
-# Dôležité: používame None => v JSON to bude null (žiadny text "Not found")
-NOT_FOUND = None
+NOT_FOUND = None  # zapisujeme null
 
 # MusicBrainz endpointy
 MB_URL_ARTIST = "https://musicbrainz.org/ws/2/artist/"
@@ -25,6 +51,15 @@ def _save_atomic(path: str, data: Any):
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     os.replace(tmp, path)
+
+def _load_json(path: str, default):
+    if not os.path.exists(path):
+        return default
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return default
 
 def _clean_name(s: str) -> str:
     s = re.sub(r"\s+", " ", s or "").strip()
@@ -70,6 +105,10 @@ def _maybe_swap_order(name: str) -> str:
         if len(a) > 2 and len(b) > 2:
             return f"{b} {a}"
     return name
+
+def _writers_key(artist: str, title: str) -> str:
+    """Kľúč pre writers mapu — 'artist|title' s trim."""
+    return f"{(artist or '').strip()}|{(title or '').strip()}"
 
 # ====== MusicBrainz – ARTIST COUNTRY LOOKUP =====
 def mb_lookup_country(artist: str, email: str, timeout=(15, 45)) -> Optional[str]:
@@ -174,12 +213,6 @@ def _collect_writer_names_from_rels(rels: List[dict]) -> Set[str]:
                 names.add(nm)
     return names
 
-def _key_artist(artist: str) -> str:
-    return _norm(artist)
-
-def _key_recording(artist: str, title: str) -> str:
-    return f"{_norm(artist)}|{_norm_title(title)}"
-
 def lookup_songwriters(artist: str, title: str, email: str, sleep_s: float, calls_budget: List[int]) -> Optional[List[str]]:
     if not artist or not title:
         return None
@@ -227,25 +260,36 @@ def lookup_songwriters(artist: str, title: str, email: str, sleep_s: float, call
 
 # ===== Hlavný beh =====
 def main():
-    ap = argparse.ArgumentParser(description="Enrich artist country code + songwriters via MusicBrainz.")
+    ap = argparse.ArgumentParser(
+        description="Enrich artist_country_code + songwriters via MusicBrainz and publish mapping JSONs."
+    )
     ap.add_argument("--input", default=DEFAULT_INPUT, help="Vstupný JSON s playlistom")
-    ap.add_argument("--cache", dest="artist_cache", default=DEFAULT_ARTIST_CACHE, help="Keš pre štát interpreta (ISO kód)")
-    ap.add_argument("--writers-cache", default=DEFAULT_WRITERS_CACHE, help="Keš pre songwritera (artist|title)")
+    ap.add_argument("--artist-country-json", default=ARTIST_COUNTRY_JSON, help="Výstupný JSON: artist -> country")
+    ap.add_argument("--writers-title-json", default=WRITERS_TITLE_JSON, help="Výstupný JSON: artist|title -> [writers]")
     ap.add_argument("--limit", type=int, default=45, help="Max. lookupov interpretov (country) za beh")
     ap.add_argument("--writers-limit", type=int, default=40, help="Rozpočet API volaní pre songwriter lookup (search+detail+works)")
     ap.add_argument("--sleep", type=float, default=1.1, help="Pauza medzi volaniami (>=1.0s podľa MB guidelines)")
     ap.add_argument("--email", required=True, help="Kontakt do User-Agent, napr. tvoje@meno.sk")
     args = ap.parse_args()
 
-    # načítaj dáta a cache
-    items = json.load(open(args.input, "r", encoding="utf-8")) if os.path.exists(args.input) else []
-    artist_cache = json.load(open(args.artist_cache, "r", encoding="utf-8")) if os.path.exists(args.artist_cache) else {}
-    writers_cache = json.load(open(args.writers_cache, "r", encoding="utf-8")) if os.path.exists(args.writers_cache) else {}
+    # načítaj playlist a verejné mapy
+    items = _load_json(args.input, default=[])
+    if not isinstance(items, list):
+        print(f"Chyba: {args.input} neobsahuje zoznam položiek.")
+        return 1
 
-    # kompatibilita: ak boli v cache staré stringy "Not found", premeň ich na None
-    for k, v in list(artist_cache.items()):
+    artist_map = _load_json(args.artist_country_json, default={})
+    writers_map = _load_json(args.writers_title_json, default={})
+
+    # normalizuj "Not found" na None aj v mapách
+    for k, v in list(artist_map.items()):
         if isinstance(v, str) and v.strip().lower() == "not found":
-            artist_cache[k] = None
+            artist_map[k] = None
+    for k, v in list(writers_map.items()):
+        if isinstance(v, str) and v.strip().lower() == "not found":
+            writers_map[k] = None
+        if isinstance(v, list) and len(v) == 0:
+            writers_map[k] = None
 
     enriched_country = 0
     enriched_writers = 0
@@ -253,63 +297,89 @@ def main():
     writers_budget = [args.writers_limit]
 
     for it in items:
+        artist_raw = (it.get("artist") or "").strip()
+        title_raw  = (it.get("title")  or "").strip()
+
+        # --- migrácia starších polí/hodnôt v playliste ---
+        # prenes staré 'artist_country' do 'artist_country_code' (a odstráň ho)
+        if "artist_country_code" not in it and "artist_country" in it:
+            val = it.get("artist_country")
+            if isinstance(val, str) and val.strip().lower() == "not found":
+                val = None
+            it["artist_country_code"] = val
+            it.pop("artist_country", None)
+
+        # normalizuj string "Not found" -> None
+        if isinstance(it.get("artist_country_code"), str) and it["artist_country_code"].strip().lower() == "not found":
+            it["artist_country_code"] = None
+        if isinstance(it.get("songwriters"), str) and it["songwriters"].strip().lower() == "not found":
+            it["songwriters"] = None
+        if isinstance(it.get("songwriters"), list) and len(it["songwriters"]) == 0:
+            it["songwriters"] = None
+
         # ===== 1) ARTIST COUNTRY CODE =====
         if it.get("artist_country_code") in (None, ""):
-            artist_raw = (it.get("artist") or "").strip()
-            if not artist_raw:
-                it["artist_country_code"] = NOT_FOUND  # None
+            # 1a) z public mapy
+            if artist_raw and artist_raw in artist_map:
+                it["artist_country_code"] = artist_map[artist_raw]  # môže byť None
+            # 1b) MusicBrainz
+            elif artist_raw and lookups_country < args.limit:
+                country = mb_lookup_country(artist_raw, args.email)
+                lookups_country += 1
+                time.sleep(args.sleep)
+                it["artist_country_code"] = country  # None alebo kód
+                artist_map[artist_raw] = country
+                if country:
+                    enriched_country += 1
             else:
-                k_artist = _key_artist(artist_raw)
-                cached = artist_cache.get(k_artist)
-                # cached môže byť None (čo je v poriadku)
-                if cached is not None:
-                    it["artist_country_code"] = cached
-                elif lookups_country < args.limit:
-                    country = mb_lookup_country(artist_raw, args.email)
-                    lookups_country += 1
-                    time.sleep(args.sleep)
-                    artist_cache[k_artist] = country  # môže byť None
-                    it["artist_country_code"] = country
-                    if country:
-                        enriched_country += 1
-                else:
-                    it["artist_country_code"] = NOT_FOUND  # None
+                it["artist_country_code"] = NOT_FOUND
+                if artist_raw and artist_raw not in artist_map:
+                    artist_map[artist_raw] = NOT_FOUND
 
-        # ===== 2) SONGWRITERS =====
-        if it.get("songwriters") in (None, "", []):
-            artist_raw = (it.get("artist") or "").strip()
-            title_raw = (it.get("title") or "").strip()
-            if not artist_raw or not title_raw:
-                it["songwriters"] = NOT_FOUND  # None
-            else:
-                k_rec = _key_recording(artist_raw, title_raw)
-                cached_sw = writers_cache.get(k_rec)
-                if isinstance(cached_sw, list) and cached_sw:
-                    it["songwriters"] = cached_sw
-                elif isinstance(cached_sw, list) and not cached_sw:
-                    # v cache je "miss" – nechaj None v dátach
+        # ===== 2) SONGWRITERS (mapa kľúčovaná cez artist|title) =====
+        sw_current = it.get("songwriters")
+        if not sw_current:
+            key_at = _writers_key(artist_raw, title_raw)
+
+            # 2a) primárne: composite kľúč
+            if title_raw and artist_raw and key_at in writers_map:
+                it["songwriters"] = writers_map[key_at]  # list alebo None
+                if it["songwriters"]:
+                    enriched_writers += 1
+
+            # 2b) migrácia zo starej mapy (iba title) – fallback
+            elif title_raw and (title_raw in writers_map):
+                val = writers_map[title_raw]
+                writers_map[key_at] = val
+                it["songwriters"] = val
+                if it["songwriters"]:
+                    enriched_writers += 1
+
+            # 2c) MusicBrainz lookup (ak je rozpočet)
+            elif title_raw and artist_raw and writers_budget[0] > 0:
+                sw = lookup_songwriters(artist_raw, title_raw, email=args.email,
+                                        sleep_s=args.sleep, calls_budget=writers_budget)
+                if sw:
+                    it["songwriters"] = sw
+                    writers_map[key_at] = sw
+                    enriched_writers += 1
+                else:
                     it["songwriters"] = NOT_FOUND
-                else:
-                    if writers_budget[0] <= 0:
-                        it["songwriters"] = NOT_FOUND
-                    else:
-                        sw = lookup_songwriters(artist_raw, title_raw, email=args.email,
-                                                sleep_s=args.sleep, calls_budget=writers_budget)
-                        if sw:
-                            writers_cache[k_rec] = sw
-                            it["songwriters"] = sw
-                            enriched_writers += 1
-                        else:
-                            # ulož prázdny list ako "miss", v JSON nechaj None
-                            writers_cache[k_rec] = []
-                            it["songwriters"] = NOT_FOUND
+                    writers_map[key_at] = NOT_FOUND
 
+            else:
+                it["songwriters"] = NOT_FOUND
+                if title_raw and artist_raw and key_at not in writers_map:
+                    writers_map[key_at] = NOT_FOUND
+
+    # zapíš späť
     _save_atomic(args.input, items)
-    _save_atomic(args.artist_cache, artist_cache)
-    _save_atomic(args.writers_cache, writers_cache)
+    _save_atomic(args.artist_country_json, artist_map)
+    _save_atomic(args.writers_title_json, writers_map)
 
-    print(f"Artist country code enriched: {enriched_country} (lookups: {lookups_country})")
-    print(f"Songwriters enriched: {enriched_writers} (API calls used: {args.writers_limit - writers_budget[0]})")
+    print(f"Artist country enriched: {enriched_country} (lookups: {lookups_country})")
+    used_sw_calls = args.writers_limit - writers_budget[0]
+    print(f"Songwriters enriched: {enriched_writers} (API calls used: {used_sw_calls})")
     return 0
 
 if __name__ == "__main__":
