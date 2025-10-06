@@ -1,5 +1,57 @@
 [
   {
+    "title": "Dvojčatá",
+    "artist": "Patejdl Vašo",
+    "date": "06.10.2025",
+    "time": "19:07",
+    "year": 1986,
+    "duration_ms": 287667,
+    "genre": "Pop",
+    "album": "Chlapcenský úsmev",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Len S Ňou",
+    "artist": "Žbirka Miroslav",
+    "date": "06.10.2025",
+    "time": "19:04",
+    "year": 1988,
+    "duration_ms": 187107,
+    "genre": "Pop",
+    "album": "Zlomky poznania",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Chtěl Bych Žít, Tak Jak Se Má",
+    "artist": "David Michal",
+    "date": "06.10.2025",
+    "time": "19:00",
+    "year": 2008,
+    "duration_ms": 217878,
+    "genre": "Pop",
+    "album": "Disco 2008",
+    "track_number": 15,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Kamaráti",
+    "artist": "Elán",
+    "date": "06.10.2025",
+    "time": "18:57",
+    "year": 1982,
+    "duration_ms": 165227,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Šiel, Šiel",
     "artist": "Duchoň Karol",
     "date": "06.10.2025",
