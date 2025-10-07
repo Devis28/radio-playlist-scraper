@@ -1,5 +1,60 @@
 [
   {
+    "title": "Return To Innocence",
+    "artist": "Enigma",
+    "date": "07.10.2025",
+    "time": "10:14",
+    "year": 1993,
+    "duration_ms": 251427,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 5,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Skorápky Orechú",
+    "artist": "Marie Rottrová",
+    "date": "07.10.2025",
+    "time": "10:09",
+    "year": 2003,
+    "duration_ms": 209787,
+    "genre": "Pop",
+    "album": "Všechno Nejlepší...",
+    "track_number": 9,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "07.10.2025",
+    "time": "10:05",
+    "year": 1983,
+    "duration_ms": 244707,
+    "genre": "Soundtrack",
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Dennis Matkosky",
+      "Michael Sembello"
+    ]
+  },
+  {
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "07.10.2025",
+    "time": "10:00",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "(Everything I Do) I Do It For You",
     "artist": "Adams Bryan",
     "date": "07.10.2025",
