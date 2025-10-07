@@ -1,5 +1,78 @@
 [
   {
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "07.10.2025",
+    "time": "08:21",
+    "year": 2022,
+    "duration_ms": 76173,
+    "genre": "House",
+    "album": "Claptone at DAY.MVS XL 2022: Northside (DJ Mix)",
+    "track_number": 4,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Annerley Gordon",
+      "Francesco Bontempi",
+      "Giorgio Spagna",
+      "M. Gaffey",
+      "P. Glenister"
+    ]
+  },
+  {
+    "title": "Boat On The River",
+    "artist": "Styx",
+    "date": "07.10.2025",
+    "time": "08:18",
+    "year": 1979,
+    "duration_ms": 191093,
+    "genre": "Rock",
+    "album": "Greatest Hits, Pt. 2",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Tommy Shaw"
+    ]
+  },
+  {
+    "title": "C�est La Vie",
+    "artist": "Miro Zbirka",
+    "date": "07.10.2025",
+    "time": "08:13",
+    "year": 1990,
+    "duration_ms": 277053,
+    "genre": "Pop",
+    "album": "K.O.",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Prvá",
+    "artist": "No Name",
+    "date": "07.10.2025",
+    "time": "08:06",
+    "year": 2004,
+    "duration_ms": 197147,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "07.10.2025",
+    "time": "08:02",
+    "year": 1980,
+    "duration_ms": 265500,
+    "genre": "Pop",
+    "album": "Land of Gold",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Se Bastasse Una Canzone",
     "artist": "Ramazzotti Eros",
     "date": "07.10.2025",
