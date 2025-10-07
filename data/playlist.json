@@ -1,5 +1,44 @@
 [
   {
+    "title": "Crying In Rain",
+    "artist": "A-Ha",
+    "date": "08.10.2025",
+    "time": "00:05",
+    "year": 1990,
+    "duration_ms": 262373,
+    "genre": "Pop",
+    "album": "East of the Sun, West of the Moon",
+    "track_number": 1,
+    "artist_country_code": "NO",
+    "songwriters": null
+  },
+  {
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "08.10.2025",
+    "time": "00:02",
+    "year": 1975,
+    "duration_ms": 180253,
+    "genre": "Pop",
+    "album": "Ode Mne K Tobě",
+    "track_number": 13,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Ďakujem Že Si",
+    "artist": "No Name",
+    "date": "07.10.2025",
+    "time": "23:59",
+    "year": 2001,
+    "duration_ms": 202120,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 19,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Tisíc A Jedenkrát",
     "artist": "Elán",
     "date": "07.10.2025",
