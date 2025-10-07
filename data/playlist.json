@@ -1,5 +1,31 @@
 [
   {
+    "title": "Super Trouper",
+    "artist": "Abba",
+    "date": "07.10.2025",
+    "time": "21:46",
+    "year": 1980,
+    "duration_ms": 251298,
+    "genre": "Pop",
+    "album": "Super Trouper (Bonus Track Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Komplikovaná",
+    "artist": "Polemic",
+    "date": "07.10.2025",
+    "time": "21:43",
+    "year": 2000,
+    "duration_ms": 186560,
+    "genre": "Rock",
+    "album": "Gangster-SKA",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Especially For You",
     "artist": "Minogue Kylie & Donovan Jason",
     "date": "07.10.2025",
