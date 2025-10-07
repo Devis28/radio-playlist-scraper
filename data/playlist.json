@@ -1,5 +1,47 @@
 [
   {
+    "title": "Guardian Angel",
+    "artist": "Masquerade",
+    "date": "07.10.2025",
+    "time": "12:41",
+    "year": 2016,
+    "duration_ms": 259814,
+    "genre": "Alternative",
+    "album": "Echoes",
+    "track_number": 12,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "07.10.2025",
+    "time": "12:38",
+    "year": 2005,
+    "duration_ms": 144240,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
+    "title": "Blaze Of Glory",
+    "artist": "Bon Jovi, Jon",
+    "date": "07.10.2025",
+    "time": "12:33",
+    "year": 2009,
+    "duration_ms": 346840,
+    "genre": "Rock",
+    "album": "We Weren't Born To Follow - EP",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Love Is The Shield",
     "artist": "Camouflage",
     "date": "07.10.2025",
@@ -23909,8 +23951,8 @@
     "year": 2009,
     "duration_ms": 346840,
     "genre": "Rock",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "We Weren't Born To Follow - EP",
+    "track_number": 2,
     "artist_country_code": null,
     "songwriters": null
   },
@@ -38735,8 +38777,8 @@
     "year": 2009,
     "duration_ms": 346840,
     "genre": "Rock",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "We Weren't Born To Follow - EP",
+    "track_number": 2,
     "artist_country_code": null,
     "songwriters": null
   },
