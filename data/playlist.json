@@ -1,5 +1,89 @@
 [
   {
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "07.10.2025",
+    "time": "16:31",
+    "year": 1996,
+    "duration_ms": 584747,
+    "genre": "Dance",
+    "album": "Deconstruction Reconstructed 019",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Woman In Love",
+    "artist": "Streisand Barbra",
+    "date": "07.10.2025",
+    "time": "16:27",
+    "year": 1980,
+    "duration_ms": 233400,
+    "genre": "Pop",
+    "album": "Guilty",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Smrťka Na Pražskom Orloji",
+    "artist": "Elán",
+    "date": "07.10.2025",
+    "time": "16:23",
+    "year": 2017,
+    "duration_ms": 235040,
+    "genre": "Pop",
+    "album": "Smrtka Na Pražskom Orloji - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Always",
+    "artist": "Erasure",
+    "date": "07.10.2025",
+    "time": "16:20",
+    "year": 1994,
+    "duration_ms": 237840,
+    "genre": "Pop",
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
+  },
+  {
+    "title": "Manic Monday",
+    "artist": "The Bangles",
+    "date": "07.10.2025",
+    "time": "16:14",
+    "year": 1986,
+    "duration_ms": 184863,
+    "genre": "Pop",
+    "album": "The Bangles Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Veľký Sen Mora",
+    "artist": "Modus",
+    "date": "07.10.2025",
+    "time": "16:10",
+    "year": 2005,
+    "duration_ms": 289613,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Boris Filan",
+      "Ján Lehotský"
+    ]
+  },
+  {
     "title": "Be With You",
     "artist": "Enrique Iglesias",
     "date": "07.10.2025",
