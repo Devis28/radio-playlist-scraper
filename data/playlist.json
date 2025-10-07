@@ -1,5 +1,79 @@
 [
   {
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "date": "07.10.2025",
+    "time": "17:20",
+    "year": 1984,
+    "duration_ms": 286160,
+    "genre": "Pop",
+    "album": "Forever Young",
+    "track_number": 3,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Bernhard Lloyd",
+      "Frank Mertens",
+      "Marian Gold"
+    ]
+  },
+  {
+    "title": "Streets Of Philadelphia",
+    "artist": "Springsteen Bruce",
+    "date": "07.10.2025",
+    "time": "17:14",
+    "year": 1993,
+    "duration_ms": 196813,
+    "genre": "Rock",
+    "album": "Greatest Hits",
+    "track_number": 14,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Bruce Springsteen"
+    ]
+  },
+  {
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "07.10.2025",
+    "time": "17:11",
+    "year": 2001,
+    "duration_ms": 182773,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
+    "title": "Ave Maria",
+    "artist": "Rush Jennifer",
+    "date": "07.10.2025",
+    "time": "17:07",
+    "year": 1985,
+    "duration_ms": 228147,
+    "genre": "Pop",
+    "album": "Jennifer Rush: Best of 1983-2010",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "07.10.2025",
+    "time": "17:03",
+    "year": 1992,
+    "duration_ms": 278000,
+    "genre": "Pop",
+    "album": "Hit Album",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Bed Of Roses",
     "artist": "Bon Jovi",
     "date": "07.10.2025",
