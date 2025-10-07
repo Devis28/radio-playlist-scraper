@@ -1,5 +1,31 @@
 [
   {
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "08.10.2025",
+    "time": "01:45",
+    "year": 1991,
+    "duration_ms": 275667,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Tarzan Boy",
+    "artist": "Baltimora",
+    "date": "08.10.2025",
+    "time": "01:41",
+    "year": 1985,
+    "duration_ms": 378947,
+    "genre": "Rock",
+    "album": "Living In the Background",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Matka",
     "artist": "Tublatanka",
     "date": "08.10.2025",
