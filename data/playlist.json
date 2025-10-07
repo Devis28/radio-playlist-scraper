@@ -1,5 +1,109 @@
 [
   {
+    "title": "Mladosť",
+    "artist": "Pavol Hammel",
+    "date": "07.10.2025",
+    "time": "14:26",
+    "year": 2011,
+    "duration_ms": 168587,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Pretty Young Girl",
+    "artist": "Bad Boys Blue",
+    "date": "07.10.2025",
+    "time": "14:23",
+    "year": 1985,
+    "duration_ms": 346507,
+    "genre": "Pop",
+    "album": "Super 20",
+    "track_number": 10,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Karin van Haaren",
+      "Tony Hendrik"
+    ]
+  },
+  {
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "date": "07.10.2025",
+    "time": "14:19",
+    "year": 1991,
+    "duration_ms": 275647,
+    "genre": "Rock",
+    "album": "Innuendo (Deluxe Edition)",
+    "track_number": 12,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Brian May",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor"
+    ]
+  },
+  {
+    "title": "The Way To Your Heart",
+    "artist": "Soulsister",
+    "date": "07.10.2025",
+    "time": "14:13",
+    "year": 1988,
+    "duration_ms": 226187,
+    "genre": "Pop",
+    "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
+    "track_number": 7,
+    "artist_country_code": "BE",
+    "songwriters": [
+      "Jan Leyers",
+      "Paul Michiels"
+    ]
+  },
+  {
+    "title": "Chytila Jsem Na Pasece Motýlka",
+    "artist": "Vondráčková Helena",
+    "date": "07.10.2025",
+    "time": "14:10",
+    "year": 1964,
+    "duration_ms": 154200,
+    "genre": "Pop",
+    "album": "Růže Kvetou Dál",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Jiří Štaidl"
+    ]
+  },
+  {
+    "title": "Rhythm Is A Dancer",
+    "artist": "Snap",
+    "date": "07.10.2025",
+    "time": "14:06",
+    "year": 1991,
+    "duration_ms": 313549,
+    "genre": "Dance",
+    "album": "Rhythm Is a Dancer - Single",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Dnes",
+    "artist": "Tublatanka",
+    "date": "07.10.2025",
+    "time": "14:01",
+    "year": 1987,
+    "duration_ms": 298893,
+    "genre": "Pop",
+    "album": "Skúsime to cez vesmír",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Be My Lover",
     "artist": "La Bouche",
     "date": "07.10.2025",
