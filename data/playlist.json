@@ -1,5 +1,60 @@
 [
   {
+    "title": "Som On (Snežný Pluh)",
+    "artist": "Hex",
+    "date": "07.10.2025",
+    "time": "19:13",
+    "year": 1997,
+    "duration_ms": 262867,
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "Money Factor",
+    "date": "07.10.2025",
+    "time": "19:08",
+    "year": 2008,
+    "duration_ms": 241760,
+    "genre": "Rock",
+    "album": "Rockové Balady",
+    "track_number": 10,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Proklínám",
+    "artist": "Ledecký Janek",
+    "date": "07.10.2025",
+    "time": "19:04",
+    "year": 1998,
+    "duration_ms": 233307,
+    "genre": "Pop",
+    "album": "Promilujem celou noc",
+    "track_number": 14,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Jan Černý",
+      "Janek Ledecký"
+    ]
+  },
+  {
+    "title": "Je To Vo Hviezdach",
+    "artist": "Pavol Habera",
+    "date": "07.10.2025",
+    "time": "19:00",
+    "year": 1991,
+    "duration_ms": 198533,
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "V Stínu Kapradiny",
     "artist": "Kratochvílová Jana",
     "date": "07.10.2025",
@@ -15966,8 +16021,8 @@
     "year": 1997,
     "duration_ms": 262867,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 12,
     "artist_country_code": "SK",
     "songwriters": null
   },
