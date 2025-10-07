@@ -1,5 +1,64 @@
 [
   {
+    "title": "Ako Vánok",
+    "artist": "Müller Richard",
+    "date": "08.10.2025",
+    "time": "00:41",
+    "year": 2004,
+    "duration_ms": 189107,
+    "genre": "Pop",
+    "album": "01",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": [
+      "Ivan Tásler",
+      "Jaroslav Filip",
+      "Marcel Buntaj",
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Dolce Vita",
+    "artist": "Paris Ryan",
+    "date": "08.10.2025",
+    "time": "00:38",
+    "year": 1990,
+    "duration_ms": 235707,
+    "genre": "Dance",
+    "album": "80s Hit News",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "08.10.2025",
+    "time": "00:33",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
+    "title": "Kométa (Pre Gumpa)",
+    "artist": "Desmod & Majself",
+    "date": "08.10.2025",
+    "time": "00:29",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "I'm So Excited",
     "artist": "Pointer Sisters, The",
     "date": "08.10.2025",
