@@ -1,5 +1,48 @@
 [
   {
+    "title": "Hands Up",
+    "artist": "Ottawan",
+    "date": "07.10.2025",
+    "time": "10:50",
+    "year": 1980,
+    "duration_ms": 289027,
+    "genre": "Disco",
+    "album": "Ottawan 2",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": [
+      "Daniel Vangarde",
+      "Jean Kluger",
+      "Nelly Byl"
+    ]
+  },
+  {
+    "title": "Self Control",
+    "artist": "Branigan Laura",
+    "date": "07.10.2025",
+    "time": "10:46",
+    "year": 1984,
+    "duration_ms": 246440,
+    "genre": "Pop",
+    "album": "Self Control",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Okno Mé Lásky",
+    "artist": "Olympic",
+    "date": "07.10.2025",
+    "time": "10:41",
+    "year": 1981,
+    "duration_ms": 292507,
+    "genre": "Pop",
+    "album": "Ulice",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "My Heart Will Go On",
     "artist": "Céline Dion",
     "date": "07.10.2025",
@@ -23598,8 +23641,8 @@
     "year": 1984,
     "duration_ms": 246440,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Self Control",
+    "track_number": 2,
     "artist_country_code": null,
     "songwriters": null
   },
