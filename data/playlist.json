@@ -1,5 +1,55 @@
 [
   {
+    "title": "Be With You",
+    "artist": "Enrique Iglesias",
+    "date": "07.10.2025",
+    "time": "16:07",
+    "year": 1999,
+    "duration_ms": 220160,
+    "genre": "Pop in Spanish",
+    "album": "Enrique",
+    "track_number": 2,
+    "artist_country_code": "ES",
+    "songwriters": [
+      "Enrique Iglesias",
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
+    "title": "Together Forever",
+    "artist": "Astley Rick",
+    "date": "07.10.2025",
+    "time": "16:03",
+    "year": 1987,
+    "duration_ms": 205573,
+    "genre": "Pop",
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "You",
+    "artist": "Ten Sharp",
+    "date": "07.10.2025",
+    "time": "15:55",
+    "year": 1991,
+    "duration_ms": 272984,
+    "genre": "Pop",
+    "album": "You - Single",
+    "track_number": 1,
+    "artist_country_code": "NL",
+    "songwriters": [
+      "Niels Hermes",
+      "Ton Groen"
+    ]
+  },
+  {
     "title": "Tereza",
     "artist": "Matuška Waldemar",
     "date": "07.10.2025",
