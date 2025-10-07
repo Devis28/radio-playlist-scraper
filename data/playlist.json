@@ -1,5 +1,92 @@
 [
   {
+    "title": "Kdo Vchází Do Tvých Snů Má Lásko",
+    "artist": "Neckář Václav",
+    "date": "07.10.2025",
+    "time": "18:41",
+    "year": 1965,
+    "duration_ms": 323453,
+    "genre": "Pop",
+    "album": "Největší Hity 1965-2013",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Klasika",
+    "artist": "Elán",
+    "date": "07.10.2025",
+    "time": "18:38",
+    "year": 1986,
+    "duration_ms": 194973,
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Boris Filan",
+      "Ján Baláž"
+    ]
+  },
+  {
+    "title": "Most Přes Minulost",
+    "artist": "Bílá Lucie",
+    "date": "07.10.2025",
+    "time": "18:35",
+    "year": 2004,
+    "duration_ms": 163853,
+    "genre": "Pop",
+    "album": "Platinum Collection",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": [
+      "Gabriela Osvaldová",
+      "Ondřej Soukup"
+    ]
+  },
+  {
+    "title": "V Dobrom Aj Zlom",
+    "artist": "Zuzana Smatanová",
+    "date": "07.10.2025",
+    "time": "18:32",
+    "year": 2015,
+    "duration_ms": 176415,
+    "genre": "Pop",
+    "album": "V Dobrom Aj V Zlom - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Soumen",
+    "artist": "Michal David",
+    "date": "07.10.2025",
+    "time": "18:29",
+    "year": 2018,
+    "duration_ms": 176938,
+    "genre": "Pop",
+    "album": "Open Air (Live)",
+    "track_number": 13,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Ja Viem",
+    "artist": "Grigorov Robo",
+    "date": "07.10.2025",
+    "time": "18:26",
+    "year": 2008,
+    "duration_ms": 209427,
+    "genre": "Rock",
+    "album": "Complete Of",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Pavol Jursa",
+      "Vašo Patejdl"
+    ]
+  },
+  {
     "title": "Což Takhle Dát Si Špenát",
     "artist": "Jiří Schelinger",
     "date": "07.10.2025",
@@ -15272,8 +15359,8 @@
     "year": 2004,
     "duration_ms": 163853,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Platinum Collection",
+    "track_number": 7,
     "artist_country_code": null,
     "songwriters": [
       "Gabriela Osvaldová",
@@ -24866,8 +24953,8 @@
     "year": 2004,
     "duration_ms": 163853,
     "genre": "Pop",
-    "album": "Not found",
-    "track_number": "Not found",
+    "album": "Platinum Collection",
+    "track_number": 7,
     "artist_country_code": null,
     "songwriters": [
       "Gabriela Osvaldová",
