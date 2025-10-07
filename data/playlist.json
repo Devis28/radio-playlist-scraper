@@ -1,5 +1,112 @@
 [
   {
+    "title": "Tlaková Níž",
+    "artist": "Banket",
+    "date": "07.10.2025",
+    "time": "15:31",
+    "year": 1986,
+    "duration_ms": 282613,
+    "genre": "Pop",
+    "album": "Bioelektrovízia",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Štrasser",
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "07.10.2025",
+    "time": "15:25",
+    "year": 1993,
+    "duration_ms": 273627,
+    "genre": "Pop",
+    "album": "One Love",
+    "track_number": 11,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ]
+  },
+  {
+    "title": "How Deep Is Your Love",
+    "artist": "The Bee Gees",
+    "date": "07.10.2025",
+    "time": "15:21",
+    "year": 1977,
+    "duration_ms": 246241,
+    "genre": "Pop",
+    "album": "Saturday Night Fever (The Original Movie Soundtrack)",
+    "track_number": 20,
+    "artist_country_code": "AU",
+    "songwriters": [
+      "Barry Gibb",
+      "Maurice Gibb",
+      "Robin Gibb"
+    ]
+  },
+  {
+    "title": "Až Sa Znova Narodím",
+    "artist": "Peter Nagy",
+    "date": "07.10.2025",
+    "time": "15:18",
+    "year": 1987,
+    "duration_ms": 152800,
+    "genre": "Pop",
+    "album": "\"Ale\"",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "As Long As You Love Me",
+    "artist": "Backstreet Boys",
+    "date": "07.10.2025",
+    "time": "15:15",
+    "year": 1996,
+    "duration_ms": 221107,
+    "genre": "Pop",
+    "album": "Backstreet's Back",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Daddy Cool",
+    "artist": "Boney M",
+    "date": "07.10.2025",
+    "time": "15:11",
+    "year": 1976,
+    "duration_ms": 206086,
+    "genre": "R&B/Soul",
+    "album": "Daddy Cool",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Frank Farian",
+      "George Reyam"
+    ]
+  },
+  {
+    "title": "Lambada",
+    "artist": "Kaoma",
+    "date": "07.10.2025",
+    "time": "15:08",
+    "year": 1989,
+    "duration_ms": 207467,
+    "genre": "Latin",
+    "album": "La Lambada",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": [
+      "Gonzalo Hermosa",
+      "Ulises Hermosa"
+    ]
+  },
+  {
     "title": "Go West",
     "artist": "Pet Shop Boys",
     "date": "07.10.2025",
