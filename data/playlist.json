@@ -1,5 +1,31 @@
 [
   {
+    "title": "Tanečnice Z Lúčnice",
+    "artist": "Elán",
+    "date": "07.10.2025",
+    "time": "21:54",
+    "year": 1986,
+    "duration_ms": 170800,
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Letím Tmou (Za Tebou)",
+    "artist": "Miro Žbirka",
+    "date": "07.10.2025",
+    "time": "21:51",
+    "year": 1997,
+    "duration_ms": 188467,
+    "genre": "Pop",
+    "album": "Meky",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Super Trouper",
     "artist": "Abba",
     "date": "07.10.2025",
