@@ -1,5 +1,33 @@
 [
   {
+    "title": "Will You Be There",
+    "artist": "Michael Jackson",
+    "date": "07.10.2025",
+    "time": "13:27",
+    "year": 1993,
+    "duration_ms": 219560,
+    "genre": "Pop",
+    "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Michael Jackson"
+    ]
+  },
+  {
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "07.10.2025",
+    "time": "13:24",
+    "year": 1977,
+    "duration_ms": 209760,
+    "genre": "Pop",
+    "album": "It's a Heartache",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Hello",
     "artist": "Lionel Richie",
     "date": "07.10.2025",
