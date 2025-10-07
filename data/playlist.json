@@ -1,5 +1,44 @@
 [
   {
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "07.10.2025",
+    "time": "05:52",
+    "year": 1990,
+    "duration_ms": 240773,
+    "genre": "Pop",
+    "album": "Move Until We Fly",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "07.10.2025",
+    "time": "05:46",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "07.10.2025",
+    "time": "05:42",
+    "year": 1977,
+    "duration_ms": 245693,
+    "genre": "Pop",
+    "album": "E' nell' aria…ti amo",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Mumuland",
     "artist": "Kotvald Petr",
     "date": "07.10.2025",
