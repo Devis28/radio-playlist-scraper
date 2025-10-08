@@ -1,5 +1,51 @@
 [
   {
+    "title": "Snídane V Tráve",
+    "artist": "Tucný Michal",
+    "date": "08.10.2025",
+    "time": "09:45",
+    "year": 2015,
+    "duration_ms": 178120,
+    "genre": "Traditional Country",
+    "album": "Snídaně V Trávě",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Believe",
+    "artist": "Cher",
+    "date": "08.10.2025",
+    "time": "09:43",
+    "year": 1998,
+    "duration_ms": 239027,
+    "genre": "Pop",
+    "album": "Believe",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Brian Higgins",
+      "Matt Gray",
+      "Paul Barry",
+      "Steve Torch",
+      "Stuart McLennan",
+      "Tim Powell"
+    ]
+  },
+  {
+    "title": "Slzy Tvý Mámy",
+    "artist": "Olympic",
+    "date": "08.10.2025",
+    "time": "09:38",
+    "year": 1965,
+    "duration_ms": 257853,
+    "genre": "Pop",
+    "album": "Best of 43 jasných hitových zpráv",
+    "track_number": 24,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Wake Me Up Before You Go Go",
     "artist": "Wham!",
     "date": "08.10.2025",
