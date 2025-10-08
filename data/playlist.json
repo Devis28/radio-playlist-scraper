@@ -1,5 +1,46 @@
 [
   {
+    "title": "V Období Dažďa",
+    "artist": "Gombitová Marika",
+    "date": "09.10.2025",
+    "time": "01:03",
+    "year": 1987,
+    "duration_ms": 237587,
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Maťo A Linda",
+    "artist": "Hex",
+    "date": "09.10.2025",
+    "time": "00:59",
+    "year": 1997,
+    "duration_ms": 254000,
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 11,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Stars",
+    "artist": "Simply Red",
+    "date": "09.10.2025",
+    "time": "00:55",
+    "year": 1991,
+    "duration_ms": 248600,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mick Hucknall"
+    ]
+  },
+  {
     "title": "Raindrops Keep Fallin' On My Head",
     "artist": "B. J. Thomas",
     "date": "09.10.2025",
