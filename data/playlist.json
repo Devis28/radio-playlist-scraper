@@ -1,5 +1,79 @@
 [
   {
+    "title": "Maria Magdalena",
+    "artist": "Sandra",
+    "date": "08.10.2025",
+    "time": "15:39",
+    "year": 1985,
+    "duration_ms": 240440,
+    "genre": "R&B/Soul",
+    "album": "18 Greatest Hits: Sandra",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Hubert Kemmler",
+      "Markus Löhr",
+      "Michael Cretu",
+      "Richard Palmer‐James"
+    ]
+  },
+  {
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "08.10.2025",
+    "time": "15:33",
+    "year": 2001,
+    "duration_ms": 159227,
+    "genre": "Pop",
+    "album": "Na Kameni Kamen",
+    "track_number": 14,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "You're The One That I Want",
+    "artist": "Travolta John & Newton-John Olivia",
+    "date": "08.10.2025",
+    "time": "15:27",
+    "year": 1978,
+    "duration_ms": 168907,
+    "genre": "Musicals",
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "John Farrar"
+    ]
+  },
+  {
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "date": "08.10.2025",
+    "time": "15:24",
+    "year": 1983,
+    "duration_ms": 253960,
+    "genre": "Rock",
+    "album": "Synchronicity (Remastered 2003)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Sting"
+    ]
+  },
+  {
+    "title": "Sweet Harmony",
+    "artist": "Beloved, The",
+    "date": "08.10.2025",
+    "time": "15:19",
+    "year": 1993,
+    "duration_ms": 230911,
+    "genre": "Dance",
+    "album": "Sweet Harmony",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Karma Chameleon",
     "artist": "Culture Club",
     "date": "08.10.2025",
