@@ -1,5 +1,50 @@
 [
   {
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "08.10.2025",
+    "time": "16:41",
+    "year": 1982,
+    "duration_ms": 243773,
+    "genre": "Rock",
+    "album": "Eye of the Tiger",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Frankie Sullivan",
+      "Jim Peterik"
+    ]
+  },
+  {
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "08.10.2025",
+    "time": "16:38",
+    "year": 1992,
+    "duration_ms": 181186,
+    "genre": "Pop",
+    "album": "Chýbaš Mi...",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
+  },
+  {
+    "title": "Učiteľka Tanca",
+    "artist": "Pavol Hammel",
+    "date": "08.10.2025",
+    "time": "16:36",
+    "year": 1975,
+    "duration_ms": 155240,
+    "genre": "Alternative",
+    "album": "Hráč",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "You Keep Me Hanging On",
     "artist": "Wilde Kim",
     "date": "08.10.2025",
