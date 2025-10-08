@@ -1,5 +1,82 @@
 [
   {
+    "title": "Jump",
+    "artist": "Van Halen",
+    "date": "08.10.2025",
+    "time": "22:27",
+    "year": 1983,
+    "duration_ms": 241643,
+    "genre": "Hard Rock",
+    "album": "1984",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Alex Van Halen",
+      "David Lee Roth",
+      "Edward Van Halen",
+      "Michael Anthony"
+    ]
+  },
+  {
+    "title": "Daj Ruku Do Mojej Ruky",
+    "artist": "Smatanová Zuzana",
+    "date": "08.10.2025",
+    "time": "22:24",
+    "year": 2009,
+    "duration_ms": 184930,
+    "genre": "Pop",
+    "album": "Gemini",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Que Sera Mi Vida",
+    "artist": "The Gibson Brothers",
+    "date": "08.10.2025",
+    "time": "22:21",
+    "year": 1998,
+    "duration_ms": 364467,
+    "genre": "Disco",
+    "album": "54 (Music from the Miramax Motion Picture) [Volume 1]",
+    "track_number": 15,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Daniel Vangarde",
+      "Jean Kluger",
+      "Nelly Byl"
+    ]
+  },
+  {
+    "title": "Hráč",
+    "artist": "Turbo",
+    "date": "08.10.2025",
+    "time": "22:16",
+    "year": 1985,
+    "duration_ms": 284733,
+    "genre": "Rock",
+    "album": "To Byla, Pánové, Jízda",
+    "track_number": 8,
+    "artist_country_code": "PL",
+    "songwriters": null
+  },
+  {
+    "title": "Nechajte Si Ju",
+    "artist": "Vidiek",
+    "date": "08.10.2025",
+    "time": "22:13",
+    "year": 1988,
+    "duration_ms": 171013,
+    "genre": "Pop",
+    "album": "Nechajte si ju!",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Kuric"
+    ]
+  },
+  {
     "title": "The Rhythm Divine",
     "artist": "Iglesias Enrique",
     "date": "08.10.2025",
