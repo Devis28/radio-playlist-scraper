@@ -1,5 +1,105 @@
 [
   {
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "08.10.2025",
+    "time": "15:11",
+    "year": 1983,
+    "duration_ms": 252773,
+    "genre": "Rock",
+    "album": "Colour By Numbers",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Boy George",
+      "Jon Moss",
+      "Mikey Craig",
+      "Phil Pickett",
+      "Roy Hay"
+    ]
+  },
+  {
+    "title": "Povídej",
+    "artist": "Novák Petr",
+    "date": "08.10.2025",
+    "time": "15:09",
+    "year": 1986,
+    "duration_ms": 125867,
+    "genre": "Pop",
+    "album": "12 Nej",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Black Velvet",
+    "artist": "Myles Alannah",
+    "date": "08.10.2025",
+    "time": "15:05",
+    "year": 1989,
+    "duration_ms": 287440,
+    "genre": "Rock",
+    "album": "Alannah Myles",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Christopher Ward",
+      "David Tyson"
+    ]
+  },
+  {
+    "title": "Denisa",
+    "artist": "Miro Žbirka",
+    "date": "08.10.2025",
+    "time": "15:02",
+    "year": 2004,
+    "duration_ms": 189560,
+    "genre": "Worldwide",
+    "album": "Miro Zbirka: Live",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "08.10.2025",
+    "time": "14:53",
+    "year": 1989,
+    "duration_ms": 255937,
+    "genre": "R&B/Soul",
+    "album": "Simply the Best",
+    "track_number": 1,
+    "artist_country_code": "CH",
+    "songwriters": null
+  },
+  {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "08.10.2025",
+    "time": "14:49",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Modlitba Lásky",
+    "artist": "Robo Grigorov",
+    "date": "08.10.2025",
+    "time": "14:42",
+    "year": 1992,
+    "duration_ms": 273293,
+    "genre": "Pop",
+    "album": "Chýbaš Mi...",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Chiquitita",
     "artist": "Abba",
     "date": "08.10.2025",
