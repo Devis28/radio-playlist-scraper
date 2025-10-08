@@ -1,5 +1,57 @@
 [
   {
+    "title": "Can't Take My Eyes Off You",
+    "artist": "Gloria Gaynor",
+    "date": "08.10.2025",
+    "time": "13:13",
+    "year": 2008,
+    "duration_ms": 254600,
+    "genre": "Dance",
+    "album": "Make It 80's & 90's",
+    "track_number": 24,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Chráň Svoje Bláznovstvá",
+    "artist": "Peter Nagy",
+    "date": "08.10.2025",
+    "time": "13:10",
+    "year": 1984,
+    "duration_ms": 169987,
+    "genre": "Pop",
+    "album": "Chrán svoje bláznovstvá",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Candle In The Wind",
+    "artist": "Elton John",
+    "date": "08.10.2025",
+    "time": "13:06",
+    "year": 1973,
+    "duration_ms": 251883,
+    "genre": "Rock",
+    "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "08.10.2025",
+    "time": "13:02",
+    "year": 2003,
+    "duration_ms": 237880,
+    "genre": "Pop",
+    "album": "9",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Un-Break My Heart",
     "artist": "Braxton Toni",
     "date": "08.10.2025",
