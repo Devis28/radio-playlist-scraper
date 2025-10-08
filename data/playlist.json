@@ -1,5 +1,76 @@
 [
   {
+    "title": "Hej, Sokoly!",
+    "artist": "I.M.T. Smile & Ondrej Kandráč",
+    "date": "09.10.2025",
+    "time": "00:13",
+    "year": 2020,
+    "duration_ms": 167718,
+    "genre": "Pop",
+    "album": "AJ TO JE ŽIVOT (B – STRANA A RARITY) [LIVE]",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Sadeness-Part 1",
+    "artist": "Enigma",
+    "date": "09.10.2025",
+    "time": "00:09",
+    "year": 1990,
+    "duration_ms": 260400,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Curly M.C.",
+      "David Fairstein",
+      "F. Gregorian",
+      "Frank Peterson",
+      "Michael Cretu"
+    ]
+  },
+  {
+    "title": "Felicita",
+    "artist": "Bano Al & Power Romina",
+    "date": "09.10.2025",
+    "time": "00:06",
+    "year": 1982,
+    "duration_ms": 191538,
+    "genre": "Pop",
+    "album": "Felicità",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Severní Vítr",
+    "artist": "Jaroslav Uhlíř",
+    "date": "09.10.2025",
+    "time": "00:03",
+    "year": 2015,
+    "duration_ms": 190386,
+    "genre": "Pop",
+    "album": "Dospelym a Detem",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "08.10.2025",
+    "time": "23:58",
+    "year": 1996,
+    "duration_ms": 248867,
+    "genre": "Pop",
+    "album": "U Can't Stop (96 Version)",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Knowing Me, Knowing You",
     "artist": "Abba",
     "date": "08.10.2025",
