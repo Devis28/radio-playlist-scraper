@@ -1,5 +1,44 @@
 [
   {
+    "title": "(We Want) The Same Thing",
+    "artist": "Belinda Carlisle",
+    "date": "09.10.2025",
+    "time": "00:40",
+    "year": 2025,
+    "duration_ms": 231960,
+    "genre": "Pop",
+    "album": "Runaway Horses: The Tour (Live)",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Sunchyme",
+    "artist": "Dario G",
+    "date": "09.10.2025",
+    "time": "00:36",
+    "year": 1997,
+    "duration_ms": 237133,
+    "genre": "Dance",
+    "album": "Sunchyme - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Words",
+    "artist": "David, F.R.",
+    "date": "09.10.2025",
+    "time": "00:33",
+    "year": 1982,
+    "duration_ms": 208000,
+    "genre": "Pop",
+    "album": "Words",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Cirkus Leto",
     "artist": "Pavol Hammel",
     "date": "09.10.2025",
