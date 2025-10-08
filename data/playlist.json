@@ -1,5 +1,31 @@
 [
   {
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "08.10.2025",
+    "time": "13:24",
+    "year": 1977,
+    "duration_ms": 245693,
+    "genre": "Pop",
+    "album": "E' nell' aria…ti amo",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Kráľovná Bielych Tenisiek",
+    "artist": "Elán",
+    "date": "08.10.2025",
+    "time": "13:18",
+    "year": 2016,
+    "duration_ms": 225339,
+    "genre": "Pop",
+    "album": "Živých Nás Nedostanú (Extended Version)",
+    "track_number": 22,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Can't Take My Eyes Off You",
     "artist": "Gloria Gaynor",
     "date": "08.10.2025",
