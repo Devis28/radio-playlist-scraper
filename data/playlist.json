@@ -1,5 +1,88 @@
 [
   {
+    "title": "Heaven",
+    "artist": "Bryan Adams",
+    "date": "08.10.2025",
+    "time": "11:22",
+    "year": 1984,
+    "duration_ms": 243360,
+    "genre": "Rock",
+    "album": "Reckless (30th Anniversary)",
+    "track_number": 4,
+    "artist_country_code": "CA",
+    "songwriters": [
+      "Bryan Adams",
+      "Jim Vallance"
+    ]
+  },
+  {
+    "title": "Living Next Door To Alice",
+    "artist": "Smokie",
+    "date": "08.10.2025",
+    "time": "11:18",
+    "year": 1976,
+    "duration_ms": 207133,
+    "genre": "Rock",
+    "album": "Collections: Smokie",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Anjel",
+    "artist": "Maduar",
+    "date": "08.10.2025",
+    "time": "11:12",
+    "year": 2017,
+    "duration_ms": 336773,
+    "genre": "Pop",
+    "album": "Hafanana the Best of, Vol. 2",
+    "track_number": 21,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Dávej, Ber",
+    "artist": "Tofi Sagvan",
+    "date": "08.10.2025",
+    "time": "11:07",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "08.10.2025",
+    "time": "11:04",
+    "year": 2005,
+    "duration_ms": 208853,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "08.10.2025",
+    "time": "11:00",
+    "year": 1995,
+    "duration_ms": 284310,
+    "genre": "Pop",
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Michael Jackson"
+    ]
+  },
+  {
     "title": "I'd Do Anything For Love But I Won't Do That",
     "artist": "Meat Loaf",
     "date": "08.10.2025",
