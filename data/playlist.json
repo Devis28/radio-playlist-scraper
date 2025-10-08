@@ -1,5 +1,60 @@
 [
   {
+    "title": "Cirkus Leto",
+    "artist": "Pavol Hammel",
+    "date": "09.10.2025",
+    "time": "00:29",
+    "year": 2011,
+    "duration_ms": 164947,
+    "genre": "Rock",
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "The Big L.",
+    "artist": "Roxette",
+    "date": "09.10.2025",
+    "time": "00:25",
+    "year": 1991,
+    "duration_ms": 265733,
+    "genre": "Pop",
+    "album": "Joyride (30th Anniversary Edition)",
+    "track_number": 8,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "09.10.2025",
+    "time": "00:22",
+    "year": 1988,
+    "duration_ms": 221040,
+    "genre": "Pop",
+    "album": "Nechajte si ju!",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Kuric"
+    ]
+  },
+  {
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "09.10.2025",
+    "time": "00:16",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Hej, Sokoly!",
     "artist": "I.M.T. Smile & Ondrej Kandráč",
     "date": "09.10.2025",
