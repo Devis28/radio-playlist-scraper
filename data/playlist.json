@@ -1,5 +1,62 @@
 [
   {
+    "title": "Without You",
+    "artist": "Mariah Carey",
+    "date": "09.10.2025",
+    "time": "12:13",
+    "year": 1993,
+    "duration_ms": 214040,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 11,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "09.10.2025",
+    "time": "12:08",
+    "year": 1984,
+    "duration_ms": 210013,
+    "genre": "Soundtrack",
+    "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Giorgio Moroder",
+      "Keith Forsey"
+    ]
+  },
+  {
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "09.10.2025",
+    "time": "12:05",
+    "year": 1969,
+    "duration_ms": 185733,
+    "genre": "Rock",
+    "album": "Abbey Road (Remastered)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Harrison"
+    ]
+  },
+  {
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "09.10.2025",
+    "time": "12:02",
+    "year": 1996,
+    "duration_ms": 584747,
+    "genre": "Dance",
+    "album": "Deconstruction Reconstructed 019",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Go West",
     "artist": "Pet Shop Boys",
     "date": "09.10.2025",
