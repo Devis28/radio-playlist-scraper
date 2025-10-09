@@ -1,5 +1,31 @@
 [
   {
+    "title": "Aj Keď Bez Peňazí",
+    "artist": "Elán",
+    "date": "10.10.2025",
+    "time": "01:35",
+    "year": 1982,
+    "duration_ms": 227560,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Klára",
+    "artist": "AC+",
+    "date": "10.10.2025",
+    "time": "01:32",
+    "year": 1990,
+    "duration_ms": 213160,
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 11,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Boys",
     "artist": "Sabrina",
     "date": "10.10.2025",
