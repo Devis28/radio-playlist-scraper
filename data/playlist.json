@@ -1,5 +1,44 @@
 [
   {
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "09.10.2025",
+    "time": "19:32",
+    "year": 2005,
+    "duration_ms": 254413,
+    "genre": "Pop",
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Pieseň O Kamarátstve",
+    "artist": "Darina Rolincová",
+    "date": "09.10.2025",
+    "time": "19:29",
+    "year": 1988,
+    "duration_ms": 178987,
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "09.10.2025",
+    "time": "19:25",
+    "year": 1995,
+    "duration_ms": 224493,
+    "genre": "Rock",
+    "album": "Habera 2",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "A Tak Dál Nosíš Po Kapsách Sny Mládí",
     "artist": "Matuška Waldemar",
     "date": "09.10.2025",
