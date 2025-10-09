@@ -1,5 +1,35 @@
 [
   {
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "09.10.2025",
+    "time": "11:55",
+    "year": 1993,
+    "duration_ms": 302360,
+    "genre": "Pop",
+    "album": "Ultimate",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Henri Belolo",
+      "Jacques Morali",
+      "Victor Willis"
+    ]
+  },
+  {
+    "title": "Lietam V Tom Tiež",
+    "artist": "Team",
+    "date": "09.10.2025",
+    "time": "11:51",
+    "year": 1989,
+    "duration_ms": 233253,
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Balada O Polných Vtákoch",
     "artist": "Žbirka Miro",
     "date": "09.10.2025",
