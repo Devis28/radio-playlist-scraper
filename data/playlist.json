@@ -1,5 +1,50 @@
 [
   {
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "09.10.2025",
+    "time": "10:46",
+    "year": 2022,
+    "duration_ms": 76173,
+    "genre": "House",
+    "album": "Claptone at DAY.MVS XL 2022: Northside (DJ Mix)",
+    "track_number": 4,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Annerley Gordon",
+      "Francesco Bontempi",
+      "Giorgio Spagna",
+      "M. Gaffey",
+      "P. Glenister"
+    ]
+  },
+  {
+    "title": "Čo O Mne Vieš",
+    "artist": "Rolincova Darinka",
+    "date": "09.10.2025",
+    "time": "10:43",
+    "year": 1987,
+    "duration_ms": 161133,
+    "genre": "Pop",
+    "album": "Čo O Mne Vieš",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "09.10.2025",
+    "time": "10:40",
+    "year": 1980,
+    "duration_ms": 265500,
+    "genre": "Pop",
+    "album": "Land of Gold",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "All That She Wants",
     "artist": "Ace Of Base",
     "date": "09.10.2025",
