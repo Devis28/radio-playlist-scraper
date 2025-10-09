@@ -1,5 +1,51 @@
 [
   {
+    "title": "Že Mi Je Ľúto",
+    "artist": "Elán & Lojzo",
+    "date": "09.10.2025",
+    "time": "08:13",
+    "year": 1998,
+    "duration_ms": 235173,
+    "genre": "Rock",
+    "album": "Legenda 4 ... tak ako ich nepoznáte",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nah Neh Nah",
+    "artist": "Vaya Con Dios",
+    "date": "09.10.2025",
+    "time": "08:06",
+    "year": 1990,
+    "duration_ms": 174533,
+    "genre": "Pop",
+    "album": "Night Owls",
+    "track_number": 1,
+    "artist_country_code": "BE",
+    "songwriters": [
+      "Dani Klein",
+      "Dirk Schoufs",
+      "Una Balfe"
+    ]
+  },
+  {
+    "title": "Zbohom Bud, Lipova Lyzka,...",
+    "artist": "Dočolomanský Michal",
+    "date": "09.10.2025",
+    "time": "08:03",
+    "year": 2023,
+    "duration_ms": 219000,
+    "genre": "Pop",
+    "album": "Hity & Duety",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Ernest Bryll",
+      "Katarzyna Gärtner"
+    ]
+  },
+  {
     "title": "La Luna",
     "artist": "Belinda Carlisle",
     "date": "09.10.2025",
