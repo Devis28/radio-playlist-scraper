@@ -1,5 +1,44 @@
 [
   {
+    "title": "Mandolína",
+    "artist": "Adam Ďurica",
+    "date": "09.10.2025",
+    "time": "21:12",
+    "year": 2015,
+    "duration_ms": 195231,
+    "genre": "Pop",
+    "album": "Mandolina",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Je Naprosto Nezbytné",
+    "artist": "Hana Zagorová",
+    "date": "09.10.2025",
+    "time": "21:07",
+    "year": 2001,
+    "duration_ms": 182147,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "It Must Have Been Love",
+    "artist": "Roxette",
+    "date": "09.10.2025",
+    "time": "21:03",
+    "year": 1987,
+    "duration_ms": 259666,
+    "genre": "Pop",
+    "album": "It Must Have Been Love - Single",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Because You Loved Me",
     "artist": "Céline Dion",
     "date": "09.10.2025",
