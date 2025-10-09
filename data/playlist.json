@@ -1,5 +1,75 @@
 [
   {
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "09.10.2025",
+    "time": "22:16",
+    "year": 1992,
+    "duration_ms": 394528,
+    "genre": "Pop",
+    "album": "Keep the Faith",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
+  },
+  {
+    "title": "Čoskoro",
+    "artist": "Peter Bič Project",
+    "date": "09.10.2025",
+    "time": "22:12",
+    "year": 2019,
+    "duration_ms": 207516,
+    "genre": "Pop",
+    "album": "Čoskoro - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Secret Love",
+    "artist": "The Bee Gees",
+    "date": "09.10.2025",
+    "time": "22:09",
+    "year": 1991,
+    "duration_ms": 222800,
+    "genre": "Pop",
+    "album": "High Civilization",
+    "track_number": 2,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Kristínka Iba Spí",
+    "artist": "Nagy Peter",
+    "date": "09.10.2025",
+    "time": "22:04",
+    "year": 1984,
+    "duration_ms": 292040,
+    "genre": "Pop",
+    "album": "Chrán svoje bláznovstvá",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "09.10.2025",
+    "time": "22:01",
+    "year": 2005,
+    "duration_ms": 144240,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
     "title": "The Show Must Go On",
     "artist": "Queen",
     "date": "09.10.2025",
