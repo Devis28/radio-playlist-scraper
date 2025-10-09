@@ -1,5 +1,102 @@
 [
   {
+    "title": "Can You Feel The Love Tonight",
+    "artist": "John, Elton",
+    "date": "09.10.2025",
+    "time": "17:03",
+    "year": 1994,
+    "duration_ms": 241907,
+    "genre": "Soundtrack",
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "09.10.2025",
+    "time": "16:53",
+    "year": 2018,
+    "duration_ms": 147840,
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 16,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "09.10.2025",
+    "time": "16:50",
+    "year": 1991,
+    "duration_ms": 213760,
+    "genre": "Dance",
+    "album": "Massive Luxury Overdose",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
+  },
+  {
+    "title": "Léto",
+    "artist": "Bartošová Iveta",
+    "date": "09.10.2025",
+    "time": "16:44",
+    "year": 1998,
+    "duration_ms": 224920,
+    "genre": "Pop",
+    "album": "Nekonecna/Best Of",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sunny",
+    "artist": "Boney M",
+    "date": "09.10.2025",
+    "time": "16:40",
+    "year": 1976,
+    "duration_ms": 241373,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Bobby Hebb"
+    ]
+  },
+  {
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "09.10.2025",
+    "time": "16:35",
+    "year": 1991,
+    "duration_ms": 275667,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Poďme Sa Zachrániť",
+    "artist": "Peter Nagy",
+    "date": "09.10.2025",
+    "time": "16:32",
+    "year": 2011,
+    "duration_ms": 224307,
+    "genre": "Pop",
+    "album": "Singles (1984-1988)",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Hands Up",
     "artist": "Ottawan",
     "date": "09.10.2025",
