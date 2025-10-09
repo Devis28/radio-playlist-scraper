@@ -1,5 +1,44 @@
 [
   {
+    "title": "Some Hearts Are Diamonds",
+    "artist": "Chris Norman",
+    "date": "09.10.2025",
+    "time": "23:34",
+    "year": 1986,
+    "duration_ms": 223733,
+    "genre": "Pop",
+    "album": "Some Hearts Are Diamonds",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Co Bolí To Přebolí",
+    "artist": "Zbirka Miro & Martha",
+    "date": "09.10.2025",
+    "time": "23:31",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Nech Sa Deje Čo Sa Má",
+    "artist": "Zuzana Smatanová",
+    "date": "09.10.2025",
+    "time": "23:28",
+    "year": 2005,
+    "duration_ms": 165093,
+    "genre": "Rock",
+    "album": "Svet Mi Stupil Na Nohu",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "One Moment In Time",
     "artist": "Houston Whitney",
     "date": "09.10.2025",
