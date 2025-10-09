@@ -1,5 +1,59 @@
 [
   {
+    "title": "Ak Nie Si Moja",
+    "artist": "Patejdl, Vaso",
+    "date": "09.10.2025",
+    "time": "11:32",
+    "year": 1986,
+    "duration_ms": 252013,
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 13,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Stay Another Day",
+    "artist": "East 17",
+    "date": "09.10.2025",
+    "time": "11:27",
+    "year": 1994,
+    "duration_ms": 267133,
+    "genre": "Pop",
+    "album": "Steam",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Študentská Láska",
+    "artist": "Marika Gombitová",
+    "date": "09.10.2025",
+    "time": "11:23",
+    "year": 2016,
+    "duration_ms": 202960,
+    "genre": "Pop",
+    "album": "Single (1977 - 1989)",
+    "track_number": 5,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Girls Just Wanna Have Fun",
+    "artist": "Cyndi Lauper",
+    "date": "09.10.2025",
+    "time": "11:20",
+    "year": 1983,
+    "duration_ms": 224510,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Robert Hazard"
+    ]
+  },
+  {
     "title": "Waka Waka (This Time For Africa)",
     "artist": "Shakira & Freshlyground",
     "date": "09.10.2025",
