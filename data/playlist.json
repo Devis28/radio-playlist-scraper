@@ -1,5 +1,33 @@
 [
   {
+    "title": "Balada O Polných Vtákoch",
+    "artist": "Žbirka Miro",
+    "date": "09.10.2025",
+    "time": "11:48",
+    "year": 1980,
+    "duration_ms": 190587,
+    "genre": "Pop",
+    "album": "Doktor Sen",
+    "track_number": 12,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Living On My Own",
+    "artist": "Mercury Freddie",
+    "date": "09.10.2025",
+    "time": "11:44",
+    "year": 1985,
+    "duration_ms": 217159,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Freddie Mercury"
+    ]
+  },
+  {
     "title": "Ja Viem",
     "artist": "Grigorov Robo",
     "date": "09.10.2025",
