@@ -1,5 +1,31 @@
 [
   {
+    "title": "Somebody Dance With Me",
+    "artist": "Dj Bobo",
+    "date": "09.10.2025",
+    "time": "16:07",
+    "year": 1993,
+    "duration_ms": 214600,
+    "genre": "Dance",
+    "album": "Somebody Dance With Me - EP",
+    "track_number": 1,
+    "artist_country_code": "CH",
+    "songwriters": null
+  },
+  {
+    "title": "Milujem",
+    "artist": "Zenit",
+    "date": "09.10.2025",
+    "time": "16:03",
+    "year": 2007,
+    "duration_ms": 233960,
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 8,
+    "artist_country_code": "ES",
+    "songwriters": null
+  },
+  {
     "title": "Maniac",
     "artist": "Michael Sembello",
     "date": "09.10.2025",
