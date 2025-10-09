@@ -1,5 +1,31 @@
 [
   {
+    "title": "Stay",
+    "artist": "Bonnie Bianco & Pierre Cosso",
+    "date": "09.10.2025",
+    "time": "21:38",
+    "year": 2008,
+    "duration_ms": 231598,
+    "genre": "Pop",
+    "album": "Stay",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "09.10.2025",
+    "time": "21:34",
+    "year": 2001,
+    "duration_ms": 243227,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Čo Ak",
     "artist": "I.M.T. Smile",
     "date": "09.10.2025",
