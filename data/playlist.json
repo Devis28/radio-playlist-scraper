@@ -1,5 +1,48 @@
 [
   {
+    "title": "Faith",
+    "artist": "Michael George",
+    "date": "09.10.2025",
+    "time": "09:25",
+    "year": 1987,
+    "duration_ms": 193200,
+    "genre": "Pop",
+    "album": "Faith (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Always",
+    "artist": "Bon Jovi",
+    "date": "09.10.2025",
+    "time": "09:19",
+    "year": 1994,
+    "duration_ms": 353027,
+    "genre": "Pop",
+    "album": "Cross Road",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
+  },
+  {
+    "title": "I'd Love You To Want Me",
+    "artist": "Lobo",
+    "date": "09.10.2025",
+    "time": "09:15",
+    "year": 1974,
+    "duration_ms": 248973,
+    "genre": "Pop",
+    "album": "I'd Love You To Want Me - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Lobo"
+    ]
+  },
+  {
     "title": "Made In Italy",
     "artist": "Ricchi E Poveri",
     "date": "09.10.2025",
