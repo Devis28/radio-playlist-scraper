@@ -1,5 +1,68 @@
 [
   {
+    "title": "The Road To Mandalay",
+    "artist": "Williams, Robbie",
+    "date": "09.10.2025",
+    "time": "07:17",
+    "year": 2000,
+    "duration_ms": 237401,
+    "genre": "Adult Alternative",
+    "album": "Sing When You're Winning",
+    "track_number": 12,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Šípková Růženka",
+    "artist": "Jiří Schelinger",
+    "date": "09.10.2025",
+    "time": "07:13",
+    "year": 1991,
+    "duration_ms": 191475,
+    "genre": "Pop",
+    "album": "Holubí Dům",
+    "track_number": 7,
+    "artist_country_code": "XC",
+    "songwriters": [
+      "David Coverdale",
+      "Ritchie Blackmore",
+      "Zdeněk Svěrák"
+    ]
+  },
+  {
+    "title": "Coco Jambo",
+    "artist": "Mr. President",
+    "date": "09.10.2025",
+    "time": "07:05",
+    "year": 1996,
+    "duration_ms": 218733,
+    "genre": "Pop",
+    "album": "We See The Same Sun",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Delroy Rennalls",
+      "Kai Matthiesen",
+      "Rainer Gaffrey"
+    ]
+  },
+  {
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "09.10.2025",
+    "time": "07:02",
+    "year": 2016,
+    "duration_ms": 197007,
+    "genre": "Soft Rock",
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Hyža"
+    ]
+  },
+  {
     "title": "Balla...Balla! (Italian Hit Connection)",
     "artist": "Francesco Napoli",
     "date": "09.10.2025",
