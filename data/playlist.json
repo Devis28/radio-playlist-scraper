@@ -1,5 +1,44 @@
 [
   {
+    "title": "Decibely Lásky",
+    "artist": "David Michal Kroky Františka Janečka",
+    "date": "09.10.2025",
+    "time": "18:53",
+    "year": 1986,
+    "duration_ms": 193239,
+    "genre": "Pop",
+    "album": "Děti Ráje",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sen",
+    "artist": "Lucie",
+    "date": "09.10.2025",
+    "time": "18:46",
+    "year": 2013,
+    "duration_ms": 296600,
+    "genre": "Pop",
+    "album": "Cerny Kocky Mokry Zaby",
+    "track_number": 13,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "09.10.2025",
+    "time": "18:43",
+    "year": 2005,
+    "duration_ms": 209427,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 14,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Prvá Láska",
     "artist": "Ráž Jožo",
     "date": "09.10.2025",
