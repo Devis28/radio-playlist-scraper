@@ -1,5 +1,86 @@
 [
   {
+    "title": "All That She Wants",
+    "artist": "Ace Of Base",
+    "date": "09.10.2025",
+    "time": "10:36",
+    "year": 1992,
+    "duration_ms": 211213,
+    "genre": "Pop",
+    "album": "The Sign (2015 Remastered Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Atlantída",
+    "artist": "Miro Žbirka",
+    "date": "09.10.2025",
+    "time": "10:32",
+    "year": 1982,
+    "duration_ms": 223787,
+    "genre": "Pop",
+    "album": "Sezónne lásky",
+    "track_number": 12,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Stumblin' In",
+    "artist": "Norman Chris & Quatro Suzi",
+    "date": "09.10.2025",
+    "time": "10:29",
+    "year": 1977,
+    "duration_ms": 238200,
+    "genre": "Rock",
+    "album": "Collections: Smokie",
+    "track_number": 18,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "09.10.2025",
+    "time": "10:25",
+    "year": 1992,
+    "duration_ms": 243133,
+    "genre": "Pop",
+    "album": "One Love",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ]
+  },
+  {
+    "title": "Ôsmy Svetadiel",
+    "artist": "Elán",
+    "date": "09.10.2025",
+    "time": "10:21",
+    "year": 2015,
+    "duration_ms": 249000,
+    "genre": "Pop",
+    "album": "Hodiny Nehy",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Lemon Tree",
+    "artist": "Fool's Garden",
+    "date": "09.10.2025",
+    "time": "10:18",
+    "year": 1995,
+    "duration_ms": 191027,
+    "genre": "Pop",
+    "album": "Dish of the Day",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Léto",
     "artist": "Bartošová Iveta",
     "date": "09.10.2025",
