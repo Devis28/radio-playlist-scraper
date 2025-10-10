@@ -1,5 +1,33 @@
 [
   {
+    "title": "The Riddle",
+    "artist": "Nik Kershaw",
+    "date": "11.10.2025",
+    "time": "00:45",
+    "year": 1991,
+    "duration_ms": 231133,
+    "genre": "Pop",
+    "album": "Nik Kershaw: The Collection",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "11.10.2025",
+    "time": "00:40",
+    "year": 1990,
+    "duration_ms": 372827,
+    "genre": "Pop",
+    "album": "Violator (Deluxe)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Martin L. Gore"
+    ]
+  },
+  {
     "title": "Dvaja",
     "artist": "Grigorov Robo",
     "date": "11.10.2025",
