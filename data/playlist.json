@@ -1,5 +1,31 @@
 [
   {
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "10.10.2025",
+    "time": "06:52",
+    "year": 1992,
+    "duration_ms": 320351,
+    "genre": "Alternative",
+    "album": "Automatic For The People",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Xanadu",
+    "artist": "Olivia Newton-John And Electric Light Orchestra",
+    "date": "10.10.2025",
+    "time": "06:49",
+    "year": 1980,
+    "duration_ms": 208240,
+    "genre": "Soundtrack",
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Báječná Ženská",
     "artist": "Tučný Michal",
     "date": "10.10.2025",
