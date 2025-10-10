@@ -1,5 +1,31 @@
 [
   {
+    "title": "Bad",
+    "artist": "Jackson Michael",
+    "date": "10.10.2025",
+    "time": "21:55",
+    "year": 1987,
+    "duration_ms": 247369,
+    "genre": "Pop",
+    "album": "Bad (25th Anniversary Edition)",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Go go happy go",
+    "artist": "Exil",
+    "date": "10.10.2025",
+    "time": "21:51",
+    "year": 1995,
+    "duration_ms": 260039,
+    "genre": "Pop",
+    "album": "Go Go!",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "I Like Chopin",
     "artist": "Gazebo",
     "date": "10.10.2025",
