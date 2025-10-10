@@ -1,5 +1,72 @@
 [
   {
+    "title": "You're The One That I Want",
+    "artist": "Travolta John & Newton-John Olivia",
+    "date": "10.10.2025",
+    "time": "12:36",
+    "year": 1978,
+    "duration_ms": 168907,
+    "genre": "Musicals",
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "John Farrar"
+    ]
+  },
+  {
+    "title": "Sme Svoji",
+    "artist": "Nagy Peter",
+    "date": "10.10.2025",
+    "time": "12:33",
+    "year": 1985,
+    "duration_ms": 197013,
+    "genre": "Pop",
+    "album": "Mne sa neschováš",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Nothing Compares 2 U",
+    "artist": "O'connor Sinéad",
+    "date": "10.10.2025",
+    "time": "12:28",
+    "year": 1990,
+    "duration_ms": 310880,
+    "genre": "Alternative",
+    "album": "I Do Not Want What I Haven't Got (Deluxe Edition)",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "One Way Ticket",
+    "artist": "Eruption",
+    "date": "10.10.2025",
+    "time": "12:25",
+    "year": 1978,
+    "duration_ms": 213200,
+    "genre": "Pop",
+    "album": "4 Hits: Eruption - EP",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Another Day In Paradise",
+    "artist": "Collins Phil",
+    "date": "10.10.2025",
+    "time": "12:21",
+    "year": 1989,
+    "duration_ms": 322133,
+    "genre": "Rock",
+    "album": "The Singles (Deluxe Edition)",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "I Wanna B with U",
     "artist": "Fun Factory",
     "date": "10.10.2025",
