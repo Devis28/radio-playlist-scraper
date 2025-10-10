@@ -1,5 +1,31 @@
 [
   {
+    "title": "Nahý 2",
+    "artist": "Richard  Muller",
+    "date": "10.10.2025",
+    "time": "01:57",
+    "year": 2006,
+    "duration_ms": 300693,
+    "genre": "Pop",
+    "album": "Retro",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "10.10.2025",
+    "time": "01:54",
+    "year": 1975,
+    "duration_ms": 209360,
+    "genre": "Pop",
+    "album": "Paloma Blanca",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "The Road To Mandalay",
     "artist": "Williams, Robbie",
     "date": "10.10.2025",
