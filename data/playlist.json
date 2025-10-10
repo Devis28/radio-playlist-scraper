@@ -1,5 +1,77 @@
 [
   {
+    "title": "I Wanna B with U",
+    "artist": "Fun Factory",
+    "date": "10.10.2025",
+    "time": "12:17",
+    "year": 2016,
+    "duration_ms": 213600,
+    "genre": "Dance",
+    "album": "Back to the Factory",
+    "track_number": 17,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Rodney Hardison",
+      "Toni Cottura",
+      "Zoltan Bender"
+    ]
+  },
+  {
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "10.10.2025",
+    "time": "12:13",
+    "year": 1973,
+    "duration_ms": 233893,
+    "genre": "Rock",
+    "album": "The Wild One: The Greatest Hits",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
+    "title": "Oheň, Voda, Vítr",
+    "artist": "Janda Dalibor",
+    "date": "10.10.2025",
+    "time": "12:09",
+    "year": 1982,
+    "duration_ms": 172707,
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Runaway Train",
+    "artist": "Soul Asylum",
+    "date": "10.10.2025",
+    "time": "12:04",
+    "year": 1992,
+    "duration_ms": 266067,
+    "genre": "Rock",
+    "album": "Black Gold: The Best of Soul Asylum",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Severní Vítr",
+    "artist": "Jaroslav Uhlíř",
+    "date": "10.10.2025",
+    "time": "12:01",
+    "year": 2015,
+    "duration_ms": 190386,
+    "genre": "Pop",
+    "album": "Dospelym a Detem",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "All For Love",
     "artist": "Adams Bryan & Stewart Rod & Sting",
     "date": "10.10.2025",
