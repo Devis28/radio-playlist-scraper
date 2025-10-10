@@ -1,5 +1,46 @@
 [
   {
+    "title": "Straight Up",
+    "artist": "Abdul Paula",
+    "date": "10.10.2025",
+    "time": "21:20",
+    "year": 1988,
+    "duration_ms": 251467,
+    "genre": "Dance",
+    "album": "Forever Your Girl",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Infinity",
+    "artist": "Guru Josh",
+    "date": "10.10.2025",
+    "time": "21:17",
+    "year": 1989,
+    "duration_ms": 243693,
+    "genre": "Pop",
+    "album": "90s 100 Hits",
+    "track_number": 34,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Paul Walden"
+    ]
+  },
+  {
+    "title": "Save Your Kisses For Me",
+    "artist": "The Brotherhood Of Man",
+    "date": "10.10.2025",
+    "time": "21:14",
+    "year": 1976,
+    "duration_ms": 185493,
+    "genre": "Pop",
+    "album": "Sing Number the One Hits",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "When The Rain Begins To Fall",
     "artist": "Jermaine Jackson & Pia Zadora",
     "date": "10.10.2025",
