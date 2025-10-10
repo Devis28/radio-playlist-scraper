@@ -1,5 +1,31 @@
 [
   {
+    "title": "Mysterious Times",
+    "artist": "Sash Feat. Tina Cousins",
+    "date": "10.10.2025",
+    "time": "23:34",
+    "year": 1998,
+    "duration_ms": 221240,
+    "genre": "Dance",
+    "album": "Life Goes On",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Come Back And Stay",
+    "artist": "Bad Boys Blue",
+    "date": "10.10.2025",
+    "time": "23:30",
+    "year": 1987,
+    "duration_ms": 247027,
+    "genre": "German Pop",
+    "album": "Super 20",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Je To Vo Hviezdach",
     "artist": "Pavol Habera",
     "date": "10.10.2025",
