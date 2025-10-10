@@ -1,5 +1,48 @@
 [
   {
+    "title": "Ženská Menom Panika",
+    "artist": "Team",
+    "date": "11.10.2025",
+    "time": "01:24",
+    "year": 1994,
+    "duration_ms": 267693,
+    "genre": "Rock",
+    "album": "Team Hity",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Ma Baker",
+    "artist": "Boney M.",
+    "date": "11.10.2025",
+    "time": "01:19",
+    "year": 1976,
+    "duration_ms": 274960,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 4,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Frank Farian",
+      "Fred Jay",
+      "George Reyam"
+    ]
+  },
+  {
+    "title": "Len S Ňou",
+    "artist": "Žbirka Miroslav",
+    "date": "11.10.2025",
+    "time": "01:16",
+    "year": 1988,
+    "duration_ms": 187107,
+    "genre": "Pop",
+    "album": "Zlomky poznania",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Baroko",
     "artist": "Muller Richard & Anna K. Ivan Tasler",
     "date": "11.10.2025",
