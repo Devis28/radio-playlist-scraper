@@ -1,5 +1,34 @@
 [
   {
+    "title": "Tereza",
+    "artist": "Matuška Waldemar",
+    "date": "10.10.2025",
+    "time": "11:52",
+    "year": 1964,
+    "duration_ms": 145680,
+    "genre": "Pop",
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jiří Suchý",
+      "Jiří Šlitr"
+    ]
+  },
+  {
+    "title": "Cause You Are Young",
+    "artist": "C.C. Catch",
+    "date": "10.10.2025",
+    "time": "11:48",
+    "year": 1986,
+    "duration_ms": 209533,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Hrám",
     "artist": "Karol Duchoň",
     "date": "10.10.2025",
