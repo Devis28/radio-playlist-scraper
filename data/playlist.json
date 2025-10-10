@@ -1,5 +1,33 @@
 [
   {
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "10.10.2025",
+    "time": "20:47",
+    "year": 1991,
+    "duration_ms": 230680,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 10,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Per Gessle"
+    ]
+  },
+  {
+    "title": "Vamos A La Playa",
+    "artist": "Righeira",
+    "date": "10.10.2025",
+    "time": "20:44",
+    "year": 1983,
+    "duration_ms": 219469,
+    "genre": "Dance",
+    "album": "Vamos a la Playa - Single",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Living Next Door To Alice",
     "artist": "Smokie",
     "date": "10.10.2025",
