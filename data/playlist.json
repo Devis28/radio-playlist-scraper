@@ -1,5 +1,48 @@
 [
   {
+    "title": "Xanadu",
+    "artist": "Olivia Newton-John And Electric Light Orchestra",
+    "date": "11.10.2025",
+    "time": "00:29",
+    "year": 1980,
+    "duration_ms": 208240,
+    "genre": "Soundtrack",
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Zhorí Všetko Čo Mám",
+    "artist": "Desmod",
+    "date": "11.10.2025",
+    "time": "00:24",
+    "year": 2006,
+    "duration_ms": 290560,
+    "genre": "Rock",
+    "album": "Uhol Pohladu",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Torn",
+    "artist": "Imbruglia Natalie",
+    "date": "11.10.2025",
+    "time": "00:20",
+    "year": 1997,
+    "duration_ms": 244667,
+    "genre": "Pop",
+    "album": "Left of the Middle",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Anne Preven",
+      "Phil Thornalley",
+      "Scott Cutler"
+    ]
+  },
+  {
     "title": "Holubička",
     "artist": "Adam Ďurica",
     "date": "11.10.2025",
