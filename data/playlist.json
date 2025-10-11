@@ -1,5 +1,57 @@
 [
   {
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "11.10.2025",
+    "time": "23:19",
+    "year": 1996,
+    "duration_ms": 584747,
+    "genre": "Dance",
+    "album": "Deconstruction Reconstructed 019",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Kung Fu Fighting",
+    "artist": "Douglas Carl",
+    "date": "11.10.2025",
+    "time": "23:16",
+    "year": 1974,
+    "duration_ms": 197693,
+    "genre": "R&B/Soul",
+    "album": "The Soul of the Kung Fu Fighter",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Self Control",
+    "artist": "Branigan Laura",
+    "date": "11.10.2025",
+    "time": "23:12",
+    "year": 1984,
+    "duration_ms": 246440,
+    "genre": "Pop",
+    "album": "Self Control",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Flying High",
+    "artist": "Captain Hollywood Project",
+    "date": "11.10.2025",
+    "time": "23:08",
+    "year": 1994,
+    "duration_ms": 226933,
+    "genre": "Dance",
+    "album": "Flying High",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Mám Ťa Rád",
     "artist": "Duchon  Karol",
     "date": "11.10.2025",
