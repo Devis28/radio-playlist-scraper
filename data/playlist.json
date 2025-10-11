@@ -1,5 +1,31 @@
 [
   {
+    "title": "Vyznanie",
+    "artist": "Marika Gombitová",
+    "date": "11.10.2025",
+    "time": "12:38",
+    "year": 1979,
+    "duration_ms": 285907,
+    "genre": "Pop",
+    "album": "Dievča do dažďa",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Som On (Snežný Pluh)",
+    "artist": "Hex",
+    "date": "11.10.2025",
+    "time": "12:33",
+    "year": 1997,
+    "duration_ms": 262867,
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Málo Mě Zná",
     "artist": "Bartosova Iveta",
     "date": "11.10.2025",
