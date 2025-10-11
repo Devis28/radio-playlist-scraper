@@ -1,5 +1,35 @@
 [
   {
+    "title": "Hungry Like The Wolf",
+    "artist": "Duran Duran",
+    "date": "11.10.2025",
+    "time": "22:53",
+    "year": 1982,
+    "duration_ms": 220627,
+    "genre": "New Wave",
+    "album": "Rio (Collectors Edition)",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "11.10.2025",
+    "time": "22:49",
+    "year": 1993,
+    "duration_ms": 302360,
+    "genre": "Pop",
+    "album": "Ultimate",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Henri Belolo",
+      "Jacques Morali",
+      "Victor Willis"
+    ]
+  },
+  {
     "title": "Brother Louie",
     "artist": "Modern Talking",
     "date": "11.10.2025",
