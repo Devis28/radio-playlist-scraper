@@ -1,5 +1,31 @@
 [
   {
+    "title": "Dážď",
+    "artist": "Peter Cmorík",
+    "date": "11.10.2025",
+    "time": "11:56",
+    "year": 2006,
+    "duration_ms": 279720,
+    "genre": "Pop",
+    "album": "Nadherny Den",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Mám Rád",
+    "artist": "Miro Žbirka",
+    "date": "11.10.2025",
+    "time": "11:53",
+    "year": 2001,
+    "duration_ms": 181307,
+    "genre": "Pop",
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Soumen",
     "artist": "Michal David",
     "date": "11.10.2025",
