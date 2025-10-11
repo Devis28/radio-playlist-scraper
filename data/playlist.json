@@ -1,5 +1,60 @@
 [
   {
+    "title": "If I Could Turn Back Time",
+    "artist": "Cher",
+    "date": "11.10.2025",
+    "time": "22:29",
+    "year": 1989,
+    "duration_ms": 239827,
+    "genre": "Pop",
+    "album": "Heart of Stone",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Rhythm Is A Dancer",
+    "artist": "Snap",
+    "date": "11.10.2025",
+    "time": "22:25",
+    "year": 1991,
+    "duration_ms": 313549,
+    "genre": "Dance",
+    "album": "Rhythm Is a Dancer - Single",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Americanos",
+    "artist": "Holly Johnson",
+    "date": "11.10.2025",
+    "time": "22:22",
+    "year": 1990,
+    "duration_ms": 373027,
+    "genre": "Pop",
+    "album": "Hollelujah (The Remix Album)",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "11.10.2025",
+    "time": "22:18",
+    "year": 1992,
+    "duration_ms": 243133,
+    "genre": "Pop",
+    "album": "One Love",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ]
+  },
+  {
     "title": "Blame It On The Boogie",
     "artist": "The Jacksons",
     "date": "11.10.2025",
