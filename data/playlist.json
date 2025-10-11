@@ -1,5 +1,57 @@
 [
   {
+    "title": "Mám Krásny Sen (Hawaii)",
+    "artist": "Imt Smile",
+    "date": "11.10.2025",
+    "time": "16:05",
+    "year": 2008,
+    "duration_ms": 189787,
+    "genre": "Pop",
+    "album": "Hlava Ma Sedem Otvorov",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "11.10.2025",
+    "time": "16:02",
+    "year": 1988,
+    "duration_ms": 198160,
+    "genre": "Pop",
+    "album": "Zlomky poznania",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Cigaretka Na Dva Ťahy",
+    "artist": "Richard Müller",
+    "date": "11.10.2025",
+    "time": "15:58",
+    "year": 2018,
+    "duration_ms": 436587,
+    "genre": "Pop",
+    "album": "Koncert (Live)",
+    "track_number": 11,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Zrcadlo",
+    "artist": "Muk Petr",
+    "date": "11.10.2025",
+    "time": "15:55",
+    "year": 2000,
+    "duration_ms": 176000,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Kávu Si Osladím",
     "artist": "Gott Karel",
     "date": "11.10.2025",
