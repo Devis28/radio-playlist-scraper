@@ -1,5 +1,37 @@
 [
   {
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "11.10.2025",
+    "time": "21:46",
+    "year": 2022,
+    "duration_ms": 76173,
+    "genre": "House",
+    "album": "Claptone at DAY.MVS XL 2022: Northside (DJ Mix)",
+    "track_number": 4,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Annerley Gordon",
+      "Francesco Bontempi",
+      "Giorgio Spagna",
+      "M. Gaffey",
+      "P. Glenister"
+    ]
+  },
+  {
+    "title": "D.I.S.C.O.",
+    "artist": "Ottawan",
+    "date": "11.10.2025",
+    "time": "21:42",
+    "year": 1979,
+    "duration_ms": 196507,
+    "genre": "Disco",
+    "album": "D.I.S.C.O. - EP",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": null
+  },
+  {
     "title": "I Will Survive",
     "artist": "Gloria Gaynor",
     "date": "11.10.2025",
