@@ -1,5 +1,36 @@
 [
   {
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "11.10.2025",
+    "time": "23:46",
+    "year": 1995,
+    "duration_ms": 240867,
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
+  },
+  {
+    "title": "True Blue",
+    "artist": "Madonna",
+    "date": "11.10.2025",
+    "time": "23:42",
+    "year": 1986,
+    "duration_ms": 257467,
+    "genre": "Pop",
+    "album": "True Blue",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Stumblin' In",
     "artist": "Norman Chris & Quatro Suzi",
     "date": "11.10.2025",
