@@ -1,5 +1,47 @@
 [
   {
+    "title": "Ach, Ta Láska Nebeská",
+    "artist": "Pilarová Eva Matuška Waldemar",
+    "date": "11.10.2025",
+    "time": "19:56",
+    "year": 1992,
+    "duration_ms": 278733,
+    "genre": "Pop",
+    "album": "Story",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Zbohom Bud, Lipova Lyzka,...",
+    "artist": "Dočolomanský Michal",
+    "date": "11.10.2025",
+    "time": "19:53",
+    "year": 2023,
+    "duration_ms": 219000,
+    "genre": "Pop",
+    "album": "Hity & Duety",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Ernest Bryll",
+      "Katarzyna Gärtner"
+    ]
+  },
+  {
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "11.10.2025",
+    "time": "19:48",
+    "year": 1990,
+    "duration_ms": 303903,
+    "genre": "Pop",
+    "album": "Za dverami mojej izby",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Boli Sme Raz Milovaní",
     "artist": "Habera Pavol",
     "date": "11.10.2025",
