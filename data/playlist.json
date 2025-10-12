@@ -1,5 +1,44 @@
 [
   {
+    "title": "Aj Tak Sme Frajeri",
+    "artist": "Nagy Peter",
+    "date": "13.10.2025",
+    "time": "01:05",
+    "year": 1989,
+    "duration_ms": 201813,
+    "genre": "Pop",
+    "album": "Šachy robia človeka",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Mrs. Robinson",
+    "artist": "Simon, Paul & Garfunkel, Art",
+    "date": "13.10.2025",
+    "time": "01:02",
+    "year": 1968,
+    "duration_ms": 247420,
+    "genre": "Singer/Songwriter",
+    "album": "Bookends",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sha La La",
+    "artist": "Vengaboys",
+    "date": "13.10.2025",
+    "time": "00:58",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "NL",
+    "songwriters": null
+  },
+  {
     "title": "Pretty Young Girl",
     "artist": "Bad Boys Blue",
     "date": "13.10.2025",
