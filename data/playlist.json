@@ -1,5 +1,31 @@
 [
   {
+    "title": "Dievča Amerika",
+    "artist": "Habera Pavol",
+    "date": "12.10.2025",
+    "time": "17:45",
+    "year": 1995,
+    "duration_ms": 250427,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Čoskoro",
+    "artist": "Peter Bič Project",
+    "date": "12.10.2025",
+    "time": "17:42",
+    "year": 2019,
+    "duration_ms": 207516,
+    "genre": "Pop",
+    "album": "Čoskoro - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Že Mi Je Ľúto",
     "artist": "Elán & Lojzo",
     "date": "12.10.2025",
