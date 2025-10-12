@@ -1,5 +1,59 @@
 [
   {
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "12.10.2025",
+    "time": "11:19",
+    "year": 2011,
+    "duration_ms": 152573,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "12.10.2025",
+    "time": "11:15",
+    "year": 1992,
+    "duration_ms": 233573,
+    "genre": "Pop",
+    "album": "Neuc Vtaka Lietat!",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Maťo A Linda",
+    "artist": "Hex",
+    "date": "12.10.2025",
+    "time": "11:09",
+    "year": 1997,
+    "duration_ms": 254000,
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 11,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Správne Dievčatá",
+    "artist": "Gombitová Marika",
+    "date": "12.10.2025",
+    "time": "11:05",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Sputana Laskou",
     "artist": "Peter & Julia Heckovci",
     "date": "12.10.2025",
