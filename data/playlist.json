@@ -1,5 +1,33 @@
 [
   {
+    "title": "Holiday Rap",
+    "artist": "Mc Miker G. & Dj Sven",
+    "date": "12.10.2025",
+    "time": "20:57",
+    "year": 1986,
+    "duration_ms": 266275,
+    "genre": "Hip-Hop/Rap",
+    "album": "Au top des années 80, vol. 2",
+    "track_number": 1,
+    "artist_country_code": "NL",
+    "songwriters": null
+  },
+  {
+    "title": "Cheri Cheri Lady",
+    "artist": "Modern Talking",
+    "date": "12.10.2025",
+    "time": "20:53",
+    "year": 1985,
+    "duration_ms": 226333,
+    "genre": "Pop",
+    "album": "Let's Talk About Love",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Dieter Bohlen"
+    ]
+  },
+  {
     "title": "Shine",
     "artist": "Aswad",
     "date": "12.10.2025",
