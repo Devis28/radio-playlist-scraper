@@ -1,5 +1,33 @@
 [
   {
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "13.10.2025",
+    "time": "01:53",
+    "year": 1969,
+    "duration_ms": 185733,
+    "genre": "Rock",
+    "album": "Abbey Road (Remastered)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Harrison"
+    ]
+  },
+  {
+    "title": "Mám Krásny Sen (Hawaii)",
+    "artist": "Imt Smile",
+    "date": "13.10.2025",
+    "time": "01:50",
+    "year": 2008,
+    "duration_ms": 189787,
+    "genre": "Pop",
+    "album": "Hlava Ma Sedem Otvorov",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Everybody Hurts",
     "artist": "R.E.M.",
     "date": "13.10.2025",
