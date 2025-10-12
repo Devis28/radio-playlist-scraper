@@ -1,5 +1,73 @@
 [
   {
+    "title": "Colu, Pijeme Colu",
+    "artist": "Michal David",
+    "date": "12.10.2025",
+    "time": "17:16",
+    "year": 2008,
+    "duration_ms": 253331,
+    "genre": "Pop",
+    "album": "Disco 2008",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Jó Tresne Zraly",
+    "artist": "Matuška Waldemar",
+    "date": "12.10.2025",
+    "time": "17:13",
+    "year": 1965,
+    "duration_ms": 233240,
+    "genre": "Pop",
+    "album": "Textempore (Písně s texty Ivo Fischera)",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "12.10.2025",
+    "time": "17:09",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Veľa Lásky",
+    "artist": "I.M.T. Smile",
+    "date": "12.10.2025",
+    "time": "17:05",
+    "year": 2012,
+    "duration_ms": 193733,
+    "genre": "Pop",
+    "album": "Život IMT Smile 1998-2020",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "12.10.2025",
+    "time": "17:02",
+    "year": 2016,
+    "duration_ms": 197007,
+    "genre": "Soft Rock",
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Hyža"
+    ]
+  },
+  {
     "title": "Spomaľ",
     "artist": "Peha",
     "date": "12.10.2025",
