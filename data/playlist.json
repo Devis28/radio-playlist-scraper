@@ -1,5 +1,31 @@
 [
   {
+    "title": "Ten Príbeh Je Preč",
+    "artist": "Beata Dubasová",
+    "date": "12.10.2025",
+    "time": "12:45",
+    "year": 1993,
+    "duration_ms": 269000,
+    "genre": "Pop",
+    "album": "Modry Album",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "C§est La Vie",
+    "artist": "Karel Gott",
+    "date": "12.10.2025",
+    "time": "12:42",
+    "year": 1965,
+    "duration_ms": 191507,
+    "genre": "Pop",
+    "album": "Hity Jaromíra Klempíře",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Nelietajú",
     "artist": "Nagy Peter Muk Petr",
     "date": "12.10.2025",
