@@ -1,5 +1,63 @@
 [
   {
+    "title": "Relax",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "12.10.2025",
+    "time": "23:20",
+    "year": 1983,
+    "duration_ms": 443234,
+    "genre": "Dance",
+    "album": "Bang! (Here Comes A Supernova)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "12.10.2025",
+    "time": "23:17",
+    "year": 1991,
+    "duration_ms": 213760,
+    "genre": "Dance",
+    "album": "Massive Luxury Overdose",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
+  },
+  {
+    "title": "Ring My Bell",
+    "artist": "Anita Ward",
+    "date": "12.10.2025",
+    "time": "23:13",
+    "year": 2005,
+    "duration_ms": 491933,
+    "genre": "R&B/Soul",
+    "album": "Ring My Bell",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Frederick Knight"
+    ]
+  },
+  {
+    "title": "Manic Monday",
+    "artist": "The Bangles",
+    "date": "12.10.2025",
+    "time": "23:10",
+    "year": 1986,
+    "duration_ms": 184863,
+    "genre": "Pop",
+    "album": "The Bangles Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Pump Up The Jam",
     "artist": "Technotronic",
     "date": "12.10.2025",
