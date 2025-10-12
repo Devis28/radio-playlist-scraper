@@ -1,5 +1,91 @@
 [
   {
+    "title": "Nočná Optika",
+    "artist": "Müller Richard",
+    "date": "12.10.2025",
+    "time": "08:38",
+    "year": 2002,
+    "duration_ms": 299880,
+    "genre": "Pop",
+    "album": "Nocna Optika",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Môj Starý Dobrý Kabát",
+    "artist": "Tublatanka",
+    "date": "12.10.2025",
+    "time": "08:35",
+    "year": 1988,
+    "duration_ms": 197013,
+    "genre": "Pop",
+    "album": "Zeravé znamenie osudu",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Holky Z Naší Školky",
+    "artist": "Stanislav Hložek & Petr Kotvald",
+    "date": "12.10.2025",
+    "time": "08:31",
+    "year": 1983,
+    "duration_ms": 232493,
+    "genre": "Pop",
+    "album": "Holky Z Naší Školky",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Karel Vágner",
+      "Pavel Žák"
+    ]
+  },
+  {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "12.10.2025",
+    "time": "08:27",
+    "year": 1995,
+    "duration_ms": 213956,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
+  },
+  {
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "12.10.2025",
+    "time": "08:24",
+    "year": 2005,
+    "duration_ms": 208853,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Čas Je Proti Nám",
+    "artist": "Helena Vondráčková",
+    "date": "12.10.2025",
+    "time": "08:18",
+    "year": 1964,
+    "duration_ms": 253533,
+    "genre": "Pop",
+    "album": "Ode Mne K Tobě",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Chtěl Bych Žít, Tak Jak Se Má",
     "artist": "David Michal",
     "date": "12.10.2025",
