@@ -1,5 +1,117 @@
 [
   {
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "12.10.2025",
+    "time": "05:36",
+    "year": 1991,
+    "duration_ms": 275667,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "12.10.2025",
+    "time": "05:33",
+    "year": 1984,
+    "duration_ms": 210013,
+    "genre": "Soundtrack",
+    "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Giorgio Moroder",
+      "Keith Forsey"
+    ]
+  },
+  {
+    "title": "Nenahraditeľná",
+    "artist": "Sima Martausová & For You",
+    "date": "12.10.2025",
+    "time": "05:29",
+    "year": 2018,
+    "duration_ms": 198649,
+    "genre": "Folk",
+    "album": "Nenahraditeľná (feat. For You) - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Time After Time",
+    "artist": "Cyndi Lauper",
+    "date": "12.10.2025",
+    "time": "05:25",
+    "year": 1984,
+    "duration_ms": 243067,
+    "genre": "Pop",
+    "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Cirkus Leto",
+    "artist": "Pavol Hammel",
+    "date": "12.10.2025",
+    "time": "05:22",
+    "year": 2011,
+    "duration_ms": 164947,
+    "genre": "Rock",
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "date": "12.10.2025",
+    "time": "05:18",
+    "year": 1991,
+    "duration_ms": 275647,
+    "genre": "Rock",
+    "album": "Innuendo (Deluxe Edition)",
+    "track_number": 12,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Brian May",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor"
+    ]
+  },
+  {
+    "title": "Anjel",
+    "artist": "Karmen Pál-Baláž",
+    "date": "12.10.2025",
+    "time": "05:14",
+    "year": 2019,
+    "duration_ms": 255102,
+    "genre": "Pop",
+    "album": "Anjel - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Only Time (Two Tribes Remix))",
+    "artist": "Enya",
+    "date": "12.10.2025",
+    "time": "05:11",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
     "title": "Made In Italy",
     "artist": "Ricchi E Poveri",
     "date": "12.10.2025",
