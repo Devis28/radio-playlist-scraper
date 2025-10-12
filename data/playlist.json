@@ -1,5 +1,315 @@
 [
   {
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "12.10.2025",
+    "time": "04:14",
+    "year": 1982,
+    "duration_ms": 243773,
+    "genre": "Rock",
+    "album": "Eye of the Tiger",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Frankie Sullivan",
+      "Jim Peterik"
+    ]
+  },
+  {
+    "title": "Ešte Váham",
+    "artist": "Kristína",
+    "date": "12.10.2025",
+    "time": "04:10",
+    "year": 2020,
+    "duration_ms": 232452,
+    "genre": "Pop",
+    "album": "Kristína: TIE NAJ (Album verzia)",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Braňo Jančich",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Because I Love You",
+    "artist": "Stevie B.",
+    "date": "12.10.2025",
+    "time": "04:05",
+    "year": 2023,
+    "duration_ms": 309200,
+    "genre": "Funk",
+    "album": "Best of Love Songs",
+    "track_number": 9,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Denisa",
+    "artist": "Miro Žbirka",
+    "date": "12.10.2025",
+    "time": "04:02",
+    "year": 2004,
+    "duration_ms": 189560,
+    "genre": "Worldwide",
+    "album": "Miro Zbirka: Live",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Stars",
+    "artist": "Simply Red",
+    "date": "12.10.2025",
+    "time": "03:58",
+    "year": 1991,
+    "duration_ms": 248600,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mick Hucknall"
+    ]
+  },
+  {
+    "title": "Imagine",
+    "artist": "John Lennon, The Plastic Ono Band",
+    "date": "12.10.2025",
+    "time": "03:54",
+    "year": 2025,
+    "duration_ms": 202891,
+    "genre": "Rock",
+    "album": "Power To The People (Live At The One To One Concert - Afternoon & Evening Shows)",
+    "track_number": 11,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "12.10.2025",
+    "time": "03:50",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
+    "title": "Keď Sa Raz Oči Dohodnú",
+    "artist": "Modus",
+    "date": "12.10.2025",
+    "time": "03:46",
+    "year": 1988,
+    "duration_ms": 276653,
+    "genre": "Pop",
+    "album": "Keď sa raz oči dohodnú",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
+    "title": "Hiroshima",
+    "artist": "Sandra",
+    "date": "12.10.2025",
+    "time": "03:42",
+    "year": 1990,
+    "duration_ms": 412160,
+    "genre": "Pop",
+    "album": "Paintings in Yellow",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Can't Fight The Moonlight",
+    "artist": "Rimes Leann",
+    "date": "12.10.2025",
+    "time": "03:38",
+    "year": 2000,
+    "duration_ms": 215507,
+    "genre": "Soundtrack",
+    "album": "Coyote Ugly",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Diane Warren"
+    ]
+  },
+  {
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "12.10.2025",
+    "time": "03:34",
+    "year": 1988,
+    "duration_ms": 237320,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "12.10.2025",
+    "time": "03:31",
+    "year": 1987,
+    "duration_ms": 209800,
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 11,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "You Can't Hurry Love",
+    "artist": "Collins Phil",
+    "date": "12.10.2025",
+    "time": "03:28",
+    "year": 1982,
+    "duration_ms": 175747,
+    "genre": "Rock",
+    "album": "Hello, I Must Be Going! (Remastered)",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Modrá",
+    "artist": "Kirschner Jana",
+    "date": "12.10.2025",
+    "time": "03:24",
+    "year": 2000,
+    "duration_ms": 250907,
+    "genre": "Pop",
+    "album": "V Cudzom Meste",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jana Kirschner"
+    ]
+  },
+  {
+    "title": "Happy People",
+    "artist": "Prince Ital Joe Feat.Marky Mark",
+    "date": "12.10.2025",
+    "time": "03:20",
+    "year": 1994,
+    "duration_ms": 238467,
+    "genre": "Pop",
+    "album": "Life In the Streets",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Nechajte Si Ju",
+    "artist": "Vidiek",
+    "date": "12.10.2025",
+    "time": "03:17",
+    "year": 1988,
+    "duration_ms": 171013,
+    "genre": "Pop",
+    "album": "Nechajte si ju!",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Kuric"
+    ]
+  },
+  {
+    "title": "High Hopes",
+    "artist": "Pink Floyd",
+    "date": "12.10.2025",
+    "time": "03:12",
+    "year": 1994,
+    "duration_ms": 511013,
+    "genre": "Rock",
+    "album": "The Division Bell",
+    "track_number": 11,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "12.10.2025",
+    "time": "03:07",
+    "year": 1997,
+    "duration_ms": 254600,
+    "genre": "Pop",
+    "album": "Die Grossten Hits Aus 15 Jahren",
+    "track_number": 1,
+    "artist_country_code": "AT",
+    "songwriters": null
+  },
+  {
+    "title": "SOS",
+    "artist": "ABBA",
+    "date": "12.10.2025",
+    "time": "03:04",
+    "year": 1975,
+    "duration_ms": 201800,
+    "genre": "Pop",
+    "album": "Thank You For The Music",
+    "track_number": 13,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Holding Out For A Hero",
+    "artist": "Tyler Bonnie",
+    "date": "12.10.2025",
+    "time": "02:59",
+    "year": 1984,
+    "duration_ms": 350705,
+    "genre": "Soundtrack",
+    "album": "Footloose (Original Motion Picture Soundtrack)",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "Dean Pitchford",
+      "Jim Steinman"
+    ]
+  },
+  {
+    "title": "Free",
+    "artist": "Lighthouse Family",
+    "date": "12.10.2025",
+    "time": "02:55",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "San Francisco",
+    "artist": "Mckenzie Scott",
+    "date": "12.10.2025",
+    "time": "02:53",
+    "year": 1967,
+    "duration_ms": 177427,
+    "genre": "Pop",
+    "album": "Hear It Now! The Sound of the '60s",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Always",
     "artist": "Bon Jovi",
     "date": "12.10.2025",
