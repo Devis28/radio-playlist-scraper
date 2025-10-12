@@ -1,5 +1,46 @@
 [
   {
+    "title": "Upside Down",
+    "artist": "Diana Ross",
+    "date": "12.10.2025",
+    "time": "21:22",
+    "year": 1980,
+    "duration_ms": 245563,
+    "genre": "R&B/Soul",
+    "album": "Diana",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "12.10.2025",
+    "time": "21:17",
+    "year": 1990,
+    "duration_ms": 372827,
+    "genre": "Pop",
+    "album": "Violator (Deluxe)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Martin L. Gore"
+    ]
+  },
+  {
+    "title": "/I Can't Get No/ Satisfaction",
+    "artist": "The Rolling Stones",
+    "date": "12.10.2025",
+    "time": "21:13",
+    "year": 1965,
+    "duration_ms": 224670,
+    "genre": "Rock",
+    "album": "Hot Rocks 1964-1971",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Heartbreak Hotel",
     "artist": "C.C. Catch",
     "date": "12.10.2025",
