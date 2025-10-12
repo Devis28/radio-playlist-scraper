@@ -1,5 +1,48 @@
 [
   {
+    "title": "Se Bastasse Una Canzone",
+    "artist": "Ramazzotti Eros",
+    "date": "13.10.2025",
+    "time": "00:34",
+    "year": 1987,
+    "duration_ms": 323867,
+    "genre": "Pop",
+    "album": "Eros",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": [
+      "Adelio Cogliati",
+      "Eros Ramazzotti",
+      "Piero Cassano"
+    ]
+  },
+  {
+    "title": "Klára",
+    "artist": "AC+",
+    "date": "13.10.2025",
+    "time": "00:31",
+    "year": 1990,
+    "duration_ms": 213160,
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 11,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Who Wants To Live Forever",
+    "artist": "Queen",
+    "date": "13.10.2025",
+    "time": "00:27",
+    "year": 1986,
+    "duration_ms": 314489,
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Máš V Rukáve Máj",
     "artist": "Marika Gombitová",
     "date": "13.10.2025",
