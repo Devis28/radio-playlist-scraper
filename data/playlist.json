@@ -1,5 +1,47 @@
 [
   {
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "12.10.2025",
+    "time": "22:36",
+    "year": 1980,
+    "duration_ms": 197960,
+    "genre": "Pop",
+    "album": "Doktor Sen",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "The Power",
+    "artist": "Snap",
+    "date": "12.10.2025",
+    "time": "22:32",
+    "year": 1990,
+    "duration_ms": 227030,
+    "genre": "Dance",
+    "album": "SNAP! The Power Greatest Hits (Deluxe Version)",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "The Way To Your Heart",
+    "artist": "Soulsister",
+    "date": "12.10.2025",
+    "time": "22:29",
+    "year": 1988,
+    "duration_ms": 226187,
+    "genre": "Pop",
+    "album": "Lost Hits of the 80's, Vol. 2 - All Original Artists & Versions",
+    "track_number": 7,
+    "artist_country_code": "BE",
+    "songwriters": [
+      "Jan Leyers",
+      "Paul Michiels"
+    ]
+  },
+  {
     "title": "The Sign",
     "artist": "Ace Of Base",
     "date": "12.10.2025",
