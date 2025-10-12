@@ -1,5 +1,18 @@
 [
   {
+    "title": "Disco Band",
+    "artist": "Scotch",
+    "date": "12.10.2025",
+    "time": "22:40",
+    "year": 2005,
+    "duration_ms": 300840,
+    "genre": "Dance",
+    "album": "Disco Band - Single",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Ako Obrázok",
     "artist": "Miro Žbirka",
     "date": "12.10.2025",
