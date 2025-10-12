@@ -1,5 +1,18 @@
 [
   {
+    "title": "Fotonovela",
+    "artist": "Ivan",
+    "date": "12.10.2025",
+    "time": "23:39",
+    "year": 1984,
+    "duration_ms": 275720,
+    "genre": "Pop",
+    "album": "Lo Mejor de Iván",
+    "track_number": 16,
+    "artist_country_code": "BR",
+    "songwriters": null
+  },
+  {
     "title": "Dancing Queen",
     "artist": "Abba",
     "date": "12.10.2025",
