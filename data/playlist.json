@@ -1,5 +1,62 @@
 [
   {
+    "title": "Keď Odchádzajú Lásky",
+    "artist": "Richard Müller",
+    "date": "12.10.2025",
+    "time": "18:07",
+    "year": 1992,
+    "duration_ms": 297640,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Hurikán",
+    "artist": "Janda Dalibor",
+    "date": "12.10.2025",
+    "time": "18:03",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Adresa Ja Adresa Ty",
+    "artist": "Gombitová Marika",
+    "date": "12.10.2025",
+    "time": "17:59",
+    "year": 1986,
+    "duration_ms": 221440,
+    "genre": "Pop",
+    "album": "Volné miesto v srdci",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "12.10.2025",
+    "time": "17:56",
+    "year": 1990,
+    "duration_ms": 227267,
+    "genre": "Pop",
+    "album": "Gejzír",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jindřich Parma",
+      "Pavel Cmíral"
+    ]
+  },
+  {
     "title": "Mám Rozprávkový Dom",
     "artist": "Karel Gott",
     "date": "12.10.2025",
