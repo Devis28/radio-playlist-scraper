@@ -1,5 +1,44 @@
 [
   {
+    "title": "Heartbreak Hotel",
+    "artist": "C.C. Catch",
+    "date": "12.10.2025",
+    "time": "21:10",
+    "year": 1986,
+    "duration_ms": 215800,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "It's A Fine Day",
+    "artist": "Opus Iii",
+    "date": "12.10.2025",
+    "time": "21:06",
+    "year": 1991,
+    "duration_ms": 218893,
+    "genre": "Dance",
+    "album": "100 Greatest Motivation Songs",
+    "track_number": 33,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "L' Italiano",
+    "artist": "Toto Cutugno",
+    "date": "12.10.2025",
+    "time": "21:02",
+    "year": 1983,
+    "duration_ms": 236547,
+    "genre": "Pop",
+    "album": "L'italiano",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Holiday Rap",
     "artist": "Mc Miker G. & Dj Sven",
     "date": "12.10.2025",
