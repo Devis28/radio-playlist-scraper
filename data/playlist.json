@@ -1,5 +1,91 @@
 [
   {
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "date": "13.10.2025",
+    "time": "06:23",
+    "year": 1960,
+    "duration_ms": 174800,
+    "genre": "R&B/Soul",
+    "album": "The Very Best of Ben E. King",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Každý Mi Te Lásko Závidí",
+    "artist": "Michal David",
+    "date": "13.10.2025",
+    "time": "06:19",
+    "year": 2012,
+    "duration_ms": 296320,
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 10,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Bailamos",
+    "artist": "Enrique Iglesias",
+    "date": "13.10.2025",
+    "time": "06:16",
+    "year": 1999,
+    "duration_ms": 212693,
+    "genre": "Latin",
+    "album": "Enrique",
+    "track_number": 10,
+    "artist_country_code": "ES",
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "13.10.2025",
+    "time": "06:13",
+    "year": 2005,
+    "duration_ms": 144240,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
+    "title": "Perfect Day",
+    "artist": "Duran Duran",
+    "date": "13.10.2025",
+    "time": "06:06",
+    "year": 1995,
+    "duration_ms": 230933,
+    "genre": "Pop",
+    "album": "Thank You",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "I Just Called To Say I Love You",
+    "artist": "Wonder Stevie",
+    "date": "13.10.2025",
+    "time": "06:02",
+    "year": 2002,
+    "duration_ms": 262598,
+    "genre": "R&B/Soul",
+    "album": "The Definitive Collection",
+    "track_number": 19,
+    "artist_country_code": null,
+    "songwriters": [
+      "Stevie Wonder"
+    ]
+  },
+  {
     "title": "Sometimes",
     "artist": "Erasure",
     "date": "13.10.2025",
@@ -6275,11 +6361,11 @@
     "artist": "Tina Turner",
     "date": "11.10.2025",
     "time": "23:50",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "year": 1989,
+    "duration_ms": 255937,
+    "genre": "R&B/Soul",
+    "album": "Simply the Best",
+    "track_number": 1,
     "artist_country_code": "CH",
     "songwriters": null
   },
