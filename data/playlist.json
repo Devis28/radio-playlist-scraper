@@ -1,5 +1,31 @@
 [
   {
+    "title": "Radio Ga Ga",
+    "artist": "Queen",
+    "date": "14.10.2025",
+    "time": "00:45",
+    "year": 1984,
+    "duration_ms": 349187,
+    "genre": "Rock",
+    "album": "The Works (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "14.10.2025",
+    "time": "00:41",
+    "year": 2003,
+    "duration_ms": 237880,
+    "genre": "Pop",
+    "album": "9",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Každý Mi Te Lásko Závidí",
     "artist": "Michal David",
     "date": "14.10.2025",
