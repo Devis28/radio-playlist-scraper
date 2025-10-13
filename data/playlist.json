@@ -1,5 +1,31 @@
 [
   {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "13.10.2025",
+    "time": "08:53",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "13.10.2025",
+    "time": "08:50",
+    "year": 1982,
+    "duration_ms": 180120,
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "One Of Us",
     "artist": "Abba",
     "date": "13.10.2025",
