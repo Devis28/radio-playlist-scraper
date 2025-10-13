@@ -1,5 +1,37 @@
 [
   {
+    "title": "Moi...Lolita",
+    "artist": "Alizee",
+    "date": "13.10.2025",
+    "time": "07:05",
+    "year": 2000,
+    "duration_ms": 264283,
+    "genre": "French Pop",
+    "album": "Gourmandises",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
+  },
+  {
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "13.10.2025",
+    "time": "07:02",
+    "year": 2001,
+    "duration_ms": 182773,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
     "title": "What Is Love",
     "artist": "Haddaway",
     "date": "13.10.2025",
