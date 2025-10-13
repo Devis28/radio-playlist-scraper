@@ -1,5 +1,47 @@
 [
   {
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "13.10.2025",
+    "time": "09:40",
+    "year": 1977,
+    "duration_ms": 245693,
+    "genre": "Pop",
+    "album": "E' nell' aria…ti amo",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "The Rhythm Divine",
+    "artist": "Iglesias Enrique",
+    "date": "13.10.2025",
+    "time": "09:36",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "13.10.2025",
+    "time": "09:33",
+    "year": 1975,
+    "duration_ms": 180253,
+    "genre": "Pop",
+    "album": "Ode Mne K Tobě",
+    "track_number": 13,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Čardáš Dvoch Sŕdc",
     "artist": "Karol Duchoň",
     "date": "13.10.2025",
