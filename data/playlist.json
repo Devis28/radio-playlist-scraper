@@ -1,5 +1,35 @@
 [
   {
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "13.10.2025",
+    "time": "06:53",
+    "year": 1992,
+    "duration_ms": 270373,
+    "genre": "Pop",
+    "album": "What Is Love - EP",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "13.10.2025",
+    "time": "06:49",
+    "year": 1987,
+    "duration_ms": 241400,
+    "genre": "Pop",
+    "album": "E.S.P.",
+    "track_number": 2,
+    "artist_country_code": "AU",
+    "songwriters": [
+      "Barry Gibb",
+      "Maurice Gibb",
+      "Robin Gibb"
+    ]
+  },
+  {
     "title": "Chiquitita",
     "artist": "Abba",
     "date": "13.10.2025",
