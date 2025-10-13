@@ -1,5 +1,33 @@
 [
   {
+    "title": "I'd Love You To Want Me",
+    "artist": "Lobo",
+    "date": "13.10.2025",
+    "time": "17:40",
+    "year": 1974,
+    "duration_ms": 248973,
+    "genre": "Pop",
+    "album": "I'd Love You To Want Me - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Lobo"
+    ]
+  },
+  {
+    "title": "(We Want) The Same Thing",
+    "artist": "Belinda Carlisle",
+    "date": "13.10.2025",
+    "time": "17:36",
+    "year": 1989,
+    "duration_ms": 258653,
+    "genre": "Pop",
+    "album": "We Want the Same Thing - EP",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Držím Ti Miesto",
     "artist": "Team",
     "date": "13.10.2025",
