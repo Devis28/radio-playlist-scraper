@@ -1,5 +1,76 @@
 [
   {
+    "title": "Touch By Touch",
+    "artist": "Joy",
+    "date": "14.10.2025",
+    "time": "01:16",
+    "year": 2012,
+    "duration_ms": 325147,
+    "genre": "Pop",
+    "album": "The Original Maxi-Singles Collection & B-Sides",
+    "track_number": 3,
+    "artist_country_code": "AT",
+    "songwriters": null
+  },
+  {
+    "title": "Nevrav Mi Aký Som",
+    "artist": "Desmod",
+    "date": "14.10.2025",
+    "time": "01:12",
+    "year": 2017,
+    "duration_ms": 207978,
+    "genre": "Rock",
+    "album": "Molekuly Zvuku",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Moi...Lolita",
+    "artist": "Alizee",
+    "date": "14.10.2025",
+    "time": "01:08",
+    "year": 2000,
+    "duration_ms": 264283,
+    "genre": "French Pop",
+    "album": "Gourmandises",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
+  },
+  {
+    "title": "Lietam V Tom Tiež",
+    "artist": "Team",
+    "date": "14.10.2025",
+    "time": "01:03",
+    "year": 1989,
+    "duration_ms": 233253,
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Bailamos",
+    "artist": "Enrique Iglesias",
+    "date": "14.10.2025",
+    "time": "01:00",
+    "year": 1999,
+    "duration_ms": 212693,
+    "genre": "Latin",
+    "album": "Enrique",
+    "track_number": 10,
+    "artist_country_code": "ES",
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
     "title": "Stand By Me",
     "artist": "Ben E. King",
     "date": "14.10.2025",
