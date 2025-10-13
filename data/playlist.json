@@ -1,5 +1,103 @@
 [
   {
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "13.10.2025",
+    "time": "10:46",
+    "year": 1983,
+    "duration_ms": 252773,
+    "genre": "Rock",
+    "album": "Colour By Numbers",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Boy George",
+      "Jon Moss",
+      "Mikey Craig",
+      "Phil Pickett",
+      "Roy Hay"
+    ]
+  },
+  {
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "13.10.2025",
+    "time": "10:42",
+    "year": 1993,
+    "duration_ms": 215000,
+    "genre": "Pop",
+    "album": "Modry Album",
+    "track_number": 8,
+    "artist_country_code": null,
+    "songwriters": [
+      "Juraj Žák",
+      "Robo Grigorov"
+    ]
+  },
+  {
+    "title": "Lay Back In The Arms Of Someone",
+    "artist": "Smokie",
+    "date": "13.10.2025",
+    "time": "10:38",
+    "year": 1977,
+    "duration_ms": 244733,
+    "genre": "Rock",
+    "album": "The Best of Smokie",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
+    "title": "La Isla Bonita",
+    "artist": "Madonna",
+    "date": "13.10.2025",
+    "time": "10:35",
+    "year": 1986,
+    "duration_ms": 242947,
+    "genre": "Pop",
+    "album": "Celebration (Deluxe Version)",
+    "track_number": 21,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Bruce Gaitsch",
+      "Madonna",
+      "Patrick Leonard"
+    ]
+  },
+  {
+    "title": "Losing My Religion",
+    "artist": "R.E.M.",
+    "date": "13.10.2025",
+    "time": "10:30",
+    "year": 1991,
+    "duration_ms": 268427,
+    "genre": "Alternative",
+    "album": "Out of Time (25th Anniversary Edition)",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Honey Honey",
+    "artist": "Abba",
+    "date": "13.10.2025",
+    "time": "10:27",
+    "year": 1974,
+    "duration_ms": 175147,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
     "title": "You Keep Me Hanging On",
     "artist": "Wilde Kim",
     "date": "13.10.2025",
