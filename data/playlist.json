@@ -1,5 +1,66 @@
 [
   {
+    "title": "Sadeness-Part 1",
+    "artist": "Enigma",
+    "date": "13.10.2025",
+    "time": "21:12",
+    "year": 1990,
+    "duration_ms": 260400,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Curly M.C.",
+      "David Fairstein",
+      "F. Gregorian",
+      "Frank Peterson",
+      "Michael Cretu"
+    ]
+  },
+  {
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "date": "13.10.2025",
+    "time": "21:07",
+    "year": 1985,
+    "duration_ms": 241947,
+    "genre": "R&B/Soul",
+    "album": "The Definitive Collection",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Veľký Sen Mora",
+    "artist": "Modus",
+    "date": "13.10.2025",
+    "time": "21:03",
+    "year": 2005,
+    "duration_ms": 289613,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Boris Filan",
+      "Ján Lehotský"
+    ]
+  },
+  {
+    "title": "Dážď",
+    "artist": "Peter Cmorík",
+    "date": "13.10.2025",
+    "time": "20:58",
+    "year": 2006,
+    "duration_ms": 279720,
+    "genre": "Pop",
+    "album": "Nadherny Den",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Beautiful Life",
     "artist": "Ace Of Base",
     "date": "13.10.2025",
