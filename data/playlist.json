@@ -1,5 +1,66 @@
 [
   {
+    "title": "Čardáš Dvoch Sŕdc",
+    "artist": "Karol Duchoň",
+    "date": "13.10.2025",
+    "time": "09:30",
+    "year": 1976,
+    "duration_ms": 210347,
+    "genre": "Pop",
+    "album": "Čardáš dvoch sŕdc",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "13.10.2025",
+    "time": "09:25",
+    "year": 1996,
+    "duration_ms": 264547,
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 8,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
+  },
+  {
+    "title": "Iko Iko",
+    "artist": "The Belle Stars",
+    "date": "13.10.2025",
+    "time": "09:22",
+    "year": 1981,
+    "duration_ms": 178720,
+    "genre": "Pop",
+    "album": "The Belle Stars",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Barbara Anne Hawkins",
+      "James Crawford, Jr.",
+      "Joan Marie Johnson",
+      "Rosa Lee Hawkins"
+    ]
+  },
+  {
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "13.10.2025",
+    "time": "09:18",
+    "year": 2017,
+    "duration_ms": 319827,
+    "genre": "Pop",
+    "album": "Magic Reunion *Live*",
+    "track_number": 17,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Coco Jambo",
     "artist": "Mr. President",
     "date": "13.10.2025",
