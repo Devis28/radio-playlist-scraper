@@ -1,5 +1,21 @@
 [
   {
+    "title": "Hero",
+    "artist": "Carey Mariah",
+    "date": "13.10.2025",
+    "time": "17:53",
+    "year": 1993,
+    "duration_ms": 257973,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 10,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Mariah Carey",
+      "Walter Afanasieff"
+    ]
+  },
+  {
     "title": "Stumblin' In",
     "artist": "Norman Chris & Quatro Suzi",
     "date": "13.10.2025",
