@@ -1,5 +1,296 @@
 [
   {
+    "title": "The Tide Is High",
+    "artist": "Blondie",
+    "date": "14.10.2025",
+    "time": "04:41",
+    "year": 1980,
+    "duration_ms": 280267,
+    "genre": "Pop",
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Howard Barrett",
+      "John Holt",
+      "Tyrone Evans"
+    ]
+  },
+  {
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "14.10.2025",
+    "time": "04:37",
+    "year": 1993,
+    "duration_ms": 215000,
+    "genre": "Pop",
+    "album": "Modry Album",
+    "track_number": 8,
+    "artist_country_code": null,
+    "songwriters": [
+      "Juraj Žák",
+      "Robo Grigorov"
+    ]
+  },
+  {
+    "title": "Muzika",
+    "artist": "Gott Karel",
+    "date": "14.10.2025",
+    "time": "04:33",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Marcel Z Malého Mesta",
+    "artist": "Peter Nagy",
+    "date": "14.10.2025",
+    "time": "04:30",
+    "year": 2021,
+    "duration_ms": 195427,
+    "genre": "Pop",
+    "album": "Aj tak sme frajeri",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "I Don't Wanna Get Hurt",
+    "artist": "Donna Summer",
+    "date": "14.10.2025",
+    "time": "04:27",
+    "year": 1989,
+    "duration_ms": 208773,
+    "genre": "Pop",
+    "album": "Another Place & Time",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "Líška",
+    "artist": "Jana Kirschner",
+    "date": "14.10.2025",
+    "time": "04:23",
+    "year": 2000,
+    "duration_ms": 194560,
+    "genre": "Pop",
+    "album": "V Cudzom Meste",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nahý 2",
+    "artist": "Richard  Muller",
+    "date": "14.10.2025",
+    "time": "04:19",
+    "year": 2006,
+    "duration_ms": 300693,
+    "genre": "Pop",
+    "album": "Retro",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Prútikár",
+    "artist": "Zuzana Smatanová & Richard Autner",
+    "date": "14.10.2025",
+    "time": "04:15",
+    "year": 2024,
+    "duration_ms": 244947,
+    "genre": "Pop",
+    "album": "Prútikár (feat. Richard Autner) - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Crazy",
+    "artist": "Seal",
+    "date": "14.10.2025",
+    "time": "04:10",
+    "year": 1990,
+    "duration_ms": 356520,
+    "genre": "Pop",
+    "album": "Seal: Hits (Deluxe Version)",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "La Isla Bonita",
+    "artist": "Madonna",
+    "date": "14.10.2025",
+    "time": "04:07",
+    "year": 1986,
+    "duration_ms": 242947,
+    "genre": "Pop",
+    "album": "Celebration (Deluxe Version)",
+    "track_number": 21,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Bruce Gaitsch",
+      "Madonna",
+      "Patrick Leonard"
+    ]
+  },
+  {
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "14.10.2025",
+    "time": "04:04",
+    "year": 2001,
+    "duration_ms": 182773,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
+    "title": "Musím Už Ísť",
+    "artist": "Kelecsényi Martin",
+    "date": "14.10.2025",
+    "time": "04:00",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "The Rhythm Divine",
+    "artist": "Iglesias Enrique",
+    "date": "14.10.2025",
+    "time": "03:57",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
+    "title": "Nároční",
+    "artist": "Team",
+    "date": "14.10.2025",
+    "time": "03:52",
+    "year": 1988,
+    "duration_ms": 310507,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "14.10.2025",
+    "time": "03:47",
+    "year": 1996,
+    "duration_ms": 264547,
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 8,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
+  },
+  {
+    "title": "Šiel, Šiel",
+    "artist": "Duchoň Karol",
+    "date": "14.10.2025",
+    "time": "03:44",
+    "year": 1974,
+    "duration_ms": 208160,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 10,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Edo",
+    "artist": "Grigorov Robo",
+    "date": "14.10.2025",
+    "time": "03:40",
+    "year": 1987,
+    "duration_ms": 212402,
+    "genre": "Pop",
+    "album": "Midi",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Orinoco Flow",
+    "artist": "Enya",
+    "date": "14.10.2025",
+    "time": "03:37",
+    "year": 1988,
+    "duration_ms": 266200,
+    "genre": "New Age",
+    "album": "Watermark (Remastered Bonus Track Version)",
+    "track_number": 7,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "Where Do You Go",
+    "artist": "No Mercy",
+    "date": "14.10.2025",
+    "time": "03:32",
+    "year": 1996,
+    "duration_ms": 271440,
+    "genre": "Rock",
+    "album": "Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Alec Wilder",
+      "Arnold Sundgaard"
+    ]
+  },
+  {
+    "title": "Kapely Starnú",
+    "artist": "Modus",
+    "date": "14.10.2025",
+    "time": "03:29",
+    "year": 1986,
+    "duration_ms": 208227,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
     "title": "Karma Chameleon",
     "artist": "Culture Club",
     "date": "14.10.2025",
