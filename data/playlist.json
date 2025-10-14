@@ -1,5 +1,89 @@
 [
   {
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "14.10.2025",
+    "time": "05:42",
+    "year": 1992,
+    "duration_ms": 278000,
+    "genre": "Pop",
+    "album": "Hit Album",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "14.10.2025",
+    "time": "05:39",
+    "year": 1986,
+    "duration_ms": 310333,
+    "genre": "Hard Rock",
+    "album": "The Final Countdown (Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Joey Tempest"
+    ]
+  },
+  {
+    "title": "I've Been Thinking About You",
+    "artist": "Londonbeat",
+    "date": "14.10.2025",
+    "time": "05:35",
+    "year": 1990,
+    "duration_ms": 228280,
+    "genre": "Pop",
+    "album": "90s 100 Hits",
+    "track_number": 9,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Čerešně",
+    "artist": "Hana Hegerová",
+    "date": "14.10.2025",
+    "time": "05:32",
+    "year": 1964,
+    "duration_ms": 183920,
+    "genre": "Pop",
+    "album": "Všechno Nejlepší",
+    "track_number": 25,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Ma Baker",
+    "artist": "Boney M.",
+    "date": "14.10.2025",
+    "time": "05:27",
+    "year": 1976,
+    "duration_ms": 274960,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 4,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Frank Farian",
+      "Fred Jay",
+      "George Reyam"
+    ]
+  },
+  {
+    "title": "Balla...Balla! (Italian Hit Connection)",
+    "artist": "Francesco Napoli",
+    "date": "14.10.2025",
+    "time": "05:23",
+    "year": 1988,
+    "duration_ms": 255391,
+    "genre": "Pop",
+    "album": "Balla..Balla!, Vol. 2 Italian Hit Connection - EP",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Co Bolí To Přebolí",
     "artist": "Zbirka Miro & Martha",
     "date": "14.10.2025",
