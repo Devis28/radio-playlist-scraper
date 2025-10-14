@@ -1,5 +1,31 @@
 [
   {
+    "title": "You Can Win If You Want",
+    "artist": "Modern Talking",
+    "date": "14.10.2025",
+    "time": "06:45",
+    "year": 1985,
+    "duration_ms": 227880,
+    "genre": "Pop",
+    "album": "You're My Heart, You're My Soul",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "date": "14.10.2025",
+    "time": "06:42",
+    "year": 1970,
+    "duration_ms": 243027,
+    "genre": "Rock",
+    "album": "Let It Be",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Be My Lover",
     "artist": "La Bouche",
     "date": "14.10.2025",
