@@ -1,5 +1,58 @@
 [
   {
+    "title": "V Sieti Ťa Mám",
+    "artist": "Kristína",
+    "date": "15.10.2025",
+    "time": "01:26",
+    "year": 2010,
+    "duration_ms": 221000,
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Cherish",
+    "artist": "Kool & The Gang",
+    "date": "15.10.2025",
+    "time": "01:22",
+    "year": 1984,
+    "duration_ms": 290600,
+    "genre": "R&B/Soul",
+    "album": "Emergency",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Claydes Smith",
+      "Clifford Adams",
+      "Curtis “Fitz” Williams",
+      "George Brown",
+      "James “J.T.” Taylor",
+      "Jim Bonnefond",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ]
+  },
+  {
+    "title": "Dovtedy",
+    "artist": "Adam Ďurica",
+    "date": "15.10.2025",
+    "time": "01:20",
+    "year": 2016,
+    "duration_ms": 147750,
+    "genre": "Pop",
+    "album": "Spolu",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Can You Feel The Love Tonight",
     "artist": "John, Elton",
     "date": "15.10.2025",
