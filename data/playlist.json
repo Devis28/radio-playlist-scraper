@@ -1,5 +1,44 @@
 [
   {
+    "title": "Here I Am",
+    "artist": "Adams, Bryan",
+    "date": "14.10.2025",
+    "time": "21:08",
+    "year": 2002,
+    "duration_ms": 284067,
+    "genre": "Soundtrack",
+    "album": "Spirit: Stallion of the Cimarron (Music from the Original Motion Picture)",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Smrťka Na Pražskom Orloji",
+    "artist": "Elán",
+    "date": "14.10.2025",
+    "time": "21:04",
+    "year": 2017,
+    "duration_ms": 235040,
+    "genre": "Pop",
+    "album": "Smrtka Na Pražskom Orloji - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "14.10.2025",
+    "time": "21:00",
+    "year": 1996,
+    "duration_ms": 248867,
+    "genre": "Pop",
+    "album": "U Can't Stop (96 Version)",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Don't Play Your Rock 'n' Roll To Me",
     "artist": "Smokie",
     "date": "14.10.2025",
