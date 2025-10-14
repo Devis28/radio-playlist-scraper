@@ -1,5 +1,35 @@
 [
   {
+    "title": "Love Is In The Air",
+    "artist": "John Paul Young",
+    "date": "14.10.2025",
+    "time": "22:55",
+    "year": 1977,
+    "duration_ms": 208413,
+    "genre": "Rock",
+    "album": "Vanda and Young: The Official Songbook",
+    "track_number": 18,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Se Bastasse Una Canzone",
+    "artist": "Ramazzotti Eros",
+    "date": "14.10.2025",
+    "time": "22:50",
+    "year": 1987,
+    "duration_ms": 323867,
+    "genre": "Pop",
+    "album": "Eros",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": [
+      "Adelio Cogliati",
+      "Eros Ramazzotti",
+      "Piero Cassano"
+    ]
+  },
+  {
     "title": "Stoj",
     "artist": "Peter Bič Project",
     "date": "14.10.2025",
