@@ -1,5 +1,72 @@
 [
   {
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "14.10.2025",
+    "time": "17:26",
+    "year": 1995,
+    "duration_ms": 284310,
+    "genre": "Pop",
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Michael Jackson"
+    ]
+  },
+  {
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "14.10.2025",
+    "time": "17:23",
+    "year": 2011,
+    "duration_ms": 152573,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Flames Of Love",
+    "artist": "Fancy",
+    "date": "14.10.2025",
+    "time": "17:20",
+    "year": 1988,
+    "duration_ms": 217880,
+    "genre": "Pop",
+    "album": "Hit Collection",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Truly Madly Deeply",
+    "artist": "Savage Garden",
+    "date": "14.10.2025",
+    "time": "17:14",
+    "year": 1997,
+    "duration_ms": 277194,
+    "genre": "Pop",
+    "album": "Savage Garden",
+    "track_number": 3,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Já Půjdu Tam A Ty Tam",
+    "artist": "Vondrackova Helena + Korn Jiri",
+    "date": "14.10.2025",
+    "time": "17:11",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Xanadu",
     "artist": "Olivia Newton-John And Electric Light Orchestra",
     "date": "14.10.2025",
