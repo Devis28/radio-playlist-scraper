@@ -1,5 +1,57 @@
 [
   {
+    "title": "All That She Wants",
+    "artist": "Ace Of Base",
+    "date": "14.10.2025",
+    "time": "07:16",
+    "year": 1992,
+    "duration_ms": 211213,
+    "genre": "Pop",
+    "album": "The Sign (2015 Remastered Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Není Všechno Paráda",
+    "artist": "Karel Zich",
+    "date": "14.10.2025",
+    "time": "07:11",
+    "year": 1981,
+    "duration_ms": 150133,
+    "genre": "Pop",
+    "album": "Není Všechno Paráda",
+    "track_number": 13,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Somebody Dance With Me",
+    "artist": "Dj Bobo",
+    "date": "14.10.2025",
+    "time": "07:05",
+    "year": 1993,
+    "duration_ms": 214600,
+    "genre": "Dance",
+    "album": "Somebody Dance With Me - EP",
+    "track_number": 1,
+    "artist_country_code": "CH",
+    "songwriters": null
+  },
+  {
+    "title": "Pábitelé",
+    "artist": "Gott Karel",
+    "date": "14.10.2025",
+    "time": "07:02",
+    "year": 1964,
+    "duration_ms": 184307,
+    "genre": "Pop",
+    "album": "42 Největších Hitů",
+    "track_number": 32,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "One More Night",
     "artist": "Phil Collins",
     "date": "14.10.2025",
