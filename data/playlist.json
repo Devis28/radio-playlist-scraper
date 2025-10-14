@@ -1,5 +1,31 @@
 [
   {
+    "title": "Zamilovaná",
+    "artist": "Filipová Lenka",
+    "date": "14.10.2025",
+    "time": "13:46",
+    "year": 1980,
+    "duration_ms": 172800,
+    "genre": "Pop",
+    "album": "1982-92",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Tears In Heaven",
+    "artist": "Clapton Eric",
+    "date": "14.10.2025",
+    "time": "13:42",
+    "year": 1992,
+    "duration_ms": 271760,
+    "genre": "Rock",
+    "album": "Clapton Chronicles: The Best of Eric Clapton",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Crucified",
     "artist": "Army Of Lovers",
     "date": "14.10.2025",
