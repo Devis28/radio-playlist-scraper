@@ -1,5 +1,102 @@
 [
   {
+    "title": "Farbami Dýcha Noc",
+    "artist": "Balogh Berco",
+    "date": "15.10.2025",
+    "time": "20:22",
+    "year": 2007,
+    "duration_ms": 202507,
+    "genre": "Pop",
+    "album": "Siedmy pád",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Lay Back In The Arms Of Someone",
+    "artist": "Smokie",
+    "date": "15.10.2025",
+    "time": "20:18",
+    "year": 1977,
+    "duration_ms": 244733,
+    "genre": "Rock",
+    "album": "The Best of Smokie",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
+    "title": "Hard To Say I'm Sorry",
+    "artist": "Chicago",
+    "date": "15.10.2025",
+    "time": "20:15",
+    "year": 1982,
+    "duration_ms": 223280,
+    "genre": "Rock",
+    "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": [
+      "David Foster",
+      "Peter Cetera"
+    ]
+  },
+  {
+    "title": "Len Sa Smej",
+    "artist": "Peter Bič Project",
+    "date": "15.10.2025",
+    "time": "20:12",
+    "year": 2023,
+    "duration_ms": 164897,
+    "genre": "Pop",
+    "album": "Len sa smej - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nothing Compares 2 U",
+    "artist": "O'connor Sinéad",
+    "date": "15.10.2025",
+    "time": "20:07",
+    "year": 1990,
+    "duration_ms": 280040,
+    "genre": "Alternative",
+    "album": "I Do Not Want What I Haven't Got",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Words",
+    "artist": "David, F.R.",
+    "date": "15.10.2025",
+    "time": "20:03",
+    "year": 1982,
+    "duration_ms": 208000,
+    "genre": "Pop",
+    "album": "Words",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Lásko Voníš Deštem",
+    "artist": "Marie Rottrová",
+    "date": "15.10.2025",
+    "time": "19:58",
+    "year": 1980,
+    "duration_ms": 291600,
+    "genre": "Pop",
+    "album": "Lásko Voníš Deštěm",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "František",
     "artist": "Buty",
     "date": "15.10.2025",
