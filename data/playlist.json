@@ -1,5 +1,86 @@
 [
   {
+    "title": "Susanna",
+    "artist": "The Art Company",
+    "date": "15.10.2025",
+    "time": "10:21",
+    "year": 1983,
+    "duration_ms": 285062,
+    "genre": "Pop",
+    "album": "Susanna - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Nie Alebo Áno",
+    "artist": "No Name",
+    "date": "15.10.2025",
+    "time": "10:17",
+    "year": 2001,
+    "duration_ms": 243227,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "15.10.2025",
+    "time": "10:14",
+    "year": 1974,
+    "duration_ms": 211413,
+    "genre": "Pop",
+    "album": "Wear It’s ‘At",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Největší Z Nálezů A Ztrát",
+    "artist": "David Michal",
+    "date": "15.10.2025",
+    "time": "10:08",
+    "year": 2012,
+    "duration_ms": 234840,
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Kapela",
+    "artist": "Imt Smile",
+    "date": "15.10.2025",
+    "time": "10:04",
+    "year": 2004,
+    "duration_ms": 231800,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Oh, Pretty Woman",
+    "artist": "Orbison Roy",
+    "date": "15.10.2025",
+    "time": "10:01",
+    "year": 1964,
+    "duration_ms": 178929,
+    "genre": "Rock",
+    "album": "Oh! Pretty Woman",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Bill Dees",
+      "Roy Orbison"
+    ]
+  },
+  {
     "title": "How Deep Is Your Love",
     "artist": "The Bee Gees",
     "date": "15.10.2025",
