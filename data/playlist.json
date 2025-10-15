@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ešte Váham",
+    "artist": "Kristína",
+    "date": "15.10.2025",
+    "time": "20:42",
+    "year": 2020,
+    "duration_ms": 232452,
+    "genre": "Pop",
+    "album": "Kristína: TIE NAJ (Album verzia)",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Braňo Jančich",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "I Won't Let The Sun Go Down On Me",
+    "artist": "Kershaw Nik",
+    "date": "15.10.2025",
+    "time": "20:39",
+    "year": 1983,
+    "duration_ms": 203853,
+    "genre": "Pop",
+    "album": "Human Racing",
+    "track_number": 9,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Wind Of Change",
+    "artist": "The Scorpions",
+    "date": "15.10.2025",
+    "time": "20:34",
+    "year": 1990,
+    "duration_ms": 312360,
+    "genre": "Hard Rock",
+    "album": "Crazy World",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Spočítaj Ma",
+    "artist": "Richard Müller",
+    "date": "15.10.2025",
+    "time": "20:30",
+    "year": 2006,
+    "duration_ms": 275653,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Always On My Mind",
+    "artist": "Pet Shop Boys",
+    "date": "15.10.2025",
+    "time": "20:26",
+    "year": 1987,
+    "duration_ms": 234907,
+    "genre": "Pop",
+    "album": "Discography: The Complete Singles Collection",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Farbami Dýcha Noc",
     "artist": "Balogh Berco",
     "date": "15.10.2025",
