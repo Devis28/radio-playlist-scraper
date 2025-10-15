@@ -1,5 +1,52 @@
 [
   {
+    "title": "Zatancuj Si So Mnou",
+    "artist": "Adam Ďurica",
+    "date": "15.10.2025",
+    "time": "22:42",
+    "year": 2018,
+    "duration_ms": 198444,
+    "genre": "Pop",
+    "album": "30",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "date": "15.10.2025",
+    "time": "22:38",
+    "year": 1986,
+    "duration_ms": 222644,
+    "genre": "Hard Rock",
+    "album": "Slippery When Wet",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ]
+  },
+  {
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "15.10.2025",
+    "time": "22:34",
+    "year": 2006,
+    "duration_ms": 261107,
+    "genre": "Pop",
+    "album": "Balady",
+    "track_number": 23,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Roman Guryča",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
     "title": "Tam Kde Sa Neumiera",
     "artist": "Smatanová Zuzana",
     "date": "15.10.2025",
