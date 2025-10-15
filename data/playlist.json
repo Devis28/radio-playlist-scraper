@@ -1,5 +1,47 @@
 [
   {
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "15.10.2025",
+    "time": "12:46",
+    "year": 2001,
+    "duration_ms": 182773,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
+    "title": "Self Control",
+    "artist": "Branigan Laura",
+    "date": "15.10.2025",
+    "time": "12:42",
+    "year": 1984,
+    "duration_ms": 246440,
+    "genre": "Pop",
+    "album": "Self Control",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "15.10.2025",
+    "time": "12:39",
+    "year": 1982,
+    "duration_ms": 180120,
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Yes Sir, I Can Boogie",
     "artist": "Baccara",
     "date": "15.10.2025",
