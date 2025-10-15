@@ -1,5 +1,210 @@
 [
   {
+    "title": "Mamma Mia",
+    "artist": "Abba",
+    "date": "15.10.2025",
+    "time": "05:10",
+    "year": 1975,
+    "duration_ms": 212304,
+    "genre": "Pop",
+    "album": "ABBA (Bonus Track Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
+    "title": "Be With You",
+    "artist": "Enrique Iglesias",
+    "date": "15.10.2025",
+    "time": "05:05",
+    "year": 1999,
+    "duration_ms": 220160,
+    "genre": "Pop in Spanish",
+    "album": "Enrique",
+    "track_number": 2,
+    "artist_country_code": "ES",
+    "songwriters": [
+      "Enrique Iglesias",
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
+    "title": "Moonlight Shadow",
+    "artist": "Oldfield Mike & Reilly Maggie",
+    "date": "15.10.2025",
+    "time": "05:02",
+    "year": 1983,
+    "duration_ms": 218160,
+    "genre": "Rock",
+    "album": "Two Sides: The Very Best of Mike Oldfield",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Cirkus Leto",
+    "artist": "Pavol Hammel",
+    "date": "15.10.2025",
+    "time": "04:59",
+    "year": 2011,
+    "duration_ms": 164947,
+    "genre": "Rock",
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Červená Řeka",
+    "artist": "Helena Vondráčková",
+    "date": "15.10.2025",
+    "time": "04:54",
+    "year": 2023,
+    "duration_ms": 298089,
+    "genre": "Pop",
+    "album": "Course de la paix. Praha 1967. Album Supraphonu",
+    "track_number": 7,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "María",
+    "artist": "Ricky Martin",
+    "date": "15.10.2025",
+    "time": "04:49",
+    "year": 1995,
+    "duration_ms": 271267,
+    "genre": "Pop",
+    "album": "Ricky Martin",
+    "track_number": 14,
+    "artist_country_code": "PR",
+    "songwriters": null
+  },
+  {
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "15.10.2025",
+    "time": "04:45",
+    "year": 1997,
+    "duration_ms": 254600,
+    "genre": "Pop",
+    "album": "Die Grossten Hits Aus 15 Jahren",
+    "track_number": 1,
+    "artist_country_code": "AT",
+    "songwriters": null
+  },
+  {
+    "title": "Láska Moja",
+    "artist": "Elán",
+    "date": "15.10.2025",
+    "time": "04:40",
+    "year": 2003,
+    "duration_ms": 304160,
+    "genre": "Pop",
+    "album": "Tretie Oko",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Ako Vánok",
+    "artist": "Müller Richard",
+    "date": "15.10.2025",
+    "time": "04:37",
+    "year": 2004,
+    "duration_ms": 189107,
+    "genre": "Pop",
+    "album": "01",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": [
+      "Ivan Tásler",
+      "Jaroslav Filip",
+      "Marcel Buntaj",
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Beds Are Burning",
+    "artist": "Midnight Oil",
+    "date": "15.10.2025",
+    "time": "04:33",
+    "year": 1987,
+    "duration_ms": 255680,
+    "genre": "Rock",
+    "album": "Diesel and Dust (2008 Remaster)",
+    "track_number": 1,
+    "artist_country_code": "AU",
+    "songwriters": [
+      "Jim Moginie",
+      "Peter Garrett",
+      "Rob Hirst"
+    ]
+  },
+  {
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "15.10.2025",
+    "time": "04:30",
+    "year": 2001,
+    "duration_ms": 159227,
+    "genre": "Pop",
+    "album": "Na Kameni Kamen",
+    "track_number": 14,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Žuvačka Za Uchom",
+    "artist": "Grigorov Robo",
+    "date": "15.10.2025",
+    "time": "04:28",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
+    "title": "Stay",
+    "artist": "Bonnie Bianco & Pierre Cosso",
+    "date": "15.10.2025",
+    "time": "04:24",
+    "year": 2008,
+    "duration_ms": 231598,
+    "genre": "Pop",
+    "album": "Stay",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Keď Sa Raz Oči Dohodnú",
+    "artist": "Modus",
+    "date": "15.10.2025",
+    "time": "04:20",
+    "year": 1988,
+    "duration_ms": 276653,
+    "genre": "Pop",
+    "album": "Keď sa raz oči dohodnú",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
     "title": "You're The First, The Last,My Everything",
     "artist": "Barry White",
     "date": "15.10.2025",
