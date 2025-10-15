@@ -1,5 +1,87 @@
 [
   {
+    "title": "Yes Sir, I Can Boogie",
+    "artist": "Baccara",
+    "date": "15.10.2025",
+    "time": "12:35",
+    "year": 1977,
+    "duration_ms": 275200,
+    "genre": "Pop",
+    "album": "Baccara",
+    "track_number": 1,
+    "artist_country_code": "ES",
+    "songwriters": null
+  },
+  {
+    "title": "Korálky Od Natálky",
+    "artist": "Peter Nagy",
+    "date": "15.10.2025",
+    "time": "12:31",
+    "year": 1989,
+    "duration_ms": 196627,
+    "genre": "Pop",
+    "album": "Šachy robia človeka",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "date": "15.10.2025",
+    "time": "12:27",
+    "year": 1992,
+    "duration_ms": 271093,
+    "genre": "Soundtrack",
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Medulienka",
+    "artist": "Hammel Pavol",
+    "date": "15.10.2025",
+    "time": "12:23",
+    "year": 1979,
+    "duration_ms": 201293,
+    "genre": "Pop",
+    "album": "Vrabec vševed",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "If I Could Turn Back Time",
+    "artist": "Cher",
+    "date": "15.10.2025",
+    "time": "12:20",
+    "year": 1989,
+    "duration_ms": 239827,
+    "genre": "Pop",
+    "album": "Heart of Stone",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "15.10.2025",
+    "time": "12:16",
+    "year": 2012,
+    "duration_ms": 229893,
+    "genre": "Dance",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": "CH",
+    "songwriters": [
+      "Daniel Peyer",
+      "Joe South",
+      "René Baumann"
+    ]
+  },
+  {
     "title": "What A Wonderful World",
     "artist": "Louis Armstrong",
     "date": "15.10.2025",
