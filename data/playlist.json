@@ -1,5 +1,31 @@
 [
   {
+    "title": "Ci Sarà",
+    "artist": "Bano Al & Power Romina",
+    "date": "15.10.2025",
+    "time": "13:35",
+    "year": 1982,
+    "duration_ms": 206040,
+    "genre": "Pop",
+    "album": "Al Bano e Romina Power",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "15.10.2025",
+    "time": "13:31",
+    "year": 1980,
+    "duration_ms": 265500,
+    "genre": "Pop",
+    "album": "Land of Gold",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Voda Čo Ma Drží Nad Vodou",
     "artist": "Jožo Ráž",
     "date": "15.10.2025",
