@@ -1,5 +1,60 @@
 [
   {
+    "title": "La Camisa Negra",
+    "artist": "Juanes",
+    "date": "15.10.2025",
+    "time": "08:16",
+    "year": 2004,
+    "duration_ms": 216707,
+    "genre": "Latin",
+    "album": "Mi Sangre",
+    "track_number": 4,
+    "artist_country_code": "CO",
+    "songwriters": null
+  },
+  {
+    "title": "Trezor",
+    "artist": "Gott Karel & Olympic",
+    "date": "15.10.2025",
+    "time": "08:14",
+    "year": 1965,
+    "duration_ms": 116573,
+    "genre": "Pop",
+    "album": "Cesta Rájem",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "15.10.2025",
+    "time": "08:05",
+    "year": 2008,
+    "duration_ms": 217827,
+    "genre": "Pop",
+    "album": "Overcome (Deluxe Edition)",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "15.10.2025",
+    "time": "08:02",
+    "year": 1982,
+    "duration_ms": 243773,
+    "genre": "Rock",
+    "album": "Eye of the Tiger",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Frankie Sullivan",
+      "Jim Peterik"
+    ]
+  },
+  {
     "title": "Rhythm Of The Night",
     "artist": "Corona",
     "date": "15.10.2025",
