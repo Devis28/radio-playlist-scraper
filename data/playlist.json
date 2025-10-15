@@ -1,5 +1,44 @@
 [
   {
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "15.10.2025",
+    "time": "10:52",
+    "year": 1984,
+    "duration_ms": 392267,
+    "genre": "Pop",
+    "album": "Make It Big",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "15.10.2025",
+    "time": "10:48",
+    "year": 1990,
+    "duration_ms": 240773,
+    "genre": "Pop",
+    "album": "Move Until We Fly",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Je Jaká Je",
+    "artist": "Karel Gott",
+    "date": "15.10.2025",
+    "time": "10:45",
+    "year": 1969,
+    "duration_ms": 230827,
+    "genre": "Pop",
+    "album": "'76 (Bonus Track Version)",
+    "track_number": 11,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Taliansky Muzikál",
     "artist": "Júlia a Peter Hečkovci",
     "date": "15.10.2025",
