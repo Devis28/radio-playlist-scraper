@@ -1,5 +1,57 @@
 [
   {
+    "title": "Bamboléo",
+    "artist": "Gipsy Kings",
+    "date": "15.10.2025",
+    "time": "11:43",
+    "year": 1987,
+    "duration_ms": 203333,
+    "genre": "Worldwide",
+    "album": "Gipsy Kings",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": null
+  },
+  {
+    "title": "Be My Baby",
+    "artist": "Ronettes, The",
+    "date": "15.10.2025",
+    "time": "11:40",
+    "year": 1963,
+    "duration_ms": 160907,
+    "genre": "Christmas: Classic",
+    "album": "Be My Baby: The Very Best of The Ronettes",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "We Love To Love",
+    "artist": "P. M. Sampson & Double Key",
+    "date": "15.10.2025",
+    "time": "11:37",
+    "year": 1999,
+    "duration_ms": 225120,
+    "genre": "Pop",
+    "album": "Peter Columbus Masterpieces the Producer's Collection VOL.1",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Aj Keď Bez Peňazí",
+    "artist": "Elán",
+    "date": "15.10.2025",
+    "time": "11:33",
+    "year": 1982,
+    "duration_ms": 227560,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "No Milk Today",
     "artist": "Herman's Hermits",
     "date": "15.10.2025",
