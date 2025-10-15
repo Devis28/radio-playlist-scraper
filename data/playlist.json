@@ -1,5 +1,21 @@
 [
   {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "15.10.2025",
+    "time": "09:43",
+    "year": 2005,
+    "duration_ms": 144240,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
     "title": "There's A Party",
     "artist": "Dj Bobo",
     "date": "15.10.2025",
