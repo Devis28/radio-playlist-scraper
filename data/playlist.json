@@ -1,5 +1,21 @@
 [
   {
+    "title": "It's My Life",
+    "artist": "Dr. Alban",
+    "date": "15.10.2025",
+    "time": "11:47",
+    "year": 1992,
+    "duration_ms": 243133,
+    "genre": "Pop",
+    "album": "One Love",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Denniz PoP",
+      "Dr. Alban"
+    ]
+  },
+  {
     "title": "Bamboléo",
     "artist": "Gipsy Kings",
     "date": "15.10.2025",
