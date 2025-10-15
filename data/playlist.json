@@ -1,5 +1,31 @@
 [
   {
+    "title": "Stumblin' In",
+    "artist": "Norman Chris & Quatro Suzi",
+    "date": "15.10.2025",
+    "time": "13:43",
+    "year": 1977,
+    "duration_ms": 238200,
+    "genre": "Rock",
+    "album": "Collections: Smokie",
+    "track_number": 18,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Ordinary World",
+    "artist": "Duran Duran",
+    "date": "15.10.2025",
+    "time": "13:39",
+    "year": 1993,
+    "duration_ms": 340200,
+    "genre": "Pop",
+    "album": "Duran Duran (The Wedding Album)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Ci Sarà",
     "artist": "Bano Al & Power Romina",
     "date": "15.10.2025",
