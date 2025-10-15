@@ -1,5 +1,60 @@
 [
   {
+    "title": "Malý Veľký Vlak",
+    "artist": "Modus",
+    "date": "16.10.2025",
+    "time": "01:12",
+    "year": 1979,
+    "duration_ms": 218600,
+    "genre": "Pop",
+    "album": "Modus",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "All For Love",
+    "artist": "Adams Bryan & Stewart Rod & Sting",
+    "date": "16.10.2025",
+    "time": "01:07",
+    "year": 1993,
+    "duration_ms": 281200,
+    "genre": "Pop",
+    "album": "If We Fall In Love Tonight",
+    "track_number": 15,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "16.10.2025",
+    "time": "01:03",
+    "year": 1982,
+    "duration_ms": 243773,
+    "genre": "Rock",
+    "album": "Eye of the Tiger",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Frankie Sullivan",
+      "Jim Peterik"
+    ]
+  },
+  {
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "16.10.2025",
+    "time": "00:59",
+    "year": 1988,
+    "duration_ms": 198160,
+    "genre": "Pop",
+    "album": "Zlomky poznania",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Horehronie",
     "artist": "Kristína",
     "date": "16.10.2025",
