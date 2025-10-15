@@ -1,5 +1,34 @@
 [
   {
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "15.10.2025",
+    "time": "13:50",
+    "year": 1995,
+    "duration_ms": 221187,
+    "genre": "Dance",
+    "album": "The Bridge (Remastered)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "John Ballard",
+      "Jonas Berggren"
+    ]
+  },
+  {
+    "title": "Pieseň O Kamarátstve",
+    "artist": "Darina Rolincová",
+    "date": "15.10.2025",
+    "time": "13:47",
+    "year": 1988,
+    "duration_ms": 178987,
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Stumblin' In",
     "artist": "Norman Chris & Quatro Suzi",
     "date": "15.10.2025",
