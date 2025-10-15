@@ -1,5 +1,31 @@
 [
   {
+    "title": "Runaway Train",
+    "artist": "Soul Asylum",
+    "date": "15.10.2025",
+    "time": "21:48",
+    "year": 1992,
+    "duration_ms": 266067,
+    "genre": "Rock",
+    "album": "Black Gold: The Best of Soul Asylum",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "I Want To Know What Love Is",
+    "artist": "Foreigner",
+    "date": "15.10.2025",
+    "time": "21:44",
+    "year": 1984,
+    "duration_ms": 301107,
+    "genre": "Rock",
+    "album": "No End In Sight: The Very Best of Foreigner (Remastered)",
+    "track_number": 17,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Can't Fight The Moonlight",
     "artist": "Rimes Leann",
     "date": "15.10.2025",
