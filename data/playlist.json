@@ -1,5 +1,68 @@
 [
   {
+    "title": "Stay",
+    "artist": "Shakespear's Sister",
+    "date": "16.10.2025",
+    "time": "09:30",
+    "year": 1992,
+    "duration_ms": 229000,
+    "genre": "Rock",
+    "album": "Hormonally Yours",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jean Guiot",
+      "Marcella Detroit",
+      "Siobhan Fahey"
+    ]
+  },
+  {
+    "title": "Mamma Mia",
+    "artist": "Abba",
+    "date": "16.10.2025",
+    "time": "09:26",
+    "year": 1975,
+    "duration_ms": 212304,
+    "genre": "Pop",
+    "album": "ABBA (Bonus Track Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
+    "title": "Love Of The Common People",
+    "artist": "Paul Young",
+    "date": "16.10.2025",
+    "time": "09:23",
+    "year": 1983,
+    "duration_ms": 214381,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 10,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "John Hurley",
+      "Ronnie Wilkins"
+    ]
+  },
+  {
+    "title": "Can You Feel The Love Tonight",
+    "artist": "John, Elton",
+    "date": "16.10.2025",
+    "time": "09:19",
+    "year": 1994,
+    "duration_ms": 241907,
+    "genre": "Soundtrack",
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Tereza",
     "artist": "Matuška Waldemar",
     "date": "16.10.2025",
