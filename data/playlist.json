@@ -1,5 +1,144 @@
 [
   {
+    "title": "Hiroshima",
+    "artist": "Sandra",
+    "date": "16.10.2025",
+    "time": "14:39",
+    "year": 1990,
+    "duration_ms": 412160,
+    "genre": "Pop",
+    "album": "Paintings in Yellow",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Sorry, I'm A Lady",
+    "artist": "Baccara",
+    "date": "16.10.2025",
+    "time": "14:35",
+    "year": 1977,
+    "duration_ms": 217027,
+    "genre": "Pop",
+    "album": "Baccara: The Original Hits",
+    "track_number": 4,
+    "artist_country_code": "ES",
+    "songwriters": [
+      "Frank Dostal",
+      "Rolf Soja"
+    ]
+  },
+  {
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "16.10.2025",
+    "time": "14:31",
+    "year": 1993,
+    "duration_ms": 255107,
+    "genre": "Pop",
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "track_number": 1,
+    "artist_country_code": "IE",
+    "songwriters": [
+      "Dolores O’Riordan",
+      "Noel Hogan"
+    ]
+  },
+  {
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "16.10.2025",
+    "time": "14:26",
+    "year": 2005,
+    "duration_ms": 208853,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Felicita",
+    "artist": "Bano Al & Power Romina",
+    "date": "16.10.2025",
+    "time": "14:22",
+    "year": 1982,
+    "duration_ms": 191538,
+    "genre": "Pop",
+    "album": "Felicità",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "16.10.2025",
+    "time": "14:17",
+    "year": 1992,
+    "duration_ms": 320351,
+    "genre": "Alternative",
+    "album": "Automatic For The People",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Cherish",
+    "artist": "Madonna",
+    "date": "16.10.2025",
+    "time": "14:12",
+    "year": 1989,
+    "duration_ms": 303493,
+    "genre": "Pop",
+    "album": "Like a Prayer",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Šaty",
+    "artist": "Gombitová Marika",
+    "date": "16.10.2025",
+    "time": "14:08",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
+    "title": "Only Time (Two Tribes Remix))",
+    "artist": "Enya",
+    "date": "16.10.2025",
+    "time": "14:05",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "Say You, Say Me",
+    "artist": "Lionel Richie",
+    "date": "16.10.2025",
+    "time": "14:01",
+    "year": 1985,
+    "duration_ms": 241947,
+    "genre": "R&B/Soul",
+    "album": "The Definitive Collection",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "74 - 75",
     "artist": "The Connells",
     "date": "16.10.2025",
