@@ -1,5 +1,163 @@
 [
   {
+    "title": "Seasons In The Sun",
+    "artist": "Terry Jacks",
+    "date": "16.10.2025",
+    "time": "12:39",
+    "year": 2013,
+    "duration_ms": 208853,
+    "genre": "Rock",
+    "album": "Seasons In The Sun (Expanded Edition)",
+    "track_number": 11,
+    "artist_country_code": "CA",
+    "songwriters": [
+      "Jacques Brel",
+      "Rod McKuen"
+    ]
+  },
+  {
+    "title": "Back For Good",
+    "artist": "Take That",
+    "date": "16.10.2025",
+    "time": "12:35",
+    "year": 1995,
+    "duration_ms": 242267,
+    "genre": "Pop",
+    "album": "Nobody Else (Expanded Edition)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Gary Barlow"
+    ]
+  },
+  {
+    "title": "Muzikantské Byty",
+    "artist": "Patejdl Vašo & Dubasová Beáta",
+    "date": "16.10.2025",
+    "time": "12:31",
+    "year": 1989,
+    "duration_ms": 223787,
+    "genre": "Pop",
+    "album": "Mon Amour",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "A Ty Se Ptáš Co Já",
+    "artist": "Helena Vondracková",
+    "date": "16.10.2025",
+    "time": "12:28",
+    "year": 1965,
+    "duration_ms": 267067,
+    "genre": "Pop",
+    "album": "Přejdi Jordán A Další Hity...",
+    "track_number": 7,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "16.10.2025",
+    "time": "12:25",
+    "year": 2001,
+    "duration_ms": 139747,
+    "genre": "Pop",
+    "album": "Vsechny Hity",
+    "track_number": 9,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Especially For You",
+    "artist": "Minogue Kylie & Donovan Jason",
+    "date": "16.10.2025",
+    "time": "12:22",
+    "year": 1988,
+    "duration_ms": 239787,
+    "genre": "Pop",
+    "album": "Step Back in Time: The Definitive Collection",
+    "track_number": 28,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Snad Jsem To Zavinil Já",
+    "artist": "Olympic",
+    "date": "16.10.2025",
+    "time": "12:19",
+    "year": 1965,
+    "duration_ms": 183200,
+    "genre": "Pop",
+    "album": "Best of 43 jasných hitových zpráv",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Sadeness-Part 1",
+    "artist": "Enigma",
+    "date": "16.10.2025",
+    "time": "12:14",
+    "year": 1990,
+    "duration_ms": 260400,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Curly M.C.",
+      "David Fairstein",
+      "F. Gregorian",
+      "Frank Peterson",
+      "Michael Cretu"
+    ]
+  },
+  {
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "16.10.2025",
+    "time": "12:08",
+    "year": 1985,
+    "duration_ms": 228520,
+    "genre": "Pop",
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country_code": "NO",
+    "songwriters": [
+      "Magne Furuholmen",
+      "Morten Harket",
+      "Paul Waaktaar-Savoy"
+    ]
+  },
+  {
+    "title": "Saxana",
+    "artist": "Petra Černocká",
+    "date": "16.10.2025",
+    "time": "12:06",
+    "year": 1973,
+    "duration_ms": 168493,
+    "genre": "Pop",
+    "album": "Se Mnou Si Píseň Broukej",
+    "track_number": 5,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Chlap Z Kríža",
+    "artist": "Tobias Szidi",
+    "date": "16.10.2025",
+    "time": "12:01",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Bed Of Roses",
     "artist": "Bon Jovi",
     "date": "16.10.2025",
