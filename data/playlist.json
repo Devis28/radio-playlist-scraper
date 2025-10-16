@@ -1,5 +1,61 @@
 [
   {
+    "title": "Without You",
+    "artist": "Mariah Carey",
+    "date": "16.10.2025",
+    "time": "17:12",
+    "year": 1993,
+    "duration_ms": 214040,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 11,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "San Francisco",
+    "artist": "Mckenzie Scott",
+    "date": "16.10.2025",
+    "time": "17:09",
+    "year": 1967,
+    "duration_ms": 177427,
+    "genre": "Pop",
+    "album": "Hear It Now! The Sound of the '60s",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Sempre Sempre",
+    "artist": "Al Bano & Romina Power",
+    "date": "16.10.2025",
+    "time": "17:05",
+    "year": 2017,
+    "duration_ms": 236800,
+    "genre": "Pop",
+    "album": "Magic Reunion *Live*",
+    "track_number": 15,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "16.10.2025",
+    "time": "17:02",
+    "year": 1991,
+    "duration_ms": 213760,
+    "genre": "Dance",
+    "album": "Massive Luxury Overdose",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
+  },
+  {
     "title": "Enjoy The Silence",
     "artist": "Depeche Mode",
     "date": "16.10.2025",
