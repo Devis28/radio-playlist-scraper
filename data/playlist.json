@@ -1,5 +1,39 @@
 [
   {
+    "title": "The Power Of Love",
+    "artist": "Rush Jennifer",
+    "date": "16.10.2025",
+    "time": "21:36",
+    "year": 1984,
+    "duration_ms": 361231,
+    "genre": "Rock",
+    "album": "Jennifer Rush",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Gunther Mende",
+      "Jennifer Rush",
+      "Mary Applegate",
+      "Wolfgang Detmann"
+    ]
+  },
+  {
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "16.10.2025",
+    "time": "21:32",
+    "year": 1990,
+    "duration_ms": 227267,
+    "genre": "Pop",
+    "album": "Gejzír",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jindřich Parma",
+      "Pavel Cmíral"
+    ]
+  },
+  {
     "title": "Horúca Láska",
     "artist": "Lukáš Adamec",
     "date": "16.10.2025",
