@@ -1,5 +1,35 @@
 [
   {
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "17.10.2025",
+    "time": "01:48",
+    "year": 1998,
+    "duration_ms": 250000,
+    "genre": "Pop",
+    "album": "Never Say Never",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Bryan Adams",
+      "Michael Kamen",
+      "Robert John “Mutt” Lange"
+    ]
+  },
+  {
+    "title": "Kralovna Pavlaci A Dvorov",
+    "artist": "Heckovci Peter A Julia",
+    "date": "17.10.2025",
+    "time": "01:45",
+    "year": 1987,
+    "duration_ms": 219095,
+    "genre": "Pop",
+    "album": "Taliansky muzikál",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Love Of The Common People",
     "artist": "Paul Young",
     "date": "17.10.2025",
