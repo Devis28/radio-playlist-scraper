@@ -1,5 +1,36 @@
 [
   {
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "16.10.2025",
+    "time": "23:35",
+    "year": 1995,
+    "duration_ms": 284310,
+    "genre": "Pop",
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Michael Jackson"
+    ]
+  },
+  {
+    "title": "Róberta",
+    "artist": "Modus",
+    "date": "16.10.2025",
+    "time": "23:31",
+    "year": 2005,
+    "duration_ms": 260800,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
     "title": "Nikita",
     "artist": "Elton John",
     "date": "16.10.2025",
