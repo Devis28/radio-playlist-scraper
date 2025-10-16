@@ -1,5 +1,119 @@
 [
   {
+    "title": "You Can Win If You Want",
+    "artist": "Modern Talking",
+    "date": "16.10.2025",
+    "time": "15:20",
+    "year": 1985,
+    "duration_ms": 227880,
+    "genre": "Pop",
+    "album": "You're My Heart, You're My Soul",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Povedzme",
+    "artist": "Grigorov Robo",
+    "date": "16.10.2025",
+    "time": "15:15",
+    "year": 2006,
+    "duration_ms": 294013,
+    "genre": "Rock",
+    "album": "Complete Of",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Vladimír Krausz"
+    ]
+  },
+  {
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "16.10.2025",
+    "time": "15:12",
+    "year": 1977,
+    "duration_ms": 209760,
+    "genre": "Pop",
+    "album": "It's a Heartache",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "16.10.2025",
+    "time": "15:06",
+    "year": 1984,
+    "duration_ms": 332507,
+    "genre": "Pop",
+    "album": "Welcome to the Pleasuredome",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "I Wanna B with U",
+    "artist": "Fun Factory",
+    "date": "16.10.2025",
+    "time": "15:03",
+    "year": 2016,
+    "duration_ms": 213600,
+    "genre": "Dance",
+    "album": "Back to the Factory",
+    "track_number": 17,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Rodney Hardison",
+      "Toni Cottura",
+      "Zoltan Bender"
+    ]
+  },
+  {
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "date": "16.10.2025",
+    "time": "14:55",
+    "year": 1997,
+    "duration_ms": 265000,
+    "genre": "Pop",
+    "album": "Life Thru a Lens",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ]
+  },
+  {
+    "title": "Muzika",
+    "artist": "Gott Karel",
+    "date": "16.10.2025",
+    "time": "14:51",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Dve Malá Krídla Tu Nejsou",
+    "artist": "Vondráčková Helena",
+    "date": "16.10.2025",
+    "time": "14:46",
+    "year": 1992,
+    "duration_ms": 290640,
+    "genre": "Pop",
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "track_number": 10,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Hiroshima",
     "artist": "Sandra",
     "date": "16.10.2025",
