@@ -1,5 +1,31 @@
 [
   {
+    "title": "Cause You Are Young",
+    "artist": "C.C. Catch",
+    "date": "17.10.2025",
+    "time": "01:26",
+    "year": 1986,
+    "duration_ms": 209533,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "V nás",
+    "artist": "Nocadeň",
+    "date": "17.10.2025",
+    "time": "01:22",
+    "year": 2024,
+    "duration_ms": 258587,
+    "genre": "Pop",
+    "album": "Nocadeň v Prahe (Live 2024)",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Na Kameni Kámen",
     "artist": "Brontosauři",
     "date": "17.10.2025",
