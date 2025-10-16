@@ -1,5 +1,65 @@
 [
   {
+    "title": "Rivers Of Babylon",
+    "artist": "Boney M.",
+    "date": "16.10.2025",
+    "time": "06:32",
+    "year": 1978,
+    "duration_ms": 261200,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Brent Dowe",
+      "Frank Farian",
+      "George Reyam",
+      "Trevor McNaughton"
+    ]
+  },
+  {
+    "title": "Nemožná",
+    "artist": "Slivová Silvia",
+    "date": "16.10.2025",
+    "time": "06:23",
+    "year": 1986,
+    "duration_ms": 233373,
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Boris Filan",
+      "Vašo Patejdl"
+    ]
+  },
+  {
+    "title": "Sen",
+    "artist": "Mc Erik And Barbara",
+    "date": "16.10.2025",
+    "time": "06:19",
+    "year": 1996,
+    "duration_ms": 218427,
+    "genre": "Pop",
+    "album": "Second",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Moviestar",
+    "artist": "Harpo",
+    "date": "16.10.2025",
+    "time": "06:16",
+    "year": 1975,
+    "duration_ms": 202280,
+    "genre": "Pop",
+    "album": "Moviestar",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Ty Ja A Moj Brat (Sklicka Dotykov)",
     "artist": "Modus",
     "date": "16.10.2025",
