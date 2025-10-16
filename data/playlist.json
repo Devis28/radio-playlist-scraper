@@ -1,5 +1,47 @@
 [
   {
+    "title": "Lemon Tree",
+    "artist": "Fool's Garden",
+    "date": "17.10.2025",
+    "time": "00:07",
+    "year": 1995,
+    "duration_ms": 191027,
+    "genre": "Pop",
+    "album": "Dish of the Day",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Nemožná",
+    "artist": "Slivová Silvia",
+    "date": "17.10.2025",
+    "time": "00:03",
+    "year": 1986,
+    "duration_ms": 233373,
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Boris Filan",
+      "Vašo Patejdl"
+    ]
+  },
+  {
+    "title": "Mám, Kým Nemám",
+    "artist": "Elán",
+    "date": "16.10.2025",
+    "time": "23:59",
+    "year": 1983,
+    "duration_ms": 232613,
+    "genre": "Rock",
+    "album": "Elán 3",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Moi...Lolita",
     "artist": "Alizee",
     "date": "16.10.2025",
