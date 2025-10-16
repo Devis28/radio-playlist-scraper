@@ -1,5 +1,48 @@
 [
   {
+    "title": "Se Bastasse Una Canzone",
+    "artist": "Ramazzotti Eros",
+    "date": "16.10.2025",
+    "time": "17:41",
+    "year": 1987,
+    "duration_ms": 323867,
+    "genre": "Pop",
+    "album": "Eros",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": [
+      "Adelio Cogliati",
+      "Eros Ramazzotti",
+      "Piero Cassano"
+    ]
+  },
+  {
+    "title": "Mosty",
+    "artist": "Zich Karel & Filipová Lenka",
+    "date": "16.10.2025",
+    "time": "17:38",
+    "year": 2005,
+    "duration_ms": 188053,
+    "genre": "Pop",
+    "album": "Best of Lenka Filipova",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Guardian Angel",
+    "artist": "Masquerade",
+    "date": "16.10.2025",
+    "time": "17:33",
+    "year": 2016,
+    "duration_ms": 259814,
+    "genre": "Alternative",
+    "album": "Echoes",
+    "track_number": 12,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Ján Ámos Džínový",
     "artist": "Metalinda",
     "date": "16.10.2025",
