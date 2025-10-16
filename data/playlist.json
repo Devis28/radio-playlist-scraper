@@ -1,5 +1,63 @@
 [
   {
+    "title": "Neľutujem",
+    "artist": "Adam Ďurica",
+    "date": "16.10.2025",
+    "time": "23:23",
+    "year": 2015,
+    "duration_ms": 210997,
+    "genre": "Pop",
+    "album": "Mandolina",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Waterloo",
+    "artist": "Abba",
+    "date": "16.10.2025",
+    "time": "23:20",
+    "year": 1974,
+    "duration_ms": 165800,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 19,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
+    "title": "C�est La Vie",
+    "artist": "Miro Zbirka",
+    "date": "16.10.2025",
+    "time": "23:16",
+    "year": 1990,
+    "duration_ms": 277053,
+    "genre": "Pop",
+    "album": "K.O.",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Keď Odchádzajú Lásky",
+    "artist": "Richard Müller",
+    "date": "16.10.2025",
+    "time": "23:12",
+    "year": 1992,
+    "duration_ms": 297640,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
     "title": "I'd Do Anything For Love But I Won't Do That",
     "artist": "Meat Loaf",
     "date": "16.10.2025",
