@@ -1,5 +1,39 @@
 [
   {
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "16.10.2025",
+    "time": "10:00",
+    "year": 1995,
+    "duration_ms": 240867,
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
+  },
+  {
+    "title": "Leave A Light On",
+    "artist": "Carlisle Belinda",
+    "date": "16.10.2025",
+    "time": "09:53",
+    "year": 1989,
+    "duration_ms": 278360,
+    "genre": "Pop",
+    "album": "Runaway Horses",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Ellen Shipley",
+      "Rick Nowels"
+    ]
+  },
+  {
     "title": "Torn",
     "artist": "Imbruglia Natalie",
     "date": "16.10.2025",
