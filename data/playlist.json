@@ -1,5 +1,47 @@
 [
   {
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "16.10.2025",
+    "time": "21:10",
+    "year": 2005,
+    "duration_ms": 254413,
+    "genre": "Pop",
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "16.10.2025",
+    "time": "21:05",
+    "year": 2001,
+    "duration_ms": 237613,
+    "genre": "Pop",
+    "album": "Hits! The Very Best of Erasure",
+    "track_number": 10,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
+  },
+  {
+    "title": "The Locomotion",
+    "artist": "Kylie Minogue",
+    "date": "16.10.2025",
+    "time": "21:02",
+    "year": 2009,
+    "duration_ms": 296543,
+    "genre": "Pop",
+    "album": "Kylie (Live In New York)",
+    "track_number": 19,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
     "title": "Láska Moja",
     "artist": "Elán",
     "date": "16.10.2025",
