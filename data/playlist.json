@@ -1,5 +1,31 @@
 [
   {
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "16.10.2025",
+    "time": "05:54",
+    "year": 1975,
+    "duration_ms": 209360,
+    "genre": "Pop",
+    "album": "Paloma Blanca",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Lovesong",
+    "artist": "Habera Pavol",
+    "date": "16.10.2025",
+    "time": "05:50",
+    "year": 2001,
+    "duration_ms": 241000,
+    "genre": "Rock",
+    "album": "Fontána pre Zuzanu 2",
+    "track_number": 6,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Nothing's Gonna Stop Us Now",
     "artist": "Starship",
     "date": "16.10.2025",
