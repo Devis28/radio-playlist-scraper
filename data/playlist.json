@@ -1,5 +1,18 @@
 [
   {
+    "title": "Hotel California",
+    "artist": "Eagles The",
+    "date": "16.10.2025",
+    "time": "10:53",
+    "year": 1976,
+    "duration_ms": 391357,
+    "genre": "Rock",
+    "album": "Hotel California",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "One & One",
     "artist": "Robert Miles/Maria Nayler",
     "date": "16.10.2025",
