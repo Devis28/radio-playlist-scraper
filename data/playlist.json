@@ -1,5 +1,46 @@
 [
   {
+    "title": "74 - 75",
+    "artist": "The Connells",
+    "date": "16.10.2025",
+    "time": "13:53",
+    "year": 1993,
+    "duration_ms": 279107,
+    "genre": "Rock",
+    "album": "Ring (Deluxe Edition)",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Mike Connell"
+    ]
+  },
+  {
+    "title": "Ôsmy Svetadiel",
+    "artist": "Elán",
+    "date": "16.10.2025",
+    "time": "13:49",
+    "year": 2015,
+    "duration_ms": 249000,
+    "genre": "Pop",
+    "album": "Hodiny Nehy",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Poraď Si Sám",
+    "artist": "Žbirka Miro",
+    "date": "16.10.2025",
+    "time": "13:47",
+    "year": 1984,
+    "duration_ms": 142307,
+    "genre": "Pop",
+    "album": "Nemoderný chalan",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Obchodník S Deštěm",
     "artist": "Kryštof",
     "date": "16.10.2025",
