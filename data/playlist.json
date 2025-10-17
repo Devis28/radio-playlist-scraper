@@ -1,5 +1,31 @@
 [
   {
+    "title": "Bamboleo",
+    "artist": "Garcia",
+    "date": "17.10.2025",
+    "time": "13:37",
+    "year": 1997,
+    "duration_ms": 228963,
+    "genre": "Dance",
+    "album": "Bamboleo - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "17.10.2025",
+    "time": "13:34",
+    "year": 1988,
+    "duration_ms": 198160,
+    "genre": "Pop",
+    "album": "Zlomky poznania",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "The Winner Takes It All",
     "artist": "Abba",
     "date": "17.10.2025",
