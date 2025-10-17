@@ -1,5 +1,57 @@
 [
   {
+    "title": "Baila Me",
+    "artist": "The Gipsy Kings",
+    "date": "17.10.2025",
+    "time": "21:06",
+    "year": 1991,
+    "duration_ms": 224507,
+    "genre": "Flamenco",
+    "album": "Este Mundo",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "date": "17.10.2025",
+    "time": "21:02",
+    "year": 1986,
+    "duration_ms": 249581,
+    "genre": "Hard Rock",
+    "album": "Slippery When Wet",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Pop Muzik",
+    "artist": "M",
+    "date": "17.10.2025",
+    "time": "20:59",
+    "year": 1979,
+    "duration_ms": 296267,
+    "genre": "Pop",
+    "album": "Pop Muzik - The Remix Album",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": null
+  },
+  {
+    "title": "Dub I Dub",
+    "artist": "Me & My",
+    "date": "17.10.2025",
+    "time": "20:56",
+    "year": 1995,
+    "duration_ms": 205000,
+    "genre": "R&B/Soul",
+    "album": "De Første Fra - Me & My",
+    "track_number": 1,
+    "artist_country_code": "DK",
+    "songwriters": null
+  },
+  {
     "title": "Flashdance ( What A Feeling )",
     "artist": "Cara Irene",
     "date": "17.10.2025",
