@@ -1,5 +1,159 @@
 [
   {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "17.10.2025",
+    "time": "18:47",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Zbohom Bud, Lipova Lyzka,...",
+    "artist": "Dočolomanský Michal",
+    "date": "17.10.2025",
+    "time": "18:44",
+    "year": 2023,
+    "duration_ms": 219000,
+    "genre": "Pop",
+    "album": "Hity & Duety",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Ernest Bryll",
+      "Katarzyna Gärtner"
+    ]
+  },
+  {
+    "title": "Netrpezliví",
+    "artist": "Elán",
+    "date": "17.10.2025",
+    "time": "18:40",
+    "year": 1982,
+    "duration_ms": 250547,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 5,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Neznáma",
+    "artist": "Palonder Marcel",
+    "date": "17.10.2025",
+    "time": "18:37",
+    "year": 1992,
+    "duration_ms": 244000,
+    "genre": "Pop",
+    "album": "Cudzinec v tvojom srdci",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Naveky",
+    "artist": "Katarína Knechtová",
+    "date": "17.10.2025",
+    "time": "18:33",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Katarína Knechtová"
+    ]
+  },
+  {
+    "title": "Bílá Královna",
+    "artist": "Stanislav Hlozek & Petr Kotvald",
+    "date": "17.10.2025",
+    "time": "18:29",
+    "year": 1983,
+    "duration_ms": 217400,
+    "genre": "Pop",
+    "album": "Holky Z Naší Školky",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jan Krůta",
+      "Pavel Vaculík"
+    ]
+  },
+  {
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "17.10.2025",
+    "time": "18:26",
+    "year": 1995,
+    "duration_ms": 224493,
+    "genre": "Rock",
+    "album": "Habera 2",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "17.10.2025",
+    "time": "18:23",
+    "year": 2011,
+    "duration_ms": 152573,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Bez Veľkej Slávy",
+    "artist": "Darina Rolincová",
+    "date": "17.10.2025",
+    "time": "18:19",
+    "year": 1989,
+    "duration_ms": 269827,
+    "genre": "Pop",
+    "album": "Skús Ma Najsť, Bez Veľkej Slávy - Single",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Rybičko Zlatá Přeju Si",
+    "artist": "Zagorová Hana",
+    "date": "17.10.2025",
+    "time": "18:16",
+    "year": 1995,
+    "duration_ms": 164373,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 3,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Hej Pane Diskžokej",
+    "artist": "Balet",
+    "date": "17.10.2025",
+    "time": "18:12",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": [
+      "Petr Hejduk",
+      "Zdeněk Rytíř"
+    ]
+  },
+  {
     "title": "Hej, Sokoly!",
     "artist": "I.M.T. Smile & Ondrej Kandráč",
     "date": "17.10.2025",
