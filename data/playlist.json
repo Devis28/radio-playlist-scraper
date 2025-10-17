@@ -1,5 +1,57 @@
 [
   {
+    "title": "Adresa Ja Adresa Ty",
+    "artist": "Gombitová Marika",
+    "date": "17.10.2025",
+    "time": "22:11",
+    "year": 1986,
+    "duration_ms": 221440,
+    "genre": "Pop",
+    "album": "Volné miesto v srdci",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Carnaval De Paris",
+    "artist": "Dario G.",
+    "date": "17.10.2025",
+    "time": "22:07",
+    "year": 1998,
+    "duration_ms": 240827,
+    "genre": "Pop",
+    "album": "Carnaval De Paris",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "17.10.2025",
+    "time": "22:03",
+    "year": 1989,
+    "duration_ms": 255937,
+    "genre": "R&B/Soul",
+    "album": "Simply the Best",
+    "track_number": 1,
+    "artist_country_code": "CH",
+    "songwriters": null
+  },
+  {
+    "title": "Step By Step",
+    "artist": "New Kids On The Block",
+    "date": "17.10.2025",
+    "time": "21:59",
+    "year": 1990,
+    "duration_ms": 267293,
+    "genre": "Pop",
+    "album": "Step by Step",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Knowing Me, Knowing You",
     "artist": "Abba",
     "date": "17.10.2025",
