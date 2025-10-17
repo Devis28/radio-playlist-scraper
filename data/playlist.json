@@ -1,5 +1,22 @@
 [
   {
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "18.10.2025",
+    "time": "00:47",
+    "year": 1993,
+    "duration_ms": 302360,
+    "genre": "Pop",
+    "album": "Ultimate",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Henri Belolo",
+      "Jacques Morali",
+      "Victor Willis"
+    ]
+  },
+  {
     "title": "So Mnou Nikdy Nezostarneš",
     "artist": "Peter Nagy",
     "date": "18.10.2025",
