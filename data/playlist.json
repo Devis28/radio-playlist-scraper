@@ -1,5 +1,48 @@
 [
   {
+    "title": "Everytime We Touch",
+    "artist": "Maggie Reilly",
+    "date": "17.10.2025",
+    "time": "09:39",
+    "year": 1992,
+    "duration_ms": 242974,
+    "genre": "Pop",
+    "album": "Everytime We Touch (Remastered) - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Maggie Reilly",
+      "Peter Risavy",
+      "Stuart MacKillop"
+    ]
+  },
+  {
+    "title": "Decibely Lásky",
+    "artist": "David Michal Kroky Františka Janečka",
+    "date": "17.10.2025",
+    "time": "09:35",
+    "year": 1986,
+    "duration_ms": 193239,
+    "genre": "Pop",
+    "album": "Děti Ráje",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Lay All Your Love On Me",
+    "artist": "Abba",
+    "date": "17.10.2025",
+    "time": "09:31",
+    "year": 1980,
+    "duration_ms": 274525,
+    "genre": "Pop",
+    "album": "Lay All Your Love On Me - Single",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Ja Viem",
     "artist": "Grigorov Robo",
     "date": "17.10.2025",
