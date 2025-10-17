@@ -1,5 +1,31 @@
 [
   {
+    "title": "Holubička",
+    "artist": "Adam Ďurica",
+    "date": "17.10.2025",
+    "time": "19:33",
+    "year": 2018,
+    "duration_ms": 273955,
+    "genre": "Pop",
+    "album": "Holubička - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Čo O Mne Vieš",
+    "artist": "Rolincova Darinka",
+    "date": "17.10.2025",
+    "time": "19:30",
+    "year": 1987,
+    "duration_ms": 161133,
+    "genre": "Pop",
+    "album": "Čo O Mne Vieš",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Nahý 2",
     "artist": "Richard  Muller",
     "date": "17.10.2025",
