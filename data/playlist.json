@@ -1,5 +1,47 @@
 [
   {
+    "title": "Where Do You Go",
+    "artist": "No Mercy",
+    "date": "17.10.2025",
+    "time": "20:47",
+    "year": 1996,
+    "duration_ms": 271440,
+    "genre": "Rock",
+    "album": "Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Alec Wilder",
+      "Arnold Sundgaard"
+    ]
+  },
+  {
+    "title": "Everything Counts",
+    "artist": "Depeche Mode",
+    "date": "17.10.2025",
+    "time": "20:43",
+    "year": 1983,
+    "duration_ms": 261053,
+    "genre": "Pop",
+    "album": "Construction Time Again (Deluxe)",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Lady Carneval",
+    "artist": "Gott Karel",
+    "date": "17.10.2025",
+    "time": "20:40",
+    "year": 1987,
+    "duration_ms": 180227,
+    "genre": "Pop",
+    "album": "Lady Carneval",
+    "track_number": 24,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Dreamlover",
     "artist": "Carey Mariah",
     "date": "17.10.2025",
