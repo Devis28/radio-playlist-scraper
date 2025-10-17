@@ -1,5 +1,72 @@
 [
   {
+    "title": "Some People",
+    "artist": "Richard Cliff",
+    "date": "18.10.2025",
+    "time": "00:24",
+    "year": 1987,
+    "duration_ms": 231560,
+    "genre": "Rock",
+    "album": "Always Guaranteed (Remastered)",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Príliš Osobná Známosť",
+    "artist": "I.M.T. Smile & Nikol Štíbrová",
+    "date": "18.10.2025",
+    "time": "00:20",
+    "year": 2019,
+    "duration_ms": 271597,
+    "genre": "Pop",
+    "album": "SRDCE ROZUM BLVD",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Pokoj V Duši",
+    "artist": "Jana Kirschner",
+    "date": "18.10.2025",
+    "time": "00:17",
+    "year": 2009,
+    "duration_ms": 211627,
+    "genre": "Soundtrack",
+    "album": "Pokoj v dusi (Original Soundtrack)",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nevrav Mi Aký Som",
+    "artist": "Desmod",
+    "date": "18.10.2025",
+    "time": "00:13",
+    "year": 2017,
+    "duration_ms": 207978,
+    "genre": "Rock",
+    "album": "Molekuly Zvuku",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Will You Be There",
+    "artist": "Michael Jackson",
+    "date": "18.10.2025",
+    "time": "00:09",
+    "year": 1993,
+    "duration_ms": 219560,
+    "genre": "Pop",
+    "album": "Love Songs - 100 Hits: Ballads, sad songs and tear jerkers inc. Beyonce, Michael Jackson and John Legend",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Michael Jackson"
+    ]
+  },
+  {
     "title": "Čerešně",
     "artist": "Hana Hegerová",
     "date": "18.10.2025",
