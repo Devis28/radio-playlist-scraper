@@ -1,5 +1,33 @@
 [
   {
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "17.10.2025",
+    "time": "08:06",
+    "year": 1992,
+    "duration_ms": 233573,
+    "genre": "Pop",
+    "album": "Neuc Vtaka Lietat!",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Dva A Dva",
+    "artist": "Elán",
+    "date": "17.10.2025",
+    "time": "08:01",
+    "year": 1985,
+    "duration_ms": 275987,
+    "genre": "Rock",
+    "album": "Hodina slovenčiny",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Africa",
     "artist": "Toto",
     "date": "17.10.2025",
