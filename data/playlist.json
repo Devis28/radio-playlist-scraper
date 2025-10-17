@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Winner Takes It All",
+    "artist": "Abba",
+    "date": "17.10.2025",
+    "time": "13:29",
+    "year": 1980,
+    "duration_ms": 295280,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits (40th Anniversary Edition)",
+    "track_number": 8,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ]
+  },
+  {
     "title": "Ten Príbeh Je Preč",
     "artist": "Beata Dubasová",
     "date": "17.10.2025",
