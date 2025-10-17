@@ -1,5 +1,72 @@
 [
   {
+    "title": "Sometimes",
+    "artist": "Erasure",
+    "date": "17.10.2025",
+    "time": "20:13",
+    "year": 1987,
+    "duration_ms": 217056,
+    "genre": "Pop",
+    "album": "The Circus (2011 Remaster)",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Sweet Dreams",
+    "artist": "La Bouche",
+    "date": "17.10.2025",
+    "time": "20:09",
+    "year": 1994,
+    "duration_ms": 204587,
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "17.10.2025",
+    "time": "20:05",
+    "year": 1997,
+    "duration_ms": 254600,
+    "genre": "Pop",
+    "album": "Die Grossten Hits Aus 15 Jahren",
+    "track_number": 1,
+    "artist_country_code": "AT",
+    "songwriters": null
+  },
+  {
+    "title": "Pěkná Pěkná Pěkná",
+    "artist": "Ledecký Janek",
+    "date": "17.10.2025",
+    "time": "20:00",
+    "year": 1993,
+    "duration_ms": 269120,
+    "genre": "Pop",
+    "album": "Právě teď",
+    "track_number": 3,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Janek Ledecký"
+    ]
+  },
+  {
+    "title": "Gejzír",
+    "artist": "Petr Kotvald",
+    "date": "17.10.2025",
+    "time": "19:57",
+    "year": 1990,
+    "duration_ms": 220133,
+    "genre": "Pop",
+    "album": "Konto 87 - 88 - 8990 - 91",
+    "track_number": 4,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Ak Nie Si Moja",
     "artist": "Patejdl, Vaso",
     "date": "17.10.2025",
