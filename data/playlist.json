@@ -1,5 +1,54 @@
 [
   {
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "17.10.2025",
+    "time": "11:07",
+    "year": 1984,
+    "duration_ms": 230667,
+    "genre": "Pop",
+    "album": "The Final: 14 Greatest Hits",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Michael"
+    ]
+  },
+  {
+    "title": "Hands Up",
+    "artist": "Ottawan",
+    "date": "17.10.2025",
+    "time": "11:04",
+    "year": 1980,
+    "duration_ms": 289027,
+    "genre": "Disco",
+    "album": "Ottawan 2",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": [
+      "Daniel Vangarde",
+      "Jean Kluger",
+      "Nelly Byl"
+    ]
+  },
+  {
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "17.10.2025",
+    "time": "11:01",
+    "year": 2001,
+    "duration_ms": 196160,
+    "genre": "Pop in Spanish",
+    "album": "Laundry Service",
+    "track_number": 3,
+    "artist_country_code": "CO",
+    "songwriters": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ]
+  },
+  {
     "title": "Total Eclipse Of The Heart",
     "artist": "Westlife",
     "date": "17.10.2025",
