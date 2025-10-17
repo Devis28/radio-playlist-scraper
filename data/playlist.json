@@ -1,5 +1,57 @@
 [
   {
+    "title": "Dnes Už Viem",
+    "artist": "Pavol Hammel",
+    "date": "18.10.2025",
+    "time": "01:11",
+    "year": 2011,
+    "duration_ms": 209533,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Senza Una Donna",
+    "artist": "Zucchero,Paul Young",
+    "date": "18.10.2025",
+    "time": "01:06",
+    "year": 1992,
+    "duration_ms": 270867,
+    "genre": "Pop",
+    "album": "ZU & Co.",
+    "track_number": 16,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Voyage Voyage",
+    "artist": "Desirelles",
+    "date": "18.10.2025",
+    "time": "01:01",
+    "year": 1980,
+    "duration_ms": 264585,
+    "genre": "French Pop",
+    "album": "François",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Som V Tom",
+    "artist": "Team",
+    "date": "18.10.2025",
+    "time": "00:58",
+    "year": 1988,
+    "duration_ms": 221933,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Proč Mě Nikdo Nemá Rád",
     "artist": "Ilona Csáková",
     "date": "18.10.2025",
