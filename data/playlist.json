@@ -1,5 +1,34 @@
 [
   {
+    "title": "Woman In Love",
+    "artist": "Streisand Barbra",
+    "date": "17.10.2025",
+    "time": "11:46",
+    "year": 1980,
+    "duration_ms": 233400,
+    "genre": "Pop",
+    "album": "Guilty",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "17.10.2025",
+    "time": "11:43",
+    "year": 1992,
+    "duration_ms": 181186,
+    "genre": "Pop",
+    "album": "Chýbaš Mi...",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
+  },
+  {
     "title": "Lambada",
     "artist": "Kaoma",
     "date": "17.10.2025",
