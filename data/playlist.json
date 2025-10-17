@@ -1,5 +1,61 @@
 [
   {
+    "title": "If Only I Could",
+    "artist": "Sydney Youngblood",
+    "date": "17.10.2025",
+    "time": "21:21",
+    "year": 1989,
+    "duration_ms": 213160,
+    "genre": "R&B/Soul",
+    "album": "Feeling Free",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "17.10.2025",
+    "time": "21:17",
+    "year": 2012,
+    "duration_ms": 229893,
+    "genre": "Dance",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": "CH",
+    "songwriters": [
+      "Daniel Peyer",
+      "Joe South",
+      "René Baumann"
+    ]
+  },
+  {
+    "title": "Cuba",
+    "artist": "The Gibson Brothers",
+    "date": "17.10.2025",
+    "time": "21:14",
+    "year": 1978,
+    "duration_ms": 230520,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Colu, Pijeme Colu",
+    "artist": "Michal David",
+    "date": "17.10.2025",
+    "time": "21:11",
+    "year": 2008,
+    "duration_ms": 253331,
+    "genre": "Pop",
+    "album": "Disco 2008",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Baila Me",
     "artist": "The Gipsy Kings",
     "date": "17.10.2025",
