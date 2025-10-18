@@ -1,5 +1,34 @@
 [
   {
+    "title": "V Období Dažďa",
+    "artist": "Gombitová Marika",
+    "date": "18.10.2025",
+    "time": "23:56",
+    "year": 1987,
+    "duration_ms": 237587,
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Lay Back In The Arms Of Someone",
+    "artist": "Smokie",
+    "date": "18.10.2025",
+    "time": "23:52",
+    "year": 1977,
+    "duration_ms": 244733,
+    "genre": "Rock",
+    "album": "The Best of Smokie",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
     "title": "Papa Don't Preach",
     "artist": "Madonna",
     "date": "18.10.2025",
