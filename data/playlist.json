@@ -1,5 +1,31 @@
 [
   {
+    "title": "Kapela",
+    "artist": "Imt Smile",
+    "date": "18.10.2025",
+    "time": "11:36",
+    "year": 2004,
+    "duration_ms": 231800,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Monika",
+    "artist": "Grigorov Robo",
+    "date": "18.10.2025",
+    "time": "11:31",
+    "year": 1987,
+    "duration_ms": 261016,
+    "genre": "Pop",
+    "album": "Midi",
+    "track_number": 10,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Taliansky Muzikál",
     "artist": "Júlia a Peter Hečkovci",
     "date": "18.10.2025",
