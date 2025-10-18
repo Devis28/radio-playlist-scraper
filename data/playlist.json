@@ -1,5 +1,81 @@
 [
   {
+    "title": "Black Velvet",
+    "artist": "Myles Alannah",
+    "date": "19.10.2025",
+    "time": "01:11",
+    "year": 1989,
+    "duration_ms": 287440,
+    "genre": "Rock",
+    "album": "Alannah Myles",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Christopher Ward",
+      "David Tyson"
+    ]
+  },
+  {
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "date": "19.10.2025",
+    "time": "01:07",
+    "year": 1983,
+    "duration_ms": 253960,
+    "genre": "Rock",
+    "album": "Synchronicity (Remastered 2003)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Sting"
+    ]
+  },
+  {
+    "title": "No Milk Today",
+    "artist": "Herman's Hermits",
+    "date": "19.10.2025",
+    "time": "01:05",
+    "year": 1967,
+    "duration_ms": 174333,
+    "genre": "Pop",
+    "album": "A's, B's & EP's",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Graham Gouldman"
+    ]
+  },
+  {
+    "title": "Ešte Váham",
+    "artist": "Kristína",
+    "date": "19.10.2025",
+    "time": "01:01",
+    "year": 2020,
+    "duration_ms": 232452,
+    "genre": "Pop",
+    "album": "Kristína: TIE NAJ (Album verzia)",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Braňo Jančich",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Youre My Heart Youre My Soul",
+    "artist": "Modern Talking",
+    "date": "19.10.2025",
+    "time": "00:57",
+    "year": 1984,
+    "duration_ms": 229987,
+    "genre": "Pop",
+    "album": "The Very Best of Modern Talking",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Killing Me Softly",
     "artist": "The Fugees",
     "date": "19.10.2025",
