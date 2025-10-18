@@ -1,5 +1,47 @@
 [
   {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "19.10.2025",
+    "time": "00:37",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sacrifice",
+    "artist": "Elton John",
+    "date": "19.10.2025",
+    "time": "00:32",
+    "year": 1989,
+    "duration_ms": 304133,
+    "genre": "Pop",
+    "album": "Sleeping With the Past (Remastered)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Žuvačka Za Uchom",
+    "artist": "Grigorov Robo",
+    "date": "19.10.2025",
+    "time": "00:30",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
     "title": "Girl I'm Gonna Miss You",
     "artist": "Milli Vanilli",
     "date": "19.10.2025",
