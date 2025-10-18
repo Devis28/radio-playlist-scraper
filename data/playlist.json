@@ -1,5 +1,31 @@
 [
   {
+    "title": "Anjel",
+    "artist": "Maduar",
+    "date": "18.10.2025",
+    "time": "19:47",
+    "year": 2017,
+    "duration_ms": 336773,
+    "genre": "Pop",
+    "album": "Hafanana the Best of, Vol. 2",
+    "track_number": 21,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Daj Ruku Do Mojej Ruky",
+    "artist": "Smatanová Zuzana",
+    "date": "18.10.2025",
+    "time": "19:44",
+    "year": 2009,
+    "duration_ms": 184930,
+    "genre": "Pop",
+    "album": "Gemini",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Žít Jako Kaskadér",
     "artist": "Janda Dalibor",
     "date": "18.10.2025",
