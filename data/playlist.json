@@ -1,5 +1,65 @@
 [
   {
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "18.10.2025",
+    "time": "21:18",
+    "year": 1995,
+    "duration_ms": 240867,
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
+  },
+  {
+    "title": "Ladies Night",
+    "artist": "Kool & The Gang",
+    "date": "18.10.2025",
+    "time": "21:15",
+    "year": 1979,
+    "duration_ms": 208307,
+    "genre": "R&B/Soul",
+    "album": "The Very Best of Kool & The Gang",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Adam Ippolito",
+      "Chris Alberts",
+      "Claydes Smith",
+      "Cliff Adams",
+      "Dennis “D.T.” Thomas",
+      "George Brown",
+      "Jon Faddis",
+      "Robert Spike Mickens",
+      "Robert “Kool” Bell",
+      "Ronald Bell"
+    ]
+  },
+  {
+    "title": "Iko Iko",
+    "artist": "The Belle Stars",
+    "date": "18.10.2025",
+    "time": "21:11",
+    "year": 1981,
+    "duration_ms": 178720,
+    "genre": "Pop",
+    "album": "The Belle Stars",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Barbara Anne Hawkins",
+      "James Crawford, Jr.",
+      "Joan Marie Johnson",
+      "Rosa Lee Hawkins"
+    ]
+  },
+  {
     "title": "100% Pure Love",
     "artist": "Crystal Waters",
     "date": "18.10.2025",
