@@ -1,5 +1,31 @@
 [
   {
+    "title": "The Summer Is Magic",
+    "artist": "Playahitty",
+    "date": "18.10.2025",
+    "time": "21:33",
+    "year": 1991,
+    "duration_ms": 236583,
+    "genre": "Pop",
+    "album": "The Summer Is Magic - Ep",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Radio Ga Ga",
+    "artist": "Queen",
+    "date": "18.10.2025",
+    "time": "21:29",
+    "year": 1984,
+    "duration_ms": 349187,
+    "genre": "Rock",
+    "album": "The Works (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Celebration",
     "artist": "Fun Factory",
     "date": "18.10.2025",
