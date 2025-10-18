@@ -1,5 +1,64 @@
 [
   {
+    "title": "I Don't Wanna Get Hurt",
+    "artist": "Donna Summer",
+    "date": "18.10.2025",
+    "time": "23:11",
+    "year": 1989,
+    "duration_ms": 208773,
+    "genre": "Pop",
+    "album": "Another Place & Time",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "Tic, Tic, Tac",
+    "artist": "Chilli Ft. Carrapicho",
+    "date": "18.10.2025",
+    "time": "23:07",
+    "year": 1997,
+    "duration_ms": 225667,
+    "genre": "Pop",
+    "album": "Dance To Boi Bumba (feat. Carrapicho)",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Pretty Young Girl",
+    "artist": "Bad Boys Blue",
+    "date": "18.10.2025",
+    "time": "23:04",
+    "year": 1985,
+    "duration_ms": 346507,
+    "genre": "Pop",
+    "album": "Super 20",
+    "track_number": 10,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Karin van Haaren",
+      "Tony Hendrik"
+    ]
+  },
+  {
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "18.10.2025",
+    "time": "23:00",
+    "year": 1975,
+    "duration_ms": 209360,
+    "genre": "Pop",
+    "album": "Paloma Blanca",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Come Back And Stay",
     "artist": "Paul Young",
     "date": "18.10.2025",
