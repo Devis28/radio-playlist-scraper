@@ -1,5 +1,86 @@
 [
   {
+    "title": "Čardáš Dvoch Sŕdc",
+    "artist": "Karol Duchoň",
+    "date": "18.10.2025",
+    "time": "08:41",
+    "year": 1976,
+    "duration_ms": 210347,
+    "genre": "Pop",
+    "album": "Čardáš dvoch sŕdc",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Červenám",
+    "artist": "Bartošová Iveta Sepéši Petr",
+    "date": "18.10.2025",
+    "time": "08:38",
+    "year": 1984,
+    "duration_ms": 208760,
+    "genre": "Pop",
+    "album": "Knoflíky Lásky",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Bon Soir, Mademoiselle Paris",
+    "artist": "Shalom",
+    "date": "18.10.2025",
+    "time": "08:34",
+    "year": 2001,
+    "duration_ms": 288980,
+    "genre": "Pop",
+    "album": "Bon soir, mademoiselle Paris",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Spoluhráčka",
+    "artist": "Modus",
+    "date": "18.10.2025",
+    "time": "08:31",
+    "year": 2005,
+    "duration_ms": 205947,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
+    "title": "Pieseň Pre Nesmelých",
+    "artist": "Team",
+    "date": "18.10.2025",
+    "time": "08:28",
+    "year": 1989,
+    "duration_ms": 270040,
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "18.10.2025",
+    "time": "08:24",
+    "year": 2020,
+    "duration_ms": 215615,
+    "genre": "Pop",
+    "album": "Kamarát - EP",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Fero",
     "artist": "Elán",
     "date": "18.10.2025",
