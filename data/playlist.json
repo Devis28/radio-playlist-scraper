@@ -1,5 +1,31 @@
 [
   {
+    "title": "Severanka",
+    "artist": "Team",
+    "date": "18.10.2025",
+    "time": "09:39",
+    "year": 1990,
+    "duration_ms": 305107,
+    "genre": "Pop",
+    "album": "Team 3",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Francúzky",
+    "artist": "Patejdl Vašo",
+    "date": "18.10.2025",
+    "time": "09:35",
+    "year": 1989,
+    "duration_ms": 262387,
+    "genre": "Pop",
+    "album": "Mon Amour",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Tisíc A Jedenkrát",
     "artist": "Elán",
     "date": "18.10.2025",
