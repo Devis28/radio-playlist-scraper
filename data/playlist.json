@@ -1,5 +1,67 @@
 [
   {
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "18.10.2025",
+    "time": "22:30",
+    "year": 1983,
+    "duration_ms": 252773,
+    "genre": "Rock",
+    "album": "Colour By Numbers",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Boy George",
+      "Jon Moss",
+      "Mikey Craig",
+      "Phil Pickett",
+      "Roy Hay"
+    ]
+  },
+  {
+    "title": "Nah Neh Nah",
+    "artist": "Vaya Con Dios",
+    "date": "18.10.2025",
+    "time": "22:27",
+    "year": 1990,
+    "duration_ms": 173907,
+    "genre": "Pop",
+    "album": "The Best of Vaya Con Dios",
+    "track_number": 6,
+    "artist_country_code": "BE",
+    "songwriters": [
+      "Dani Klein",
+      "Dirk Schoufs",
+      "Una Balfe"
+    ]
+  },
+  {
+    "title": "Dont Break My Heart",
+    "artist": "Den Harrow",
+    "date": "18.10.2025",
+    "time": "22:23",
+    "year": 1987,
+    "duration_ms": 239503,
+    "genre": "Pop",
+    "album": "Day By Day",
+    "track_number": 2,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "18.10.2025",
+    "time": "22:20",
+    "year": 1996,
+    "duration_ms": 584747,
+    "genre": "Dance",
+    "album": "Deconstruction Reconstructed 019",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Love Really Hurts Without You",
     "artist": "Billy Ocean",
     "date": "18.10.2025",
