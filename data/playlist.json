@@ -1,5 +1,44 @@
 [
   {
+    "title": "Cirkus Leto",
+    "artist": "Pavol Hammel",
+    "date": "19.10.2025",
+    "time": "01:25",
+    "year": 2011,
+    "duration_ms": 164947,
+    "genre": "Rock",
+    "album": "THE BEST OF PAVOL HAMMEL",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Wind Of Change",
+    "artist": "The Scorpions",
+    "date": "19.10.2025",
+    "time": "01:20",
+    "year": 1990,
+    "duration_ms": 312360,
+    "genre": "Hard Rock",
+    "album": "Crazy World",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "Money Factor",
+    "date": "19.10.2025",
+    "time": "01:16",
+    "year": 2008,
+    "duration_ms": 241760,
+    "genre": "Rock",
+    "album": "Rockové Balady",
+    "track_number": 10,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Black Velvet",
     "artist": "Myles Alannah",
     "date": "19.10.2025",
