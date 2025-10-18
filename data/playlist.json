@@ -1,5 +1,34 @@
 [
   {
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "18.10.2025",
+    "time": "18:51",
+    "year": 1990,
+    "duration_ms": 227267,
+    "genre": "Pop",
+    "album": "Gejzír",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jindřich Parma",
+      "Pavel Cmíral"
+    ]
+  },
+  {
+    "title": "Báječná Ženská",
+    "artist": "Tučný Michal",
+    "date": "18.10.2025",
+    "time": "18:47",
+    "year": 1980,
+    "duration_ms": 253960,
+    "genre": "Traditional Country",
+    "album": "Snídaně V Trávě",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Anjel",
     "artist": "Komajota",
     "date": "18.10.2025",
