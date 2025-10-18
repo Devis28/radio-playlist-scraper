@@ -1,5 +1,18 @@
 [
   {
+    "title": "L' Italiano",
+    "artist": "Toto Cutugno",
+    "date": "18.10.2025",
+    "time": "22:48",
+    "year": 1983,
+    "duration_ms": 236547,
+    "genre": "Pop",
+    "album": "L'italiano",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Sunchyme",
     "artist": "Dario G",
     "date": "18.10.2025",
