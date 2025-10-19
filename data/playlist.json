@@ -1,5 +1,31 @@
 [
   {
+    "title": "Whenever You Need Somebody",
+    "artist": "Rick Astley",
+    "date": "19.10.2025",
+    "time": "21:41",
+    "year": 1987,
+    "duration_ms": 206147,
+    "genre": "Pop",
+    "album": "Whenever You Need Somebody (Deluxe Edition - 2022 Remaster)",
+    "track_number": 20,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "One Way Ticket",
+    "artist": "Eruption",
+    "date": "19.10.2025",
+    "time": "21:37",
+    "year": 1978,
+    "duration_ms": 213200,
+    "genre": "Pop",
+    "album": "4 Hits: Eruption - EP",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "2 Times",
     "artist": "Lee Ann",
     "date": "19.10.2025",
