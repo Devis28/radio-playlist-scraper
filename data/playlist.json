@@ -1,5 +1,85 @@
 [
   {
+    "title": "Modlitba Lásky",
+    "artist": "Robo Grigorov",
+    "date": "19.10.2025",
+    "time": "14:58",
+    "year": 1992,
+    "duration_ms": 273293,
+    "genre": "Pop",
+    "album": "Chýbaš Mi...",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nech Sa Deje Čo Sa Má",
+    "artist": "Zuzana Smatanová",
+    "date": "19.10.2025",
+    "time": "14:55",
+    "year": 2005,
+    "duration_ms": 165093,
+    "genre": "Rock",
+    "album": "Svet Mi Stupil Na Nohu",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "19.10.2025",
+    "time": "14:52",
+    "year": 1995,
+    "duration_ms": 224493,
+    "genre": "Rock",
+    "album": "Habera 2",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Mám Jednu Ruku Dlouhou",
+    "artist": "Buty",
+    "date": "19.10.2025",
+    "time": "14:46",
+    "year": 2003,
+    "duration_ms": 271107,
+    "genre": "Pop",
+    "album": "Butykvariát",
+    "track_number": 12,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Radek Pastrňák"
+    ]
+  },
+  {
+    "title": "V Slepých Uličkách",
+    "artist": "Zbirka Miro & Gombitova Marika",
+    "date": "19.10.2025",
+    "time": "14:42",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Skúšky Z Lásky",
+    "artist": "Gravis",
+    "date": "19.10.2025",
+    "time": "14:39",
+    "year": 1989,
+    "duration_ms": 245180,
+    "genre": "Pop",
+    "album": "Kolotoč masiek",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Ľudia Nie Sú Zlí",
     "artist": "I.M.T. Smile",
     "date": "19.10.2025",
