@@ -1,5 +1,73 @@
 [
   {
+    "title": "Dynamit",
+    "artist": "Olympic",
+    "date": "19.10.2025",
+    "time": "07:12",
+    "year": 1965,
+    "duration_ms": 191000,
+    "genre": "Rock",
+    "album": "Best of 43 jasných hitových zpráv",
+    "track_number": 17,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "19.10.2025",
+    "time": "07:09",
+    "year": 1995,
+    "duration_ms": 213956,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
+  },
+  {
+    "title": "V tichu",
+    "artist": "Katarína Knechtová",
+    "date": "19.10.2025",
+    "time": "07:05",
+    "year": 2008,
+    "duration_ms": 212307,
+    "genre": "Pop",
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Voňavky Dievčat",
+    "artist": "Patejdl Vašo",
+    "date": "19.10.2025",
+    "time": "07:02",
+    "year": 1987,
+    "duration_ms": 205813,
+    "genre": "Pop",
+    "album": "Lov na city",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Koukej Se Mnou Si Píseň Broukej",
+    "artist": "Petra Černocká",
+    "date": "19.10.2025",
+    "time": "06:58",
+    "year": 1973,
+    "duration_ms": 230253,
+    "genre": "Pop",
+    "album": "Se Mnou Si Píseň Broukej",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Láska",
     "artist": "Palonder Marcel",
     "date": "19.10.2025",
