@@ -1,5 +1,33 @@
 [
   {
+    "title": "2 Times",
+    "artist": "Lee Ann",
+    "date": "19.10.2025",
+    "time": "21:33",
+    "year": 1998,
+    "duration_ms": 230933,
+    "genre": "Dance",
+    "album": "2 Times",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Girls Just Wanna Have Fun",
+    "artist": "Cyndi Lauper",
+    "date": "19.10.2025",
+    "time": "21:29",
+    "year": 1983,
+    "duration_ms": 224510,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Robert Hazard"
+    ]
+  },
+  {
     "title": "United",
     "artist": "Prince Ital Joe & Marky Mark",
     "date": "19.10.2025",
