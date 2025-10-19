@@ -1,5 +1,31 @@
 [
   {
+    "title": "Nechodí",
+    "artist": "Miro Žbirka",
+    "date": "20.10.2025",
+    "time": "01:32",
+    "year": 1983,
+    "duration_ms": 215027,
+    "genre": "Pop",
+    "album": "Roky a dni",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Vetroň",
+    "artist": "Hex",
+    "date": "20.10.2025",
+    "time": "01:28",
+    "year": 1997,
+    "duration_ms": 240320,
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Conquest Of Paradise",
     "artist": "Vangelis",
     "date": "20.10.2025",
