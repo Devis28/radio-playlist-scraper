@@ -1,5 +1,87 @@
 [
   {
+    "title": "I Like To Move It",
+    "artist": "Reel Ii Real",
+    "date": "19.10.2025",
+    "time": "20:33",
+    "year": 1994,
+    "duration_ms": 223070,
+    "genre": "Dance",
+    "album": "I Like to Move It (feat. The Mad Stuntman) - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Človečina",
+    "artist": "Elán",
+    "date": "19.10.2025",
+    "time": "20:28",
+    "year": 1983,
+    "duration_ms": 277787,
+    "genre": "Rock",
+    "album": "Elán 3",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Over My Shoulder",
+    "artist": "Mike & The Mechanics",
+    "date": "19.10.2025",
+    "time": "20:25",
+    "year": 1995,
+    "duration_ms": 217200,
+    "genre": "Pop",
+    "album": "Beggar On A Beach Of Gold",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Kokomo",
+    "artist": "The Beach Boys",
+    "date": "19.10.2025",
+    "time": "20:21",
+    "year": 1988,
+    "duration_ms": 217693,
+    "genre": "Pop",
+    "album": "The Very Best of The Beach Boys: Sounds of Summer",
+    "track_number": 25,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "I Wanna B with U",
+    "artist": "Fun Factory",
+    "date": "19.10.2025",
+    "time": "20:18",
+    "year": 2016,
+    "duration_ms": 213600,
+    "genre": "Dance",
+    "album": "Back to the Factory",
+    "track_number": 17,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Rodney Hardison",
+      "Toni Cottura",
+      "Zoltan Bender"
+    ]
+  },
+  {
+    "title": "Summer Nights",
+    "artist": "Olivia Newton John & John Travolta",
+    "date": "19.10.2025",
+    "time": "20:14",
+    "year": 1978,
+    "duration_ms": 215333,
+    "genre": "Musicals",
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "The Big L.",
     "artist": "Roxette",
     "date": "19.10.2025",
