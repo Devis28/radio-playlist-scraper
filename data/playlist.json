@@ -1,5 +1,57 @@
 [
   {
+    "title": "Blaze Of Glory",
+    "artist": "Bon Jovi, Jon",
+    "date": "20.10.2025",
+    "time": "01:14",
+    "year": 2009,
+    "duration_ms": 346840,
+    "genre": "Rock",
+    "album": "We Weren't Born To Follow - EP",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "20.10.2025",
+    "time": "01:09",
+    "year": 1984,
+    "duration_ms": 392267,
+    "genre": "Pop",
+    "album": "Make It Big",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "date": "20.10.2025",
+    "time": "01:05",
+    "year": 1970,
+    "duration_ms": 243027,
+    "genre": "Rock",
+    "album": "Let It Be",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "20.10.2025",
+    "time": "01:01",
+    "year": 2005,
+    "duration_ms": 254413,
+    "genre": "Pop",
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Piccolo Amore",
     "artist": "Ricchi E Poveri",
     "date": "20.10.2025",
