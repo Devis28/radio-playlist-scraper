@@ -1,5 +1,44 @@
 [
   {
+    "title": "Úsmev",
+    "artist": "Modus",
+    "date": "19.10.2025",
+    "time": "19:24",
+    "year": 2005,
+    "duration_ms": 208853,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Biograf Láska",
+    "artist": "Hana Zagorová",
+    "date": "19.10.2025",
+    "time": "19:20",
+    "year": 2006,
+    "duration_ms": 278840,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 5,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Obyčejný Muž",
+    "artist": "Spálený Petr",
+    "date": "19.10.2025",
+    "time": "19:15",
+    "year": 1998,
+    "duration_ms": 259240,
+    "genre": "Pop",
+    "album": "Největší hity (Díky)",
+    "track_number": 9,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Vráť Mi Tie Hviezdy",
     "artist": "Dubasová Beáta",
     "date": "19.10.2025",
