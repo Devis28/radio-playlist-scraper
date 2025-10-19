@@ -1,5 +1,86 @@
 [
   {
+    "title": "Prvá",
+    "artist": "No Name",
+    "date": "19.10.2025",
+    "time": "15:24",
+    "year": 2004,
+    "duration_ms": 197147,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Když Láska Schází",
+    "artist": "Bartošová Iveta",
+    "date": "19.10.2025",
+    "time": "15:20",
+    "year": 1984,
+    "duration_ms": 227133,
+    "genre": "Pop",
+    "album": "Top 13",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Cesta",
+    "artist": "Kryštof ft. Tomáš Klus",
+    "date": "19.10.2025",
+    "time": "15:16",
+    "year": 2012,
+    "duration_ms": 349500,
+    "genre": "Pop",
+    "album": "25",
+    "track_number": 9,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "19.10.2025",
+    "time": "15:12",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Róberta",
+    "artist": "Modus",
+    "date": "19.10.2025",
+    "time": "15:07",
+    "year": 2005,
+    "duration_ms": 260800,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
+    "title": "Arabela",
+    "artist": "Rolincova Darinka",
+    "date": "19.10.2025",
+    "time": "15:03",
+    "year": 1988,
+    "duration_ms": 275507,
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 5,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Modlitba Lásky",
     "artist": "Robo Grigorov",
     "date": "19.10.2025",
