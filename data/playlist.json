@@ -1,5 +1,33 @@
 [
   {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "20.10.2025",
+    "time": "01:23",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise (Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
+    "title": "Účesy",
+    "artist": "Dubasová Beáta",
+    "date": "20.10.2025",
+    "time": "01:20",
+    "year": 2020,
+    "duration_ms": 173880,
+    "genre": "Pop",
+    "album": "Najväčšie hity 1985 - 2020",
+    "track_number": 18,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Blaze Of Glory",
     "artist": "Bon Jovi, Jon",
     "date": "20.10.2025",
