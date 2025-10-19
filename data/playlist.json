@@ -1,5 +1,57 @@
 [
   {
+    "title": "Kúp Mi Knihu",
+    "artist": "Miro Žbirka",
+    "date": "19.10.2025",
+    "time": "21:09",
+    "year": 1986,
+    "duration_ms": 241027,
+    "genre": "Pop",
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "track_number": 3,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Mambo Italiano",
+    "artist": "Shaft",
+    "date": "19.10.2025",
+    "time": "21:06",
+    "year": 2000,
+    "duration_ms": 171227,
+    "genre": "Dance",
+    "album": "Mambo Italiano - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Kamarátka Nádej",
+    "artist": "Vašo Patejdl",
+    "date": "19.10.2025",
+    "time": "21:02",
+    "year": 1989,
+    "duration_ms": 192507,
+    "genre": "Pop",
+    "album": "Mon Amour",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Hey! Baby",
+    "artist": "Bruce Channel",
+    "date": "19.10.2025",
+    "time": "21:00",
+    "year": 1961,
+    "duration_ms": 145450,
+    "genre": "Pop",
+    "album": "Dirty Dancing (Original Sondtrack)",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Maniac",
     "artist": "Michael Sembello",
     "date": "19.10.2025",
