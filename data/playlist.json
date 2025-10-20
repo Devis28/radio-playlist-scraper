@@ -1,5 +1,46 @@
 [
   {
+    "title": "Oheň, Voda, Vítr",
+    "artist": "Janda Dalibor",
+    "date": "20.10.2025",
+    "time": "07:24",
+    "year": 1982,
+    "duration_ms": 172707,
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "20.10.2025",
+    "time": "07:20",
+    "year": 1991,
+    "duration_ms": 230680,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 10,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Per Gessle"
+    ]
+  },
+  {
+    "title": "Don't Play Your Rock 'n' Roll To Me",
+    "artist": "Smokie",
+    "date": "20.10.2025",
+    "time": "07:17",
+    "year": 1975,
+    "duration_ms": 196867,
+    "genre": "Rock",
+    "album": "The Best of Smokie",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "C�est La Vie",
     "artist": "Miro Zbirka",
     "date": "20.10.2025",
