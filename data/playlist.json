@@ -1,5 +1,49 @@
 [
   {
+    "title": "Sweet Dreams",
+    "artist": "Eurythmics",
+    "date": "20.10.2025",
+    "time": "16:41",
+    "year": 1983,
+    "duration_ms": 216933,
+    "genre": "Pop",
+    "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "date": "20.10.2025",
+    "time": "16:37",
+    "year": 1991,
+    "duration_ms": 271610,
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 22,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Brian May",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor"
+    ]
+  },
+  {
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "20.10.2025",
+    "time": "16:34",
+    "year": 1980,
+    "duration_ms": 197960,
+    "genre": "Pop",
+    "album": "Doktor Sen",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Self Control",
     "artist": "Branigan Laura",
     "date": "20.10.2025",
