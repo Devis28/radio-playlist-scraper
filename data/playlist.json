@@ -1,5 +1,50 @@
 [
   {
+    "title": "Love To Hate You",
+    "artist": "Erasure",
+    "date": "20.10.2025",
+    "time": "10:50",
+    "year": 2001,
+    "duration_ms": 237613,
+    "genre": "Pop",
+    "album": "Hits! The Very Best of Erasure",
+    "track_number": 10,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
+  },
+  {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "20.10.2025",
+    "time": "10:47",
+    "year": 2005,
+    "duration_ms": 144240,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
+    "title": "Touch Me (I Want Your Body)",
+    "artist": "Fox Samantha",
+    "date": "20.10.2025",
+    "time": "10:44",
+    "year": 1986,
+    "duration_ms": 213684,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 93,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Malý Princ",
     "artist": "Aya",
     "date": "20.10.2025",
