@@ -1,5 +1,107 @@
 [
   {
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "20.10.2025",
+    "time": "11:23",
+    "year": 1993,
+    "duration_ms": 255107,
+    "genre": "Pop",
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "track_number": 1,
+    "artist_country_code": "IE",
+    "songwriters": [
+      "Dolores O’Riordan",
+      "Noel Hogan"
+    ]
+  },
+  {
+    "title": "One More Try",
+    "artist": "Timmy T",
+    "date": "20.10.2025",
+    "time": "11:19",
+    "year": 1990,
+    "duration_ms": 209427,
+    "genre": "Pop",
+    "album": "Time After Time",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Timmy T"
+    ]
+  },
+  {
+    "title": "Lásko Má, Já Stůňu",
+    "artist": "Vondráčková Helena",
+    "date": "20.10.2025",
+    "time": "11:17",
+    "year": 1992,
+    "duration_ms": 136800,
+    "genre": "Pop",
+    "album": "Kam Zmizel Ten Starý Song",
+    "track_number": 15,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "You",
+    "artist": "Ten Sharp",
+    "date": "20.10.2025",
+    "time": "11:12",
+    "year": 1991,
+    "duration_ms": 272984,
+    "genre": "Pop",
+    "album": "You - Single",
+    "track_number": 1,
+    "artist_country_code": "NL",
+    "songwriters": [
+      "Niels Hermes",
+      "Ton Groen"
+    ]
+  },
+  {
+    "title": "Až Sa Znova Narodím",
+    "artist": "Peter Nagy",
+    "date": "20.10.2025",
+    "time": "11:09",
+    "year": 1987,
+    "duration_ms": 152800,
+    "genre": "Pop",
+    "album": "\"Ale\"",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "20.10.2025",
+    "time": "11:06",
+    "year": 1974,
+    "duration_ms": 276467,
+    "genre": "R&B/Soul",
+    "album": "Can't Get Enough",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Désenchantee",
+    "artist": "Farmer Mylene",
+    "date": "20.10.2025",
+    "time": "11:01",
+    "year": 1991,
+    "duration_ms": 322760,
+    "genre": "French Pop",
+    "album": "L'autre",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
+  },
+  {
     "title": "Holding Out For A Hero",
     "artist": "Tyler Bonnie",
     "date": "20.10.2025",
