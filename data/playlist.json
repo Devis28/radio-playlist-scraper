@@ -1,5 +1,46 @@
 [
   {
+    "title": "Pozhasínané",
+    "artist": "Modus",
+    "date": "20.10.2025",
+    "time": "21:25",
+    "year": 1981,
+    "duration_ms": 257907,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 5,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "20.10.2025",
+    "time": "21:21",
+    "year": 1990,
+    "duration_ms": 372827,
+    "genre": "Pop",
+    "album": "Violator (Deluxe)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Martin L. Gore"
+    ]
+  },
+  {
+    "title": "Farbami Dýcha Noc",
+    "artist": "Balogh Berco",
+    "date": "20.10.2025",
+    "time": "21:17",
+    "year": 2007,
+    "duration_ms": 202507,
+    "genre": "Pop",
+    "album": "Siedmy pád",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Nothing Compares 2 U",
     "artist": "O'connor Sinéad",
     "date": "20.10.2025",
