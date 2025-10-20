@@ -1,5 +1,90 @@
 [
   {
+    "title": "Tears In Heaven",
+    "artist": "Clapton Eric",
+    "date": "20.10.2025",
+    "time": "15:18",
+    "year": 1992,
+    "duration_ms": 271760,
+    "genre": "Rock",
+    "album": "Clapton Chronicles: The Best of Eric Clapton",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Znala Panna Pána",
+    "artist": "Vondráčková Helena Neckář Václav",
+    "date": "20.10.2025",
+    "time": "15:16",
+    "year": 1965,
+    "duration_ms": 143680,
+    "genre": "Pop",
+    "album": "Rendez Vous",
+    "track_number": 21,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "The Road To Mandalay",
+    "artist": "Williams, Robbie",
+    "date": "20.10.2025",
+    "time": "15:08",
+    "year": 2000,
+    "duration_ms": 237401,
+    "genre": "Adult Alternative",
+    "album": "Sing When You're Winning",
+    "track_number": 12,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Kristínka Iba Spí",
+    "artist": "Nagy Peter",
+    "date": "20.10.2025",
+    "time": "15:04",
+    "year": 1984,
+    "duration_ms": 292040,
+    "genre": "Pop",
+    "album": "Chrán svoje bláznovstvá",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Crazy",
+    "artist": "Aerosmith",
+    "date": "20.10.2025",
+    "time": "14:55",
+    "year": 1993,
+    "duration_ms": 316966,
+    "genre": "Pop",
+    "album": "Get A Grip",
+    "track_number": 11,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Desmond Child",
+      "Joe Perry",
+      "Steven Tyler"
+    ]
+  },
+  {
+    "title": "Klasika",
+    "artist": "Elán",
+    "date": "20.10.2025",
+    "time": "14:52",
+    "year": 1986,
+    "duration_ms": 194973,
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Boris Filan",
+      "Ján Baláž"
+    ]
+  },
+  {
     "title": "Moviestar",
     "artist": "Harpo",
     "date": "20.10.2025",
