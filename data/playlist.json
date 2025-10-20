@@ -1,5 +1,131 @@
 [
   {
+    "title": "Naveky",
+    "artist": "Katarína Knechtová",
+    "date": "20.10.2025",
+    "time": "20:29",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Katarína Knechtová"
+    ]
+  },
+  {
+    "title": "I Got You Babe",
+    "artist": "Ub 40 Hynde Chrissie",
+    "date": "20.10.2025",
+    "time": "20:26",
+    "year": 1985,
+    "duration_ms": 190093,
+    "genre": "Reggae",
+    "album": "The Best of UB40, Vol. 1 & 2",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Ženská Menom Panika",
+    "artist": "Team",
+    "date": "20.10.2025",
+    "time": "20:22",
+    "year": 1994,
+    "duration_ms": 267693,
+    "genre": "Rock",
+    "album": "Team Hity",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "You're The One That I Want",
+    "artist": "Travolta John & Newton-John Olivia",
+    "date": "20.10.2025",
+    "time": "20:20",
+    "year": 1978,
+    "duration_ms": 168907,
+    "genre": "Musicals",
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "John Farrar"
+    ]
+  },
+  {
+    "title": "Moonlight Shadow",
+    "artist": "Oldfield Mike & Reilly Maggie",
+    "date": "20.10.2025",
+    "time": "20:17",
+    "year": 1983,
+    "duration_ms": 218160,
+    "genre": "Rock",
+    "album": "Two Sides: The Very Best of Mike Oldfield",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Jediný A Jediná",
+    "artist": "Zuzana Smatanová",
+    "date": "20.10.2025",
+    "time": "20:12",
+    "year": 2018,
+    "duration_ms": 258669,
+    "genre": "Singer/Songwriter",
+    "album": "Jediný A Jediná - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Stay Another Day",
+    "artist": "East 17",
+    "date": "20.10.2025",
+    "time": "20:08",
+    "year": 1994,
+    "duration_ms": 267133,
+    "genre": "Pop",
+    "album": "Steam",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "20.10.2025",
+    "time": "20:04",
+    "year": 1984,
+    "duration_ms": 230667,
+    "genre": "Pop",
+    "album": "The Final: 14 Greatest Hits (Deluxe Bonus Videos Edition)",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Michael"
+    ]
+  },
+  {
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "20.10.2025",
+    "time": "20:01",
+    "year": 1992,
+    "duration_ms": 181186,
+    "genre": "Pop",
+    "album": "Chýbaš Mi...",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
+  },
+  {
     "title": "Zdá Se",
     "artist": "Hana Zagorová",
     "date": "20.10.2025",
