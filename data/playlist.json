@@ -1,5 +1,35 @@
 [
   {
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "date": "20.10.2025",
+    "time": "09:45",
+    "year": 1986,
+    "duration_ms": 222644,
+    "genre": "Hard Rock",
+    "album": "Slippery When Wet",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ]
+  },
+  {
+    "title": "Tancujem S Tebou Rád",
+    "artist": "Karol Duchoň",
+    "date": "20.10.2025",
+    "time": "09:42",
+    "year": 1976,
+    "duration_ms": 191960,
+    "genre": "Pop",
+    "album": "Čardáš dvoch sŕdc",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Rhythm Is A Dancer",
     "artist": "Snap",
     "date": "20.10.2025",
