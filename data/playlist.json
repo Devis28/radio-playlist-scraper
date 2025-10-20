@@ -1,5 +1,44 @@
 [
   {
+    "title": "Maluj Zase Obrázky",
+    "artist": "Hana Zagorová",
+    "date": "20.10.2025",
+    "time": "08:14",
+    "year": 1995,
+    "duration_ms": 312320,
+    "genre": "Pop",
+    "album": "Maluj Zase Obrázky",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Sweat (A La La La Long)",
+    "artist": "Inner Circle",
+    "date": "20.10.2025",
+    "time": "08:06",
+    "year": 1992,
+    "duration_ms": 227067,
+    "genre": "Reggae",
+    "album": "Blazzin' Fire",
+    "track_number": 2,
+    "artist_country_code": "JM",
+    "songwriters": null
+  },
+  {
+    "title": "To Musím Zvládnout Sám",
+    "artist": "Gott Karel",
+    "date": "20.10.2025",
+    "time": "08:02",
+    "year": 1964,
+    "duration_ms": 233107,
+    "genre": "Pop",
+    "album": "42 Největších Hitů",
+    "track_number": 29,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "The Best",
     "artist": "Tina Turner",
     "date": "20.10.2025",
