@@ -1,5 +1,31 @@
 [
   {
+    "title": "Crying In Rain",
+    "artist": "A-Ha",
+    "date": "21.10.2025",
+    "time": "01:48",
+    "year": 1990,
+    "duration_ms": 262373,
+    "genre": "Pop",
+    "album": "East of the Sun, West of the Moon",
+    "track_number": 1,
+    "artist_country_code": "NO",
+    "songwriters": null
+  },
+  {
+    "title": "Pierko pravdy",
+    "artist": "Beáta Dubasová",
+    "date": "21.10.2025",
+    "time": "01:45",
+    "year": 2023,
+    "duration_ms": 190000,
+    "genre": "Pop",
+    "album": "Pierko pravdy - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Heal The World",
     "artist": "Jackson, Michael",
     "date": "21.10.2025",
