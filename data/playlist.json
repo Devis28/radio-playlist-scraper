@@ -1,5 +1,51 @@
 [
   {
+    "title": "Another Day In Paradise",
+    "artist": "Collins Phil",
+    "date": "21.10.2025",
+    "time": "00:38",
+    "year": 1989,
+    "duration_ms": 322133,
+    "genre": "Rock",
+    "album": "The Singles (Deluxe Edition)",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Believe",
+    "artist": "Cher",
+    "date": "21.10.2025",
+    "time": "00:35",
+    "year": 1998,
+    "duration_ms": 239027,
+    "genre": "Pop",
+    "album": "Believe",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Brian Higgins",
+      "Matt Gray",
+      "Paul Barry",
+      "Steve Torch",
+      "Stuart McLennan",
+      "Tim Powell"
+    ]
+  },
+  {
+    "title": "Můj Čas",
+    "artist": "Zagorová Hana Kotvald Petr Hložek Stanislav",
+    "date": "21.10.2025",
+    "time": "00:31",
+    "year": 2013,
+    "duration_ms": 217747,
+    "genre": "Soundtrack",
+    "album": "Sanitka 2 (Original Score)",
+    "track_number": 35,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Vyrobená Pre Mňa",
     "artist": "Desmod",
     "date": "21.10.2025",
