@@ -1,5 +1,75 @@
 [
   {
+    "title": "Prútikár",
+    "artist": "Zuzana Smatanová & Richard Autner",
+    "date": "20.10.2025",
+    "time": "23:27",
+    "year": 2024,
+    "duration_ms": 244947,
+    "genre": "Pop",
+    "album": "Prútikár (feat. Richard Autner) - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "You Can't Hurry Love",
+    "artist": "Collins Phil",
+    "date": "20.10.2025",
+    "time": "23:24",
+    "year": 1982,
+    "duration_ms": 175747,
+    "genre": "Rock",
+    "album": "Hello, I Must Be Going! (Remastered)",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Mama Kúp Mi Rontgen",
+    "artist": "Yps",
+    "date": "20.10.2025",
+    "time": "23:21",
+    "year": 2007,
+    "duration_ms": 155440,
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "20.10.2025",
+    "time": "23:16",
+    "year": 1992,
+    "duration_ms": 320351,
+    "genre": "Alternative",
+    "album": "Automatic For The People",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Stonka",
+    "artist": "Kristína",
+    "date": "20.10.2025",
+    "time": "23:13",
+    "year": 2010,
+    "duration_ms": 227267,
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
     "title": "We Love To Love",
     "artist": "P. M. Sampson & Double Key",
     "date": "20.10.2025",
