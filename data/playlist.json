@@ -1,5 +1,35 @@
 [
   {
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "20.10.2025",
+    "time": "11:45",
+    "year": 1996,
+    "duration_ms": 264547,
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 8,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
+  },
+  {
+    "title": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "date": "20.10.2025",
+    "time": "11:41",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Mrs. Robinson",
     "artist": "Simon, Paul & Garfunkel, Art",
     "date": "20.10.2025",
