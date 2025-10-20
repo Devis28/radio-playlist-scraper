@@ -1,5 +1,49 @@
 [
   {
+    "title": "Rhythm Is A Dancer",
+    "artist": "Snap",
+    "date": "20.10.2025",
+    "time": "09:38",
+    "year": 1992,
+    "duration_ms": 332230,
+    "genre": "Dance",
+    "album": "The Madman's Return",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "20.10.2025",
+    "time": "09:34",
+    "year": 1986,
+    "duration_ms": 310333,
+    "genre": "Hard Rock",
+    "album": "The Final Countdown (Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Joey Tempest"
+    ]
+  },
+  {
+    "title": "Zbohom Bud, Lipova Lyzka,...",
+    "artist": "Dočolomanský Michal",
+    "date": "20.10.2025",
+    "time": "09:31",
+    "year": 2023,
+    "duration_ms": 219000,
+    "genre": "Pop",
+    "album": "Hity & Duety",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Ernest Bryll",
+      "Katarzyna Gärtner"
+    ]
+  },
+  {
     "title": "Keď Príde Láska",
     "artist": "Mc Erik And Barbara",
     "date": "20.10.2025",
