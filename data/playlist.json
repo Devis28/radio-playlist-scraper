@@ -1,5 +1,116 @@
 [
   {
+    "title": "To Be With You",
+    "artist": "Mr. Big",
+    "date": "21.10.2025",
+    "time": "11:28",
+    "year": 1991,
+    "duration_ms": 206973,
+    "genre": "Hard Rock",
+    "album": "Greatest Hits",
+    "track_number": 9,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Ôsmy Svetadiel",
+    "artist": "Elán",
+    "date": "21.10.2025",
+    "time": "11:24",
+    "year": 2015,
+    "duration_ms": 249000,
+    "genre": "Pop",
+    "album": "Hodiny Nehy",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Sounds Like A Melody",
+    "artist": "Alphaville",
+    "date": "21.10.2025",
+    "time": "11:20",
+    "year": 1984,
+    "duration_ms": 267907,
+    "genre": "Pop",
+    "album": "First Harvest 1984-1992",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "21.10.2025",
+    "time": "11:16",
+    "year": 2020,
+    "duration_ms": 215615,
+    "genre": "Pop",
+    "album": "Kamarát - EP",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Lay Back In The Arms Of Someone",
+    "artist": "Smokie",
+    "date": "21.10.2025",
+    "time": "11:12",
+    "year": 1977,
+    "duration_ms": 244733,
+    "genre": "Rock",
+    "album": "The Best of Smokie",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
+    "title": "Words",
+    "artist": "David, F.R.",
+    "date": "21.10.2025",
+    "time": "11:07",
+    "year": 1982,
+    "duration_ms": 208000,
+    "genre": "Pop",
+    "album": "Words (The Original Album 1982)",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Je Naprosto Nezbytné",
+    "artist": "Hana Zagorová",
+    "date": "21.10.2025",
+    "time": "11:04",
+    "year": 2001,
+    "duration_ms": 182147,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Honey Honey",
+    "artist": "Abba",
+    "date": "21.10.2025",
+    "time": "11:01",
+    "year": 1974,
+    "duration_ms": 175147,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits (40th Anniversary Edition)",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
     "title": "Right Here Waiting",
     "artist": "Marx Richard",
     "date": "21.10.2025",
