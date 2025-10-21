@@ -1,5 +1,31 @@
 [
   {
+    "title": "Sme Svoji",
+    "artist": "Nagy Peter",
+    "date": "21.10.2025",
+    "time": "06:50",
+    "year": 1985,
+    "duration_ms": 197013,
+    "genre": "Pop",
+    "album": "Mne sa neschováš",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Absolutely Everybody",
+    "artist": "Vanessa Amorosi",
+    "date": "21.10.2025",
+    "time": "06:45",
+    "year": 2000,
+    "duration_ms": 224600,
+    "genre": "Pop",
+    "album": "The Power (15 Year Anniversary Edition)",
+    "track_number": 2,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
     "title": "Je Jaká Je",
     "artist": "Karel Gott",
     "date": "21.10.2025",
