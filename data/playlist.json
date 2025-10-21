@@ -1,5 +1,44 @@
 [
   {
+    "title": "Je Jaká Je",
+    "artist": "Karel Gott",
+    "date": "21.10.2025",
+    "time": "06:42",
+    "year": 1969,
+    "duration_ms": 230827,
+    "genre": "Pop",
+    "album": "'76 (Bonus Track Version)",
+    "track_number": 11,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Už Mi, Lásko, Není Dvacet Let",
+    "artist": "Jiří Zmožek",
+    "date": "21.10.2025",
+    "time": "06:38",
+    "year": 2010,
+    "duration_ms": 246093,
+    "genre": "Worldwide",
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "track_number": 1,
+    "artist_country_code": "XC",
+    "songwriters": null
+  },
+  {
+    "title": "If I Could Turn Back Time",
+    "artist": "Cher",
+    "date": "21.10.2025",
+    "time": "06:35",
+    "year": 1989,
+    "duration_ms": 239827,
+    "genre": "Pop",
+    "album": "Heart of Stone",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Ľúbim Ťa",
     "artist": "Michal Dočolomanský",
     "date": "21.10.2025",
