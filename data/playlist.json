@@ -1,5 +1,60 @@
 [
   {
+    "title": "All By Myself",
+    "artist": "Eric Carmen",
+    "date": "21.10.2025",
+    "time": "13:14",
+    "year": 1975,
+    "duration_ms": 429997,
+    "genre": "Rock",
+    "album": "Eric Carmen",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Eric Carmen",
+      "Сергей Васильевич Рахманинов"
+    ]
+  },
+  {
+    "title": "Žít Jako Kaskadér",
+    "artist": "Janda Dalibor",
+    "date": "21.10.2025",
+    "time": "13:09",
+    "year": 1982,
+    "duration_ms": 196867,
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "One",
+    "artist": "U2",
+    "date": "21.10.2025",
+    "time": "13:04",
+    "year": 1988,
+    "duration_ms": 275400,
+    "genre": "Rock",
+    "album": "U218 Singles (Deluxe Edition)",
+    "track_number": 12,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "S Úsmevom",
+    "artist": "Karol Duchoň",
+    "date": "21.10.2025",
+    "time": "13:01",
+    "year": 2005,
+    "duration_ms": 198707,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Conquest Of Paradise",
     "artist": "Vangelis",
     "date": "21.10.2025",
