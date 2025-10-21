@@ -1,5 +1,36 @@
 [
   {
+    "title": "Nechajte Si Ju",
+    "artist": "Vidiek",
+    "date": "21.10.2025",
+    "time": "21:32",
+    "year": 1988,
+    "duration_ms": 171013,
+    "genre": "Pop",
+    "album": "Nechajte si ju!",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Kuric"
+    ]
+  },
+  {
+    "title": "Living On My Own",
+    "artist": "Mercury Freddie",
+    "date": "21.10.2025",
+    "time": "21:29",
+    "year": 1985,
+    "duration_ms": 217159,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Freddie Mercury"
+    ]
+  },
+  {
     "title": "Školská Lavica",
     "artist": "Gombitová Marika",
     "date": "21.10.2025",
