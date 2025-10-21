@@ -1,5 +1,129 @@
 [
   {
+    "title": "Balada O Polných Vtákoch",
+    "artist": "Žbirka Miro",
+    "date": "21.10.2025",
+    "time": "15:38",
+    "year": 1980,
+    "duration_ms": 190587,
+    "genre": "Pop",
+    "album": "Doktor Sen",
+    "track_number": 12,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Love Of The Common People",
+    "artist": "Paul Young",
+    "date": "21.10.2025",
+    "time": "15:34",
+    "year": 1983,
+    "duration_ms": 214381,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 10,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "John Hurley",
+      "Ronnie Wilkins"
+    ]
+  },
+  {
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "21.10.2025",
+    "time": "15:29",
+    "year": 2022,
+    "duration_ms": 76173,
+    "genre": "House",
+    "album": "Claptone at DAY.MVS XL 2022: Northside (DJ Mix)",
+    "track_number": 4,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Annerley Gordon",
+      "Francesco Bontempi",
+      "Giorgio Spagna",
+      "M. Gaffey",
+      "P. Glenister"
+    ]
+  },
+  {
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "21.10.2025",
+    "time": "15:25",
+    "year": 1981,
+    "duration_ms": 233280,
+    "genre": "Vocal",
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Andrew Lloyd Webber",
+      "T. S. Eliot",
+      "Trevor Nunn"
+    ]
+  },
+  {
+    "title": "Holky Z Naší Školky",
+    "artist": "Stanislav Hložek & Petr Kotvald",
+    "date": "21.10.2025",
+    "time": "15:21",
+    "year": 1983,
+    "duration_ms": 232493,
+    "genre": "Pop",
+    "album": "Holky Z Naší Školky",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Karel Vágner",
+      "Pavel Žák"
+    ]
+  },
+  {
+    "title": "Can't Take My Eyes Off You",
+    "artist": "Gloria Gaynor",
+    "date": "21.10.2025",
+    "time": "15:15",
+    "year": 2008,
+    "duration_ms": 254600,
+    "genre": "Dance",
+    "album": "Make It 80's & 90's",
+    "track_number": 24,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Šípková Růženka",
+    "artist": "Jiří Schelinger",
+    "date": "21.10.2025",
+    "time": "15:12",
+    "year": 1991,
+    "duration_ms": 191475,
+    "genre": "Pop",
+    "album": "Holubí Dům",
+    "track_number": 7,
+    "artist_country_code": "XC",
+    "songwriters": [
+      "David Coverdale",
+      "Ritchie Blackmore",
+      "Zdeněk Svěrák"
+    ]
+  },
+  {
+    "title": "Heartbreak Hotel",
+    "artist": "C.C. Catch",
+    "date": "21.10.2025",
+    "time": "15:08",
+    "year": 1986,
+    "duration_ms": 215800,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Slnko Nevychádzaj",
     "artist": "Metalinda",
     "date": "21.10.2025",
