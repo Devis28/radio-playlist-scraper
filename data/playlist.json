@@ -1,5 +1,18 @@
 [
   {
+    "title": "Thank You For The Music",
+    "artist": "Abba",
+    "date": "21.10.2025",
+    "time": "12:50",
+    "year": 1977,
+    "duration_ms": 228700,
+    "genre": "Pop",
+    "album": "ABBA: The Album",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Lady Lady Lady",
     "artist": "Esposito Joe",
     "date": "21.10.2025",
@@ -10107,11 +10120,11 @@
     "artist": "Miro Jaros & Mc Erik & Barbara",
     "date": "19.10.2025",
     "time": "10:51",
-    "year": "Not found",
-    "duration_ms": "Not found",
-    "genre": "Not found",
-    "album": "Not found",
-    "track_number": "Not found",
+    "year": 2025,
+    "duration_ms": 231413,
+    "genre": "Pop",
+    "album": "NEPRESTAŇ",
+    "track_number": 2,
     "artist_country_code": null,
     "songwriters": null
   },
