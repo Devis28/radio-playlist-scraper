@@ -1,5 +1,44 @@
 [
   {
+    "title": "Malá Nočná Búrka",
+    "artist": "Team",
+    "date": "21.10.2025",
+    "time": "08:13",
+    "year": 1988,
+    "duration_ms": 246560,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Ordinary World",
+    "artist": "Duran Duran",
+    "date": "21.10.2025",
+    "time": "08:06",
+    "year": 1993,
+    "duration_ms": 340200,
+    "genre": "Pop",
+    "album": "Duran Duran (The Wedding Album)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Báječná Ženská",
+    "artist": "Tučný Michal",
+    "date": "21.10.2025",
+    "time": "08:02",
+    "year": 1980,
+    "duration_ms": 253960,
+    "genre": "Traditional Country",
+    "album": "Snídaně V Trávě",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Fuoco Nel Fuoco",
     "artist": "Ramazzotti Eros",
     "date": "21.10.2025",
