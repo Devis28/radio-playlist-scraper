@@ -1,5 +1,18 @@
 [
   {
+    "title": "Hotel California",
+    "artist": "Eagles The",
+    "date": "21.10.2025",
+    "time": "22:48",
+    "year": 1976,
+    "duration_ms": 391357,
+    "genre": "Rock",
+    "album": "Hotel California",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Un Emozione Per Sempre",
     "artist": "Ramazzotti Eros",
     "date": "21.10.2025",
