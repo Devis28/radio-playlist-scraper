@@ -1,5 +1,54 @@
 [
   {
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "21.10.2025",
+    "time": "17:41",
+    "year": 2012,
+    "duration_ms": 229893,
+    "genre": "Dance",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": "CH",
+    "songwriters": [
+      "Daniel Peyer",
+      "Joe South",
+      "René Baumann"
+    ]
+  },
+  {
+    "title": "Veľký Sen Mora",
+    "artist": "Modus",
+    "date": "21.10.2025",
+    "time": "17:37",
+    "year": 2005,
+    "duration_ms": 289613,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Boris Filan",
+      "Ján Lehotský"
+    ]
+  },
+  {
+    "title": "Lambada",
+    "artist": "Kaoma",
+    "date": "21.10.2025",
+    "time": "17:34",
+    "year": 1989,
+    "duration_ms": 207467,
+    "genre": "Latin",
+    "album": "La Lambada (Version originale 1989)",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": [
+      "Gonzalo Hermosa",
+      "Ulises Hermosa"
+    ]
+  },
+  {
     "title": "Letím Tmou (Za Tebou)",
     "artist": "Miro Žbirka",
     "date": "21.10.2025",
