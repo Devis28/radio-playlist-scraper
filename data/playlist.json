@@ -1,5 +1,46 @@
 [
   {
+    "title": "Slobodná",
+    "artist": "Elán",
+    "date": "21.10.2025",
+    "time": "19:41",
+    "year": 1983,
+    "duration_ms": 215067,
+    "genre": "Rock",
+    "album": "Elán 3",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nočná Optika",
+    "artist": "Müller Richard",
+    "date": "21.10.2025",
+    "time": "19:37",
+    "year": 2002,
+    "duration_ms": 299880,
+    "genre": "Pop",
+    "album": "Nocna Optika",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Dr. Jekyll A Mr. Hyde",
+    "artist": "Miro Žbirka",
+    "date": "21.10.2025",
+    "time": "19:33",
+    "year": 1986,
+    "duration_ms": 223427,
+    "genre": "Pop",
+    "album": "Chlapec z ulice",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Bílá Královna",
     "artist": "Stanislav Hlozek & Petr Kotvald",
     "date": "21.10.2025",
