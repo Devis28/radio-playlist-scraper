@@ -1,5 +1,60 @@
 [
   {
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "21.10.2025",
+    "time": "22:44",
+    "year": 2003,
+    "duration_ms": 237880,
+    "genre": "Pop",
+    "album": "9",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "With Or Without You",
+    "artist": "U2",
+    "date": "21.10.2025",
+    "time": "22:41",
+    "year": 1987,
+    "duration_ms": 295200,
+    "genre": "Rock",
+    "album": "The Best of 1980-1990",
+    "track_number": 3,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "21.10.2025",
+    "time": "22:37",
+    "year": 1995,
+    "duration_ms": 221187,
+    "genre": "Dance",
+    "album": "The Bridge (Remastered)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "John Ballard",
+      "Jonas Berggren"
+    ]
+  },
+  {
+    "title": "Ci Sarà",
+    "artist": "Bano Al & Power Romina",
+    "date": "21.10.2025",
+    "time": "22:33",
+    "year": 1982,
+    "duration_ms": 206040,
+    "genre": "Pop",
+    "album": "Al Bano e Romina Power",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "V Piatok Podvečer",
     "artist": "Hex",
     "date": "21.10.2025",
