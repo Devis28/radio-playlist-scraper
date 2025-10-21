@@ -1,5 +1,48 @@
 [
   {
+    "title": "Vymyslená",
+    "artist": "Elán",
+    "date": "21.10.2025",
+    "time": "09:09",
+    "year": 1982,
+    "duration_ms": 138120,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nah Neh Nah",
+    "artist": "Vaya Con Dios",
+    "date": "21.10.2025",
+    "time": "09:06",
+    "year": 1990,
+    "duration_ms": 174533,
+    "genre": "Pop",
+    "album": "Night Owls",
+    "track_number": 1,
+    "artist_country_code": "BE",
+    "songwriters": [
+      "Dani Klein",
+      "Dirk Schoufs",
+      "Una Balfe"
+    ]
+  },
+  {
+    "title": "Primášovo Srdce",
+    "artist": "Karol Duchoň",
+    "date": "21.10.2025",
+    "time": "09:03",
+    "year": 2005,
+    "duration_ms": 209427,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 14,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Nothing Else Matters",
     "artist": "Metallica",
     "date": "21.10.2025",
