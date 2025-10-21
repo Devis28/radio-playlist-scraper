@@ -1,5 +1,31 @@
 [
   {
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "21.10.2025",
+    "time": "07:54",
+    "year": 2000,
+    "duration_ms": 241093,
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Nonstop",
+    "artist": "David Michal",
+    "date": "21.10.2025",
+    "time": "07:51",
+    "year": 2012,
+    "duration_ms": 211960,
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 12,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "No Milk Today",
     "artist": "Herman's Hermits",
     "date": "21.10.2025",
