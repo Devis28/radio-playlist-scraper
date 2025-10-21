@@ -1,5 +1,31 @@
 [
   {
+    "title": "Crazy",
+    "artist": "Seal",
+    "date": "21.10.2025",
+    "time": "21:48",
+    "year": 1990,
+    "duration_ms": 356520,
+    "genre": "Pop",
+    "album": "Seal: Hits (Deluxe Version)",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Mama Preco Nie Som Pekna",
+    "artist": "Madam",
+    "date": "21.10.2025",
+    "time": "21:44",
+    "year": 2007,
+    "duration_ms": 269880,
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 12,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "La Luna",
     "artist": "Belinda Carlisle",
     "date": "21.10.2025",
