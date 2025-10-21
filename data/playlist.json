@@ -1,5 +1,106 @@
 [
   {
+    "title": "Living Next Door To Alice",
+    "artist": "Smokie",
+    "date": "21.10.2025",
+    "time": "08:44",
+    "year": 1976,
+    "duration_ms": 207133,
+    "genre": "Rock",
+    "album": "Collections: Smokie",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "21.10.2025",
+    "time": "08:40",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Manic Monday",
+    "artist": "The Bangles",
+    "date": "21.10.2025",
+    "time": "08:37",
+    "year": 1986,
+    "duration_ms": 184863,
+    "genre": "Pop",
+    "album": "The Bangles Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "21.10.2025",
+    "time": "08:34",
+    "year": 2001,
+    "duration_ms": 182773,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
+    "title": "Proklínám",
+    "artist": "Ledecký Janek",
+    "date": "21.10.2025",
+    "time": "08:30",
+    "year": 1998,
+    "duration_ms": 233307,
+    "genre": "Pop",
+    "album": "Promilujem celou noc",
+    "track_number": 14,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Jan Černý",
+      "Janek Ledecký"
+    ]
+  },
+  {
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "21.10.2025",
+    "time": "08:21",
+    "year": 1991,
+    "duration_ms": 213760,
+    "genre": "Dance",
+    "album": "Massive Luxury Overdose",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
+  },
+  {
+    "title": "Unchained Melody",
+    "artist": "The Righteous Brothers",
+    "date": "21.10.2025",
+    "time": "08:18",
+    "year": 1965,
+    "duration_ms": 216267,
+    "genre": "Pop",
+    "album": "The Very Best of the Righteous Brothers - Unchained Melody",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Malá Nočná Búrka",
     "artist": "Team",
     "date": "21.10.2025",
