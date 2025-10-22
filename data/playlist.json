@@ -1,5 +1,31 @@
 [
   {
+    "title": "Take My Breath Away",
+    "artist": "Berlin",
+    "date": "22.10.2025",
+    "time": "09:45",
+    "year": 1986,
+    "duration_ms": 255760,
+    "genre": "Pop",
+    "album": "Anos 80 - Nostalgia Internacionais",
+    "track_number": 18,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Lady Carneval",
+    "artist": "Gott Karel",
+    "date": "22.10.2025",
+    "time": "09:42",
+    "year": 1964,
+    "duration_ms": 181240,
+    "genre": "Pop",
+    "album": "42 Největších Hitů",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "November Rain",
     "artist": "Guns N Roses",
     "date": "22.10.2025",
