@@ -1,5 +1,18 @@
 [
   {
+    "title": "San Francisco",
+    "artist": "Mckenzie Scott",
+    "date": "22.10.2025",
+    "time": "22:52",
+    "year": 1967,
+    "duration_ms": 177427,
+    "genre": "Pop",
+    "album": "Hear It Now! The Sound of the '60s",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Please Forgive Me",
     "artist": "Bryan Adams",
     "date": "22.10.2025",
