@@ -1,5 +1,47 @@
 [
   {
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "23.10.2025",
+    "time": "00:48",
+    "year": 1978,
+    "duration_ms": 232994,
+    "genre": "Rock",
+    "album": "If You Knew Suzi… (2017 Remaster)",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
+    "title": "Krátke Lásky",
+    "artist": "Team",
+    "date": "23.10.2025",
+    "time": "00:45",
+    "year": 2000,
+    "duration_ms": 172547,
+    "genre": "Pop",
+    "album": "7edem",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Radio Ga Ga",
+    "artist": "Queen",
+    "date": "23.10.2025",
+    "time": "00:41",
+    "year": 1984,
+    "duration_ms": 349187,
+    "genre": "Rock",
+    "album": "The Works (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Keď Príde Láska",
     "artist": "Mc Erik And Barbara",
     "date": "23.10.2025",
