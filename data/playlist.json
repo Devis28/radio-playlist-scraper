@@ -1,5 +1,114 @@
 [
   {
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "22.10.2025",
+    "time": "20:43",
+    "year": 1974,
+    "duration_ms": 213333,
+    "genre": "Vocal",
+    "album": "Barry Manilow II",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Máš V Rukáve Máj",
+    "artist": "Marika Gombitová",
+    "date": "22.10.2025",
+    "time": "20:41",
+    "year": 1982,
+    "duration_ms": 146013,
+    "genre": "Pop",
+    "album": "Slnečný kalendár",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Something's Gotten Hold Of My Heart",
+    "artist": "Gene Pitney/Marc Almond",
+    "date": "22.10.2025",
+    "time": "20:36",
+    "year": 1989,
+    "duration_ms": 280489,
+    "genre": "Pop",
+    "album": "It's My Life: UK Pop Hits",
+    "track_number": 26,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "date": "22.10.2025",
+    "time": "20:32",
+    "year": 1995,
+    "duration_ms": 263533,
+    "genre": "Pop",
+    "album": "Tragic Kingdom",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Eric Stefani",
+      "Gwen Stefani"
+    ]
+  },
+  {
+    "title": "Mandolína",
+    "artist": "Adam Ďurica",
+    "date": "22.10.2025",
+    "time": "20:29",
+    "year": 2015,
+    "duration_ms": 195231,
+    "genre": "Pop",
+    "album": "Mandolina",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Time After Time",
+    "artist": "Cyndi Lauper",
+    "date": "22.10.2025",
+    "time": "20:25",
+    "year": 1984,
+    "duration_ms": 243067,
+    "genre": "Pop",
+    "album": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Unikát",
+    "artist": "Mária Čírová",
+    "date": "22.10.2025",
+    "time": "20:22",
+    "year": 2016,
+    "duration_ms": 206360,
+    "genre": "Pop",
+    "album": "Unikát - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "date": "22.10.2025",
+    "time": "20:20",
+    "year": 1977,
+    "duration_ms": 121235,
+    "genre": "Rock",
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Brian May"
+    ]
+  },
+  {
     "title": "Lietam V Tom Tiež",
     "artist": "Team",
     "date": "22.10.2025",
