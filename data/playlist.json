@@ -1,5 +1,73 @@
 [
   {
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "22.10.2025",
+    "time": "06:36",
+    "year": 1988,
+    "duration_ms": 237320,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "22.10.2025",
+    "time": "06:34",
+    "year": 2001,
+    "duration_ms": 159227,
+    "genre": "Pop",
+    "album": "Na Kameni Kamen",
+    "track_number": 14,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "22.10.2025",
+    "time": "06:30",
+    "year": 1978,
+    "duration_ms": 232994,
+    "genre": "Rock",
+    "album": "If You Knew Suzi… (2017 Remaster)",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
+    "title": "Léto",
+    "artist": "Bartošová Iveta",
+    "date": "22.10.2025",
+    "time": "06:22",
+    "year": 1998,
+    "duration_ms": 224920,
+    "genre": "Pop",
+    "album": "Nekonecna/Best Of",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Somebody Dance With Me",
+    "artist": "Dj Bobo",
+    "date": "22.10.2025",
+    "time": "06:18",
+    "year": 1993,
+    "duration_ms": 214600,
+    "genre": "Dance",
+    "album": "Somebody Dance With Me - EP",
+    "track_number": 1,
+    "artist_country_code": "CH",
+    "songwriters": null
+  },
+  {
     "title": "Čakám Ťa, Láska",
     "artist": "Elán",
     "date": "22.10.2025",
