@@ -1,5 +1,86 @@
 [
   {
+    "title": "Daruj Mi Svoj Najkrajší Deň",
+    "artist": "Gravis",
+    "date": "22.10.2025",
+    "time": "19:27",
+    "year": 1989,
+    "duration_ms": 194235,
+    "genre": "Pop",
+    "album": "Kolotoč masiek",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Veselá Pesnička",
+    "artist": "I.M.T. Smile",
+    "date": "22.10.2025",
+    "time": "19:24",
+    "year": 2002,
+    "duration_ms": 175240,
+    "genre": "Pop",
+    "album": "Valec Extra",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Máš Chuť Majoránky",
+    "artist": "Karel Zich",
+    "date": "22.10.2025",
+    "time": "19:21",
+    "year": 1981,
+    "duration_ms": 198040,
+    "genre": "Pop",
+    "album": "Mosty",
+    "track_number": 3,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Taliansky Muzikál",
+    "artist": "Júlia a Peter Hečkovci",
+    "date": "22.10.2025",
+    "time": "19:18",
+    "year": 1987,
+    "duration_ms": 164771,
+    "genre": "Pop",
+    "album": "Taliansky muzikál",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Jó Tresne Zraly",
+    "artist": "Matuška Waldemar",
+    "date": "22.10.2025",
+    "time": "19:14",
+    "year": 1965,
+    "duration_ms": 233240,
+    "genre": "Pop",
+    "album": "Textempore (Písně s texty Ivo Fischera)",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Povedzme",
+    "artist": "Grigorov Robo",
+    "date": "22.10.2025",
+    "time": "19:10",
+    "year": 2006,
+    "duration_ms": 294013,
+    "genre": "Rock",
+    "album": "Complete Of",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Vladimír Krausz"
+    ]
+  },
+  {
     "title": "Chvíľu áno, chvíľu nie",
     "artist": "Hex",
     "date": "22.10.2025",
