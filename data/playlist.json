@@ -1,5 +1,49 @@
 [
   {
+    "title": "Love Hurts",
+    "artist": "Nazareth",
+    "date": "22.10.2025",
+    "time": "11:48",
+    "year": 1975,
+    "duration_ms": 232120,
+    "genre": "Rock",
+    "album": "Hair of the Dog",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Boudleaux Bryant"
+    ]
+  },
+  {
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "22.10.2025",
+    "time": "11:44",
+    "year": 2001,
+    "duration_ms": 255160,
+    "genre": "Pop",
+    "album": "It's Raining Men - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Paul Jabara",
+      "Paul Shaffer"
+    ]
+  },
+  {
+    "title": "Xanadu",
+    "artist": "Olivia Newton-John And Electric Light Orchestra",
+    "date": "22.10.2025",
+    "time": "11:41",
+    "year": 1980,
+    "duration_ms": 208240,
+    "genre": "Soundtrack",
+    "album": "Xanadu (From the Original Motion Picture Soundtrack)",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Ako Obrázok",
     "artist": "Miro Žbirka",
     "date": "22.10.2025",
