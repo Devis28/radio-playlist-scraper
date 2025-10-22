@@ -1,5 +1,18 @@
 [
   {
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "22.10.2025",
+    "time": "15:55",
+    "year": 1989,
+    "duration_ms": 255937,
+    "genre": "R&B/Soul",
+    "album": "Simply the Best",
+    "track_number": 1,
+    "artist_country_code": "CH",
+    "songwriters": null
+  },
+  {
     "title": "Ja Viem",
     "artist": "Grigorov Robo",
     "date": "22.10.2025",
