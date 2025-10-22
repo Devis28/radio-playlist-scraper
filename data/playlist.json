@@ -1,5 +1,31 @@
 [
   {
+    "title": "Who Wants To Live Forever",
+    "artist": "Queen",
+    "date": "22.10.2025",
+    "time": "17:51",
+    "year": 1986,
+    "duration_ms": 314489,
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "C§est La Vie",
+    "artist": "Karel Gott",
+    "date": "22.10.2025",
+    "time": "17:48",
+    "year": 1965,
+    "duration_ms": 191507,
+    "genre": "Pop",
+    "album": "Hity Jaromíra Klempíře",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Torn",
     "artist": "Imbruglia Natalie",
     "date": "22.10.2025",
