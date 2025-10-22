@@ -1,5 +1,31 @@
 [
   {
+    "title": "We Are The Champions",
+    "artist": "Queen",
+    "date": "22.10.2025",
+    "time": "21:56",
+    "year": 1977,
+    "duration_ms": 179191,
+    "genre": "Rock",
+    "album": "News Of The World (Deluxe Edition / Remastered 2011)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Stačí Si Priať",
+    "artist": "Smatanová Zuzana",
+    "date": "22.10.2025",
+    "time": "21:52",
+    "year": 2009,
+    "duration_ms": 215439,
+    "genre": "Pop",
+    "album": "Gemini",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Viva Forever",
     "artist": "Spice Girls",
     "date": "22.10.2025",
