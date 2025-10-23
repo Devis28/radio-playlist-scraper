@@ -1,5 +1,117 @@
 [
   {
+    "title": "Balla...Balla! (Italian Hit Connection)",
+    "artist": "Francesco Napoli",
+    "date": "23.10.2025",
+    "time": "20:27",
+    "year": 1988,
+    "duration_ms": 255391,
+    "genre": "Pop",
+    "album": "Balla..Balla!, Vol. 2 Italian Hit Connection - EP",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Klára",
+    "artist": "AC+",
+    "date": "23.10.2025",
+    "time": "20:24",
+    "year": 1990,
+    "duration_ms": 213160,
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 11,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "23.10.2025",
+    "time": "20:20",
+    "year": 1991,
+    "duration_ms": 213760,
+    "genre": "Dance",
+    "album": "Massive Luxury Overdose",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
+  },
+  {
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "Money Factor",
+    "date": "23.10.2025",
+    "time": "20:16",
+    "year": 2008,
+    "duration_ms": 241760,
+    "genre": "Rock",
+    "album": "Rockové Balady",
+    "track_number": 10,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Everytime We Touch",
+    "artist": "Maggie Reilly",
+    "date": "23.10.2025",
+    "time": "20:12",
+    "year": 1992,
+    "duration_ms": 242974,
+    "genre": "Pop",
+    "album": "Everytime We Touch (Remastered) - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Maggie Reilly",
+      "Peter Risavy",
+      "Stuart MacKillop"
+    ]
+  },
+  {
+    "title": "Podvod",
+    "artist": "Honza Nedvěd",
+    "date": "23.10.2025",
+    "time": "20:08",
+    "year": 2008,
+    "duration_ms": 150920,
+    "genre": "Country",
+    "album": "60 Nedvedi+40 Fesaci (Live)",
+    "track_number": 18,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "23.10.2025",
+    "time": "20:04",
+    "year": 1980,
+    "duration_ms": 264000,
+    "genre": "Pop",
+    "album": "Sun of Jamaica",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Miliónkrát",
+    "artist": "Žbirka Miro",
+    "date": "23.10.2025",
+    "time": "20:00",
+    "year": 2001,
+    "duration_ms": 287373,
+    "genre": "Pop",
+    "album": "Modrý album (Deluxe Edition 2021)",
+    "track_number": 12,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Na Ptáky Jsme Krátký",
     "artist": "Ledecký Janek",
     "date": "23.10.2025",
