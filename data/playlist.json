@@ -1,5 +1,104 @@
 [
   {
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "23.10.2025",
+    "time": "05:47",
+    "year": 1984,
+    "duration_ms": 332507,
+    "genre": "Pop",
+    "album": "Welcome to the Pleasuredome",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "23.10.2025",
+    "time": "05:45",
+    "year": 2005,
+    "duration_ms": 144240,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "23.10.2025",
+    "time": "05:41",
+    "year": 1990,
+    "duration_ms": 227267,
+    "genre": "Pop",
+    "album": "Gejzír",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jindřich Parma",
+      "Pavel Cmíral"
+    ]
+  },
+  {
+    "title": "I Just Called To Say I Love You",
+    "artist": "Wonder Stevie",
+    "date": "23.10.2025",
+    "time": "05:36",
+    "year": 2002,
+    "duration_ms": 262598,
+    "genre": "R&B/Soul",
+    "album": "The Definitive Collection",
+    "track_number": 19,
+    "artist_country_code": null,
+    "songwriters": [
+      "Stevie Wonder"
+    ]
+  },
+  {
+    "title": "Baby, I Love Your Way",
+    "artist": "Big Mountain",
+    "date": "23.10.2025",
+    "time": "05:32",
+    "year": 1994,
+    "duration_ms": 249520,
+    "genre": "Rock",
+    "album": "Unity",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Kamarátka Nádej",
+    "artist": "Vašo Patejdl",
+    "date": "23.10.2025",
+    "time": "05:29",
+    "year": 1989,
+    "duration_ms": 192507,
+    "genre": "Pop",
+    "album": "Mon Amour",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Moviestar",
+    "artist": "Harpo",
+    "date": "23.10.2025",
+    "time": "05:26",
+    "year": 1975,
+    "duration_ms": 202280,
+    "genre": "Pop",
+    "album": "Moviestar",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Iko Iko",
     "artist": "The Belle Stars",
     "date": "23.10.2025",
