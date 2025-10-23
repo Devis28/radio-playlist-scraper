@@ -1,5 +1,44 @@
 [
   {
+    "title": "Je Naprosto Nezbytné",
+    "artist": "Hana Zagorová",
+    "date": "23.10.2025",
+    "time": "19:39",
+    "year": 2001,
+    "duration_ms": 182147,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Mám Krásny Sen (Hawaii)",
+    "artist": "Imt Smile",
+    "date": "23.10.2025",
+    "time": "19:35",
+    "year": 2008,
+    "duration_ms": 189787,
+    "genre": "Pop",
+    "album": "Hlava Ma Sedem Otvorov",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Maturitné Tablo",
+    "artist": "Hečková Júlia",
+    "date": "23.10.2025",
+    "time": "19:31",
+    "year": 1987,
+    "duration_ms": 244316,
+    "genre": "Pop",
+    "album": "Maturitné tablo",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Za Dverami Mojej Izby",
     "artist": "Beata Dubasová",
     "date": "23.10.2025",
