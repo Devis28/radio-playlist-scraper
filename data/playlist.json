@@ -1,5 +1,79 @@
 [
   {
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "23.10.2025",
+    "time": "11:30",
+    "year": 2008,
+    "duration_ms": 217827,
+    "genre": "Pop",
+    "album": "Overcome (Deluxe Edition)",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Mamma Mia",
+    "artist": "Abba",
+    "date": "23.10.2025",
+    "time": "11:26",
+    "year": 1975,
+    "duration_ms": 212304,
+    "genre": "Pop",
+    "album": "ABBA (Bonus Track Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
+    "title": "Blue Savannah",
+    "artist": "Erasure",
+    "date": "23.10.2025",
+    "time": "11:22",
+    "year": 1990,
+    "duration_ms": 260227,
+    "genre": "Pop",
+    "album": "Hits! The Very Best of Erasure",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
+  },
+  {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "23.10.2025",
+    "time": "11:18",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Sunny",
+    "artist": "Boney M",
+    "date": "23.10.2025",
+    "time": "11:14",
+    "year": 1976,
+    "duration_ms": 241373,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Bobby Hebb"
+    ]
+  },
+  {
     "title": "Touch By Touch",
     "artist": "Joy",
     "date": "23.10.2025",
