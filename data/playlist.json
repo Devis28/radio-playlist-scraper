@@ -1,5 +1,18 @@
 [
   {
+    "title": "Kočka",
+    "artist": "Elán",
+    "date": "23.10.2025",
+    "time": "05:52",
+    "year": 1998,
+    "duration_ms": 374027,
+    "genre": "Pop",
+    "album": "Kocka - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "The Power Of Love",
     "artist": "Frankie Goes To Hollywood",
     "date": "23.10.2025",
