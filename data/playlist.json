@@ -1,5 +1,63 @@
 [
   {
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "23.10.2025",
+    "time": "19:26",
+    "year": 1990,
+    "duration_ms": 303903,
+    "genre": "Pop",
+    "album": "Za dverami mojej izby",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Tereza",
+    "artist": "Matuška Waldemar",
+    "date": "23.10.2025",
+    "time": "19:24",
+    "year": 1964,
+    "duration_ms": 145680,
+    "genre": "Pop",
+    "album": "Slavík Z Madridu (Největší Hity)",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jiří Suchý",
+      "Jiří Šlitr"
+    ]
+  },
+  {
+    "title": "Umenie Žiť",
+    "artist": "Patejdl Vašo",
+    "date": "23.10.2025",
+    "time": "19:19",
+    "year": 1987,
+    "duration_ms": 273933,
+    "genre": "Pop",
+    "album": "Lov na city",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": [
+      "Vašo Patejdl",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
+    "title": "Rozvíjej Se Poupátko",
+    "artist": "Iveta Bartošová",
+    "date": "23.10.2025",
+    "time": "19:16",
+    "year": 2000,
+    "duration_ms": 194733,
+    "genre": "Pop",
+    "album": "Jedna jedina",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "František",
     "artist": "Buty",
     "date": "23.10.2025",
