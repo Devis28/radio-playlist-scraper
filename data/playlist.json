@@ -1,5 +1,73 @@
 [
   {
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "23.10.2025",
+    "time": "20:46",
+    "year": 1992,
+    "duration_ms": 278000,
+    "genre": "Pop",
+    "album": "Hit Album",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Juliet",
+    "artist": "Robin Gibb",
+    "date": "23.10.2025",
+    "time": "20:42",
+    "year": 1983,
+    "duration_ms": 228000,
+    "genre": "Pop",
+    "album": "How Old Are You?",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Lovesong",
+    "artist": "Habera Pavol",
+    "date": "23.10.2025",
+    "time": "20:38",
+    "year": 2001,
+    "duration_ms": 241000,
+    "genre": "Rock",
+    "album": "Fontána pre Zuzanu 2",
+    "track_number": 6,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Everlasting Love",
+    "artist": "Sandra",
+    "date": "23.10.2025",
+    "time": "20:34",
+    "year": 1987,
+    "duration_ms": 221107,
+    "genre": "R&B/Soul",
+    "album": "18 Greatest Hits: Sandra",
+    "track_number": 8,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "James “Buzz” Cason",
+      "Mac Gayden"
+    ]
+  },
+  {
+    "title": "Nekráčaj Predo Mnou",
+    "artist": "Smatanová Zuzana",
+    "date": "23.10.2025",
+    "time": "20:31",
+    "year": 2005,
+    "duration_ms": 205380,
+    "genre": "Pop",
+    "album": "Rozprávač",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Balla...Balla! (Italian Hit Connection)",
     "artist": "Francesco Napoli",
     "date": "23.10.2025",
