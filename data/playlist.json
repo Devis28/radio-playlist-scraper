@@ -1,5 +1,84 @@
 [
   {
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "23.10.2025",
+    "time": "16:35",
+    "year": 2006,
+    "duration_ms": 261107,
+    "genre": "Pop",
+    "album": "Balady",
+    "track_number": 23,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Roman Guryča",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "23.10.2025",
+    "time": "16:30",
+    "year": 1969,
+    "duration_ms": 185733,
+    "genre": "Rock",
+    "album": "Abbey Road (Remastered)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Harrison"
+    ]
+  },
+  {
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "23.10.2025",
+    "time": "16:26",
+    "year": 1986,
+    "duration_ms": 310333,
+    "genre": "Hard Rock",
+    "album": "The Final Countdown (Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Joey Tempest"
+    ]
+  },
+  {
+    "title": "Už Mi, Lásko, Není Dvacet Let",
+    "artist": "Jiří Zmožek",
+    "date": "23.10.2025",
+    "time": "16:22",
+    "year": 2010,
+    "duration_ms": 246093,
+    "genre": "Worldwide",
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "track_number": 1,
+    "artist_country_code": "XC",
+    "songwriters": null
+  },
+  {
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "23.10.2025",
+    "time": "16:18",
+    "year": 1983,
+    "duration_ms": 252773,
+    "genre": "Rock",
+    "album": "Colour By Numbers",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Boy George",
+      "Jon Moss",
+      "Mikey Craig",
+      "Phil Pickett",
+      "Roy Hay"
+    ]
+  },
+  {
     "title": "Sharazan",
     "artist": "Al Bano & Romina Power",
     "date": "23.10.2025",
