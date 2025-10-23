@@ -1,5 +1,31 @@
 [
   {
+    "title": "Bozk",
+    "artist": "I.M.T. Smile",
+    "date": "23.10.2025",
+    "time": "23:35",
+    "year": 2017,
+    "duration_ms": 361440,
+    "genre": "Pop",
+    "album": "hiStory (Live)",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Tri Štvrte Na Jeseň",
+    "artist": "Vašo Patejdl",
+    "date": "23.10.2025",
+    "time": "23:31",
+    "year": 1986,
+    "duration_ms": 298267,
+    "genre": "Pop",
+    "album": "Chlapcenský úsmev",
+    "track_number": 11,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Girls Just Wanna Have Fun",
     "artist": "Cyndi Lauper",
     "date": "23.10.2025",
