@@ -1,5 +1,72 @@
 [
   {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "24.10.2025",
+    "time": "16:19",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise (Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
+    "title": "Už Nejsem Volná",
+    "artist": "Petra Janů",
+    "date": "24.10.2025",
+    "time": "16:13",
+    "year": 1985,
+    "duration_ms": 263733,
+    "genre": "Pop",
+    "album": "Už Nejsem Volná (Bonus Track Version)",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Super Trouper",
+    "artist": "Abba",
+    "date": "24.10.2025",
+    "time": "16:09",
+    "year": 1980,
+    "duration_ms": 251298,
+    "genre": "Pop",
+    "album": "Super Trouper (Bonus Track Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Největší Z Nálezů A Ztrát",
+    "artist": "David Michal",
+    "date": "24.10.2025",
+    "time": "16:06",
+    "year": 2012,
+    "duration_ms": 234840,
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "24.10.2025",
+    "time": "16:02",
+    "year": 1990,
+    "duration_ms": 240773,
+    "genre": "Pop",
+    "album": "Move Until We Fly",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Just Another Day",
     "artist": "Jon Secada",
     "date": "24.10.2025",
