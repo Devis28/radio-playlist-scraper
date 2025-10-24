@@ -1,5 +1,75 @@
 [
   {
+    "title": "Sme Také Aké Sme",
+    "artist": "Dubasová Beáta",
+    "date": "24.10.2025",
+    "time": "22:29",
+    "year": 1987,
+    "duration_ms": 255360,
+    "genre": "Pop",
+    "album": "Beáta",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Break My Stride",
+    "artist": "Unique Ii",
+    "date": "24.10.2025",
+    "time": "22:25",
+    "year": 1996,
+    "duration_ms": 198200,
+    "genre": "Dance",
+    "album": "LEVEL II",
+    "track_number": 1,
+    "artist_country_code": "AT",
+    "songwriters": null
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "date": "24.10.2025",
+    "time": "22:21",
+    "year": 1982,
+    "duration_ms": 294601,
+    "genre": "Pop",
+    "album": "Number Ones",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "24.10.2025",
+    "time": "22:16",
+    "year": 1995,
+    "duration_ms": 240867,
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
+  },
+  {
+    "title": "Save Your Kisses For Me",
+    "artist": "The Brotherhood Of Man",
+    "date": "24.10.2025",
+    "time": "22:13",
+    "year": 1976,
+    "duration_ms": 185493,
+    "genre": "Pop",
+    "album": "Sing Number the One Hits",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "I Should Be So Lucky",
     "artist": "Minogue Kylie",
     "date": "24.10.2025",
