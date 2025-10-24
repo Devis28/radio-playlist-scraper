@@ -1,5 +1,57 @@
 [
   {
+    "title": "Night Fever",
+    "artist": "The Bee Gees",
+    "date": "24.10.2025",
+    "time": "21:14",
+    "year": 1977,
+    "duration_ms": 213706,
+    "genre": "Pop",
+    "album": "Saturday Night Fever (The Original Movie Soundtrack) [Deluxe Edition]",
+    "track_number": 19,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Čo O Mne Vieš",
+    "artist": "Rolincova Darinka",
+    "date": "24.10.2025",
+    "time": "21:11",
+    "year": 1987,
+    "duration_ms": 161133,
+    "genre": "Pop",
+    "album": "Čo O Mne Vieš",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Two Can Play That Game",
+    "artist": "Bobby Brown",
+    "date": "24.10.2025",
+    "time": "21:07",
+    "year": 1994,
+    "duration_ms": 211800,
+    "genre": "R&B/Soul",
+    "album": "Two Can Play That Game",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "V Období Dažďa",
+    "artist": "Gombitová Marika",
+    "date": "24.10.2025",
+    "time": "21:02",
+    "year": 1987,
+    "duration_ms": 237587,
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Ballet Dancer",
     "artist": "The Twins",
     "date": "24.10.2025",
