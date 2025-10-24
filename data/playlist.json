@@ -1,5 +1,57 @@
 [
   {
+    "title": "Kapela",
+    "artist": "Imt Smile",
+    "date": "24.10.2025",
+    "time": "19:12",
+    "year": 2004,
+    "duration_ms": 231800,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Vyrobená Pre Mňa",
+    "artist": "Desmod",
+    "date": "24.10.2025",
+    "time": "19:08",
+    "year": 2007,
+    "duration_ms": 222747,
+    "genre": "Pop",
+    "album": "Vyberovka",
+    "track_number": 14,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Dávej, Ber",
+    "artist": "Tofi Sagvan",
+    "date": "24.10.2025",
+    "time": "19:05",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Ty A Já",
+    "artist": "Kryštof",
+    "date": "24.10.2025",
+    "time": "19:00",
+    "year": 2015,
+    "duration_ms": 270765,
+    "genre": "Pop",
+    "album": "Srdcebeat",
+    "track_number": 10,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Cítim",
     "artist": "Karol Duchoň",
     "date": "24.10.2025",
