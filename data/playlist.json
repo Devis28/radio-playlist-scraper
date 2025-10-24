@@ -1,5 +1,34 @@
 [
   {
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "24.10.2025",
+    "time": "11:50",
+    "year": 1978,
+    "duration_ms": 232994,
+    "genre": "Rock",
+    "album": "If You Knew Suzi… (2017 Remaster)",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
+    "title": "Láska, Necestuj Tým Vlakom",
+    "artist": "Pavol Habera",
+    "date": "24.10.2025",
+    "time": "11:46",
+    "year": 1991,
+    "duration_ms": 280600,
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Forever Young",
     "artist": "Alphaville",
     "date": "24.10.2025",
