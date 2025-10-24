@@ -1,5 +1,50 @@
 [
   {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "24.10.2025",
+    "time": "21:36",
+    "year": 2005,
+    "duration_ms": 144240,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
+    "title": "Macarena",
+    "artist": "Los Del Río",
+    "date": "24.10.2025",
+    "time": "21:32",
+    "year": 1995,
+    "duration_ms": 253107,
+    "genre": "Latin",
+    "album": "Alegría y Cosabuena",
+    "track_number": 1,
+    "artist_country_code": "ES",
+    "songwriters": null
+  },
+  {
+    "title": "You Came",
+    "artist": "Wilde Kim",
+    "date": "24.10.2025",
+    "time": "21:29",
+    "year": 1988,
+    "duration_ms": 209133,
+    "genre": "Pop",
+    "album": "Close (Remastered Expanded Edition)",
+    "track_number": 15,
+    "artist_country_code": null,
+    "songwriters": [
+      "Kim Wilde",
+      "Ricky Wilde"
+    ]
+  },
+  {
     "title": "There's A Party",
     "artist": "Dj Bobo",
     "date": "24.10.2025",
