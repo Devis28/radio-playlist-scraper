@@ -1,5 +1,31 @@
 [
   {
+    "title": "Like A Prayer",
+    "artist": "Madonna",
+    "date": "24.10.2025",
+    "time": "17:55",
+    "year": 1989,
+    "duration_ms": 340867,
+    "genre": "Pop",
+    "album": "Like a Prayer",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "24.10.2025",
+    "time": "17:52",
+    "year": 1974,
+    "duration_ms": 213333,
+    "genre": "Vocal",
+    "album": "Barry Manilow II",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Milujem Se Čím Dál Víc",
     "artist": "Kotvald Petr",
     "date": "24.10.2025",
