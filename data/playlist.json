@@ -1,5 +1,38 @@
 [
   {
+    "title": "Africa",
+    "artist": "Toto",
+    "date": "24.10.2025",
+    "time": "16:54",
+    "year": 1982,
+    "duration_ms": 295283,
+    "genre": "Rock",
+    "album": "Toto IV",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": [
+      "David Paich",
+      "Jeff Porcaro"
+    ]
+  },
+  {
+    "title": "Que Sera Mi Vida",
+    "artist": "The Gibson Brothers",
+    "date": "24.10.2025",
+    "time": "16:51",
+    "year": 1998,
+    "duration_ms": 364467,
+    "genre": "Disco",
+    "album": "54 (Music from the Miramax Motion Picture) [Volume 1]",
+    "track_number": 15,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Daniel Vangarde",
+      "Jean Kluger",
+      "Nelly Byl"
+    ]
+  },
+  {
     "title": "Územie Zázrakov",
     "artist": "Gombitová Marika",
     "date": "24.10.2025",
