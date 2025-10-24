@@ -1,5 +1,57 @@
 [
   {
+    "title": "Listen To Your Heart",
+    "artist": "Roxette",
+    "date": "24.10.2025",
+    "time": "10:53",
+    "year": 1988,
+    "duration_ms": 328093,
+    "genre": "Pop",
+    "album": "Look Sharp!",
+    "track_number": 13,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Mám Rád",
+    "artist": "Miro Žbirka",
+    "date": "24.10.2025",
+    "time": "10:51",
+    "year": 2001,
+    "duration_ms": 181307,
+    "genre": "Pop",
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "I Was Made For Loving You",
+    "artist": "Kiss",
+    "date": "24.10.2025",
+    "time": "10:46",
+    "year": 2022,
+    "duration_ms": 372867,
+    "genre": "Rock",
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Sme Svoji",
+    "artist": "Nagy Peter",
+    "date": "24.10.2025",
+    "time": "10:43",
+    "year": 1985,
+    "duration_ms": 197013,
+    "genre": "Pop",
+    "album": "Mne sa neschováš",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "(Everything I Do) I Do It For You",
     "artist": "Adams Bryan",
     "date": "24.10.2025",
