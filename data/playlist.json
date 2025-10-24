@@ -1,5 +1,113 @@
 [
   {
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "24.10.2025",
+    "time": "05:54",
+    "year": 1984,
+    "duration_ms": 230667,
+    "genre": "Pop",
+    "album": "The Final: 14 Greatest Hits (Deluxe Bonus Videos Edition)",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Michael"
+    ]
+  },
+  {
+    "title": "To The Moon And Back",
+    "artist": "Savage Garden",
+    "date": "24.10.2025",
+    "time": "05:48",
+    "year": 1996,
+    "duration_ms": 274707,
+    "genre": "Pop",
+    "album": "Essential 90's",
+    "track_number": 6,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Islands In The Stream",
+    "artist": "Rogers Kenny &Parton Dolly",
+    "date": "24.10.2025",
+    "time": "05:44",
+    "year": 1983,
+    "duration_ms": 248880,
+    "genre": "Country",
+    "album": "The Very Best of Dolly Parton",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "24.10.2025",
+    "time": "05:39",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Víc Než Přítel",
+    "artist": "Černoch Karel Brabec Filip",
+    "date": "24.10.2025",
+    "time": "05:35",
+    "year": 1968,
+    "duration_ms": 257880,
+    "genre": "Country",
+    "album": "Setkání",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "V Slovenských Dolinách",
+    "artist": "Duchoň Karol",
+    "date": "24.10.2025",
+    "time": "05:33",
+    "year": 2006,
+    "duration_ms": 161480,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 20,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Stars",
+    "artist": "Simply Red",
+    "date": "24.10.2025",
+    "time": "05:28",
+    "year": 1991,
+    "duration_ms": 248600,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mick Hucknall"
+    ]
+  },
+  {
+    "title": "Motýl Admirál",
+    "artist": "Miro Žbirka",
+    "date": "24.10.2025",
+    "time": "05:25",
+    "year": 1983,
+    "duration_ms": 198027,
+    "genre": "Pop",
+    "album": "Roky a dni",
+    "track_number": 6,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Sunny",
     "artist": "Boney M",
     "date": "24.10.2025",
