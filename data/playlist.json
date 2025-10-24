@@ -1,5 +1,31 @@
 [
   {
+    "title": "Faith",
+    "artist": "Michael George",
+    "date": "24.10.2025",
+    "time": "13:47",
+    "year": 1987,
+    "duration_ms": 193200,
+    "genre": "Pop",
+    "album": "Faith (Deluxe Edition) [2010 Remastered Version]",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Snad Jsem To Zavinil Já",
+    "artist": "Olympic",
+    "date": "24.10.2025",
+    "time": "13:44",
+    "year": 1965,
+    "duration_ms": 183200,
+    "genre": "Pop",
+    "album": "Best of 43 jasných hitových zpráv",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Because I Love You",
     "artist": "Stevie B.",
     "date": "24.10.2025",
