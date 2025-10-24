@@ -1,5 +1,47 @@
 [
   {
+    "title": "There's A Party",
+    "artist": "Dj Bobo",
+    "date": "24.10.2025",
+    "time": "21:24",
+    "year": 1994,
+    "duration_ms": 252093,
+    "genre": "Dance",
+    "album": "Greatest Hits",
+    "track_number": 6,
+    "artist_country_code": "CH",
+    "songwriters": null
+  },
+  {
+    "title": "Touch In The Night",
+    "artist": "Silent Circle",
+    "date": "24.10.2025",
+    "time": "21:21",
+    "year": 2011,
+    "duration_ms": 319813,
+    "genre": "Pop",
+    "album": "No. 1 Jubiläums Edition",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "It's Raining Men",
+    "artist": "Geri Halliwell",
+    "date": "24.10.2025",
+    "time": "21:17",
+    "year": 2001,
+    "duration_ms": 255160,
+    "genre": "Pop",
+    "album": "It's Raining Men - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Paul Jabara",
+      "Paul Shaffer"
+    ]
+  },
+  {
     "title": "Night Fever",
     "artist": "The Bee Gees",
     "date": "24.10.2025",
