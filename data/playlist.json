@@ -1,5 +1,31 @@
 [
   {
+    "title": "Ballet Dancer",
+    "artist": "The Twins",
+    "date": "24.10.2025",
+    "time": "20:59",
+    "year": 2006,
+    "duration_ms": 293333,
+    "genre": "Pop",
+    "album": "12 Inch Classics and Rare Tracks",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Moviestar",
+    "artist": "Harpo",
+    "date": "24.10.2025",
+    "time": "20:56",
+    "year": 1975,
+    "duration_ms": 202280,
+    "genre": "Pop",
+    "album": "Moviestar",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Don't Worry",
     "artist": "Kim Appleby",
     "date": "24.10.2025",
