@@ -1,5 +1,61 @@
 [
   {
+    "title": "Hráli Jsme Kličkovanou",
+    "artist": "Janda Dalibor",
+    "date": "24.10.2025",
+    "time": "06:39",
+    "year": 1982,
+    "duration_ms": 180120,
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sará Perché Ti Amo",
+    "artist": "Ricchi E Poveri",
+    "date": "24.10.2025",
+    "time": "06:36",
+    "year": 1981,
+    "duration_ms": 190693,
+    "genre": "Pop",
+    "album": "Ricchi e Poveri: The Collection",
+    "track_number": 7,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Daniele Pace",
+      "Dario Farina",
+      "Enzo Ghinazzi"
+    ]
+  },
+  {
+    "title": "Mumuland",
+    "artist": "Kotvald Petr",
+    "date": "24.10.2025",
+    "time": "06:32",
+    "year": 2016,
+    "duration_ms": 197000,
+    "genre": "Pop",
+    "album": "Exxxclusive (Best Of - Zlatá Kolekce)",
+    "track_number": 41,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Tornero",
+    "artist": "I Santo California",
+    "date": "24.10.2025",
+    "time": "06:29",
+    "year": 2006,
+    "duration_ms": 245600,
+    "genre": "Pop",
+    "album": "Tornerò",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "The Locomotion",
     "artist": "Kylie Minogue",
     "date": "24.10.2025",
