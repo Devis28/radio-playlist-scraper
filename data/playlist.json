@@ -1,5 +1,78 @@
 [
   {
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "24.10.2025",
+    "time": "14:11",
+    "year": 1992,
+    "duration_ms": 270373,
+    "genre": "Pop",
+    "album": "What Is Love - EP",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Boat On The River",
+    "artist": "Styx",
+    "date": "24.10.2025",
+    "time": "14:08",
+    "year": 1979,
+    "duration_ms": 191093,
+    "genre": "Rock",
+    "album": "Greatest Hits, Pt. 2",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Tommy Shaw"
+    ]
+  },
+  {
+    "title": "Pieseň O Kamarátstve",
+    "artist": "Darina Rolincová",
+    "date": "24.10.2025",
+    "time": "14:05",
+    "year": 1988,
+    "duration_ms": 178987,
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Fading Like A Flower",
+    "artist": "Roxette",
+    "date": "24.10.2025",
+    "time": "14:02",
+    "year": 1991,
+    "duration_ms": 230680,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 10,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Per Gessle"
+    ]
+  },
+  {
+    "title": "Ma Baker",
+    "artist": "Boney M.",
+    "date": "24.10.2025",
+    "time": "13:54",
+    "year": 1976,
+    "duration_ms": 274960,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 4,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Frank Farian",
+      "Fred Jay",
+      "George Reyam"
+    ]
+  },
+  {
     "title": "Držím Ti Miesto",
     "artist": "Team",
     "date": "24.10.2025",
