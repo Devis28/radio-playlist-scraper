@@ -1,5 +1,31 @@
 [
   {
+    "title": "My Máme Prima Rodiče",
+    "artist": "David Michal",
+    "date": "24.10.2025",
+    "time": "19:44",
+    "year": 2012,
+    "duration_ms": 170480,
+    "genre": "Pop",
+    "album": "Lucerna",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Keď Sme Sami",
+    "artist": "Hex",
+    "date": "24.10.2025",
+    "time": "19:40",
+    "year": 2013,
+    "duration_ms": 250920,
+    "genre": "Pop",
+    "album": "Keď Sme Sami - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Francúzky",
     "artist": "Patejdl Vašo",
     "date": "24.10.2025",
