@@ -1,5 +1,60 @@
 [
   {
+    "title": "Freed From Desire",
+    "artist": "Gala",
+    "date": "24.10.2025",
+    "time": "23:07",
+    "year": 1996,
+    "duration_ms": 213394,
+    "genre": "Dance",
+    "album": "Come Into My Life (The Album)",
+    "track_number": 10,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Holky Z Naší Školky",
+    "artist": "Stanislav Hložek & Petr Kotvald",
+    "date": "24.10.2025",
+    "time": "23:04",
+    "year": 1983,
+    "duration_ms": 232493,
+    "genre": "Pop",
+    "album": "Holky Z Naší Školky",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Karel Vágner",
+      "Pavel Žák"
+    ]
+  },
+  {
+    "title": "Material Girl",
+    "artist": "Madonna",
+    "date": "24.10.2025",
+    "time": "22:59",
+    "year": 1984,
+    "duration_ms": 240669,
+    "genre": "Pop",
+    "album": "Like a Virgin",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "The Y.M.C.A",
+    "artist": "Village People",
+    "date": "24.10.2025",
+    "time": "22:56",
+    "year": 1978,
+    "duration_ms": 226427,
+    "genre": "Soundtrack",
+    "album": "One Night At McCool's (Songs from the Motion Picture)",
+    "track_number": 9,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Look Who's Talking",
     "artist": "Dr. Alban",
     "date": "24.10.2025",
