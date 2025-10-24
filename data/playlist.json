@@ -1,5 +1,60 @@
 [
   {
+    "title": "All By Myself",
+    "artist": "Eric Carmen",
+    "date": "24.10.2025",
+    "time": "07:18",
+    "year": 1975,
+    "duration_ms": 429997,
+    "genre": "Rock",
+    "album": "Eric Carmen",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Eric Carmen",
+      "Сергей Васильевич Рахманинов"
+    ]
+  },
+  {
+    "title": "Loď do neznáma",
+    "artist": "Uherčík, Ďurinda, Griglák, Horváth",
+    "date": "24.10.2025",
+    "time": "07:14",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Because You Loved Me",
+    "artist": "Céline Dion",
+    "date": "24.10.2025",
+    "time": "07:06",
+    "year": 1996,
+    "duration_ms": 273667,
+    "genre": "Pop",
+    "album": "Falling Into You",
+    "track_number": 2,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Stumblin' In",
+    "artist": "Norman Chris & Quatro Suzi",
+    "date": "24.10.2025",
+    "time": "07:02",
+    "year": 1977,
+    "duration_ms": 238200,
+    "genre": "Rock",
+    "album": "Collections: Smokie",
+    "track_number": 18,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Spending My Time",
     "artist": "Roxette",
     "date": "24.10.2025",
