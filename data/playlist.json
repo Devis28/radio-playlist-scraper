@@ -1,5 +1,44 @@
 [
   {
+    "title": "Moje Malá Premiera",
+    "artist": "Petra Janů",
+    "date": "24.10.2025",
+    "time": "19:58",
+    "year": 1992,
+    "duration_ms": 243133,
+    "genre": "Pop",
+    "album": "Best of Petra Janů",
+    "track_number": 3,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Jinak To Nejde",
+    "artist": "Zagorová Hana Hložek Stanislav Kotvald Petr",
+    "date": "24.10.2025",
+    "time": "19:54",
+    "year": 1985,
+    "duration_ms": 250200,
+    "genre": "Pop",
+    "album": "Jinak To Nejde (Bonus Track Version)",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Malý Princ",
+    "artist": "Aya",
+    "date": "24.10.2025",
+    "time": "19:49",
+    "year": 2007,
+    "duration_ms": 250000,
+    "genre": "Rock",
+    "album": "Ale Ye Nám Dobre",
+    "track_number": 14,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Zamilovaná",
     "artist": "Filipová Lenka",
     "date": "24.10.2025",
