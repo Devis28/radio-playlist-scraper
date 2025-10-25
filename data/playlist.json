@@ -1,5 +1,61 @@
 [
   {
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "date": "25.10.2025",
+    "time": "23:11",
+    "year": 1986,
+    "duration_ms": 222644,
+    "genre": "Hard Rock",
+    "album": "Slippery When Wet",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Desmond Child",
+      "Jon Bon Jovi",
+      "Richie Sambora"
+    ]
+  },
+  {
+    "title": "Would I Lie To You",
+    "artist": "Charles And Eddie",
+    "date": "25.10.2025",
+    "time": "23:07",
+    "year": 1992,
+    "duration_ms": 279600,
+    "genre": "Pop",
+    "album": "Duophonic",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "25.10.2025",
+    "time": "23:03",
+    "year": 1989,
+    "duration_ms": 255937,
+    "genre": "R&B/Soul",
+    "album": "Simply the Best",
+    "track_number": 1,
+    "artist_country_code": "CH",
+    "songwriters": null
+  },
+  {
+    "title": "I've Been Thinking About You",
+    "artist": "Londonbeat",
+    "date": "25.10.2025",
+    "time": "22:59",
+    "year": 1990,
+    "duration_ms": 228280,
+    "genre": "Pop",
+    "album": "90s 100 Hits",
+    "track_number": 9,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Rock Me Amadeus",
     "artist": "Falco",
     "date": "25.10.2025",
