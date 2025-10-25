@@ -1,5 +1,268 @@
 [
   {
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "25.10.2025",
+    "time": "04:46",
+    "year": 1991,
+    "duration_ms": 393640,
+    "genre": "Rock",
+    "album": "Waking Up the Neighbours",
+    "track_number": 12,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Bryan Adams",
+      "Michael Kamen",
+      "Robert John “Mutt” Lange"
+    ]
+  },
+  {
+    "title": "Cukráreň Na Dlani Námestia",
+    "artist": "Marika Gombitová",
+    "date": "25.10.2025",
+    "time": "04:42",
+    "year": 1982,
+    "duration_ms": 286013,
+    "genre": "Pop",
+    "album": "Slnečný kalendár",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Faith",
+    "artist": "Michael George",
+    "date": "25.10.2025",
+    "time": "04:39",
+    "year": 1987,
+    "duration_ms": 193200,
+    "genre": "Pop",
+    "album": "Faith (Deluxe Edition) [2010 Remastered Version]",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Torn",
+    "artist": "Imbruglia Natalie",
+    "date": "25.10.2025",
+    "time": "04:35",
+    "year": 1997,
+    "duration_ms": 244667,
+    "genre": "Pop",
+    "album": "Left of the Middle",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Anne Preven",
+      "Phil Thornalley",
+      "Scott Cutler"
+    ]
+  },
+  {
+    "title": "Jeden Kabát, Jedna Koža, Jedna Tvár",
+    "artist": "Team",
+    "date": "25.10.2025",
+    "time": "04:33",
+    "year": 1989,
+    "duration_ms": 130373,
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nechajte Si Ju",
+    "artist": "Vidiek",
+    "date": "25.10.2025",
+    "time": "04:30",
+    "year": 1988,
+    "duration_ms": 171013,
+    "genre": "Pop",
+    "album": "Nechajte si ju!",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Kuric"
+    ]
+  },
+  {
+    "title": "When The Rain Begins To Fall",
+    "artist": "Jermaine Jackson & Pia Zadora",
+    "date": "25.10.2025",
+    "time": "04:26",
+    "year": 1984,
+    "duration_ms": 248867,
+    "genre": "R&B/Soul",
+    "album": "Playlist: The Very Best of Jermaine Jackson",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "V Sieti Ťa Mám",
+    "artist": "Kristína",
+    "date": "25.10.2025",
+    "time": "04:22",
+    "year": 2010,
+    "duration_ms": 221000,
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Na Kameni Kámen",
+    "artist": "Brontosauři",
+    "date": "25.10.2025",
+    "time": "04:19",
+    "year": 2001,
+    "duration_ms": 159227,
+    "genre": "Pop",
+    "album": "Na Kameni Kamen",
+    "track_number": 14,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Modrá",
+    "artist": "Kirschner Jana",
+    "date": "25.10.2025",
+    "time": "04:15",
+    "year": 2000,
+    "duration_ms": 250907,
+    "genre": "Pop",
+    "album": "V Cudzom Meste",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jana Kirschner"
+    ]
+  },
+  {
+    "title": "We Love To Love",
+    "artist": "P. M. Sampson & Double Key",
+    "date": "25.10.2025",
+    "time": "04:12",
+    "year": 1999,
+    "duration_ms": 225120,
+    "genre": "Pop",
+    "album": "Peter Columbus Masterpieces the Producer's Collection VOL.1",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "You're A Woman",
+    "artist": "Bad Boys Blue",
+    "date": "25.10.2025",
+    "time": "04:07",
+    "year": 1985,
+    "duration_ms": 321840,
+    "genre": "Pop",
+    "album": "Hot Girls, Bad Boys",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Karin van Haaren",
+      "Mary Applegate",
+      "Tony Hendrik"
+    ]
+  },
+  {
+    "title": "Chiquitita",
+    "artist": "Abba",
+    "date": "25.10.2025",
+    "time": "04:02",
+    "year": 1979,
+    "duration_ms": 325907,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits (40th Anniversary Edition)",
+    "track_number": 11,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "S Nohami Na Stole",
+    "artist": "Nagy Peter",
+    "date": "25.10.2025",
+    "time": "03:57",
+    "year": 2009,
+    "duration_ms": 264040,
+    "genre": "Pop",
+    "album": "Top Hity Tommü",
+    "track_number": 9,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Tisíckrát Krásnější",
+    "artist": "Dalibor Janda",
+    "date": "25.10.2025",
+    "time": "03:53",
+    "year": 1982,
+    "duration_ms": 293667,
+    "genre": "Pop",
+    "album": "Velký Flám (Zlaté Album)",
+    "track_number": 10,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Crazy",
+    "artist": "Aerosmith",
+    "date": "25.10.2025",
+    "time": "03:48",
+    "year": 1993,
+    "duration_ms": 316966,
+    "genre": "Pop",
+    "album": "Get A Grip",
+    "track_number": 11,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Desmond Child",
+      "Joe Perry",
+      "Steven Tyler"
+    ]
+  },
+  {
+    "title": "Seasons In The Sun",
+    "artist": "Terry Jacks",
+    "date": "25.10.2025",
+    "time": "03:45",
+    "year": 2013,
+    "duration_ms": 208853,
+    "genre": "Rock",
+    "album": "Seasons In The Sun (Expanded Edition)",
+    "track_number": 11,
+    "artist_country_code": "CA",
+    "songwriters": [
+      "Jacques Brel",
+      "Rod McKuen"
+    ]
+  },
+  {
+    "title": "Ďakujem Že Si",
+    "artist": "No Name",
+    "date": "25.10.2025",
+    "time": "03:41",
+    "year": 2001,
+    "duration_ms": 202120,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 19,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Another Day In Paradise",
     "artist": "Collins Phil",
     "date": "25.10.2025",
