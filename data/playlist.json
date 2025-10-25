@@ -1,5 +1,61 @@
 [
   {
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "25.10.2025",
+    "time": "06:06",
+    "year": 1987,
+    "duration_ms": 209800,
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 11,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Prý Se Tomu Říká Láska",
+    "artist": "Lenka Filipová",
+    "date": "25.10.2025",
+    "time": "06:03",
+    "year": 1980,
+    "duration_ms": 213253,
+    "genre": "Pop",
+    "album": "1982-92",
+    "track_number": 6,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Keď Odchádzajú Lásky",
+    "artist": "Richard Müller",
+    "date": "25.10.2025",
+    "time": "05:59",
+    "year": 1992,
+    "duration_ms": 297640,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "The Shoop Shoop Song",
+    "artist": "Cher",
+    "date": "25.10.2025",
+    "time": "05:56",
+    "year": 1990,
+    "duration_ms": 170000,
+    "genre": "Pop",
+    "album": "Love Hurts",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Rudy Clark"
+    ]
+  },
+  {
     "title": "Forever Young",
     "artist": "Alphaville",
     "date": "25.10.2025",
