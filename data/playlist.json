@@ -1,5 +1,31 @@
 [
   {
+    "title": "Better Off Alone",
+    "artist": "Alice Deejay",
+    "date": "25.10.2025",
+    "time": "22:49",
+    "year": 1998,
+    "duration_ms": 214883,
+    "genre": "Dance",
+    "album": "Who Needs Guitars Anyway?",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Flames Of Love",
+    "artist": "Fancy",
+    "date": "25.10.2025",
+    "time": "22:45",
+    "year": 1988,
+    "duration_ms": 217880,
+    "genre": "Pop",
+    "album": "Hit Collection",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Crucified",
     "artist": "Army Of Lovers",
     "date": "25.10.2025",
@@ -52,7 +78,7 @@
     "genre": "Pop",
     "album": "Ooh Aah...Just a Little Bit - Single",
     "track_number": 1,
-    "artist_country_code": null,
+    "artist_country_code": "AU",
     "songwriters": null
   },
   {
