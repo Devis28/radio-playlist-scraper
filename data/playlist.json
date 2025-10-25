@@ -1,5 +1,48 @@
 [
   {
+    "title": "Ešte Váham",
+    "artist": "Kristína",
+    "date": "25.10.2025",
+    "time": "17:07",
+    "year": 2020,
+    "duration_ms": 232452,
+    "genre": "Pop",
+    "album": "Kristína: TIE NAJ (Album verzia)",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Braňo Jančich",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Zústanu Svúj",
+    "artist": "Gott Karel",
+    "date": "25.10.2025",
+    "time": "17:03",
+    "year": 1964,
+    "duration_ms": 239600,
+    "genre": "Pop",
+    "album": "42 Největších Hitů",
+    "track_number": 35,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Trouba",
+    "artist": "Bilá Lucie",
+    "date": "25.10.2025",
+    "time": "16:59",
+    "year": 1998,
+    "duration_ms": 211897,
+    "genre": "Pop",
+    "album": "Platinum Collection",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Windsurfing",
     "artist": "Jiří Korn",
     "date": "25.10.2025",
