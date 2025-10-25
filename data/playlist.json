@@ -1,5 +1,31 @@
 [
   {
+    "title": "Nahý 2",
+    "artist": "Richard  Muller",
+    "date": "25.10.2025",
+    "time": "16:48",
+    "year": 2006,
+    "duration_ms": 300693,
+    "genre": "Pop",
+    "album": "Retro",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Milionár",
+    "artist": "Balogh Berco",
+    "date": "25.10.2025",
+    "time": "16:45",
+    "year": 2007,
+    "duration_ms": 241747,
+    "genre": "Pop",
+    "album": "Siedmy pád",
+    "track_number": 11,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Nepriznaná",
     "artist": "Vašo Patejdl",
     "date": "25.10.2025",
