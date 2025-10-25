@@ -1,5 +1,47 @@
 [
   {
+    "title": "Moi...Lolita",
+    "artist": "Alizee",
+    "date": "25.10.2025",
+    "time": "20:45",
+    "year": 2000,
+    "duration_ms": 264283,
+    "genre": "French Pop",
+    "album": "Gourmandises",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
+  },
+  {
+    "title": "Love In The First Degree",
+    "artist": "Bananarama",
+    "date": "25.10.2025",
+    "time": "20:41",
+    "year": 1987,
+    "duration_ms": 211410,
+    "genre": "Pop",
+    "album": "The Greatest Hits Collection (Collector Edition)",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Gimme Gimme Gimme A Man After Midnight",
+    "artist": "Abba",
+    "date": "25.10.2025",
+    "time": "20:36",
+    "year": 1979,
+    "duration_ms": 289160,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits (40th Anniversary Edition)",
+    "track_number": 14,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Lady (Hear Me Tonight)",
     "artist": "Modjo",
     "date": "25.10.2025",
@@ -53,7 +95,7 @@
     "genre": "Pop",
     "album": "80s 100 Hits – Volume 2",
     "track_number": 77,
-    "artist_country_code": null,
+    "artist_country_code": "GB",
     "songwriters": null
   },
   {
