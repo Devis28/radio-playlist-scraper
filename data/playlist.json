@@ -1,5 +1,62 @@
 [
   {
+    "title": "One Of Us",
+    "artist": "Osborne Joan",
+    "date": "26.10.2025",
+    "time": "01:08",
+    "year": 1995,
+    "duration_ms": 320467,
+    "genre": "Alternative",
+    "album": "Relish",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Everlasting Love",
+    "artist": "Sandra",
+    "date": "26.10.2025",
+    "time": "01:04",
+    "year": 1987,
+    "duration_ms": 221107,
+    "genre": "R&B/Soul",
+    "album": "18 Greatest Hits: Sandra",
+    "track_number": 8,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "James “Buzz” Cason",
+      "Mac Gayden"
+    ]
+  },
+  {
+    "title": "San Francisco",
+    "artist": "Mckenzie Scott",
+    "date": "26.10.2025",
+    "time": "01:01",
+    "year": 1967,
+    "duration_ms": 177427,
+    "genre": "Pop",
+    "album": "Hear It Now! The Sound of the '60s",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "I Just Called To Say I Love You",
+    "artist": "Wonder Stevie",
+    "date": "26.10.2025",
+    "time": "00:57",
+    "year": 2002,
+    "duration_ms": 262598,
+    "genre": "R&B/Soul",
+    "album": "The Definitive Collection",
+    "track_number": 19,
+    "artist_country_code": null,
+    "songwriters": [
+      "Stevie Wonder"
+    ]
+  },
+  {
     "title": "7 Seconds",
     "artist": "N'dour Youssou & Cherry Neneh",
     "date": "26.10.2025",
