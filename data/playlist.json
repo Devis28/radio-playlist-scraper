@@ -1,5 +1,86 @@
 [
   {
+    "title": "Nie Sme Zlí",
+    "artist": "Elán",
+    "date": "25.10.2025",
+    "time": "12:25",
+    "year": 1982,
+    "duration_ms": 244307,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 11,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Anjel",
+    "artist": "Karmen Pál-Baláž",
+    "date": "25.10.2025",
+    "time": "12:21",
+    "year": 2019,
+    "duration_ms": 255102,
+    "genre": "Pop",
+    "album": "Anjel - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "25.10.2025",
+    "time": "12:19",
+    "year": 1995,
+    "duration_ms": 169400,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Poraď Si Sám",
+    "artist": "Žbirka Miro",
+    "date": "25.10.2025",
+    "time": "12:16",
+    "year": 1984,
+    "duration_ms": 142307,
+    "genre": "Pop",
+    "album": "Nemoderný chalan",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Krásnejší Než Rúže",
+    "artist": "Pavel Roth",
+    "date": "25.10.2025",
+    "time": "12:12",
+    "year": 1978,
+    "duration_ms": 222867,
+    "genre": "Pop",
+    "album": "Krásnější Než Růže",
+    "track_number": 8,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Vráť Mi Tie Hviezdy",
+    "artist": "Dubasová Beáta",
+    "date": "25.10.2025",
+    "time": "12:09",
+    "year": 1993,
+    "duration_ms": 215000,
+    "genre": "Pop",
+    "album": "Modry Album",
+    "track_number": 8,
+    "artist_country_code": null,
+    "songwriters": [
+      "Juraj Žák",
+      "Robo Grigorov"
+    ]
+  },
+  {
     "title": "Sputana Laskou",
     "artist": "Peter & Julia Heckovci",
     "date": "25.10.2025",
