@@ -1,5 +1,31 @@
 [
   {
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "25.10.2025",
+    "time": "15:51",
+    "year": 1995,
+    "duration_ms": 224493,
+    "genre": "Rock",
+    "album": "Habera 2",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Báječná Ženská",
+    "artist": "Tučný Michal",
+    "date": "25.10.2025",
+    "time": "15:47",
+    "year": 1980,
+    "duration_ms": 253960,
+    "genre": "Traditional Country",
+    "album": "Snídaně V Trávě",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Náhlenie",
     "artist": "Heckovci Julia A Peter",
     "date": "25.10.2025",
