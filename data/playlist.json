@@ -1,5 +1,41 @@
 [
   {
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "date": "25.10.2025",
+    "time": "21:49",
+    "year": 1987,
+    "duration_ms": 213560,
+    "genre": "Pop",
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "25.10.2025",
+    "time": "21:45",
+    "year": 2022,
+    "duration_ms": 76173,
+    "genre": "House",
+    "album": "Claptone at DAY.MVS XL 2022: Northside (DJ Mix)",
+    "track_number": 4,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Annerley Gordon",
+      "Francesco Bontempi",
+      "Giorgio Spagna",
+      "M. Gaffey",
+      "P. Glenister"
+    ]
+  },
+  {
     "title": "Bad Boy",
     "artist": "Miami Sound Machine",
     "date": "25.10.2025",
