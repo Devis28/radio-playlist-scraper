@@ -1,5 +1,74 @@
 [
   {
+    "title": "Crucified",
+    "artist": "Army Of Lovers",
+    "date": "25.10.2025",
+    "time": "22:42",
+    "year": 1991,
+    "duration_ms": 213760,
+    "genre": "Dance",
+    "album": "Massive Luxury Overdose",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Alexander Bard",
+      "Anders Wollbeck",
+      "Jean-Pierre Barda"
+    ]
+  },
+  {
+    "title": "No Tengo Dinero",
+    "artist": "Righeira",
+    "date": "25.10.2025",
+    "time": "22:39",
+    "year": 1983,
+    "duration_ms": 205163,
+    "genre": "Pop",
+    "album": "No Tengo Dinero - Single",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Kávu Si Osladím",
+    "artist": "Gott Karel",
+    "date": "25.10.2025",
+    "time": "22:36",
+    "year": 1972,
+    "duration_ms": 156347,
+    "genre": "Pop",
+    "album": "Má Píseň",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Ooh Aah ... Just A Little Bit",
+    "artist": "Gina G",
+    "date": "25.10.2025",
+    "time": "22:33",
+    "year": 1996,
+    "duration_ms": 203120,
+    "genre": "Pop",
+    "album": "Ooh Aah...Just a Little Bit - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Cause You Are Young",
+    "artist": "C.C. Catch",
+    "date": "25.10.2025",
+    "time": "22:29",
+    "year": 1986,
+    "duration_ms": 209533,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Hero (Metro Mix)",
     "artist": "Iglesias, Enrique",
     "date": "25.10.2025",
