@@ -1,5 +1,73 @@
 [
   {
+    "title": "Ži a nechaj žiť",
+    "artist": "Marika Gombitová",
+    "date": "25.10.2025",
+    "time": "08:16",
+    "year": 1987,
+    "duration_ms": 322293,
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Je Ráno, Anno",
+    "artist": "Neckář Václav",
+    "date": "25.10.2025",
+    "time": "08:11",
+    "year": 1965,
+    "duration_ms": 255133,
+    "genre": "Pop",
+    "album": "Největší Hity 1965-2013",
+    "track_number": 19,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Rieka",
+    "artist": "Richard Müller",
+    "date": "25.10.2025",
+    "time": "08:05",
+    "year": 2006,
+    "duration_ms": 307080,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ivan Tásler",
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Ty A Tvoja Sestra",
+    "artist": "No Name",
+    "date": "25.10.2025",
+    "time": "08:02",
+    "year": 2009,
+    "duration_ms": 203107,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Za Všechno Může Čas",
+    "artist": "Filipová Lenka",
+    "date": "25.10.2025",
+    "time": "07:59",
+    "year": 1980,
+    "duration_ms": 243173,
+    "genre": "Pop",
+    "album": "1982-92",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "A Ty Se Ptáš Co Já",
     "artist": "Helena Vondracková",
     "date": "25.10.2025",
