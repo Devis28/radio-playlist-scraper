@@ -1,5 +1,39 @@
 [
   {
+    "title": "Rock Me Amadeus",
+    "artist": "Falco",
+    "date": "25.10.2025",
+    "time": "22:55",
+    "year": 1985,
+    "duration_ms": 202236,
+    "genre": "Alternative",
+    "album": "Falco 3 (Deluxe Version)",
+    "track_number": 1,
+    "artist_country_code": "AT",
+    "songwriters": [
+      "Falco",
+      "Ferdi Bolland",
+      "Rob Bolland"
+    ]
+  },
+  {
+    "title": "Waterloo",
+    "artist": "Abba",
+    "date": "25.10.2025",
+    "time": "22:53",
+    "year": 1974,
+    "duration_ms": 165800,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits (40th Anniversary Edition)",
+    "track_number": 19,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
     "title": "Better Off Alone",
     "artist": "Alice Deejay",
     "date": "25.10.2025",
@@ -9,7 +43,7 @@
     "genre": "Dance",
     "album": "Who Needs Guitars Anyway?",
     "track_number": 2,
-    "artist_country_code": null,
+    "artist_country_code": "NL",
     "songwriters": null
   },
   {
