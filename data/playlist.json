@@ -1,5 +1,31 @@
 [
   {
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "date": "26.10.2025",
+    "time": "00:49",
+    "year": 1977,
+    "duration_ms": 245693,
+    "genre": "Pop",
+    "album": "E' nell' aria…ti amo",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Total Eclipse Of The Heart",
+    "artist": "Westlife",
+    "date": "26.10.2025",
+    "time": "00:44",
+    "year": 2006,
+    "duration_ms": 279619,
+    "genre": "Pop",
+    "album": "The Love Album",
+    "track_number": 2,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
     "title": "Malý Veľký Vlak",
     "artist": "Modus",
     "date": "26.10.2025",
