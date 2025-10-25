@@ -1,5 +1,44 @@
 [
   {
+    "title": "I'm Every Woman",
+    "artist": "Houston Whitney",
+    "date": "25.10.2025",
+    "time": "21:33",
+    "year": 1992,
+    "duration_ms": 285107,
+    "genre": "Soundtrack",
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Bamboléo",
+    "artist": "Gipsy Kings",
+    "date": "25.10.2025",
+    "time": "21:30",
+    "year": 1987,
+    "duration_ms": 203333,
+    "genre": "Worldwide",
+    "album": "Gipsy Kings",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": null
+  },
+  {
+    "title": "Zima, Zima",
+    "artist": "Miro Žbirka",
+    "date": "25.10.2025",
+    "time": "21:27",
+    "year": 2002,
+    "duration_ms": 187773,
+    "genre": "Pop",
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "track_number": 11,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Holiday",
     "artist": "Madonna",
     "date": "25.10.2025",
