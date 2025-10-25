@@ -1,5 +1,31 @@
 [
   {
+    "title": "Slnečná Balada",
+    "artist": "Peha",
+    "date": "25.10.2025",
+    "time": "08:49",
+    "year": 2003,
+    "duration_ms": 233267,
+    "genre": "Pop",
+    "album": "Best of Peha",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Už Mi, Lásko, Není Dvacet Let",
+    "artist": "Jiří Zmožek",
+    "date": "25.10.2025",
+    "time": "08:45",
+    "year": 2010,
+    "duration_ms": 246093,
+    "genre": "Worldwide",
+    "album": "Zlatá deska České muziky - Jiří Zmožek",
+    "track_number": 1,
+    "artist_country_code": "XC",
+    "songwriters": null
+  },
+  {
     "title": "V Pohodě",
     "artist": "Stanislav Hložek & Petr Kotvald",
     "date": "25.10.2025",
