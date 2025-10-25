@@ -1,5 +1,35 @@
 [
   {
+    "title": "Piú Bella Cosa",
+    "artist": "Eros Ramazzotti",
+    "date": "26.10.2025",
+    "time": "01:36",
+    "year": 1996,
+    "duration_ms": 264547,
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 8,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Adelio Cogliati",
+      "Claudio Guidetti",
+      "Eros Ramazzotti"
+    ]
+  },
+  {
+    "title": "Live Is Life",
+    "artist": "Opus",
+    "date": "26.10.2025",
+    "time": "01:32",
+    "year": 1997,
+    "duration_ms": 254600,
+    "genre": "Pop",
+    "album": "Die Grossten Hits Aus 15 Jahren",
+    "track_number": 1,
+    "artist_country_code": "AT",
+    "songwriters": null
+  },
+  {
     "title": "Cesty II. Triedy",
     "artist": "Ivan Tásler & I.M.T. Smile",
     "date": "26.10.2025",
