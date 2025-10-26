@@ -1,5 +1,79 @@
 [
   {
+    "title": "Funkytown",
+    "artist": "Lipps Inc",
+    "date": "26.10.2025",
+    "time": "23:16",
+    "year": 1979,
+    "duration_ms": 239827,
+    "genre": "Disco",
+    "album": "Shrek 2 (Original Motion Picture Soundtrack)",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Too Many Broken Hearts",
+    "artist": "Donovan Jason",
+    "date": "26.10.2025",
+    "time": "23:12",
+    "year": 1989,
+    "duration_ms": 208373,
+    "genre": "Pop",
+    "album": "Too Many Broken Hearts",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "U Can't Touch This",
+    "artist": "Mc Hammer",
+    "date": "26.10.2025",
+    "time": "23:08",
+    "year": 1990,
+    "duration_ms": 257000,
+    "genre": "Hip-Hop/Rap",
+    "album": "Greatest Hits",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Alonzo Miller",
+      "MC Hammer",
+      "Rick James"
+    ]
+  },
+  {
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor",
+    "date": "26.10.2025",
+    "time": "23:04",
+    "year": 1982,
+    "duration_ms": 243773,
+    "genre": "Rock",
+    "album": "Eye of the Tiger",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Frankie Sullivan",
+      "Jim Peterik"
+    ]
+  },
+  {
+    "title": "Think About The Way",
+    "artist": "Ice Mc",
+    "date": "26.10.2025",
+    "time": "23:00",
+    "year": 1994,
+    "duration_ms": 260973,
+    "genre": "Dance",
+    "album": "Ice 'n' Green",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Roberto Zanetti"
+    ]
+  },
+  {
     "title": "Together Forever",
     "artist": "Astley Rick",
     "date": "26.10.2025",
