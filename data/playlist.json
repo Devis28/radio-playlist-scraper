@@ -1,5 +1,35 @@
 [
   {
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "27.10.2025",
+    "time": "00:51",
+    "year": 1984,
+    "duration_ms": 392267,
+    "genre": "Pop",
+    "album": "Make It Big",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "27.10.2025",
+    "time": "00:47",
+    "year": 1998,
+    "duration_ms": 250000,
+    "genre": "Pop",
+    "album": "Never Say Never",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Bryan Adams",
+      "Michael Kamen",
+      "Robert John “Mutt” Lange"
+    ]
+  },
+  {
     "title": "Kto Z Nás Dvoch Sa Lásky Opýta?",
     "artist": "Team",
     "date": "27.10.2025",
