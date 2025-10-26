@@ -1,5 +1,60 @@
 [
   {
+    "title": "Miliónkrát",
+    "artist": "Žbirka Miro",
+    "date": "26.10.2025",
+    "time": "08:10",
+    "year": 2001,
+    "duration_ms": 287373,
+    "genre": "Pop",
+    "album": "Modrý album (Deluxe Edition 2021)",
+    "track_number": 12,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Mláďatá",
+    "artist": "Elán",
+    "date": "26.10.2025",
+    "time": "08:06",
+    "year": 2021,
+    "duration_ms": 239107,
+    "genre": "Rock",
+    "album": "Ôsmy svetadiel (Remastered)",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "26.10.2025",
+    "time": "08:03",
+    "year": 2016,
+    "duration_ms": 197007,
+    "genre": "Soft Rock",
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Hyža"
+    ]
+  },
+  {
+    "title": "Je Naprosto Nezbytné",
+    "artist": "Hana Zagorová",
+    "date": "26.10.2025",
+    "time": "07:59",
+    "year": 2001,
+    "duration_ms": 182147,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Účesy",
     "artist": "Dubasová Beáta",
     "date": "26.10.2025",
