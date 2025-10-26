@@ -1,5 +1,163 @@
 [
   {
+    "title": "Keď Muž Miluje Ženu",
+    "artist": "Robo Opatovský",
+    "date": "26.10.2025",
+    "time": "03:47",
+    "year": 2017,
+    "duration_ms": 249240,
+    "genre": "Pop",
+    "album": "Keď Muž Miluje Ženu - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Zalúbení",
+    "artist": "Dušan Hlaváček",
+    "date": "26.10.2025",
+    "time": "03:43",
+    "year": 2007,
+    "duration_ms": 231640,
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Wind Of Change",
+    "artist": "The Scorpions",
+    "date": "26.10.2025",
+    "time": "03:38",
+    "year": 1990,
+    "duration_ms": 312360,
+    "genre": "Hard Rock",
+    "album": "Crazy World",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Heaven Is A Place On Earth",
+    "artist": "Belinda Carlisle",
+    "date": "26.10.2025",
+    "time": "03:34",
+    "year": 1987,
+    "duration_ms": 247093,
+    "genre": "Pop",
+    "album": "Heaven on Earth",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Líška",
+    "artist": "Jana Kirschner",
+    "date": "26.10.2025",
+    "time": "03:31",
+    "year": 2000,
+    "duration_ms": 194560,
+    "genre": "Pop",
+    "album": "V Cudzom Meste",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Self Control",
+    "artist": "Branigan Laura",
+    "date": "26.10.2025",
+    "time": "03:27",
+    "year": 1984,
+    "duration_ms": 246440,
+    "genre": "Pop",
+    "album": "Self Control",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Bonboniéra",
+    "artist": "Gladiátor",
+    "date": "26.10.2025",
+    "time": "03:24",
+    "year": 2006,
+    "duration_ms": 197000,
+    "genre": "Pop",
+    "album": "Mesto",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "26.10.2025",
+    "time": "03:19",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise (Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
+    "title": "Neobzerajte Sa Pani Lótová",
+    "artist": "Elán",
+    "date": "26.10.2025",
+    "time": "03:16",
+    "year": 1986,
+    "duration_ms": 164893,
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "My Heart Will Go On",
+    "artist": "Céline Dion",
+    "date": "26.10.2025",
+    "time": "03:11",
+    "year": 1997,
+    "duration_ms": 280000,
+    "genre": "Pop",
+    "album": "Let's Talk About Love",
+    "track_number": 12,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Nenapovídej",
+    "artist": "David Michal",
+    "date": "26.10.2025",
+    "time": "03:07",
+    "year": 2012,
+    "duration_ms": 307853,
+    "genre": "Pop",
+    "album": "Classic",
+    "track_number": 6,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Ako Obrázok",
+    "artist": "Miro Žbirka",
+    "date": "26.10.2025",
+    "time": "03:03",
+    "year": 1980,
+    "duration_ms": 197960,
+    "genre": "Pop",
+    "album": "Doktor Sen",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Sweet Dreams",
     "artist": "Eurythmics",
     "date": "26.10.2025",
@@ -10,6 +168,19 @@
     "album": "Sweet Dreams (Are Made of This) [Deluxe Edition]",
     "track_number": 6,
     "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Francúzky",
+    "artist": "Patejdl Vašo",
+    "date": "26.10.2025",
+    "time": "02:59",
+    "year": 1989,
+    "duration_ms": 262387,
+    "genre": "Pop",
+    "album": "Mon Amour",
+    "track_number": 1,
+    "artist_country_code": null,
     "songwriters": null
   },
   {
@@ -28,6 +199,32 @@
       "Kai Matthiesen",
       "Rainer Gaffrey"
     ]
+  },
+  {
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "date": "26.10.2025",
+    "time": "02:55",
+    "year": 1992,
+    "duration_ms": 271093,
+    "genre": "Soundtrack",
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Hey Jude",
+    "artist": "Beatles, The",
+    "date": "26.10.2025",
+    "time": "02:51",
+    "year": 1968,
+    "duration_ms": 431333,
+    "genre": "Rock",
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "track_number": 13,
+    "artist_country_code": "null",
+    "songwriters": null
   },
   {
     "title": "The Winner Takes It All",
@@ -62,6 +259,32 @@
     ]
   },
   {
+    "title": "I'll Be Missing You",
+    "artist": "Daddy, Puff & Evans, Faith",
+    "date": "26.10.2025",
+    "time": "02:46",
+    "year": 1997,
+    "duration_ms": 301520,
+    "genre": "Hip-Hop/Rap",
+    "album": "Bad Boy's 10th Anniversary- The Hits",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Veľa Lásky",
+    "artist": "I.M.T. Smile",
+    "date": "26.10.2025",
+    "time": "02:43",
+    "year": 2012,
+    "duration_ms": 193733,
+    "genre": "Pop",
+    "album": "Život IMT Smile 1998-2020",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Maťo A Linda",
     "artist": "Hex",
     "date": "26.10.2025",
@@ -72,6 +295,19 @@
     "album": "Všetko Najlepšie 2013 - 1992",
     "track_number": 11,
     "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Sealed With The Kiss",
+    "artist": "Jason Donovan",
+    "date": "26.10.2025",
+    "time": "02:41",
+    "year": 1989,
+    "duration_ms": 152499,
+    "genre": "Pop",
+    "album": "Sealed With a Kiss",
+    "track_number": 1,
+    "artist_country_code": "AU",
     "songwriters": null
   },
   {
@@ -88,6 +324,21 @@
     "songwriters": null
   },
   {
+    "title": "Can't Fight The Moonlight",
+    "artist": "Rimes Leann",
+    "date": "26.10.2025",
+    "time": "02:37",
+    "year": 2000,
+    "duration_ms": 215507,
+    "genre": "Soundtrack",
+    "album": "Coyote Ugly (Soundtrack from the Motion Picture)",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Diane Warren"
+    ]
+  },
+  {
     "title": "Sweet Harmony",
     "artist": "Beloved, The",
     "date": "26.10.2025",
@@ -97,6 +348,35 @@
     "genre": "Dance",
     "album": "Conscience",
     "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "The Neverending Story",
+    "artist": "Limahl",
+    "date": "26.10.2025",
+    "time": "02:33",
+    "year": 1984,
+    "duration_ms": 210013,
+    "genre": "Soundtrack",
+    "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Giorgio Moroder",
+      "Keith Forsey"
+    ]
+  },
+  {
+    "title": "Stačí Si Priať",
+    "artist": "Smatanová Zuzana",
+    "date": "26.10.2025",
+    "time": "02:30",
+    "year": 2009,
+    "duration_ms": 215439,
+    "genre": "Pop",
+    "album": "Gemini",
+    "track_number": 4,
     "artist_country_code": null,
     "songwriters": null
   },
@@ -127,6 +407,24 @@
     "songwriters": null
   },
   {
+    "title": "The Power Of Love",
+    "artist": "Rush Jennifer",
+    "date": "26.10.2025",
+    "time": "02:24",
+    "year": 1984,
+    "duration_ms": 361231,
+    "genre": "Rock",
+    "album": "Jennifer Rush",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Gunther Mende",
+      "Jennifer Rush",
+      "Mary Applegate",
+      "Wolfgang Detmann"
+    ]
+  },
+  {
     "title": "Anjel",
     "artist": "Desmod",
     "date": "26.10.2025",
@@ -136,6 +434,19 @@
     "genre": "Rock",
     "album": "Molekuly Zvuku",
     "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nervózna Família",
+    "artist": "Ventil Rg",
+    "date": "26.10.2025",
+    "time": "02:21",
+    "year": 2006,
+    "duration_ms": 191067,
+    "genre": "Reggae",
+    "album": "Ventil RG",
+    "track_number": 8,
     "artist_country_code": "SK",
     "songwriters": null
   },
@@ -153,6 +464,24 @@
     "songwriters": null
   },
   {
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "date": "26.10.2025",
+    "time": "02:17",
+    "year": 1991,
+    "duration_ms": 271610,
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 22,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Brian May",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor"
+    ]
+  },
+  {
     "title": "Atlantis Is Calling (S.O.S. For Love)",
     "artist": "Modern Talking",
     "date": "26.10.2025",
@@ -166,6 +495,19 @@
     "songwriters": [
       "Dieter Bohlen"
     ]
+  },
+  {
+    "title": "Pierko pravdy",
+    "artist": "Beáta Dubasová",
+    "date": "26.10.2025",
+    "time": "02:13",
+    "year": 2023,
+    "duration_ms": 190000,
+    "genre": "Pop",
+    "album": "Pierko pravdy - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
   },
   {
     "title": "Only Time (Two Tribes Remix))",
