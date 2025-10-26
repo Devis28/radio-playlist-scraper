@@ -1,5 +1,37 @@
 [
   {
+    "title": "The River Of Dreams",
+    "artist": "Joel Billy",
+    "date": "26.10.2025",
+    "time": "01:56",
+    "year": 1993,
+    "duration_ms": 245893,
+    "genre": "Rock",
+    "album": "River of Dreams",
+    "track_number": 8,
+    "artist_country_code": null,
+    "songwriters": [
+      "Billy Joel"
+    ]
+  },
+  {
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "26.10.2025",
+    "time": "01:52",
+    "year": 1981,
+    "duration_ms": 233280,
+    "genre": "Vocal",
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Andrew Lloyd Webber",
+      "T. S. Eliot",
+      "Trevor Nunn"
+    ]
+  },
+  {
     "title": "Máš V Rukáve Máj",
     "artist": "Marika Gombitová",
     "date": "26.10.2025",
