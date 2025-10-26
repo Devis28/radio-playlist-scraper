@@ -1,5 +1,60 @@
 [
   {
+    "title": "Umenie Žiť",
+    "artist": "Patejdl Vašo",
+    "date": "26.10.2025",
+    "time": "06:28",
+    "year": 1987,
+    "duration_ms": 273933,
+    "genre": "Pop",
+    "album": "Lov na city",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": [
+      "Vašo Patejdl",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
+    "title": "Kralovna Pavlaci A Dvorov",
+    "artist": "Heckovci Peter A Julia",
+    "date": "26.10.2025",
+    "time": "06:25",
+    "year": 1987,
+    "duration_ms": 219095,
+    "genre": "Pop",
+    "album": "Taliansky muzikál",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Mladosť",
+    "artist": "Pavol Hammel",
+    "date": "26.10.2025",
+    "time": "06:22",
+    "year": 2011,
+    "duration_ms": 168587,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Soumen",
+    "artist": "Michal David",
+    "date": "26.10.2025",
+    "time": "06:19",
+    "year": 2012,
+    "duration_ms": 203813,
+    "genre": "Pop",
+    "album": "Lucerna",
+    "track_number": 7,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Kdo Te Ma Rad",
     "artist": "Vondrackova Lucie",
     "date": "26.10.2025",
