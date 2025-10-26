@@ -1,5 +1,35 @@
 [
   {
+    "title": "Summer Kisses",
+    "artist": "C.C. Catch",
+    "date": "26.10.2025",
+    "time": "20:40",
+    "year": 1988,
+    "duration_ms": 230120,
+    "genre": "Pop",
+    "album": "The 80s Album",
+    "track_number": 32,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Mamma Mia",
+    "artist": "Abba",
+    "date": "26.10.2025",
+    "time": "20:36",
+    "year": 1975,
+    "duration_ms": 212304,
+    "genre": "Pop",
+    "album": "ABBA (Bonus Track Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
     "title": "Copacabana At The Copa",
     "artist": "Barry Manilow",
     "date": "26.10.2025",
