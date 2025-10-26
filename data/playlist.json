@@ -1,5 +1,80 @@
 [
   {
+    "title": "The Rhythm Divine",
+    "artist": "Iglesias Enrique",
+    "date": "26.10.2025",
+    "time": "21:27",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
+    "title": "People Are People",
+    "artist": "Depeche Mode",
+    "date": "26.10.2025",
+    "time": "21:23",
+    "year": 1984,
+    "duration_ms": 231973,
+    "genre": "Pop",
+    "album": "Some Great Reward (Deluxe)",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Always",
+    "artist": "Erasure",
+    "date": "26.10.2025",
+    "time": "21:19",
+    "year": 1994,
+    "duration_ms": 237840,
+    "genre": "Pop",
+    "album": "I Say I Say I Say (2021 Expanded Edition)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
+  },
+  {
+    "title": "Ring My Bell",
+    "artist": "Anita Ward",
+    "date": "26.10.2025",
+    "time": "21:15",
+    "year": 2005,
+    "duration_ms": 491933,
+    "genre": "R&B/Soul",
+    "album": "Ring My Bell",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Frederick Knight"
+    ]
+  },
+  {
+    "title": "I Was Born To Love You",
+    "artist": "Freddie Mercury",
+    "date": "26.10.2025",
+    "time": "21:12",
+    "year": 1985,
+    "duration_ms": 218293,
+    "genre": "Rock",
+    "album": "Never Boring",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Freddie Mercury"
+    ]
+  },
+  {
     "title": "Generation Of Love",
     "artist": "Masterboy",
     "date": "26.10.2025",
