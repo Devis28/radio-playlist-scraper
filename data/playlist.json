@@ -1,5 +1,49 @@
 [
   {
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "26.10.2025",
+    "time": "11:56",
+    "year": 1992,
+    "duration_ms": 233573,
+    "genre": "Pop",
+    "album": "Neuc Vtaka Lietat!",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Čo Ak",
+    "artist": "I.M.T. Smile",
+    "date": "26.10.2025",
+    "time": "11:53",
+    "year": 2002,
+    "duration_ms": 210307,
+    "genre": "Pop",
+    "album": "Valec Extra",
+    "track_number": 22,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Až Na Vrcholky Hor",
+    "artist": "Věra Martinová",
+    "date": "26.10.2025",
+    "time": "11:50",
+    "year": 1989,
+    "duration_ms": 200427,
+    "genre": "Pop",
+    "album": "Dál Jen Vejdi",
+    "track_number": 6,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Eduard Krečmar",
+      "Pavel Krejča"
+    ]
+  },
+  {
     "title": "Žal Se Odkládá",
     "artist": "Jiří Korn",
     "date": "26.10.2025",
