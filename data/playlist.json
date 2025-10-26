@@ -1,5 +1,44 @@
 [
   {
+    "title": "Mamma Maria",
+    "artist": "Ricchi E Poveri",
+    "date": "26.10.2025",
+    "time": "21:37",
+    "year": 1982,
+    "duration_ms": 175667,
+    "genre": "Pop",
+    "album": "Ricchi e Poveri: The Collection",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "More And More",
+    "artist": "Captain Hollywood Project",
+    "date": "26.10.2025",
+    "time": "21:33",
+    "year": 1991,
+    "duration_ms": 253573,
+    "genre": "Dance",
+    "album": "Love Is Not Sex",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "The Great Commandment",
+    "artist": "Camouflage",
+    "date": "26.10.2025",
+    "time": "21:30",
+    "year": 1988,
+    "duration_ms": 402000,
+    "genre": "Pop",
+    "album": "The Great Commandment (Remixes)",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "The Rhythm Divine",
     "artist": "Iglesias Enrique",
     "date": "26.10.2025",
