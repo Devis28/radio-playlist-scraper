@@ -1,5 +1,23 @@
 [
   {
+    "title": "Love Shack",
+    "artist": "The B-52's",
+    "date": "26.10.2025",
+    "time": "22:49",
+    "year": 1984,
+    "duration_ms": 321667,
+    "genre": "Pop",
+    "album": "Cosmic Thing",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "Cindy Wilson",
+      "Fred Schneider",
+      "Kate Pierson",
+      "Keith Strickland"
+    ]
+  },
+  {
     "title": "Happy People",
     "artist": "Prince Ital Joe Feat.Marky Mark",
     "date": "26.10.2025",
