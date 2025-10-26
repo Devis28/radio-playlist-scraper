@@ -1,5 +1,39 @@
 [
   {
+    "title": "Together Forever",
+    "artist": "Astley Rick",
+    "date": "26.10.2025",
+    "time": "22:56",
+    "year": 1987,
+    "duration_ms": 205573,
+    "genre": "Pop",
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "Hands Up",
+    "artist": "Ottawan",
+    "date": "26.10.2025",
+    "time": "22:53",
+    "year": 1980,
+    "duration_ms": 289027,
+    "genre": "Disco",
+    "album": "Ottawan 2",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": [
+      "Daniel Vangarde",
+      "Jean Kluger",
+      "Nelly Byl"
+    ]
+  },
+  {
     "title": "Love Shack",
     "artist": "The B-52's",
     "date": "26.10.2025",
