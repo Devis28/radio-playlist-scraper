@@ -1,5 +1,47 @@
 [
   {
+    "title": "Keď Sme Sami",
+    "artist": "Hex",
+    "date": "26.10.2025",
+    "time": "14:48",
+    "year": 2013,
+    "duration_ms": 250920,
+    "genre": "Pop",
+    "album": "Keď Sme Sami - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "26.10.2025",
+    "time": "14:44",
+    "year": 2001,
+    "duration_ms": 182773,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
+    "title": "Lekná",
+    "artist": "No Name",
+    "date": "26.10.2025",
+    "time": "14:41",
+    "year": 2004,
+    "duration_ms": 210253,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Aj Keď Bez Peňazí",
     "artist": "Elán",
     "date": "26.10.2025",
