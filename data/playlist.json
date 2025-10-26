@@ -1,5 +1,60 @@
 [
   {
+    "title": "Čerešne",
+    "artist": "Smatanová Zuzana",
+    "date": "26.10.2025",
+    "time": "09:33",
+    "year": 2008,
+    "duration_ms": 259387,
+    "genre": "Pop",
+    "album": "Best Of",
+    "track_number": 9,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Prvá Láska",
+    "artist": "Ráž Jožo",
+    "date": "26.10.2025",
+    "time": "09:29",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": [
+      "Boris Filan",
+      "Vašo Patejdl"
+    ]
+  },
+  {
+    "title": "Láska, Necestuj Tým Vlakom",
+    "artist": "Pavol Habera",
+    "date": "26.10.2025",
+    "time": "09:25",
+    "year": 1991,
+    "duration_ms": 280600,
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Malovaný Džbánku",
+    "artist": "Helena Vondráčková",
+    "date": "26.10.2025",
+    "time": "09:22",
+    "year": 2008,
+    "duration_ms": 173107,
+    "genre": "Pop",
+    "album": "Malovaný Džbánku (Singly 1972-1976)",
+    "track_number": 11,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Čau, Lásko",
     "artist": "Gott Karel & Holanová Marcela",
     "date": "26.10.2025",
