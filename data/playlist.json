@@ -1,5 +1,66 @@
 [
   {
+    "title": "Living On My Own",
+    "artist": "Mercury Freddie",
+    "date": "26.10.2025",
+    "time": "23:33",
+    "year": 1985,
+    "duration_ms": 217159,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Freddie Mercury"
+    ]
+  },
+  {
+    "title": "Quit Playing Games (With My Heart)",
+    "artist": "Backstreet Boys",
+    "date": "26.10.2025",
+    "time": "23:29",
+    "year": 1996,
+    "duration_ms": 232667,
+    "genre": "Pop",
+    "album": "Backstreet Boys",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Herbie Crichlow",
+      "Max Martin"
+    ]
+  },
+  {
+    "title": "Paris Latino",
+    "artist": "Bandolero",
+    "date": "26.10.2025",
+    "time": "23:23",
+    "year": 2017,
+    "duration_ms": 312887,
+    "genre": "French Pop",
+    "album": "Paris Latino (US Version - John Jellybean Benitez Remix) - EP",
+    "track_number": 2,
+    "artist_country_code": "FR",
+    "songwriters": null
+  },
+  {
+    "title": "Torn",
+    "artist": "Imbruglia Natalie",
+    "date": "26.10.2025",
+    "time": "23:20",
+    "year": 1997,
+    "duration_ms": 244667,
+    "genre": "Pop",
+    "album": "Left of the Middle",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Anne Preven",
+      "Phil Thornalley",
+      "Scott Cutler"
+    ]
+  },
+  {
     "title": "Funkytown",
     "artist": "Lipps Inc",
     "date": "26.10.2025",
