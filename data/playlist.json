@@ -1,5 +1,78 @@
 [
   {
+    "title": "Vráť Trochu Lásky Medzi Nás",
+    "artist": "Money Factor",
+    "date": "28.10.2025",
+    "time": "00:15",
+    "year": 2008,
+    "duration_ms": 241760,
+    "genre": "Rock",
+    "album": "Rockové Balady",
+    "track_number": 10,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Nah Neh Nah",
+    "artist": "Vaya Con Dios",
+    "date": "28.10.2025",
+    "time": "00:12",
+    "year": 1990,
+    "duration_ms": 174533,
+    "genre": "Pop",
+    "album": "Night Owls",
+    "track_number": 1,
+    "artist_country_code": "BE",
+    "songwriters": [
+      "Dani Klein",
+      "Dirk Schoufs",
+      "Una Balfe"
+    ]
+  },
+  {
+    "title": "You're A Woman",
+    "artist": "Bad Boys Blue",
+    "date": "28.10.2025",
+    "time": "00:09",
+    "year": 1985,
+    "duration_ms": 321840,
+    "genre": "Pop",
+    "album": "Super 20",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Karin van Haaren",
+      "Mary Applegate",
+      "Tony Hendrik"
+    ]
+  },
+  {
+    "title": "Lay All Your Love On Me",
+    "artist": "Abba",
+    "date": "28.10.2025",
+    "time": "00:04",
+    "year": 1980,
+    "duration_ms": 274525,
+    "genre": "Pop",
+    "album": "Lay All Your Love On Me - Single",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "All That She Wants",
+    "artist": "Ace Of Base",
+    "date": "28.10.2025",
+    "time": "00:01",
+    "year": 1992,
+    "duration_ms": 211213,
+    "genre": "Pop",
+    "album": "The Sign (2015 Remastered Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "All By Myself",
     "artist": "Eric Carmen",
     "date": "27.10.2025",
