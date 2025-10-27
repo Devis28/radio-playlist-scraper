@@ -1,5 +1,47 @@
 [
   {
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "27.10.2025",
+    "time": "12:07",
+    "year": 1991,
+    "duration_ms": 332400,
+    "genre": "Pop",
+    "album": "Tourism",
+    "track_number": 3,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Adiemus",
+    "artist": "Adiemus",
+    "date": "27.10.2025",
+    "time": "12:03",
+    "year": 2021,
+    "duration_ms": 239813,
+    "genre": "Pop",
+    "album": "Classical For Toddlers",
+    "track_number": 12,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "27.10.2025",
+    "time": "12:01",
+    "year": 2005,
+    "duration_ms": 144240,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
     "title": "The Tide Is High",
     "artist": "Blondie",
     "date": "27.10.2025",
