@@ -1,5 +1,44 @@
 [
   {
+    "title": "Nikita",
+    "artist": "Elton John",
+    "date": "28.10.2025",
+    "time": "00:27",
+    "year": 1985,
+    "duration_ms": 343240,
+    "genre": "Pop",
+    "album": "Ice On Fire ((Remastered))",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Čoskoro",
+    "artist": "Peter Bič Project",
+    "date": "28.10.2025",
+    "time": "00:23",
+    "year": 2019,
+    "duration_ms": 207516,
+    "genre": "Pop",
+    "album": "Čoskoro - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "I Promised Myself",
+    "artist": "Kamen, Nick",
+    "date": "28.10.2025",
+    "time": "00:19",
+    "year": 1990,
+    "duration_ms": 240773,
+    "genre": "Pop",
+    "album": "Move Until We Fly",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Vráť Trochu Lásky Medzi Nás",
     "artist": "Money Factor",
     "date": "28.10.2025",
