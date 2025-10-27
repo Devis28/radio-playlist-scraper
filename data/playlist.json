@@ -1,5 +1,94 @@
 [
   {
+    "title": "She's Like The Wind",
+    "artist": "Patrick Swayze",
+    "date": "27.10.2025",
+    "time": "05:21",
+    "year": 1987,
+    "duration_ms": 232907,
+    "genre": "Soundtrack",
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Désenchantee",
+    "artist": "Farmer Mylene",
+    "date": "27.10.2025",
+    "time": "05:16",
+    "year": 1991,
+    "duration_ms": 322760,
+    "genre": "French Pop",
+    "album": "L'autre",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
+  },
+  {
+    "title": "No Milk Today",
+    "artist": "Herman's Hermits",
+    "date": "27.10.2025",
+    "time": "05:13",
+    "year": 1967,
+    "duration_ms": 174333,
+    "genre": "Pop",
+    "album": "A's, B's & EP's",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Graham Gouldman"
+    ]
+  },
+  {
+    "title": "Everytime We Touch",
+    "artist": "Maggie Reilly",
+    "date": "27.10.2025",
+    "time": "05:08",
+    "year": 1992,
+    "duration_ms": 242974,
+    "genre": "Pop",
+    "album": "Everytime We Touch (Remastered) - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Maggie Reilly",
+      "Peter Risavy",
+      "Stuart MacKillop"
+    ]
+  },
+  {
+    "title": "Brother Louie",
+    "artist": "Modern Talking",
+    "date": "27.10.2025",
+    "time": "05:04",
+    "year": 1986,
+    "duration_ms": 221093,
+    "genre": "Pop",
+    "album": "The Very Best of Modern Talking",
+    "track_number": 3,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Keď Odchádzajú Lásky",
+    "artist": "Richard Müller",
+    "date": "27.10.2025",
+    "time": "05:00",
+    "year": 1992,
+    "duration_ms": 297640,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
     "title": "Hero (Metro Mix)",
     "artist": "Iglesias, Enrique",
     "date": "27.10.2025",
