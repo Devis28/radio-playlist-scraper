@@ -1,5 +1,79 @@
 [
   {
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "27.10.2025",
+    "time": "07:50",
+    "year": 1985,
+    "duration_ms": 228520,
+    "genre": "Pop",
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country_code": "NO",
+    "songwriters": [
+      "Magne Furuholmen",
+      "Morten Harket",
+      "Paul Waaktaar-Savoy"
+    ]
+  },
+  {
+    "title": "Maluj Zase Obrázky",
+    "artist": "Hana Zagorová",
+    "date": "27.10.2025",
+    "time": "07:43",
+    "year": 1995,
+    "duration_ms": 312320,
+    "genre": "Pop",
+    "album": "Maluj Zase Obrázky",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "27.10.2025",
+    "time": "07:39",
+    "year": 1995,
+    "duration_ms": 240867,
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
+  },
+  {
+    "title": "Something's Gotten Hold Of My Heart",
+    "artist": "Gene Pitney/Marc Almond",
+    "date": "27.10.2025",
+    "time": "07:35",
+    "year": 1989,
+    "duration_ms": 280489,
+    "genre": "Pop",
+    "album": "It's My Life: UK Pop Hits",
+    "track_number": 26,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Študentská Láska",
+    "artist": "Marika Gombitová",
+    "date": "27.10.2025",
+    "time": "07:31",
+    "year": 2016,
+    "duration_ms": 202960,
+    "genre": "Pop",
+    "album": "Single (1977 - 1989)",
+    "track_number": 5,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Psi Sa Bránia Útokom",
     "artist": "Nagy, Peter A Raz, Jozef",
     "date": "27.10.2025",
