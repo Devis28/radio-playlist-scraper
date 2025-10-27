@@ -1,5 +1,33 @@
 [
   {
+    "title": "Cheri Cheri Lady",
+    "artist": "Modern Talking",
+    "date": "27.10.2025",
+    "time": "12:49",
+    "year": 1985,
+    "duration_ms": 226333,
+    "genre": "Pop",
+    "album": "Let's Talk About Love",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Dieter Bohlen"
+    ]
+  },
+  {
+    "title": "Červená Řeka",
+    "artist": "Helena Vondráčková",
+    "date": "27.10.2025",
+    "time": "12:44",
+    "year": 2023,
+    "duration_ms": 298089,
+    "genre": "Pop",
+    "album": "Course de la paix. Praha 1967. Album Supraphonu",
+    "track_number": 7,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Girls Just Wanna Have Fun",
     "artist": "Cyndi Lauper",
     "date": "27.10.2025",
