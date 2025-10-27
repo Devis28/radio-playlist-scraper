@@ -1,5 +1,86 @@
 [
   {
+    "title": "Girl I'm Gonna Miss You",
+    "artist": "Milli Vanilli",
+    "date": "27.10.2025",
+    "time": "17:14",
+    "year": 2001,
+    "duration_ms": 225253,
+    "genre": "Pop",
+    "album": "80s 100 Hits – Volume 2",
+    "track_number": 54,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Medulienka",
+    "artist": "Hammel Pavol",
+    "date": "27.10.2025",
+    "time": "17:11",
+    "year": 1979,
+    "duration_ms": 201293,
+    "genre": "Pop",
+    "album": "Vrabec vševed",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "María",
+    "artist": "Ricky Martin",
+    "date": "27.10.2025",
+    "time": "17:06",
+    "year": 1995,
+    "duration_ms": 271267,
+    "genre": "Pop",
+    "album": "Ricky Martin",
+    "track_number": 14,
+    "artist_country_code": "PR",
+    "songwriters": null
+  },
+  {
+    "title": "Eternal Flame",
+    "artist": "The Bangles",
+    "date": "27.10.2025",
+    "time": "17:03",
+    "year": 2001,
+    "duration_ms": 240160,
+    "genre": "Pop",
+    "album": "Eternal Flame: The Best of Bangles",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Please Forgive Me",
+    "artist": "Bryan Adams",
+    "date": "27.10.2025",
+    "time": "16:53",
+    "year": 2022,
+    "duration_ms": 312984,
+    "genre": "Rock",
+    "album": "Classic",
+    "track_number": 5,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "If You Can't Give Me Love",
+    "artist": "Suzi Quatro",
+    "date": "27.10.2025",
+    "time": "16:50",
+    "year": 1978,
+    "duration_ms": 232994,
+    "genre": "Rock",
+    "album": "If You Knew Suzi… (2017 Remaster)",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
     "title": "I Like Chopin",
     "artist": "Gazebo",
     "date": "27.10.2025",
