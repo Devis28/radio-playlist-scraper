@@ -1,5 +1,78 @@
 [
   {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "27.10.2025",
+    "time": "18:26",
+    "year": 1995,
+    "duration_ms": 213956,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
+  },
+  {
+    "title": "Saxana",
+    "artist": "Petra Černocká",
+    "date": "27.10.2025",
+    "time": "18:23",
+    "year": 1973,
+    "duration_ms": 168493,
+    "genre": "Pop",
+    "album": "Se Mnou Si Píseň Broukej",
+    "track_number": 5,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Všechno Bude Fajn",
+    "artist": "Žentour",
+    "date": "27.10.2025",
+    "time": "18:19",
+    "year": 1991,
+    "duration_ms": 225787,
+    "genre": "Pop",
+    "album": "Hity Tommü",
+    "track_number": 10,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Žentour"
+    ]
+  },
+  {
+    "title": "Stokrat Chvalim Cas",
+    "artist": "Karel Gott",
+    "date": "27.10.2025",
+    "time": "18:16",
+    "year": 1969,
+    "duration_ms": 207187,
+    "genre": "Pop",
+    "album": "Karel Gott '79",
+    "track_number": 3,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Bosý A Sám",
+    "artist": "Robo Grigorov",
+    "date": "27.10.2025",
+    "time": "18:12",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
+  },
+  {
     "title": "Ona Je Taká",
     "artist": "Polemic",
     "date": "27.10.2025",
