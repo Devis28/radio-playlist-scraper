@@ -1,5 +1,35 @@
 [
   {
+    "title": "I Just Died In Your Arms",
+    "artist": "Cutting Crew",
+    "date": "28.10.2025",
+    "time": "22:43",
+    "year": 2020,
+    "duration_ms": 329880,
+    "genre": "Pop",
+    "album": "Ransomed Healed Restored Forgiven",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "28.10.2025",
+    "time": "22:38",
+    "year": 1998,
+    "duration_ms": 250000,
+    "genre": "Pop",
+    "album": "Never Say Never",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Bryan Adams",
+      "Michael Kamen",
+      "Robert John “Mutt” Lange"
+    ]
+  },
+  {
     "title": "The Look",
     "artist": "Roxette",
     "date": "28.10.2025",
