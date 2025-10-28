@@ -1,5 +1,50 @@
 [
   {
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "28.10.2025",
+    "time": "08:39",
+    "year": 2012,
+    "duration_ms": 229893,
+    "genre": "Dance",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": "CH",
+    "songwriters": [
+      "Daniel Peyer",
+      "Joe South",
+      "René Baumann"
+    ]
+  },
+  {
+    "title": "(We Want) The Same Thing",
+    "artist": "Belinda Carlisle",
+    "date": "28.10.2025",
+    "time": "08:35",
+    "year": 1987,
+    "duration_ms": 239107,
+    "genre": "Pop",
+    "album": "Runaway Horses",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "date": "28.10.2025",
+    "time": "08:31",
+    "year": 1975,
+    "duration_ms": 278600,
+    "genre": "Rock",
+    "album": "Some Guys Have All the Luck",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Gavin Sutherland"
+    ]
+  },
+  {
     "title": "Chráň Svoje Bláznovstvá",
     "artist": "Peter Nagy",
     "date": "28.10.2025",
