@@ -1,5 +1,31 @@
 [
   {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "28.10.2025",
+    "time": "21:54",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "S Úsmevom",
+    "artist": "Karol Duchoň",
+    "date": "28.10.2025",
+    "time": "21:50",
+    "year": 2005,
+    "duration_ms": 198707,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Because You Loved Me",
     "artist": "Céline Dion",
     "date": "28.10.2025",
