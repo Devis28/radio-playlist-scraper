@@ -1,5 +1,46 @@
 [
   {
+    "title": "Cítim",
+    "artist": "Karol Duchoň",
+    "date": "28.10.2025",
+    "time": "06:10",
+    "year": 2005,
+    "duration_ms": 203093,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Streets Of Philadelphia",
+    "artist": "Springsteen Bruce",
+    "date": "28.10.2025",
+    "time": "06:04",
+    "year": 1993,
+    "duration_ms": 196813,
+    "genre": "Rock",
+    "album": "Greatest Hits",
+    "track_number": 14,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Bruce Springsteen"
+    ]
+  },
+  {
+    "title": "One Way Ticket",
+    "artist": "Eruption",
+    "date": "28.10.2025",
+    "time": "06:00",
+    "year": 1978,
+    "duration_ms": 213200,
+    "genre": "Pop",
+    "album": "4 Hits: Eruption - EP",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "You Keep Me Hanging On",
     "artist": "Wilde Kim",
     "date": "28.10.2025",
