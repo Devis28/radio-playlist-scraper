@@ -1,5 +1,350 @@
 [
   {
+    "title": "Chýbanie",
+    "artist": "Desmod",
+    "date": "28.10.2025",
+    "time": "03:22",
+    "year": 2017,
+    "duration_ms": 207168,
+    "genre": "Rock",
+    "album": "Molekuly Zvuku",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "28.10.2025",
+    "time": "03:19",
+    "year": 1974,
+    "duration_ms": 211413,
+    "genre": "Pop",
+    "album": "Wear It’s ‘At",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Věnování",
+    "artist": "Filipová Lenka",
+    "date": "28.10.2025",
+    "time": "03:15",
+    "year": 1980,
+    "duration_ms": 245227,
+    "genre": "Pop",
+    "album": "1982-92",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Žienka Domáca",
+    "artist": "Jana Kirschner",
+    "date": "28.10.2025",
+    "time": "03:11",
+    "year": 2000,
+    "duration_ms": 240987,
+    "genre": "Pop",
+    "album": "16 Naj Pesničiek",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Return To Innocence",
+    "artist": "Enigma",
+    "date": "28.10.2025",
+    "time": "03:07",
+    "year": 1993,
+    "duration_ms": 251427,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 5,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "I Want To Break Free",
+    "artist": "Queen",
+    "date": "28.10.2025",
+    "time": "03:03",
+    "year": 1984,
+    "duration_ms": 201082,
+    "genre": "Rock",
+    "album": "The Works (Deluxe Edition)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "John Deacon"
+    ]
+  },
+  {
+    "title": "Hard To Say I'm Sorry",
+    "artist": "Chicago",
+    "date": "28.10.2025",
+    "time": "02:59",
+    "year": 1982,
+    "duration_ms": 223280,
+    "genre": "Rock",
+    "album": "The Best of Chicago (40th Anniversary Edition) [Remastered]",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": [
+      "David Foster",
+      "Peter Cetera"
+    ]
+  },
+  {
+    "title": "Horehronie",
+    "artist": "Kristína",
+    "date": "28.10.2025",
+    "time": "02:56",
+    "year": 2010,
+    "duration_ms": 183147,
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 5,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Anna Servická",
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "28.10.2025",
+    "time": "02:52",
+    "year": 2006,
+    "duration_ms": 261107,
+    "genre": "Pop",
+    "album": "Balady",
+    "track_number": 23,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Roman Guryča",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
+    "title": "California Dreamin'",
+    "artist": "Mamas & The Papas",
+    "date": "28.10.2025",
+    "time": "02:50",
+    "year": 1966,
+    "duration_ms": 162373,
+    "genre": "Pop",
+    "album": "If You Can Believe Your Eyes and Ears",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "I Swear",
+    "artist": "All-4-One",
+    "date": "28.10.2025",
+    "time": "02:45",
+    "year": 1994,
+    "duration_ms": 259853,
+    "genre": "Pop",
+    "album": "All-4-One",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Nedá Sa Újsť",
+    "artist": "I.M.T. Smile",
+    "date": "28.10.2025",
+    "time": "02:42",
+    "year": 2002,
+    "duration_ms": 193053,
+    "genre": "Pop",
+    "album": "Valec Extra",
+    "track_number": 18,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Tell It To My Heart",
+    "artist": "Taylor Dayne",
+    "date": "28.10.2025",
+    "time": "02:38",
+    "year": 1988,
+    "duration_ms": 220880,
+    "genre": "Pop",
+    "album": "Tell It to My Heart (Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Ernie Gold",
+      "Seth Swirsky"
+    ]
+  },
+  {
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "28.10.2025",
+    "time": "02:34",
+    "year": 1995,
+    "duration_ms": 221187,
+    "genre": "Dance",
+    "album": "The Bridge (Remastered)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "John Ballard",
+      "Jonas Berggren"
+    ]
+  },
+  {
+    "title": "Youre My Heart Youre My Soul",
+    "artist": "Modern Talking",
+    "date": "28.10.2025",
+    "time": "02:31",
+    "year": 1984,
+    "duration_ms": 229987,
+    "genre": "Pop",
+    "album": "The Very Best of Modern Talking",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Marcel Z Malého Mesta",
+    "artist": "Peter Nagy",
+    "date": "28.10.2025",
+    "time": "02:28",
+    "year": 2021,
+    "duration_ms": 195427,
+    "genre": "Pop",
+    "album": "Aj tak sme frajeri",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "I Don't Wanna Get Hurt",
+    "artist": "Donna Summer",
+    "date": "28.10.2025",
+    "time": "02:25",
+    "year": 1989,
+    "duration_ms": 208773,
+    "genre": "Pop",
+    "album": "Another Place & Time",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "Boli Sme Raz Milovaní",
+    "artist": "Habera Pavol",
+    "date": "28.10.2025",
+    "time": "02:21",
+    "year": 2000,
+    "duration_ms": 232293,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 5,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "One & One",
+    "artist": "Robert Miles/Maria Nayler",
+    "date": "28.10.2025",
+    "time": "02:17",
+    "year": 1996,
+    "duration_ms": 584747,
+    "genre": "Dance",
+    "album": "Deconstruction Reconstructed 019",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Vidiečan",
+    "artist": "Vidiek",
+    "date": "28.10.2025",
+    "time": "02:14",
+    "year": 1988,
+    "duration_ms": 221040,
+    "genre": "Pop",
+    "album": "Nechajte si ju!",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Kuric"
+    ]
+  },
+  {
+    "title": "Michaela",
+    "artist": "Hex",
+    "date": "28.10.2025",
+    "time": "02:10",
+    "year": 2002,
+    "duration_ms": 219027,
+    "genre": "Pop",
+    "album": "Vikend",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Wake Me Up Before You Go Go",
+    "artist": "Wham!",
+    "date": "28.10.2025",
+    "time": "02:05",
+    "year": 1984,
+    "duration_ms": 230667,
+    "genre": "Pop",
+    "album": "The Final: 14 Greatest Hits (Deluxe Bonus Videos Edition)",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Michael"
+    ]
+  },
+  {
+    "title": "Daddy Cool",
+    "artist": "Boney M",
+    "date": "28.10.2025",
+    "time": "02:02",
+    "year": 1976,
+    "duration_ms": 206086,
+    "genre": "R&B/Soul",
+    "album": "Daddy Cool",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Frank Farian",
+      "George Reyam"
+    ]
+  },
+  {
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "28.10.2025",
+    "time": "01:59",
+    "year": 1988,
+    "duration_ms": 198160,
+    "genre": "Pop",
+    "album": "Zlomky poznania",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Bailamos",
     "artist": "Enrique Iglesias",
     "date": "28.10.2025",
