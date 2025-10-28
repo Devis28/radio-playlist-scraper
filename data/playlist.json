@@ -1,5 +1,47 @@
 [
   {
+    "title": "Hey Jude",
+    "artist": "Beatles, The",
+    "date": "28.10.2025",
+    "time": "15:47",
+    "year": 1968,
+    "duration_ms": 431333,
+    "genre": "Rock",
+    "album": "The Beatles 1967-1970 (The Blue Album)",
+    "track_number": 13,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "date": "28.10.2025",
+    "time": "15:41",
+    "year": 1997,
+    "duration_ms": 265000,
+    "genre": "Pop",
+    "album": "Life Thru a Lens",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ]
+  },
+  {
+    "title": "Ľúbim Ťa",
+    "artist": "Michal Dočolomanský",
+    "date": "28.10.2025",
+    "time": "15:37",
+    "year": 2008,
+    "duration_ms": 231831,
+    "genre": "Pop",
+    "album": "14 naj",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Faith",
     "artist": "Michael George",
     "date": "28.10.2025",
