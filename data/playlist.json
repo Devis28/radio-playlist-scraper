@@ -1,5 +1,234 @@
 [
   {
+    "title": "Bailamos",
+    "artist": "Enrique Iglesias",
+    "date": "28.10.2025",
+    "time": "01:55",
+    "year": 1999,
+    "duration_ms": 212693,
+    "genre": "Latin",
+    "album": "Enrique",
+    "track_number": 10,
+    "artist_country_code": "ES",
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
+    "title": "Snad Jsem To Zavinil Já",
+    "artist": "Olympic",
+    "date": "28.10.2025",
+    "time": "01:52",
+    "year": 1965,
+    "duration_ms": 183200,
+    "genre": "Pop",
+    "album": "Best of 43 jasných hitových zpráv",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Be My Lover",
+    "artist": "La Bouche",
+    "date": "28.10.2025",
+    "time": "01:48",
+    "year": 1995,
+    "duration_ms": 240867,
+    "genre": "Pop",
+    "album": "La Bouche: Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Amir Saraf",
+      "Lane McCray",
+      "Melanie Thornton",
+      "Ulli Brenner"
+    ]
+  },
+  {
+    "title": "Tam Kde Sa Neumiera",
+    "artist": "Smatanová Zuzana",
+    "date": "28.10.2025",
+    "time": "01:44",
+    "year": 2003,
+    "duration_ms": 231611,
+    "genre": "Pop",
+    "album": "Entirely Good",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "It's A Sin",
+    "artist": "Pet Shop Boys",
+    "date": "28.10.2025",
+    "time": "01:39",
+    "year": 1987,
+    "duration_ms": 299253,
+    "genre": "Pop",
+    "album": "Actually (2018 Remaster)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Waka Waka (This Time For Africa)",
+    "artist": "Shakira & Freshlyground",
+    "date": "28.10.2025",
+    "time": "01:36",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": [
+      "John Hill",
+      "Shakira"
+    ]
+  },
+  {
+    "title": "Ty A Tvoja Sestra",
+    "artist": "No Name",
+    "date": "28.10.2025",
+    "time": "01:33",
+    "year": 2009,
+    "duration_ms": 203107,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "I Wanna Dance With Somebody",
+    "artist": "Whitney Houston",
+    "date": "28.10.2025",
+    "time": "01:28",
+    "year": 1987,
+    "duration_ms": 292875,
+    "genre": "R&B/Soul",
+    "album": "Whitney",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "George Merrill",
+      "Shannon Rubicam"
+    ]
+  },
+  {
+    "title": "Mama Preco Nie Som Pekna",
+    "artist": "Madam",
+    "date": "28.10.2025",
+    "time": "01:24",
+    "year": 2007,
+    "duration_ms": 269880,
+    "genre": "Pop",
+    "album": "GOLD Supermix",
+    "track_number": 12,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Lay Back In The Arms Of Someone",
+    "artist": "Smokie",
+    "date": "28.10.2025",
+    "time": "01:20",
+    "year": 1977,
+    "duration_ms": 244733,
+    "genre": "Rock",
+    "album": "The Best of Smokie",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "28.10.2025",
+    "time": "01:16",
+    "year": 1985,
+    "duration_ms": 228520,
+    "genre": "Pop",
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country_code": "NO",
+    "songwriters": [
+      "Magne Furuholmen",
+      "Morten Harket",
+      "Paul Waaktaar-Savoy"
+    ]
+  },
+  {
+    "title": "Tak Si So Mnou Opakuj",
+    "artist": "Gombitová Marika",
+    "date": "28.10.2025",
+    "time": "01:13",
+    "year": 1987,
+    "duration_ms": 209800,
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 11,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "True Colors",
+    "artist": "Phil Collins",
+    "date": "28.10.2025",
+    "time": "01:08",
+    "year": 1998,
+    "duration_ms": 274227,
+    "genre": "Rock",
+    "album": "The Singles (Deluxe Edition)",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Psi Sa Bránia Útokom",
+    "artist": "Nagy, Peter A Raz, Jozef",
+    "date": "28.10.2025",
+    "time": "01:05",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Killing Me Softly",
+    "artist": "The Fugees",
+    "date": "28.10.2025",
+    "time": "01:00",
+    "year": 2015,
+    "duration_ms": 204608,
+    "genre": "Hip-Hop/Rap",
+    "album": "Live at New Pop Festival (1996)",
+    "track_number": 8,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Woman In Love",
+    "artist": "Streisand Barbra",
+    "date": "28.10.2025",
+    "time": "00:57",
+    "year": 1980,
+    "duration_ms": 233400,
+    "genre": "Pop",
+    "album": "Guilty",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Kométa (Pre Gumpa)",
     "artist": "Desmod & Majself",
     "date": "28.10.2025",
