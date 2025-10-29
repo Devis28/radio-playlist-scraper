@@ -1,5 +1,77 @@
 [
   {
+    "title": "Infinity",
+    "artist": "Guru Josh",
+    "date": "29.10.2025",
+    "time": "15:34",
+    "year": 1989,
+    "duration_ms": 243693,
+    "genre": "Pop",
+    "album": "90s 100 Hits",
+    "track_number": 34,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Paul Walden"
+    ]
+  },
+  {
+    "title": "What A Wonderful World",
+    "artist": "Louis Armstrong",
+    "date": "29.10.2025",
+    "time": "15:28",
+    "year": 1967,
+    "duration_ms": 139434,
+    "genre": "Jazz",
+    "album": "What a Wonderful World",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Bob Thiele",
+      "George David Weiss"
+    ]
+  },
+  {
+    "title": "Hungry Eyes",
+    "artist": "Carmen, Eric",
+    "date": "29.10.2025",
+    "time": "15:26",
+    "year": 1987,
+    "duration_ms": 248427,
+    "genre": "Soundtrack",
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Bon Soir, Mademoiselle Paris",
+    "artist": "Shalom",
+    "date": "29.10.2025",
+    "time": "15:22",
+    "year": 2001,
+    "duration_ms": 288980,
+    "genre": "Pop",
+    "album": "Bon soir, mademoiselle Paris",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "One More Try",
+    "artist": "Timmy T",
+    "date": "29.10.2025",
+    "time": "15:14",
+    "year": 1990,
+    "duration_ms": 209427,
+    "genre": "Pop",
+    "album": "Time After Time",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Timmy T"
+    ]
+  },
+  {
     "title": "Stumblin' In",
     "artist": "Norman Chris & Quatro Suzi",
     "date": "29.10.2025",
