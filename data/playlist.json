@@ -1,5 +1,47 @@
 [
   {
+    "title": "Pieseň Pre Nesmelých",
+    "artist": "Team",
+    "date": "29.10.2025",
+    "time": "09:11",
+    "year": 1989,
+    "duration_ms": 270040,
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Yes Sir, I Can Boogie",
+    "artist": "Baccara",
+    "date": "29.10.2025",
+    "time": "09:06",
+    "year": 1977,
+    "duration_ms": 275200,
+    "genre": "Pop",
+    "album": "Baccara",
+    "track_number": 1,
+    "artist_country_code": "ES",
+    "songwriters": null
+  },
+  {
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "29.10.2025",
+    "time": "09:02",
+    "year": 1993,
+    "duration_ms": 255107,
+    "genre": "Pop",
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "track_number": 1,
+    "artist_country_code": "IE",
+    "songwriters": [
+      "Dolores O’Riordan",
+      "Noel Hogan"
+    ]
+  },
+  {
     "title": "Fuoco Nel Fuoco",
     "artist": "Ramazzotti Eros",
     "date": "29.10.2025",
