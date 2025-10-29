@@ -1,5 +1,44 @@
 [
   {
+    "title": "Come Back And Stay",
+    "artist": "Bad Boys Blue",
+    "date": "29.10.2025",
+    "time": "22:37",
+    "year": 1987,
+    "duration_ms": 247027,
+    "genre": "German Pop",
+    "album": "Super 20",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Nahý 2",
+    "artist": "Richard  Muller",
+    "date": "29.10.2025",
+    "time": "22:33",
+    "year": 2006,
+    "duration_ms": 300693,
+    "genre": "Pop",
+    "album": "Retro",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Unikát",
+    "artist": "Mária Čírová",
+    "date": "29.10.2025",
+    "time": "22:30",
+    "year": 2016,
+    "duration_ms": 206360,
+    "genre": "Pop",
+    "album": "Unikát - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Jump",
     "artist": "Van Halen",
     "date": "29.10.2025",
