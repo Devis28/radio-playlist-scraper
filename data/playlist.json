@@ -1,5 +1,73 @@
 [
   {
+    "title": "Ján Ámos Džínový",
+    "artist": "Metalinda",
+    "date": "29.10.2025",
+    "time": "18:29",
+    "year": 1990,
+    "duration_ms": 336968,
+    "genre": "Rock",
+    "album": "Metalinda",
+    "track_number": 11,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Všichni Jsou Už V Mexiku",
+    "artist": "Michal Tučný",
+    "date": "29.10.2025",
+    "time": "18:24",
+    "year": 1980,
+    "duration_ms": 257333,
+    "genre": "Traditional Country",
+    "album": "Jižanský Rok",
+    "track_number": 16,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Van Goghovo Ucho",
+    "artist": "Elán",
+    "date": "29.10.2025",
+    "time": "18:19",
+    "year": 1989,
+    "duration_ms": 355027,
+    "genre": "Rock",
+    "album": "Rabaka",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Malý Dům Nad Skálou",
+    "artist": "Věra Martinová",
+    "date": "29.10.2025",
+    "time": "18:16",
+    "year": 1989,
+    "duration_ms": 187000,
+    "genre": "Pop",
+    "album": "Jako Dřív (Zlatá Kolekce)",
+    "track_number": 22,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Michal Bukovič",
+      "Pavel Krejča"
+    ]
+  },
+  {
+    "title": "Je To Vo Hviezdach",
+    "artist": "Pavol Habera",
+    "date": "29.10.2025",
+    "time": "18:13",
+    "year": 1991,
+    "duration_ms": 198533,
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Školská Lavica",
     "artist": "Gombitová Marika",
     "date": "29.10.2025",
