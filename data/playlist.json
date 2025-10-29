@@ -1,5 +1,31 @@
 [
   {
+    "title": "Školská Lavica",
+    "artist": "Gombitová Marika",
+    "date": "29.10.2025",
+    "time": "18:06",
+    "year": 1983,
+    "duration_ms": 224013,
+    "genre": "Pop",
+    "album": "Mince na dne fontán",
+    "track_number": 15,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Dnes",
+    "artist": "Tublatanka",
+    "date": "29.10.2025",
+    "time": "18:01",
+    "year": 1987,
+    "duration_ms": 298893,
+    "genre": "Pop",
+    "album": "Skúsime to cez vesmír",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Ti Amo",
     "artist": "Umberto Tozzi",
     "date": "29.10.2025",
