@@ -1,5 +1,22 @@
 [
   {
+    "title": "Dancing Queen",
+    "artist": "Abba",
+    "date": "29.10.2025",
+    "time": "08:45",
+    "year": 1976,
+    "duration_ms": 231844,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
     "title": "Fading Like A Flower",
     "artist": "Roxette",
     "date": "29.10.2025",
