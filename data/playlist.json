@@ -1,5 +1,44 @@
 [
   {
+    "title": "Sha La La",
+    "artist": "Vengaboys",
+    "date": "29.10.2025",
+    "time": "21:43",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "NL",
+    "songwriters": null
+  },
+  {
+    "title": "Balla...Balla! (Italian Hit Connection)",
+    "artist": "Francesco Napoli",
+    "date": "29.10.2025",
+    "time": "21:39",
+    "year": 1988,
+    "duration_ms": 255391,
+    "genre": "Pop",
+    "album": "Balla..Balla!, Vol. 2 Italian Hit Connection - EP",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "29.10.2025",
+    "time": "21:35",
+    "year": 2020,
+    "duration_ms": 215615,
+    "genre": "Pop",
+    "album": "Kamarát - EP",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Kamaráti",
     "artist": "Elán",
     "date": "29.10.2025",
