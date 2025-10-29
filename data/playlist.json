@@ -1,5 +1,34 @@
 [
   {
+    "title": "Veľký Sen Mora",
+    "artist": "Modus",
+    "date": "29.10.2025",
+    "time": "12:49",
+    "year": 2005,
+    "duration_ms": 289613,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Boris Filan",
+      "Ján Lehotský"
+    ]
+  },
+  {
+    "title": "You Can't Hurry Love",
+    "artist": "Collins Phil",
+    "date": "29.10.2025",
+    "time": "12:46",
+    "year": 1982,
+    "duration_ms": 175747,
+    "genre": "Rock",
+    "album": "Hello, I Must Be Going! (Remastered)",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Preč, Preč",
     "artist": "Pavol Habera",
     "date": "29.10.2025",
