@@ -1,5 +1,31 @@
 [
   {
+    "title": "Dolce Vita",
+    "artist": "Paris Ryan",
+    "date": "29.10.2025",
+    "time": "20:35",
+    "year": 1990,
+    "duration_ms": 235707,
+    "genre": "Dance",
+    "album": "80s Hit News",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Slnko Nevychádzaj",
+    "artist": "Metalinda",
+    "date": "29.10.2025",
+    "time": "20:31",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Mám 300 Mesiacov",
     "artist": "Grigorov Robo",
     "date": "29.10.2025",
