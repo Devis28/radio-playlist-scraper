@@ -1,5 +1,31 @@
 [
   {
+    "title": "Fuoco Nel Fuoco",
+    "artist": "Ramazzotti Eros",
+    "date": "29.10.2025",
+    "time": "08:54",
+    "year": 2000,
+    "duration_ms": 241093,
+    "genre": "Pop",
+    "album": "Eros 30 (Deluxe Version)",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Biely Kvet",
+    "artist": "Miro Žbirka",
+    "date": "29.10.2025",
+    "time": "08:51",
+    "year": 2004,
+    "duration_ms": 256013,
+    "genre": "Worldwide",
+    "album": "Miro Zbirka: Live",
+    "track_number": 15,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Dancing Queen",
     "artist": "Abba",
     "date": "29.10.2025",
