@@ -1,5 +1,38 @@
 [
   {
+    "title": "Beds Are Burning",
+    "artist": "Midnight Oil",
+    "date": "29.10.2025",
+    "time": "05:54",
+    "year": 1987,
+    "duration_ms": 255680,
+    "genre": "Rock",
+    "album": "Diesel and Dust (2008 Remaster)",
+    "track_number": 1,
+    "artist_country_code": "AU",
+    "songwriters": [
+      "Jim Moginie",
+      "Peter Garrett",
+      "Rob Hirst"
+    ]
+  },
+  {
+    "title": "Moi...Lolita",
+    "artist": "Alizee",
+    "date": "29.10.2025",
+    "time": "05:49",
+    "year": 2000,
+    "duration_ms": 264283,
+    "genre": "French Pop",
+    "album": "Gourmandises",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
+  },
+  {
     "title": "Holding Out For A Hero",
     "artist": "Tyler Bonnie",
     "date": "29.10.2025",
