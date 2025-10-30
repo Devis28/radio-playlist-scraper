@@ -1,5 +1,31 @@
 [
   {
+    "title": "Ľúbim Ťa",
+    "artist": "Michal Dočolomanský",
+    "date": "30.10.2025",
+    "time": "18:47",
+    "year": 2008,
+    "duration_ms": 231831,
+    "genre": "Pop",
+    "album": "14 naj",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Motýl Admirál",
+    "artist": "Miro Žbirka",
+    "date": "30.10.2025",
+    "time": "18:44",
+    "year": 1983,
+    "duration_ms": 198027,
+    "genre": "Pop",
+    "album": "Roky a dni",
+    "track_number": 6,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Cas Sluhu",
     "artist": "Zoo & Jan Kalousek",
     "date": "30.10.2025",
