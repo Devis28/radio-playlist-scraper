@@ -1,5 +1,77 @@
 [
   {
+    "title": "One Moment In Time",
+    "artist": "Houston Whitney",
+    "date": "30.10.2025",
+    "time": "23:27",
+    "year": 1988,
+    "duration_ms": 283520,
+    "genre": "R&B/Soul",
+    "album": "The Ultimate Collection",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "Albert Hammond",
+      "John Bettis"
+    ]
+  },
+  {
+    "title": "Tam Kde Sa Neumiera",
+    "artist": "Smatanová Zuzana",
+    "date": "30.10.2025",
+    "time": "23:23",
+    "year": 2003,
+    "duration_ms": 231611,
+    "genre": "Pop",
+    "album": "Entirely Good",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "I'd Love You To Want Me",
+    "artist": "Lobo",
+    "date": "30.10.2025",
+    "time": "23:19",
+    "year": 1974,
+    "duration_ms": 248973,
+    "genre": "Pop",
+    "album": "I'd Love You To Want Me - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Lobo"
+    ]
+  },
+  {
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "date": "30.10.2025",
+    "time": "23:16",
+    "year": 1983,
+    "duration_ms": 253960,
+    "genre": "Rock",
+    "album": "Synchronicity (Remastered 2003)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Sting"
+    ]
+  },
+  {
+    "title": "V Piatok Podvečer",
+    "artist": "Hex",
+    "date": "30.10.2025",
+    "time": "23:12",
+    "year": 2002,
+    "duration_ms": 218120,
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "74 - 75",
     "artist": "The Connells",
     "date": "30.10.2025",
