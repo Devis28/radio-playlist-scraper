@@ -1,5 +1,31 @@
 [
   {
+    "title": "Voulez Vous",
+    "artist": "Abba",
+    "date": "30.10.2025",
+    "time": "22:48",
+    "year": 1979,
+    "duration_ms": 308401,
+    "genre": "Pop",
+    "album": "Voulez-Vous (Bonus Track Version)",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "30.10.2025",
+    "time": "22:44",
+    "year": 1992,
+    "duration_ms": 270373,
+    "genre": "Pop",
+    "album": "What Is Love - EP",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Up Where We Belong",
     "artist": "Cocker Joe/Jennifer Warnes",
     "date": "30.10.2025",
