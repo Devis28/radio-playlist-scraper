@@ -1,5 +1,46 @@
 [
   {
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "30.10.2025",
+    "time": "08:22",
+    "year": 1990,
+    "duration_ms": 372827,
+    "genre": "Pop",
+    "album": "Violator (Deluxe)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Martin L. Gore"
+    ]
+  },
+  {
+    "title": "Take A Chance On Me",
+    "artist": "Abba",
+    "date": "30.10.2025",
+    "time": "08:18",
+    "year": 1977,
+    "duration_ms": 245540,
+    "genre": "Pop",
+    "album": "ABBA: The Album",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Pábitelé",
+    "artist": "Gott Karel",
+    "date": "30.10.2025",
+    "time": "08:13",
+    "year": 1964,
+    "duration_ms": 184307,
+    "genre": "Pop",
+    "album": "42 Největších Hitů",
+    "track_number": 32,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Can't Take My Eyes Off You",
     "artist": "Gloria Gaynor",
     "date": "30.10.2025",
