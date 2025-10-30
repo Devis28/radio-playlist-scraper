@@ -1,5 +1,59 @@
 [
   {
+    "title": "74 - 75",
+    "artist": "The Connells",
+    "date": "30.10.2025",
+    "time": "23:08",
+    "year": 1993,
+    "duration_ms": 279107,
+    "genre": "Rock",
+    "album": "Ring (Deluxe Edition)",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Mike Connell"
+    ]
+  },
+  {
+    "title": "Forever Young",
+    "artist": "Alphaville",
+    "date": "30.10.2025",
+    "time": "23:04",
+    "year": 1984,
+    "duration_ms": 226706,
+    "genre": "Pop",
+    "album": "Forever Young",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Mám Krásny Sen (Hawaii)",
+    "artist": "Imt Smile",
+    "date": "30.10.2025",
+    "time": "23:01",
+    "year": 2008,
+    "duration_ms": 189787,
+    "genre": "Pop",
+    "album": "Hlava Ma Sedem Otvorov",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Don't Cry",
+    "artist": "Guns N Roses",
+    "date": "30.10.2025",
+    "time": "22:56",
+    "year": 1991,
+    "duration_ms": 283733,
+    "genre": "Hard Rock",
+    "album": "Use Your Illusion I",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Škandál",
     "artist": "Polemic",
     "date": "30.10.2025",
