@@ -1,5 +1,31 @@
 [
   {
+    "title": "L' Italiano",
+    "artist": "Toto Cutugno",
+    "date": "30.10.2025",
+    "time": "20:33",
+    "year": 1983,
+    "duration_ms": 236547,
+    "genre": "Pop",
+    "album": "L'italiano",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Keď Muž Miluje Ženu",
+    "artist": "Robo Opatovský",
+    "date": "30.10.2025",
+    "time": "20:29",
+    "year": 2017,
+    "duration_ms": 249240,
+    "genre": "Pop",
+    "album": "Keď Muž Miluje Ženu - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "The Great Commandment",
     "artist": "Camouflage",
     "date": "30.10.2025",
