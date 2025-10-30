@@ -1,5 +1,105 @@
 [
   {
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "30.10.2025",
+    "time": "09:40",
+    "year": 1992,
+    "duration_ms": 181186,
+    "genre": "Pop",
+    "album": "Chýbaš Mi...",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
+  },
+  {
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "30.10.2025",
+    "time": "09:37",
+    "year": 1975,
+    "duration_ms": 209360,
+    "genre": "Pop",
+    "album": "Paloma Blanca",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Tanečnice Z Lúčnice",
+    "artist": "Elán",
+    "date": "30.10.2025",
+    "time": "09:34",
+    "year": 1986,
+    "duration_ms": 170800,
+    "genre": "Rock",
+    "album": "Detektívka",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Ľudia Nie Sú Zlí",
+    "artist": "I.M.T. Smile",
+    "date": "30.10.2025",
+    "time": "09:31",
+    "year": 2002,
+    "duration_ms": 177333,
+    "genre": "Pop",
+    "album": "Valec Extra",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "date": "30.10.2025",
+    "time": "09:27",
+    "year": 1975,
+    "duration_ms": 278600,
+    "genre": "Rock",
+    "album": "Some Guys Have All the Luck",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Gavin Sutherland"
+    ]
+  },
+  {
+    "title": "Ži a nechaj žiť",
+    "artist": "Marika Gombitová",
+    "date": "30.10.2025",
+    "time": "09:22",
+    "year": 1987,
+    "duration_ms": 322293,
+    "genre": "Pop",
+    "album": "Ateliér duse",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "30.10.2025",
+    "time": "09:17",
+    "year": 2012,
+    "duration_ms": 229893,
+    "genre": "Dance",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": "CH",
+    "songwriters": [
+      "Daniel Peyer",
+      "Joe South",
+      "René Baumann"
+    ]
+  },
+  {
     "title": "We Will Rock You",
     "artist": "Queen",
     "date": "30.10.2025",
