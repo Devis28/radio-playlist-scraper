@@ -1,5 +1,31 @@
 [
   {
+    "title": "The Great Commandment",
+    "artist": "Camouflage",
+    "date": "30.10.2025",
+    "time": "20:26",
+    "year": 1988,
+    "duration_ms": 253267,
+    "genre": "Pop",
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Bonboniéra",
+    "artist": "Gladiátor",
+    "date": "30.10.2025",
+    "time": "20:23",
+    "year": 2006,
+    "duration_ms": 197000,
+    "genre": "Pop",
+    "album": "Mesto",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Voda Čo Ma Drží Nad Vodou",
     "artist": "Jožo Ráž",
     "date": "30.10.2025",
