@@ -1,5 +1,60 @@
 [
   {
+    "title": "Self Control",
+    "artist": "Branigan Laura",
+    "date": "30.10.2025",
+    "time": "22:25",
+    "year": 1984,
+    "duration_ms": 246440,
+    "genre": "Pop",
+    "album": "Self Control",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Len Sa Smej",
+    "artist": "Peter Bič Project",
+    "date": "30.10.2025",
+    "time": "22:23",
+    "year": 2023,
+    "duration_ms": 164897,
+    "genre": "Pop",
+    "album": "Len sa smej - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Malý Princ",
+    "artist": "Aya",
+    "date": "30.10.2025",
+    "time": "22:18",
+    "year": 2007,
+    "duration_ms": 250000,
+    "genre": "Rock",
+    "album": "Ale Ye Nám Dobre",
+    "track_number": 14,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Spoluhráčka",
+    "artist": "Modus",
+    "date": "30.10.2025",
+    "time": "22:15",
+    "year": 2005,
+    "duration_ms": 205947,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
     "title": "To Be With You",
     "artist": "Mr. Big",
     "date": "30.10.2025",
