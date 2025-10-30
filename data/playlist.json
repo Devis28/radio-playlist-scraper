@@ -1,5 +1,44 @@
 [
   {
+    "title": "Hej, Sokoly!",
+    "artist": "I.M.T. Smile & Ondrej Kandráč",
+    "date": "30.10.2025",
+    "time": "21:41",
+    "year": 2020,
+    "duration_ms": 167718,
+    "genre": "Pop",
+    "album": "AJ TO JE ŽIVOT (B – STRANA A RARITY) [LIVE]",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Alone",
+    "artist": "Heart",
+    "date": "30.10.2025",
+    "time": "21:38",
+    "year": 1987,
+    "duration_ms": 219293,
+    "genre": "Hard Rock",
+    "album": "Greatest Hits 1985-1995",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Can You Feel The Love Tonight",
+    "artist": "John, Elton",
+    "date": "30.10.2025",
+    "time": "21:34",
+    "year": 1994,
+    "duration_ms": 241907,
+    "genre": "Soundtrack",
+    "album": "The Lion King Collection (Deluxe Edition)",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Mama Kami",
     "artist": "Habera Pavol & Ibrahim Maiga",
     "date": "30.10.2025",
