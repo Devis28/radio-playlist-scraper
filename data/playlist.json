@@ -1,5 +1,102 @@
 [
   {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "30.10.2025",
+    "time": "10:19",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise (Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
+    "title": "Stay",
+    "artist": "Bonnie Bianco & Pierre Cosso",
+    "date": "30.10.2025",
+    "time": "10:15",
+    "year": 2008,
+    "duration_ms": 231598,
+    "genre": "Pop",
+    "album": "Stay",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Učiteľka Tanca",
+    "artist": "Pavol Hammel",
+    "date": "30.10.2025",
+    "time": "10:13",
+    "year": 1975,
+    "duration_ms": 155240,
+    "genre": "Alternative",
+    "album": "Hráč",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Neznáma",
+    "artist": "Palonder Marcel",
+    "date": "30.10.2025",
+    "time": "10:09",
+    "year": 1992,
+    "duration_ms": 244000,
+    "genre": "Pop",
+    "album": "Cudzinec v tvojom srdci",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Take On Me",
+    "artist": "A-Ha",
+    "date": "30.10.2025",
+    "time": "10:05",
+    "year": 1985,
+    "duration_ms": 228520,
+    "genre": "Pop",
+    "album": "Hunting High and Low (Deluxe Edition)",
+    "track_number": 1,
+    "artist_country_code": "NO",
+    "songwriters": [
+      "Magne Furuholmen",
+      "Morten Harket",
+      "Paul Waaktaar-Savoy"
+    ]
+  },
+  {
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "date": "30.10.2025",
+    "time": "10:02",
+    "year": 1960,
+    "duration_ms": 174800,
+    "genre": "R&B/Soul",
+    "album": "The Very Best of Ben E. King",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "30.10.2025",
+    "time": "10:00",
+    "year": 2001,
+    "duration_ms": 139747,
+    "genre": "Pop",
+    "album": "Vsechny Hity",
+    "track_number": 9,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Spending My Time",
     "artist": "Roxette",
     "date": "30.10.2025",
