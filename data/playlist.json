@@ -1,5 +1,44 @@
 [
   {
+    "title": "Voda Čo Ma Drží Nad Vodou",
+    "artist": "Jožo Ráž",
+    "date": "30.10.2025",
+    "time": "20:18",
+    "year": 2002,
+    "duration_ms": 309392,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Prútikár",
+    "artist": "Zuzana Smatanová & Richard Autner",
+    "date": "30.10.2025",
+    "time": "20:14",
+    "year": 2024,
+    "duration_ms": 244947,
+    "genre": "Pop",
+    "album": "Prútikár (feat. Richard Autner) - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Truly Madly Deeply",
+    "artist": "Savage Garden",
+    "date": "30.10.2025",
+    "time": "20:09",
+    "year": 1997,
+    "duration_ms": 277194,
+    "genre": "Pop",
+    "album": "Savage Garden",
+    "track_number": 3,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
     "title": "You're A Woman",
     "artist": "Bad Boys Blue",
     "date": "30.10.2025",
