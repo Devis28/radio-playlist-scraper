@@ -1,5 +1,65 @@
 [
   {
+    "title": "The Sound Of Silence",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "30.10.2025",
+    "time": "15:46",
+    "year": 1965,
+    "duration_ms": 190102,
+    "genre": "Folk-Rock",
+    "album": "Sounds of Silence",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Ulica",
+    "artist": "Elán",
+    "date": "30.10.2025",
+    "time": "15:43",
+    "year": 1982,
+    "duration_ms": 184880,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "date": "30.10.2025",
+    "time": "15:39",
+    "year": 1991,
+    "duration_ms": 275647,
+    "genre": "Rock",
+    "album": "Innuendo (Deluxe Edition)",
+    "track_number": 12,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Brian May",
+      "Freddie Mercury",
+      "John Deacon",
+      "Roger Taylor"
+    ]
+  },
+  {
+    "title": "Dievčatá",
+    "artist": "Modus",
+    "date": "30.10.2025",
+    "time": "15:36",
+    "year": 2005,
+    "duration_ms": 144240,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
     "title": "You Give Love A Bad Name",
     "artist": "Bon Jovi",
     "date": "30.10.2025",
