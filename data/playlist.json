@@ -1,5 +1,57 @@
 [
   {
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "date": "31.10.2025",
+    "time": "10:31",
+    "year": 1986,
+    "duration_ms": 249581,
+    "genre": "Hard Rock",
+    "album": "Slippery When Wet",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Trouba",
+    "artist": "Bilá Lucie",
+    "date": "31.10.2025",
+    "time": "10:27",
+    "year": 1998,
+    "duration_ms": 211897,
+    "genre": "Pop",
+    "album": "Platinum Collection",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "31.10.2025",
+    "time": "10:23",
+    "year": 2017,
+    "duration_ms": 319827,
+    "genre": "Pop",
+    "album": "Magic Reunion *Live*",
+    "track_number": 17,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Pieseň O Kamarátstve",
+    "artist": "Darina Rolincová",
+    "date": "31.10.2025",
+    "time": "10:20",
+    "year": 1988,
+    "duration_ms": 178987,
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Infinity",
     "artist": "Guru Josh",
     "date": "31.10.2025",
