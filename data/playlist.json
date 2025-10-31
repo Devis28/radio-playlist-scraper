@@ -1,5 +1,44 @@
 [
   {
+    "title": "Some Hearts Are Diamonds",
+    "artist": "Chris Norman",
+    "date": "31.10.2025",
+    "time": "11:43",
+    "year": 1986,
+    "duration_ms": 223733,
+    "genre": "Pop",
+    "album": "Some Hearts Are Diamonds",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Lady Carneval",
+    "artist": "Gott Karel",
+    "date": "31.10.2025",
+    "time": "11:40",
+    "year": 1987,
+    "duration_ms": 180227,
+    "genre": "Pop",
+    "album": "Lady Carneval",
+    "track_number": 24,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Here I Am",
+    "artist": "Adams, Bryan",
+    "date": "31.10.2025",
+    "time": "11:36",
+    "year": 2002,
+    "duration_ms": 284067,
+    "genre": "Soundtrack",
+    "album": "Spirit: Stallion of the Cimarron (Music from the Original Motion Picture)",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
     "title": "Big In Japan",
     "artist": "Alphaville",
     "date": "31.10.2025",
