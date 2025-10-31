@@ -1,5 +1,92 @@
 [
   {
+    "title": "It's A Sin",
+    "artist": "Pet Shop Boys",
+    "date": "31.10.2025",
+    "time": "21:08",
+    "year": 1987,
+    "duration_ms": 299253,
+    "genre": "Pop",
+    "album": "Actually (2018 Remaster)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Doctor Jones",
+    "artist": "Aqua",
+    "date": "31.10.2025",
+    "time": "21:04",
+    "year": 1997,
+    "duration_ms": 204600,
+    "genre": "Pop",
+    "album": "Doctor Jones",
+    "track_number": 1,
+    "artist_country_code": "DK",
+    "songwriters": [
+      "Anders Øland",
+      "Claus Norreen",
+      "René Dif",
+      "Søren Rasted"
+    ]
+  },
+  {
+    "title": "Chráň Svoje Bláznovstvá",
+    "artist": "Peter Nagy",
+    "date": "31.10.2025",
+    "time": "21:01",
+    "year": 1984,
+    "duration_ms": 169987,
+    "genre": "Pop",
+    "album": "Chrán svoje bláznovstvá",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Piccolo Amore",
+    "artist": "Ricchi E Poveri",
+    "date": "31.10.2025",
+    "time": "20:58",
+    "year": 1983,
+    "duration_ms": 198867,
+    "genre": "Pop",
+    "album": "Ricchi e Poveri: The Collection",
+    "track_number": 10,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Yes Sir, I Can Boogie",
+    "artist": "Baccara",
+    "date": "31.10.2025",
+    "time": "20:53",
+    "year": 1977,
+    "duration_ms": 275200,
+    "genre": "Pop",
+    "album": "Baccara",
+    "track_number": 1,
+    "artist_country_code": "ES",
+    "songwriters": null
+  },
+  {
+    "title": "Smalltown Boy",
+    "artist": "Bronski Beat",
+    "date": "31.10.2025",
+    "time": "20:49",
+    "year": 1984,
+    "duration_ms": 302413,
+    "genre": "Pop",
+    "album": "The Age of Consent (Bonus Tracks) [1996 Remaster]",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Jimmy Somerville",
+      "Larry Steinbachek",
+      "Steve Bronski"
+    ]
+  },
+  {
     "title": "Mumuland",
     "artist": "Kotvald Petr",
     "date": "31.10.2025",
