@@ -1,5 +1,44 @@
 [
   {
+    "title": "Až Sa Znova Narodím",
+    "artist": "Peter Nagy",
+    "date": "31.10.2025",
+    "time": "15:48",
+    "year": 1987,
+    "duration_ms": 152800,
+    "genre": "Pop",
+    "album": "\"Ale\"",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "C§est La Vie",
+    "artist": "Karel Gott",
+    "date": "31.10.2025",
+    "time": "15:44",
+    "year": 1965,
+    "duration_ms": 191507,
+    "genre": "Pop",
+    "album": "Hity Jaromíra Klempíře",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "I'll Stand By You",
+    "artist": "Pretenders, The",
+    "date": "31.10.2025",
+    "time": "15:40",
+    "year": 1994,
+    "duration_ms": 238827,
+    "genre": "Rock",
+    "album": "Last of the Independents",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "With Or Without You",
     "artist": "U2",
     "date": "31.10.2025",
