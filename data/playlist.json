@@ -1,5 +1,86 @@
 [
   {
+    "title": "Wild World",
+    "artist": "Mr. Big",
+    "date": "31.10.2025",
+    "time": "04:53",
+    "year": 1996,
+    "duration_ms": 208507,
+    "genre": "Hard Rock",
+    "album": "Big, Bigger, Biggest! The Best of Mr. Big",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "31.10.2025",
+    "time": "04:47",
+    "year": 1975,
+    "duration_ms": 355145,
+    "genre": "Rock",
+    "album": "The Platinum Collection",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Růže Z Papíru",
+    "artist": "Brontosauři",
+    "date": "31.10.2025",
+    "time": "04:45",
+    "year": 2001,
+    "duration_ms": 139747,
+    "genre": "Pop",
+    "album": "Vsechny Hity",
+    "track_number": 9,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Milovanie V Daždi",
+    "artist": "Richard Müller",
+    "date": "31.10.2025",
+    "time": "04:41",
+    "year": 1994,
+    "duration_ms": 266880,
+    "genre": "Pop",
+    "album": "Retro",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Too Many Broken Hearts",
+    "artist": "Donovan Jason",
+    "date": "31.10.2025",
+    "time": "04:37",
+    "year": 1989,
+    "duration_ms": 208373,
+    "genre": "Pop",
+    "album": "Too Many Broken Hearts",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Spending My Time",
+    "artist": "Roxette",
+    "date": "31.10.2025",
+    "time": "04:33",
+    "year": 1991,
+    "duration_ms": 275667,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Úsmev A Čaj",
     "artist": "I.M.T Smile & Smatanova Zuzana",
     "date": "31.10.2025",
