@@ -1,5 +1,48 @@
 [
   {
+    "title": "Kávu Si Osladím",
+    "artist": "Gott Karel",
+    "date": "31.10.2025",
+    "time": "06:42",
+    "year": 1972,
+    "duration_ms": 156347,
+    "genre": "Pop",
+    "album": "Má Píseň",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "(Everything I Do) I Do It For You",
+    "artist": "Adams Bryan",
+    "date": "31.10.2025",
+    "time": "06:38",
+    "year": 1998,
+    "duration_ms": 250000,
+    "genre": "Pop",
+    "album": "Never Say Never",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Bryan Adams",
+      "Michael Kamen",
+      "Robert John “Mutt” Lange"
+    ]
+  },
+  {
+    "title": "Love Is The Shield",
+    "artist": "Camouflage",
+    "date": "31.10.2025",
+    "time": "06:34",
+    "year": 1997,
+    "duration_ms": 236000,
+    "genre": "Pop",
+    "album": "Best of Camouflage: We Stroke the Flames",
+    "track_number": 9,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Lovesong",
     "artist": "Habera Pavol",
     "date": "31.10.2025",
