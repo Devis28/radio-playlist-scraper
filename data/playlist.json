@@ -1,5 +1,44 @@
 [
   {
+    "title": "You're The First, The Last,My Everything",
+    "artist": "Barry White",
+    "date": "31.10.2025",
+    "time": "17:52",
+    "year": 1974,
+    "duration_ms": 276467,
+    "genre": "R&B/Soul",
+    "album": "Can't Get Enough",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Korálky Od Natálky",
+    "artist": "Peter Nagy",
+    "date": "31.10.2025",
+    "time": "17:49",
+    "year": 1989,
+    "duration_ms": 196627,
+    "genre": "Pop",
+    "album": "Šachy robia človeka",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Za Dverami Mojej Izby",
+    "artist": "Beata Dubasová",
+    "date": "31.10.2025",
+    "time": "17:42",
+    "year": 1990,
+    "duration_ms": 303903,
+    "genre": "Pop",
+    "album": "Za dverami mojej izby",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Girls Just Wanna Have Fun",
     "artist": "Cyndi Lauper",
     "date": "31.10.2025",
