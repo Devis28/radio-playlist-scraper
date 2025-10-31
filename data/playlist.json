@@ -1,5 +1,81 @@
 [
   {
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "31.10.2025",
+    "time": "21:28",
+    "year": 1987,
+    "duration_ms": 241400,
+    "genre": "Pop",
+    "album": "E.S.P.",
+    "track_number": 2,
+    "artist_country_code": "AU",
+    "songwriters": [
+      "Barry Gibb",
+      "Maurice Gibb",
+      "Robin Gibb"
+    ]
+  },
+  {
+    "title": "María",
+    "artist": "Ricky Martin",
+    "date": "31.10.2025",
+    "time": "21:23",
+    "year": 1995,
+    "duration_ms": 271267,
+    "genre": "Pop",
+    "album": "Ricky Martin",
+    "track_number": 14,
+    "artist_country_code": "PR",
+    "songwriters": null
+  },
+  {
+    "title": "The Look Of Love",
+    "artist": "Abc",
+    "date": "31.10.2025",
+    "time": "21:20",
+    "year": 2016,
+    "duration_ms": 209893,
+    "genre": "Pop",
+    "album": "Christmas… With Love - EP",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Believe",
+    "artist": "Cher",
+    "date": "31.10.2025",
+    "time": "21:16",
+    "year": 1998,
+    "duration_ms": 239027,
+    "genre": "Pop",
+    "album": "Believe",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Brian Higgins",
+      "Matt Gray",
+      "Paul Barry",
+      "Steve Torch",
+      "Stuart McLennan",
+      "Tim Powell"
+    ]
+  },
+  {
+    "title": "Hafanana [Voodoo Up Mix]",
+    "artist": "Simone, Afric",
+    "date": "31.10.2025",
+    "time": "21:13",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "It's A Sin",
     "artist": "Pet Shop Boys",
     "date": "31.10.2025",
