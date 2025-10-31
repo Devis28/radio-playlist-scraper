@@ -1,5 +1,216 @@
 [
   {
+    "title": "Marcel Z Malého Mesta",
+    "artist": "Peter Nagy",
+    "date": "31.10.2025",
+    "time": "01:50",
+    "year": 2021,
+    "duration_ms": 195427,
+    "genre": "Pop",
+    "album": "Aj tak sme frajeri",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "31.10.2025",
+    "time": "01:46",
+    "year": 2003,
+    "duration_ms": 237880,
+    "genre": "Pop",
+    "album": "9",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sempre Sempre",
+    "artist": "Al Bano & Romina Power",
+    "date": "31.10.2025",
+    "time": "01:42",
+    "year": 2017,
+    "duration_ms": 236800,
+    "genre": "Pop",
+    "album": "Magic Reunion *Live*",
+    "track_number": 15,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Kočka",
+    "artist": "Elán",
+    "date": "31.10.2025",
+    "time": "01:38",
+    "year": 1998,
+    "duration_ms": 374027,
+    "genre": "Pop",
+    "album": "Kocka - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Ak Nie Si Moja",
+    "artist": "Patejdl, Vaso",
+    "date": "31.10.2025",
+    "time": "01:34",
+    "year": 1986,
+    "duration_ms": 252013,
+    "genre": "Pop",
+    "album": "Fontána pre Zuzanu (Dvaja)",
+    "track_number": 13,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Modrá",
+    "artist": "Kirschner Jana",
+    "date": "31.10.2025",
+    "time": "01:29",
+    "year": 2000,
+    "duration_ms": 250907,
+    "genre": "Pop",
+    "album": "V Cudzom Meste",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jana Kirschner"
+    ]
+  },
+  {
+    "title": "Nothing's Gonna Stop Me Now",
+    "artist": "Samantha Fox",
+    "date": "31.10.2025",
+    "time": "01:26",
+    "year": 1987,
+    "duration_ms": 225147,
+    "genre": "Pop",
+    "album": "Samantha Fox",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "Kto Z Nás Dvoch Sa Lásky Opýta?",
+    "artist": "Team",
+    "date": "31.10.2025",
+    "time": "01:22",
+    "year": 1988,
+    "duration_ms": 242413,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "31.10.2025",
+    "time": "01:18",
+    "year": 1995,
+    "duration_ms": 213956,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
+  },
+  {
+    "title": "Nič Nie Je Isté",
+    "artist": "Imt Smile",
+    "date": "31.10.2025",
+    "time": "01:14",
+    "year": 2003,
+    "duration_ms": 241160,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 11,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Quit Playing Games (With My Heart)",
+    "artist": "Backstreet Boys",
+    "date": "31.10.2025",
+    "time": "01:10",
+    "year": 1996,
+    "duration_ms": 232667,
+    "genre": "Pop",
+    "album": "Backstreet Boys",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Herbie Crichlow",
+      "Max Martin"
+    ]
+  },
+  {
+    "title": "I Want To Break Free",
+    "artist": "Queen",
+    "date": "31.10.2025",
+    "time": "01:06",
+    "year": 1984,
+    "duration_ms": 201082,
+    "genre": "Rock",
+    "album": "The Works (Deluxe Edition)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "John Deacon"
+    ]
+  },
+  {
+    "title": "Zamilovaná",
+    "artist": "Filipová Lenka",
+    "date": "31.10.2025",
+    "time": "01:03",
+    "year": 1980,
+    "duration_ms": 172800,
+    "genre": "Pop",
+    "album": "1982-92",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Keď To Nejde",
+    "artist": "Zdenka Predná",
+    "date": "31.10.2025",
+    "time": "00:59",
+    "year": 2007,
+    "duration_ms": 192608,
+    "genre": "Pop",
+    "album": "Zdenka Predná",
+    "track_number": 5,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "31.10.2025",
+    "time": "00:56",
+    "year": 1995,
+    "duration_ms": 284310,
+    "genre": "Pop",
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Michael Jackson"
+    ]
+  },
+  {
     "title": "Eye Of The Tiger",
     "artist": "Survivor",
     "date": "31.10.2025",
