@@ -1,5 +1,98 @@
 [
   {
+    "title": "Knoflíky Lásky",
+    "artist": "Iveta Bartošová & Petr Sepéši",
+    "date": "31.10.2025",
+    "time": "05:35",
+    "year": 1984,
+    "duration_ms": 188387,
+    "genre": "Pop",
+    "album": "Knoflíky Lásky",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Mandy",
+    "artist": "Manilow Barry",
+    "date": "31.10.2025",
+    "time": "05:31",
+    "year": 1974,
+    "duration_ms": 213333,
+    "genre": "Vocal",
+    "album": "Barry Manilow II",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Secret Love",
+    "artist": "The Bee Gees",
+    "date": "31.10.2025",
+    "time": "05:28",
+    "year": 1991,
+    "duration_ms": 222800,
+    "genre": "Pop",
+    "album": "High Civilization",
+    "track_number": 2,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Mám, Kým Nemám",
+    "artist": "Elán",
+    "date": "31.10.2025",
+    "time": "05:24",
+    "year": 1983,
+    "duration_ms": 232613,
+    "genre": "Rock",
+    "album": "Elán 3",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "date": "31.10.2025",
+    "time": "05:21",
+    "year": 1960,
+    "duration_ms": 174800,
+    "genre": "R&B/Soul",
+    "album": "The Very Best of Ben E. King",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "In The Heat Of The Night",
+    "artist": "Sandra",
+    "date": "31.10.2025",
+    "time": "05:18",
+    "year": 1985,
+    "duration_ms": 301933,
+    "genre": "R&B/Soul",
+    "album": "18 Greatest Hits: Sandra",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "31.10.2025",
+    "time": "05:13",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise (Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
     "title": "I Was Made For Loving You",
     "artist": "Kiss",
     "date": "31.10.2025",
