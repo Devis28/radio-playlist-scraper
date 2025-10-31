@@ -1,5 +1,49 @@
 [
   {
+    "title": "Requiem",
+    "artist": "London Boys",
+    "date": "31.10.2025",
+    "time": "23:39",
+    "year": 1988,
+    "duration_ms": 259867,
+    "genre": "Pop",
+    "album": "The Twelve Commandments of Dance",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Ralf-Rene Maue"
+    ]
+  },
+  {
+    "title": "Eldorado",
+    "artist": "Goombay Dance Band",
+    "date": "31.10.2025",
+    "time": "23:35",
+    "year": 1980,
+    "duration_ms": 265500,
+    "genre": "Pop",
+    "album": "Land of Gold",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Take A Chance On Me",
+    "artist": "Erasure",
+    "date": "31.10.2025",
+    "time": "23:31",
+    "year": 1992,
+    "duration_ms": 226080,
+    "genre": "Pop",
+    "album": "Abba-Esque - EP",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ]
+  },
+  {
     "title": "I'm Still Standing",
     "artist": "Elton John",
     "date": "31.10.2025",
