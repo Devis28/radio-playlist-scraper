@@ -1,5 +1,48 @@
 [
   {
+    "title": "Where Is The Love/We Used To Know/",
+    "artist": "Delegation",
+    "date": "31.10.2025",
+    "time": "21:39",
+    "year": 1977,
+    "duration_ms": 237084,
+    "genre": "R&B/Soul",
+    "album": "Where Is the Love (We Used to Know) - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Honey Honey",
+    "artist": "Abba",
+    "date": "31.10.2025",
+    "time": "21:36",
+    "year": 1974,
+    "duration_ms": 175147,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits (40th Anniversary Edition)",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Stig Anderson"
+    ]
+  },
+  {
+    "title": "Alane     (Todd Terry Remix)",
+    "artist": "Wes",
+    "date": "31.10.2025",
+    "time": "21:32",
+    "year": 1997,
+    "duration_ms": 220107,
+    "genre": "Worldwide",
+    "album": "Alane - EP",
+    "track_number": 1,
+    "artist_country_code": "CM",
+    "songwriters": null
+  },
+  {
     "title": "You Win Again",
     "artist": "The Bee Gees",
     "date": "31.10.2025",
