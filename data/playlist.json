@@ -1,5 +1,46 @@
 [
   {
+    "title": "Čakám Ťa, Láska",
+    "artist": "Elán",
+    "date": "31.10.2025",
+    "time": "12:24",
+    "year": 2015,
+    "duration_ms": 277000,
+    "genre": "Pop",
+    "album": "Hodiny Nehy",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Living On My Own",
+    "artist": "Mercury Freddie",
+    "date": "31.10.2025",
+    "time": "12:21",
+    "year": 1985,
+    "duration_ms": 217159,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Freddie Mercury"
+    ]
+  },
+  {
+    "title": "Sen",
+    "artist": "Mc Erik And Barbara",
+    "date": "31.10.2025",
+    "time": "12:17",
+    "year": 1996,
+    "duration_ms": 218427,
+    "genre": "Pop",
+    "album": "Second",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Dej Mi Víc Své Lásky",
     "artist": "Olympic",
     "date": "31.10.2025",
