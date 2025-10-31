@@ -1,5 +1,57 @@
 [
   {
+    "title": "All That She Wants",
+    "artist": "Ace Of Base",
+    "date": "31.10.2025",
+    "time": "13:15",
+    "year": 1992,
+    "duration_ms": 211213,
+    "genre": "Pop",
+    "album": "The Sign (2015 Remastered Version)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Reklama Na Ticho",
+    "artist": "Team",
+    "date": "31.10.2025",
+    "time": "13:09",
+    "year": 1988,
+    "duration_ms": 222427,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "31.10.2025",
+    "time": "13:06",
+    "year": 1995,
+    "duration_ms": 169400,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Wind Of Change",
+    "artist": "The Scorpions",
+    "date": "31.10.2025",
+    "time": "13:01",
+    "year": 1990,
+    "duration_ms": 312360,
+    "genre": "Hard Rock",
+    "album": "Crazy World",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Fuoco Nel Fuoco",
     "artist": "Ramazzotti Eros",
     "date": "31.10.2025",
