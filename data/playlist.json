@@ -1,5 +1,49 @@
 [
   {
+    "title": "To Je Naše Věc",
+    "artist": "David Michal Bartošová Iveta",
+    "date": "31.10.2025",
+    "time": "16:41",
+    "year": 2021,
+    "duration_ms": 230846,
+    "genre": "Pop",
+    "album": "Moje zapomenuté ploužáky 2",
+    "track_number": 17,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Over The Rainbow/What A Wonderful World",
+    "artist": "Israel",
+    "date": "31.10.2025",
+    "time": "16:36",
+    "year": 1990,
+    "duration_ms": 241360,
+    "genre": "Worldwide",
+    "album": "Ka 'Ano'i",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Bob Thiele",
+      "George David Weiss",
+      "Harold Arlen",
+      "Yip Harburg"
+    ]
+  },
+  {
+    "title": "Tancujem S Tebou Rád",
+    "artist": "Karol Duchoň",
+    "date": "31.10.2025",
+    "time": "16:33",
+    "year": 1976,
+    "duration_ms": 191960,
+    "genre": "Pop",
+    "album": "Čardáš dvoch sŕdc",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Slnko Nevychádzaj",
     "artist": "Metalinda",
     "date": "31.10.2025",
