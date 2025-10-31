@@ -1,5 +1,78 @@
 [
   {
+    "title": "Girls Just Wanna Have Fun",
+    "artist": "Cyndi Lauper",
+    "date": "31.10.2025",
+    "time": "17:38",
+    "year": 1983,
+    "duration_ms": 224510,
+    "genre": "Pop",
+    "album": "80s 100 Hits",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Robert Hazard"
+    ]
+  },
+  {
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "31.10.2025",
+    "time": "17:32",
+    "year": 1992,
+    "duration_ms": 394528,
+    "genre": "Pop",
+    "album": "Keep the Faith",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
+  },
+  {
+    "title": "Já Budu Chodit Po Špičkách",
+    "artist": "Novák Petr",
+    "date": "31.10.2025",
+    "time": "17:28",
+    "year": 1986,
+    "duration_ms": 141027,
+    "genre": "Pop",
+    "album": "12 Nej",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Voyage Voyage",
+    "artist": "Desirelles",
+    "date": "31.10.2025",
+    "time": "17:24",
+    "year": 1980,
+    "duration_ms": 264585,
+    "genre": "French Pop",
+    "album": "François",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Kým Ťa Mám",
+    "artist": "Grigorov Robo",
+    "date": "31.10.2025",
+    "time": "17:20",
+    "year": 2006,
+    "duration_ms": 261107,
+    "genre": "Pop",
+    "album": "Balady",
+    "track_number": 23,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Roman Guryča",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
     "title": "Sometimes",
     "artist": "Erasure",
     "date": "31.10.2025",
