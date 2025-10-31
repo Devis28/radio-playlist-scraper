@@ -1,5 +1,48 @@
 [
   {
+    "title": "Dance With Me",
+    "artist": "Alphaville",
+    "date": "31.10.2025",
+    "time": "22:23",
+    "year": 1986,
+    "duration_ms": 240933,
+    "genre": "Pop",
+    "album": "First Harvest 1984-1992",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Bernhard Lloyd",
+      "Marian Gold",
+      "Ricky Echolette"
+    ]
+  },
+  {
+    "title": "Sha La La",
+    "artist": "Vengaboys",
+    "date": "31.10.2025",
+    "time": "22:19",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "NL",
+    "songwriters": null
+  },
+  {
+    "title": "The Grease Megamix",
+    "artist": "Grease",
+    "date": "31.10.2025",
+    "time": "22:14",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Ave Maria",
     "artist": "Rush Jennifer",
     "date": "31.10.2025",
