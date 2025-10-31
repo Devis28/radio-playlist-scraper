@@ -1,5 +1,31 @@
 [
   {
+    "title": "Freedom",
+    "artist": "Wham!",
+    "date": "31.10.2025",
+    "time": "21:46",
+    "year": 1984,
+    "duration_ms": 318827,
+    "genre": "Pop",
+    "album": "Haynes Ultimate Guide to 80s",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Preč, Preč",
+    "artist": "Pavol Habera",
+    "date": "31.10.2025",
+    "time": "21:43",
+    "year": 1995,
+    "duration_ms": 224493,
+    "genre": "Rock",
+    "album": "Habera 2",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Where Is The Love/We Used To Know/",
     "artist": "Delegation",
     "date": "31.10.2025",
