@@ -1,5 +1,31 @@
 [
   {
+    "title": "Dvere",
+    "artist": "Zuzana Smatanová",
+    "date": "01.11.2025",
+    "time": "00:29",
+    "year": 2011,
+    "duration_ms": 192467,
+    "genre": "Pop",
+    "album": "Dvere",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Only You",
+    "artist": "Yazoo",
+    "date": "01.11.2025",
+    "time": "00:26",
+    "year": 1982,
+    "duration_ms": 173547,
+    "genre": "Pop",
+    "album": "Only You - Single",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Keď Odchádzajú Lásky",
     "artist": "Richard Müller",
     "date": "01.11.2025",
