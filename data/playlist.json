@@ -1,5 +1,31 @@
 [
   {
+    "title": "La Primavera",
+    "artist": "Sash!",
+    "date": "31.10.2025",
+    "time": "20:35",
+    "year": 1998,
+    "duration_ms": 191933,
+    "genre": "Dance",
+    "album": "The Best Of",
+    "track_number": 4,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Kúp Mi Knihu",
+    "artist": "Miro Žbirka",
+    "date": "31.10.2025",
+    "time": "20:31",
+    "year": 1986,
+    "duration_ms": 241027,
+    "genre": "Pop",
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "track_number": 3,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "There's A Party",
     "artist": "Dj Bobo",
     "date": "31.10.2025",
