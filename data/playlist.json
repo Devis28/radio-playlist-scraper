@@ -1,5 +1,73 @@
 [
   {
+    "title": "Veselá Pesnička",
+    "artist": "I.M.T. Smile",
+    "date": "01.11.2025",
+    "time": "14:11",
+    "year": 2002,
+    "duration_ms": 175240,
+    "genre": "Pop",
+    "album": "Valec Extra",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Spomaľ",
+    "artist": "Peha",
+    "date": "01.11.2025",
+    "time": "14:06",
+    "year": 2005,
+    "duration_ms": 254413,
+    "genre": "Pop",
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Prvá Láska",
+    "artist": "Ráž Jožo",
+    "date": "01.11.2025",
+    "time": "14:02",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": [
+      "Boris Filan",
+      "Vašo Patejdl"
+    ]
+  },
+  {
+    "title": "Keď Sme Sami",
+    "artist": "Hex",
+    "date": "01.11.2025",
+    "time": "13:57",
+    "year": 2013,
+    "duration_ms": 250920,
+    "genre": "Pop",
+    "album": "Keď Sme Sami - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "My To Zvladnem",
+    "artist": "Iveta Bartosova & Petr Sepesi",
+    "date": "01.11.2025",
+    "time": "13:55",
+    "year": 1984,
+    "duration_ms": 148773,
+    "genre": "Pop",
+    "album": "Knoflíky Lásky",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Veľký Sen Mora",
     "artist": "Modus",
     "date": "01.11.2025",
