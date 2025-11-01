@@ -1,5 +1,31 @@
 [
   {
+    "title": "Wouldnt It Be Good",
+    "artist": "Kershaw Nik",
+    "date": "01.11.2025",
+    "time": "22:43",
+    "year": 1983,
+    "duration_ms": 277053,
+    "genre": "Pop",
+    "album": "Human Racing",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "I Was Made For Loving You",
+    "artist": "Kiss",
+    "date": "01.11.2025",
+    "time": "22:38",
+    "year": 2022,
+    "duration_ms": 372867,
+    "genre": "Rock",
+    "album": "KISS Off The Soundboard: Live In Virginia Beach",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Sky",
     "artist": "Sonique",
     "date": "01.11.2025",
