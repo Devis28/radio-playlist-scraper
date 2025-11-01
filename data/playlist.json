@@ -1,5 +1,33 @@
 [
   {
+    "title": "Jó Tresne Zraly",
+    "artist": "Matuška Waldemar",
+    "date": "01.11.2025",
+    "time": "19:54",
+    "year": 1965,
+    "duration_ms": 233240,
+    "genre": "Pop",
+    "album": "Textempore (Písně s texty Ivo Fischera)",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Nebude To Ľahké",
+    "artist": "Müller Richard",
+    "date": "01.11.2025",
+    "time": "19:50",
+    "year": 1992,
+    "duration_ms": 233573,
+    "genre": "Pop",
+    "album": "Neuc Vtaka Lietat!",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": [
+      "Richard Müller"
+    ]
+  },
+  {
     "title": "Jasná Zpráva",
     "artist": "Olympic",
     "date": "01.11.2025",
