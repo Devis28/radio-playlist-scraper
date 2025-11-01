@@ -1,5 +1,31 @@
 [
   {
+    "title": "Bosorka",
+    "artist": "Elán",
+    "date": "01.11.2025",
+    "time": "07:55",
+    "year": 1991,
+    "duration_ms": 235000,
+    "genre": "Rock",
+    "album": "Legenda 3",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "V Slovenských Dolinách",
+    "artist": "Duchoň Karol",
+    "date": "01.11.2025",
+    "time": "07:52",
+    "year": 2006,
+    "duration_ms": 161480,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 20,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Milionár",
     "artist": "Balogh Berco",
     "date": "01.11.2025",
