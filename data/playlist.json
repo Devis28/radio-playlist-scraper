@@ -1,5 +1,48 @@
 [
   {
+    "title": "The Tide Is High",
+    "artist": "Blondie",
+    "date": "01.11.2025",
+    "time": "22:30",
+    "year": 1980,
+    "duration_ms": 280267,
+    "genre": "Pop",
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Howard Barrett",
+      "John Holt",
+      "Tyrone Evans"
+    ]
+  },
+  {
+    "title": "Over My Shoulder",
+    "artist": "Mike & The Mechanics",
+    "date": "01.11.2025",
+    "time": "22:26",
+    "year": 1995,
+    "duration_ms": 217200,
+    "genre": "Pop",
+    "album": "Beggar On A Beach Of Gold",
+    "track_number": 5,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "I Love Rock 'n' Roll",
+    "artist": "Joan Jett",
+    "date": "01.11.2025",
+    "time": "22:23",
+    "year": 1993,
+    "duration_ms": 177787,
+    "genre": "Rock",
+    "album": "Bad Reputation (Music from the Original Motion Picture)",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Where Do You Go",
     "artist": "No Mercy",
     "date": "01.11.2025",
