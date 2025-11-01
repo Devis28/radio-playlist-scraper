@@ -1,5 +1,44 @@
 [
   {
+    "title": "Baby Baby",
+    "artist": "Corona",
+    "date": "01.11.2025",
+    "time": "20:07",
+    "year": 1994,
+    "duration_ms": 228013,
+    "genre": "Dance",
+    "album": "The Rhythm of the Night",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "You Can Win If You Want",
+    "artist": "Modern Talking",
+    "date": "01.11.2025",
+    "time": "20:03",
+    "year": 1985,
+    "duration_ms": 227880,
+    "genre": "Pop",
+    "album": "You're My Heart, You're My Soul",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Voda Čo Ma Drží Nad Vodou",
+    "artist": "Jožo Ráž",
+    "date": "01.11.2025",
+    "time": "19:58",
+    "year": 2002,
+    "duration_ms": 309392,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Jó Tresne Zraly",
     "artist": "Matuška Waldemar",
     "date": "01.11.2025",
