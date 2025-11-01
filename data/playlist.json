@@ -1,5 +1,103 @@
 [
   {
+    "title": "The Bomb! (These Sounds Fall Into My Mind)",
+    "artist": "The Bucketheads",
+    "date": "01.11.2025",
+    "time": "22:09",
+    "year": 1995,
+    "duration_ms": 202934,
+    "genre": "Dance",
+    "album": "All In the Mind",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Danny Seraphine",
+      "David “Hawk” Wolinski",
+      "Kenny “Dope” Gonzalez"
+    ]
+  },
+  {
+    "title": "Flashdance ( What A Feeling )",
+    "artist": "Cara Irene",
+    "date": "01.11.2025",
+    "time": "22:05",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "She Wants To Dance With Me",
+    "artist": "Astley Rick",
+    "date": "01.11.2025",
+    "time": "22:01",
+    "year": 1987,
+    "duration_ms": 198880,
+    "genre": "Pop",
+    "album": "Hold Me in Your Arms (2023 Remaster)",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Lay Back In The Arms Of Someone",
+    "artist": "Smokie",
+    "date": "01.11.2025",
+    "time": "21:57",
+    "year": 1977,
+    "duration_ms": 244733,
+    "genre": "Rock",
+    "album": "The Best of Smokie",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mike Chapman",
+      "Nicky Chinn"
+    ]
+  },
+  {
+    "title": "I'm Outta Love",
+    "artist": "Anastacia",
+    "date": "01.11.2025",
+    "time": "21:54",
+    "year": 2000,
+    "duration_ms": 242960,
+    "genre": "Pop",
+    "album": "Not That Kind",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "The Time Of My Life",
+    "artist": "Jennifer Warnes/Bill Medley",
+    "date": "01.11.2025",
+    "time": "21:48",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Happy People",
+    "artist": "Prince Ital Joe Feat.Marky Mark",
+    "date": "01.11.2025",
+    "time": "21:45",
+    "year": 1994,
+    "duration_ms": 238467,
+    "genre": "Pop",
+    "album": "Life In the Streets",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Gimme Hope Jo'anna",
     "artist": "Grant Eddy",
     "date": "01.11.2025",
