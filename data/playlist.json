@@ -1,5 +1,76 @@
 [
   {
+    "title": "Go West",
+    "artist": "Village People, The",
+    "date": "01.11.2025",
+    "time": "21:15",
+    "year": 1979,
+    "duration_ms": 250880,
+    "genre": "Pop",
+    "album": "Go West In the Navy",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Heartbreak Hotel",
+    "artist": "C.C. Catch",
+    "date": "01.11.2025",
+    "time": "21:11",
+    "year": 1986,
+    "duration_ms": 215800,
+    "genre": "Pop",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Things Can Only Get Better",
+    "artist": "D Ream",
+    "date": "01.11.2025",
+    "time": "21:07",
+    "year": 1993,
+    "duration_ms": 245771,
+    "genre": "Pop",
+    "album": "Things Can Only Get Better",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Pretty Young Girl",
+    "artist": "Bad Boys Blue",
+    "date": "01.11.2025",
+    "time": "21:04",
+    "year": 1985,
+    "duration_ms": 346507,
+    "genre": "Pop",
+    "album": "Super 20",
+    "track_number": 10,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Karin van Haaren",
+      "Tony Hendrik"
+    ]
+  },
+  {
+    "title": "Sorry, I'm A Lady",
+    "artist": "Baccara",
+    "date": "01.11.2025",
+    "time": "21:00",
+    "year": 1977,
+    "duration_ms": 217027,
+    "genre": "Pop",
+    "album": "Baccara: The Original Hits",
+    "track_number": 4,
+    "artist_country_code": "ES",
+    "songwriters": [
+      "Frank Dostal",
+      "Rolf Soja"
+    ]
+  },
+  {
     "title": "Break My Stride",
     "artist": "Matthew Wilder",
     "date": "01.11.2025",
