@@ -1,5 +1,74 @@
 [
   {
+    "title": "Snídane V Tráve",
+    "artist": "Tucný Michal",
+    "date": "01.11.2025",
+    "time": "15:30",
+    "year": 2015,
+    "duration_ms": 178120,
+    "genre": "Traditional Country",
+    "album": "Snídaně V Trávě",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Ešte Váham",
+    "artist": "Kristína",
+    "date": "01.11.2025",
+    "time": "15:26",
+    "year": 2020,
+    "duration_ms": 232452,
+    "genre": "Pop",
+    "album": "Kristína: TIE NAJ (Album verzia)",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Braňo Jančich",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Duhová Víla",
+    "artist": "Zagorová Hana&Rezek Petr",
+    "date": "01.11.2025",
+    "time": "15:23",
+    "year": 1995,
+    "duration_ms": 169400,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Nie Sme Zlí",
+    "artist": "Elán",
+    "date": "01.11.2025",
+    "time": "15:19",
+    "year": 1982,
+    "duration_ms": 244307,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 11,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Hlupák Váhá",
+    "artist": "Katapult",
+    "date": "01.11.2025",
+    "time": "15:16",
+    "year": 2007,
+    "duration_ms": 182360,
+    "genre": "Rock",
+    "album": "Grand Greatest Hits (Výběr)",
+    "track_number": 5,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Ja Viem",
     "artist": "Grigorov Robo",
     "date": "01.11.2025",
