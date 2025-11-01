@@ -1,5 +1,86 @@
 [
   {
+    "title": "You Are The One",
+    "artist": "A-Ha",
+    "date": "01.11.2025",
+    "time": "23:23",
+    "year": 1988,
+    "duration_ms": 231573,
+    "genre": "Pop",
+    "album": "Stay On These Roads",
+    "track_number": 9,
+    "artist_country_code": "NO",
+    "songwriters": [
+      "Magne Furuholmen",
+      "Mags",
+      "Paul Waaktaar-Savoy"
+    ]
+  },
+  {
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "01.11.2025",
+    "time": "23:20",
+    "year": 2001,
+    "duration_ms": 196160,
+    "genre": "Pop in Spanish",
+    "album": "Laundry Service",
+    "track_number": 3,
+    "artist_country_code": "CO",
+    "songwriters": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ]
+  },
+  {
+    "title": "Love Really Hurts Without You",
+    "artist": "Billy Ocean",
+    "date": "01.11.2025",
+    "time": "23:17",
+    "year": 1976,
+    "duration_ms": 178640,
+    "genre": "Electronica",
+    "album": "Love Really Hurts Without You (The Greatest Hits of Billy Ocean)",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Ben Findon",
+      "Billy Ocean"
+    ]
+  },
+  {
+    "title": "Čaba Neblázni",
+    "artist": "Elán",
+    "date": "01.11.2025",
+    "time": "23:12",
+    "year": 2016,
+    "duration_ms": 266927,
+    "genre": "Pop",
+    "album": "Živých Nás Nedostanú (Extended Version)",
+    "track_number": 26,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Boom Boom Boom Boom",
+    "artist": "Vengaboys",
+    "date": "01.11.2025",
+    "time": "23:09",
+    "year": 1998,
+    "duration_ms": 202583,
+    "genre": "Pop",
+    "album": "Boom, Boom, Boom, Boom!! - Single",
+    "track_number": 1,
+    "artist_country_code": "NL",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus",
+      "Dennis van der Driesschen",
+      "Wessel van Diepen"
+    ]
+  },
+  {
     "title": "Heaven Is A Place On Earth",
     "artist": "Belinda Carlisle",
     "date": "01.11.2025",
