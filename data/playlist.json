@@ -1,5 +1,31 @@
 [
   {
+    "title": "Slave To The Music",
+    "artist": "Twenty 4 Seven",
+    "date": "01.11.2025",
+    "time": "22:53",
+    "year": 1993,
+    "duration_ms": 244067,
+    "genre": "Dance",
+    "album": "Slave to the Music",
+    "track_number": 1,
+    "artist_country_code": "NL",
+    "songwriters": null
+  },
+  {
+    "title": "Sunchyme",
+    "artist": "Dario G",
+    "date": "01.11.2025",
+    "time": "22:49",
+    "year": 1998,
+    "duration_ms": 379200,
+    "genre": "Pop",
+    "album": "Sunmachine",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Slnečný Kalendár",
     "artist": "Marika Gombitová",
     "date": "01.11.2025",
