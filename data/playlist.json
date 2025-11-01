@@ -1,5 +1,77 @@
 [
   {
+    "title": "Tlaková Níž",
+    "artist": "Banket",
+    "date": "01.11.2025",
+    "time": "17:18",
+    "year": 1986,
+    "duration_ms": 282613,
+    "genre": "Pop",
+    "album": "Bioelektrovízia",
+    "track_number": 4,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Štrasser",
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Až Jednou",
+    "artist": "Shalom",
+    "date": "01.11.2025",
+    "time": "17:13",
+    "year": 2012,
+    "duration_ms": 303933,
+    "genre": "Pop",
+    "album": "Platinum",
+    "track_number": 14,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Petr Hons",
+      "Petr Kučera",
+      "Petr Muk"
+    ]
+  },
+  {
+    "title": "Kým Stúpa Dym",
+    "artist": "I.M.T. Smile",
+    "date": "01.11.2025",
+    "time": "17:09",
+    "year": 2003,
+    "duration_ms": 277120,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Dnes Už Viem",
+    "artist": "Pavol Hammel",
+    "date": "01.11.2025",
+    "time": "17:05",
+    "year": 2011,
+    "duration_ms": 209533,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Aj Keď Bez Peňazí",
+    "artist": "Elán",
+    "date": "01.11.2025",
+    "time": "17:01",
+    "year": 1982,
+    "duration_ms": 227560,
+    "genre": "Rock",
+    "album": "Nie sme zlí",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Klára",
     "artist": "Chinaski",
     "date": "01.11.2025",
