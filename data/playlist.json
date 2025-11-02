@@ -1,5 +1,62 @@
 [
   {
+    "title": "Je To Vo Hviezdach",
+    "artist": "Pavol Habera",
+    "date": "02.11.2025",
+    "time": "17:39",
+    "year": 1991,
+    "duration_ms": 198533,
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Mám Jednu Ruku Dlouhou",
+    "artist": "Buty",
+    "date": "02.11.2025",
+    "time": "17:35",
+    "year": 2003,
+    "duration_ms": 271107,
+    "genre": "Pop",
+    "album": "Butykvariát",
+    "track_number": 12,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Radek Pastrňák"
+    ]
+  },
+  {
+    "title": "Poďme Sa Zachrániť",
+    "artist": "Peter Nagy",
+    "date": "02.11.2025",
+    "time": "17:31",
+    "year": 2011,
+    "duration_ms": 224307,
+    "genre": "Pop",
+    "album": "Singles (1984-1988)",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Spoluhráčka",
+    "artist": "Modus",
+    "date": "02.11.2025",
+    "time": "17:28",
+    "year": 2005,
+    "duration_ms": 205947,
+    "genre": "Pop",
+    "album": "GOLD",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Ján Lehotský",
+      "Kamil Peteraj"
+    ]
+  },
+  {
     "title": "Lásko Voníš Deštem",
     "artist": "Marie Rottrová",
     "date": "02.11.2025",
