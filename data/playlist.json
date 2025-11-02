@@ -1,5 +1,20 @@
 [
   {
+    "title": "I Want To Break Free",
+    "artist": "Queen",
+    "date": "02.11.2025",
+    "time": "20:45",
+    "year": 1984,
+    "duration_ms": 201082,
+    "genre": "Rock",
+    "album": "The Works (Deluxe Edition)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "John Deacon"
+    ]
+  },
+  {
     "title": "Heart Of Glass",
     "artist": "Blondie",
     "date": "02.11.2025",
