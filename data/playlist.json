@@ -1,5 +1,160 @@
 [
   {
+    "title": "Se Bastasse Una Canzone",
+    "artist": "Ramazzotti Eros",
+    "date": "02.11.2025",
+    "time": "04:37",
+    "year": 1987,
+    "duration_ms": 323867,
+    "genre": "Pop",
+    "album": "Eros",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": [
+      "Adelio Cogliati",
+      "Eros Ramazzotti",
+      "Piero Cassano"
+    ]
+  },
+  {
+    "title": "Niekto Ako Kráľ",
+    "artist": "Imt Smile",
+    "date": "02.11.2025",
+    "time": "04:34",
+    "year": 2006,
+    "duration_ms": 207533,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 20,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Heal The World",
+    "artist": "Jackson, Michael",
+    "date": "02.11.2025",
+    "time": "04:29",
+    "year": 1991,
+    "duration_ms": 385713,
+    "genre": "Pop",
+    "album": "The Essential Michael Jackson",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Spočítaj Ma",
+    "artist": "Richard Müller",
+    "date": "02.11.2025",
+    "time": "04:24",
+    "year": 2006,
+    "duration_ms": 275653,
+    "genre": "Pop",
+    "album": "Výberovka",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Jaroslav Filip",
+      "Richard Müller"
+    ]
+  },
+  {
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles",
+    "date": "02.11.2025",
+    "time": "04:21",
+    "year": 1969,
+    "duration_ms": 185733,
+    "genre": "Rock",
+    "album": "Abbey Road (Remastered)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "George Harrison"
+    ]
+  },
+  {
+    "title": "Eternal Flame",
+    "artist": "The Bangles",
+    "date": "02.11.2025",
+    "time": "04:17",
+    "year": 2001,
+    "duration_ms": 240160,
+    "genre": "Pop",
+    "album": "Eternal Flame: The Best of Bangles",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Daj Ruku Do Mojej Ruky",
+    "artist": "Smatanová Zuzana",
+    "date": "02.11.2025",
+    "time": "04:14",
+    "year": 2009,
+    "duration_ms": 184930,
+    "genre": "Pop",
+    "album": "Gemini",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "This Used To Be My Playground",
+    "artist": "Madonna",
+    "date": "02.11.2025",
+    "time": "04:08",
+    "year": 1992,
+    "duration_ms": 310267,
+    "genre": "Pop",
+    "album": "Something to Remember",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Hungry Eyes",
+    "artist": "Carmen, Eric",
+    "date": "02.11.2025",
+    "time": "04:04",
+    "year": 1987,
+    "duration_ms": 248427,
+    "genre": "Soundtrack",
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "The Rhythm Divine",
+    "artist": "Iglesias Enrique",
+    "date": "02.11.2025",
+    "time": "04:00",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": [
+      "Mark Taylor",
+      "Paul Barry"
+    ]
+  },
+  {
+    "title": "Candle In The Wind",
+    "artist": "Elton John",
+    "date": "02.11.2025",
+    "time": "03:57",
+    "year": 1973,
+    "duration_ms": 251883,
+    "genre": "Rock",
+    "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe Edition) [2014 Remaster]",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Školská Lavica",
     "artist": "Gombitová Marika",
     "date": "02.11.2025",
