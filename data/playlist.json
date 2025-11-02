@@ -1,5 +1,31 @@
 [
   {
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "02.11.2025",
+    "time": "18:48",
+    "year": 1992,
+    "duration_ms": 278000,
+    "genre": "Pop",
+    "album": "Hit Album",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "V Piatok Podvečer",
+    "artist": "Hex",
+    "date": "02.11.2025",
+    "time": "18:45",
+    "year": 2002,
+    "duration_ms": 218120,
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "C�est La Vie",
     "artist": "Miro Zbirka",
     "date": "02.11.2025",
