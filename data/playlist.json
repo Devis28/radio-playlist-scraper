@@ -1,5 +1,36 @@
 [
   {
+    "title": "V Sieti Ťa Mám",
+    "artist": "Kristína",
+    "date": "02.11.2025",
+    "time": "11:38",
+    "year": 2010,
+    "duration_ms": 221000,
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Kristína",
+      "Marián Kavulič",
+      "Martin Kavulič"
+    ]
+  },
+  {
+    "title": "Pábitelé",
+    "artist": "Gott Karel",
+    "date": "02.11.2025",
+    "time": "11:35",
+    "year": 1964,
+    "duration_ms": 184307,
+    "genre": "Pop",
+    "album": "42 Největších Hitů",
+    "track_number": 32,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Slnko Nevychádzaj",
     "artist": "Metalinda",
     "date": "02.11.2025",
