@@ -1,5 +1,76 @@
 [
   {
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "03.11.2025",
+    "time": "00:51",
+    "year": 2001,
+    "duration_ms": 182773,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
+    "title": "Angels",
+    "artist": "Robbie Williams",
+    "date": "03.11.2025",
+    "time": "00:47",
+    "year": 1997,
+    "duration_ms": 265000,
+    "genre": "Pop",
+    "album": "Life Thru a Lens",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Guy Chambers",
+      "Robbie Williams"
+    ]
+  },
+  {
+    "title": "Len Sa Smej",
+    "artist": "Peter Bič Project",
+    "date": "03.11.2025",
+    "time": "00:44",
+    "year": 2023,
+    "duration_ms": 164897,
+    "genre": "Pop",
+    "album": "Len sa smej - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Kingston Town",
+    "artist": "Ub 40",
+    "date": "03.11.2025",
+    "time": "00:40",
+    "year": 1989,
+    "duration_ms": 230000,
+    "genre": "Rock",
+    "album": "The Very Best Of",
+    "track_number": 6,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Everybody Hurts",
+    "artist": "R.E.M.",
+    "date": "03.11.2025",
+    "time": "00:35",
+    "year": 1992,
+    "duration_ms": 320351,
+    "genre": "Alternative",
+    "album": "Automatic For The People",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Keď Muž Miluje Ženu",
     "artist": "Robo Opatovský",
     "date": "03.11.2025",
