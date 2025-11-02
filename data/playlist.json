@@ -1,5 +1,319 @@
 [
   {
+    "title": "Horúca Láska",
+    "artist": "Lukáš Adamec",
+    "date": "02.11.2025",
+    "time": "02:24",
+    "year": 2017,
+    "duration_ms": 208147,
+    "genre": "Indie Pop",
+    "album": "Lukáš Adamec",
+    "track_number": 9,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Memory",
+    "artist": "Barbra Streisand",
+    "date": "02.11.2025",
+    "time": "02:20",
+    "year": 1981,
+    "duration_ms": 233280,
+    "genre": "Vocal",
+    "album": "Barbra Streisand: The Ultimate Collection",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Andrew Lloyd Webber",
+      "T. S. Eliot",
+      "Trevor Nunn"
+    ]
+  },
+  {
+    "title": "La Isla Bonita",
+    "artist": "Madonna",
+    "date": "02.11.2025",
+    "time": "02:17",
+    "year": 1986,
+    "duration_ms": 242947,
+    "genre": "Pop",
+    "album": "Celebration (Deluxe Version)",
+    "track_number": 21,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Bruce Gaitsch",
+      "Madonna",
+      "Patrick Leonard"
+    ]
+  },
+  {
+    "title": "Tri Štvrte Na Jeseň",
+    "artist": "Vašo Patejdl",
+    "date": "02.11.2025",
+    "time": "02:12",
+    "year": 1986,
+    "duration_ms": 298267,
+    "genre": "Pop",
+    "album": "Chlapcenský úsmev",
+    "track_number": 11,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Big Big World",
+    "artist": "Emilia",
+    "date": "02.11.2025",
+    "time": "02:08",
+    "year": 1998,
+    "duration_ms": 205467,
+    "genre": "Pop",
+    "album": "Big Big World",
+    "track_number": 2,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Wonderful Life",
+    "artist": "Black",
+    "date": "02.11.2025",
+    "time": "02:03",
+    "year": 1986,
+    "duration_ms": 287933,
+    "genre": "Rock",
+    "album": "Wonderful Life",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Colin Vearncombe"
+    ]
+  },
+  {
+    "title": "Perfect Day",
+    "artist": "Duran Duran",
+    "date": "02.11.2025",
+    "time": "01:59",
+    "year": 1995,
+    "duration_ms": 230933,
+    "genre": "Pop",
+    "album": "Thank You",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Lady In Black",
+    "artist": "Uriah Heep",
+    "date": "02.11.2025",
+    "time": "01:55",
+    "year": 1970,
+    "duration_ms": 282307,
+    "genre": "Rock",
+    "album": "The Best of... Pt. 1",
+    "track_number": 3,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Az Raz Budem Ucitelkou",
+    "artist": "Rolincova Darinka",
+    "date": "02.11.2025",
+    "time": "01:52",
+    "year": 1988,
+    "duration_ms": 189827,
+    "genre": "Children’s Music",
+    "album": "Keby som bola princezná Arabela",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "02.11.2025",
+    "time": "01:47",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise (Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
+    "title": "The Power Of Love",
+    "artist": "Rush Jennifer",
+    "date": "02.11.2025",
+    "time": "01:41",
+    "year": 1984,
+    "duration_ms": 361231,
+    "genre": "Rock",
+    "album": "Jennifer Rush",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Gunther Mende",
+      "Jennifer Rush",
+      "Mary Applegate",
+      "Wolfgang Detmann"
+    ]
+  },
+  {
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "date": "02.11.2025",
+    "time": "01:37",
+    "year": 1995,
+    "duration_ms": 284310,
+    "genre": "Pop",
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Michael Jackson"
+    ]
+  },
+  {
+    "title": "Right Here Waiting",
+    "artist": "Marx Richard",
+    "date": "02.11.2025",
+    "time": "01:33",
+    "year": 1989,
+    "duration_ms": 262733,
+    "genre": "Adult Contemporary",
+    "album": "Greatest Hits",
+    "track_number": 16,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Môj Starý Dobrý Kabát",
+    "artist": "Tublatanka",
+    "date": "02.11.2025",
+    "time": "01:30",
+    "year": 1988,
+    "duration_ms": 197013,
+    "genre": "Pop",
+    "album": "Zeravé znamenie osudu",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Love Of My Life",
+    "artist": "Queen",
+    "date": "02.11.2025",
+    "time": "01:26",
+    "year": 2018,
+    "duration_ms": 268703,
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 10,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Anjel",
+    "artist": "Komajota",
+    "date": "02.11.2025",
+    "time": "01:24",
+    "year": 2007,
+    "duration_ms": 186613,
+    "genre": "Worldwide",
+    "album": "Casopriestor",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Always",
+    "artist": "Bon Jovi",
+    "date": "02.11.2025",
+    "time": "01:18",
+    "year": 1994,
+    "duration_ms": 353027,
+    "genre": "Pop",
+    "album": "Cross Road",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
+  },
+  {
+    "title": "Pierko pravdy",
+    "artist": "Beáta Dubasová",
+    "date": "02.11.2025",
+    "time": "01:15",
+    "year": 2023,
+    "duration_ms": 190000,
+    "genre": "Pop",
+    "album": "Pierko pravdy - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Wild World",
+    "artist": "Mr. Big",
+    "date": "02.11.2025",
+    "time": "01:11",
+    "year": 1996,
+    "duration_ms": 208507,
+    "genre": "Hard Rock",
+    "album": "Big, Bigger, Biggest! The Best of Mr. Big",
+    "track_number": 7,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "date": "02.11.2025",
+    "time": "01:07",
+    "year": 1986,
+    "duration_ms": 310333,
+    "genre": "Hard Rock",
+    "album": "The Final Countdown (Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Joey Tempest"
+    ]
+  },
+  {
+    "title": "The Winner Takes It All",
+    "artist": "Abba",
+    "date": "02.11.2025",
+    "time": "01:02",
+    "year": 1980,
+    "duration_ms": 295280,
+    "genre": "Pop",
+    "album": "ABBA Gold: Greatest Hits (40th Anniversary Edition)",
+    "track_number": 8,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ]
+  },
+  {
+    "title": "No Milk Today",
+    "artist": "Herman's Hermits",
+    "date": "02.11.2025",
+    "time": "00:59",
+    "year": 1967,
+    "duration_ms": 174333,
+    "genre": "Pop",
+    "album": "A's, B's & EP's",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Graham Gouldman"
+    ]
+  },
+  {
     "title": "Return To Innocence",
     "artist": "Enigma",
     "date": "02.11.2025",
