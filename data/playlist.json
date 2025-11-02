@@ -1,5 +1,31 @@
 [
   {
+    "title": "Angel",
+    "artist": "Shaggy",
+    "date": "02.11.2025",
+    "time": "21:50",
+    "year": 2000,
+    "duration_ms": 235133,
+    "genre": "Pop",
+    "album": "Hot Shot",
+    "track_number": 6,
+    "artist_country_code": "JM",
+    "songwriters": null
+  },
+  {
+    "title": "Celebration",
+    "artist": "Kool & The Gang",
+    "date": "02.11.2025",
+    "time": "21:45",
+    "year": 1980,
+    "duration_ms": 298867,
+    "genre": "R&B/Soul",
+    "album": "Celebrate!",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Gimme Gimme Gimme A Man After Midnight",
     "artist": "Abba",
     "date": "02.11.2025",
