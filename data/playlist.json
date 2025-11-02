@@ -1,5 +1,33 @@
 [
   {
+    "title": "Walking On Sunshine",
+    "artist": "Katrina And The Waves",
+    "date": "02.11.2025",
+    "time": "20:53",
+    "year": 1985,
+    "duration_ms": 241427,
+    "genre": "Pop",
+    "album": "Anthology",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Kimberley Rew"
+    ]
+  },
+  {
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "02.11.2025",
+    "time": "20:49",
+    "year": 1992,
+    "duration_ms": 270373,
+    "genre": "Pop",
+    "album": "What Is Love - EP",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "I Want To Break Free",
     "artist": "Queen",
     "date": "02.11.2025",
