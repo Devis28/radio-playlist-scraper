@@ -1,5 +1,57 @@
 [
   {
+    "title": "Cherish",
+    "artist": "Madonna",
+    "date": "02.11.2025",
+    "time": "23:10",
+    "year": 1989,
+    "duration_ms": 303493,
+    "genre": "Pop",
+    "album": "Like a Prayer",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Captain Jack",
+    "artist": "Captain Jack",
+    "date": "02.11.2025",
+    "time": "23:05",
+    "year": 1996,
+    "duration_ms": 248533,
+    "genre": "Dance",
+    "album": "The 90's Mega Party",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Felicita",
+    "artist": "Bano Al & Power Romina",
+    "date": "02.11.2025",
+    "time": "23:02",
+    "year": 1982,
+    "duration_ms": 191538,
+    "genre": "Pop",
+    "album": "Felicità",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Nároční",
+    "artist": "Team",
+    "date": "02.11.2025",
+    "time": "22:57",
+    "year": 1988,
+    "duration_ms": 310507,
+    "genre": "Pop",
+    "album": "Team",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Bailando",
     "artist": "Loona",
     "date": "02.11.2025",
