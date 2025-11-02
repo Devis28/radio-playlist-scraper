@@ -1,5 +1,60 @@
 [
   {
+    "title": "Umenie Žiť",
+    "artist": "Patejdl Vašo",
+    "date": "02.11.2025",
+    "time": "18:29",
+    "year": 1987,
+    "duration_ms": 273933,
+    "genre": "Pop",
+    "album": "Lov na city",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": [
+      "Vašo Patejdl",
+      "Ľuboš Zeman"
+    ]
+  },
+  {
+    "title": "Mám Krásny Sen (Hawaii)",
+    "artist": "Imt Smile",
+    "date": "02.11.2025",
+    "time": "18:26",
+    "year": 2008,
+    "duration_ms": 189787,
+    "genre": "Pop",
+    "album": "Hlava Ma Sedem Otvorov",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Dej Mi Víc Své Lásky",
+    "artist": "Olympic",
+    "date": "02.11.2025",
+    "time": "18:23",
+    "year": 1965,
+    "duration_ms": 173307,
+    "genre": "Rock",
+    "album": "Best of 43 jasných hitových zpráv",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Spoločne",
+    "artist": "Rolincová Darina",
+    "date": "02.11.2025",
+    "time": "18:20",
+    "year": 1985,
+    "duration_ms": 180257,
+    "genre": "Pop",
+    "album": "Darinka",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Miss Moskva",
     "artist": "Korn Jiří",
     "date": "02.11.2025",
