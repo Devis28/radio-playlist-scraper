@@ -1,5 +1,65 @@
 [
   {
+    "title": "Comment Te Dire Adieu",
+    "artist": "Somerville Jimmy & June Miles Kingston",
+    "date": "02.11.2025",
+    "time": "21:25",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": [
+      "Arnold Goland",
+      "Jack Gold",
+      "Serge Gainsbourg"
+    ]
+  },
+  {
+    "title": "Torn",
+    "artist": "Imbruglia Natalie",
+    "date": "02.11.2025",
+    "time": "21:21",
+    "year": 1997,
+    "duration_ms": 244667,
+    "genre": "Pop",
+    "album": "Left of the Middle",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Anne Preven",
+      "Phil Thornalley",
+      "Scott Cutler"
+    ]
+  },
+  {
+    "title": "Summer Nights",
+    "artist": "Olivia Newton John & John Travolta",
+    "date": "02.11.2025",
+    "time": "21:17",
+    "year": 1978,
+    "duration_ms": 215333,
+    "genre": "Musicals",
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "I Should Be So Lucky",
+    "artist": "Minogue Kylie",
+    "date": "02.11.2025",
+    "time": "21:14",
+    "year": 1987,
+    "duration_ms": 204128,
+    "genre": "Pop",
+    "album": "Kylie",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Is It Love",
     "artist": "Twenty 4 Seven",
     "date": "02.11.2025",
