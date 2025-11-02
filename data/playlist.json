@@ -1,5 +1,31 @@
 [
   {
+    "title": "Som On (Snežný Pluh)",
+    "artist": "Hex",
+    "date": "02.11.2025",
+    "time": "08:38",
+    "year": 1997,
+    "duration_ms": 262867,
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Bez Lásky Láska Není",
+    "artist": "Zelenková Jitka",
+    "date": "02.11.2025",
+    "time": "08:34",
+    "year": 1980,
+    "duration_ms": 269667,
+    "genre": "Pop",
+    "album": "Bez Lásky Láska Není",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Dvaja",
     "artist": "Grigorov Robo",
     "date": "02.11.2025",
