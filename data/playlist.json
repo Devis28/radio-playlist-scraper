@@ -1,5 +1,44 @@
 [
   {
+    "title": "Kdyz Se Narodime",
+    "artist": "Jitka Zelenkova",
+    "date": "02.11.2025",
+    "time": "09:42",
+    "year": 1998,
+    "duration_ms": 193200,
+    "genre": "Pop",
+    "album": "Bez Lásky Láska Není",
+    "track_number": 16,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Dievča Amerika",
+    "artist": "Habera Pavol",
+    "date": "02.11.2025",
+    "time": "09:38",
+    "year": 1995,
+    "duration_ms": 250427,
+    "genre": "Pop",
+    "album": "The Best Of",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Za Tebou",
+    "artist": "Peha",
+    "date": "02.11.2025",
+    "time": "09:34",
+    "year": 2005,
+    "duration_ms": 236680,
+    "genre": "Pop",
+    "album": "Donekonečna (The Best Of 1997-2010)",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Jesenná Láska",
     "artist": "Žbirka Miro",
     "date": "02.11.2025",
