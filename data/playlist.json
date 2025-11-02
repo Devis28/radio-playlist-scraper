@@ -1,5 +1,47 @@
 [
   {
+    "title": "Livin' La Vida Loca",
+    "artist": "Ricky Martin",
+    "date": "02.11.2025",
+    "time": "21:36",
+    "year": 1999,
+    "duration_ms": 243160,
+    "genre": "Pop",
+    "album": "Ricky Martin",
+    "track_number": 1,
+    "artist_country_code": "PR",
+    "songwriters": null
+  },
+  {
+    "title": "The Big L.",
+    "artist": "Roxette",
+    "date": "02.11.2025",
+    "time": "21:32",
+    "year": 1991,
+    "duration_ms": 265733,
+    "genre": "Pop",
+    "album": "Joyride (30th Anniversary Edition)",
+    "track_number": 8,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "02.11.2025",
+    "time": "21:28",
+    "year": 1995,
+    "duration_ms": 221187,
+    "genre": "Dance",
+    "album": "The Bridge (Remastered)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "John Ballard",
+      "Jonas Berggren"
+    ]
+  },
+  {
     "title": "Comment Te Dire Adieu",
     "artist": "Somerville Jimmy & June Miles Kingston",
     "date": "02.11.2025",
