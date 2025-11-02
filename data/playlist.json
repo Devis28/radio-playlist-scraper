@@ -1,5 +1,31 @@
 [
   {
+    "title": "Nahý 2",
+    "artist": "Richard  Muller",
+    "date": "02.11.2025",
+    "time": "15:34",
+    "year": 2006,
+    "duration_ms": 300693,
+    "genre": "Pop",
+    "album": "Retro",
+    "track_number": 12,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Já Se Vznáším",
+    "artist": "Hana Zagorová",
+    "date": "02.11.2025",
+    "time": "15:30",
+    "year": 1995,
+    "duration_ms": 188560,
+    "genre": "Pop",
+    "album": "Perly Hany Zagorové (2CD Set)",
+    "track_number": 7,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Nechodí",
     "artist": "Miro Žbirka",
     "date": "02.11.2025",
