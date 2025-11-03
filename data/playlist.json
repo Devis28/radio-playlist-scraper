@@ -1,5 +1,110 @@
 [
   {
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "03.11.2025",
+    "time": "05:43",
+    "year": 1983,
+    "duration_ms": 244707,
+    "genre": "Soundtrack",
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Dennis Matkosky",
+      "Michael Sembello"
+    ]
+  },
+  {
+    "title": "You Came",
+    "artist": "Wilde Kim",
+    "date": "03.11.2025",
+    "time": "05:40",
+    "year": 1988,
+    "duration_ms": 209133,
+    "genre": "Pop",
+    "album": "Close (Remastered Expanded Edition)",
+    "track_number": 15,
+    "artist_country_code": null,
+    "songwriters": [
+      "Kim Wilde",
+      "Ricky Wilde"
+    ]
+  },
+  {
+    "title": "Je Jaká Je",
+    "artist": "Karel Gott",
+    "date": "03.11.2025",
+    "time": "05:36",
+    "year": 1969,
+    "duration_ms": 230827,
+    "genre": "Pop",
+    "album": "'76 (Bonus Track Version)",
+    "track_number": 11,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Because You Loved Me",
+    "artist": "Céline Dion",
+    "date": "03.11.2025",
+    "time": "05:31",
+    "year": 1996,
+    "duration_ms": 274573,
+    "genre": "Pop",
+    "album": "My Love - Essential Collection",
+    "track_number": 9,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "date": "03.11.2025",
+    "time": "05:28",
+    "year": 1983,
+    "duration_ms": 253960,
+    "genre": "Rock",
+    "album": "Synchronicity (Remastered 2003)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Sting"
+    ]
+  },
+  {
+    "title": "El Condor Pasa",
+    "artist": "Simon Paul & Garfunkel Art",
+    "date": "03.11.2025",
+    "time": "05:24",
+    "year": 1970,
+    "duration_ms": 188595,
+    "genre": "Pop",
+    "album": "Bridge Over Troubled Water",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Karma Chameleon",
+    "artist": "Culture Club",
+    "date": "03.11.2025",
+    "time": "05:20",
+    "year": 1983,
+    "duration_ms": 252773,
+    "genre": "Rock",
+    "album": "Colour By Numbers",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Boy George",
+      "Jon Moss",
+      "Mikey Craig",
+      "Phil Pickett",
+      "Roy Hay"
+    ]
+  },
+  {
     "title": "It's Raining Men",
     "artist": "Geri Halliwell",
     "date": "03.11.2025",
