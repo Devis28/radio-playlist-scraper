@@ -1,5 +1,64 @@
 [
   {
+    "title": "Together Forever",
+    "artist": "Astley Rick",
+    "date": "03.11.2025",
+    "time": "15:45",
+    "year": 1987,
+    "duration_ms": 205573,
+    "genre": "Pop",
+    "album": "Whenever You Need Somebody (2022 Remaster)",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Matt Aitken",
+      "Mike Stock",
+      "Pete Waterman"
+    ]
+  },
+  {
+    "title": "Sugar Baby Love",
+    "artist": "Rubettes, The",
+    "date": "03.11.2025",
+    "time": "15:40",
+    "year": 1974,
+    "duration_ms": 211413,
+    "genre": "Pop",
+    "album": "Wear It’s ‘At",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Milujem Se Čím Dál Víc",
+    "artist": "Kotvald Petr",
+    "date": "03.11.2025",
+    "time": "15:37",
+    "year": 1990,
+    "duration_ms": 227267,
+    "genre": "Pop",
+    "album": "Gejzír",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Jindřich Parma",
+      "Pavel Cmíral"
+    ]
+  },
+  {
+    "title": "Sealed With The Kiss",
+    "artist": "Jason Donovan",
+    "date": "03.11.2025",
+    "time": "15:34",
+    "year": 1989,
+    "duration_ms": 152499,
+    "genre": "Pop",
+    "album": "Sealed With a Kiss",
+    "track_number": 1,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
     "title": "Růže Z Papíru",
     "artist": "Brontosauři",
     "date": "03.11.2025",
