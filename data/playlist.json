@@ -1,5 +1,35 @@
 [
   {
+    "title": "Truly Madly Deeply",
+    "artist": "Savage Garden",
+    "date": "03.11.2025",
+    "time": "15:06",
+    "year": 1997,
+    "duration_ms": 277194,
+    "genre": "Pop",
+    "album": "Savage Garden",
+    "track_number": 3,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Big In Japan",
+    "artist": "Alphaville",
+    "date": "03.11.2025",
+    "time": "15:02",
+    "year": 1984,
+    "duration_ms": 286160,
+    "genre": "Pop",
+    "album": "Forever Young",
+    "track_number": 3,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Bernhard Lloyd",
+      "Frank Mertens",
+      "Marian Gold"
+    ]
+  },
+  {
     "title": "I Just Called To Say I Love You",
     "artist": "Wonder Stevie",
     "date": "03.11.2025",
