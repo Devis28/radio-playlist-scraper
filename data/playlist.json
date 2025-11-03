@@ -1,5 +1,33 @@
 [
   {
+    "title": "Láska",
+    "artist": "Gladiátor",
+    "date": "03.11.2025",
+    "time": "12:39",
+    "year": 2000,
+    "duration_ms": 236507,
+    "genre": "Pop",
+    "album": "Babylon Hotel",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "You're The One That I Want",
+    "artist": "Travolta John & Newton-John Olivia",
+    "date": "03.11.2025",
+    "time": "12:36",
+    "year": 1978,
+    "duration_ms": 168907,
+    "genre": "Musicals",
+    "album": "Grease (The Original Soundtrack from the Motion Picture)",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": [
+      "John Farrar"
+    ]
+  },
+  {
     "title": "Len S Ňou",
     "artist": "Žbirka Miroslav",
     "date": "03.11.2025",
