@@ -1,5 +1,57 @@
 [
   {
+    "title": "Bamboléo",
+    "artist": "Gipsy Kings",
+    "date": "03.11.2025",
+    "time": "16:35",
+    "year": 1987,
+    "duration_ms": 203333,
+    "genre": "Worldwide",
+    "album": "Gipsy Kings",
+    "track_number": 1,
+    "artist_country_code": "FR",
+    "songwriters": null
+  },
+  {
+    "title": "Kamarát",
+    "artist": "Exil",
+    "date": "03.11.2025",
+    "time": "16:29",
+    "year": 2020,
+    "duration_ms": 215615,
+    "genre": "Pop",
+    "album": "Kamarát - EP",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Cez Plece",
+    "artist": "Pavol Hammel",
+    "date": "03.11.2025",
+    "time": "16:27",
+    "year": 2011,
+    "duration_ms": 152573,
+    "genre": "Pop",
+    "album": "The Best Of Pavol Hammel",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "The Best",
+    "artist": "Tina Turner",
+    "date": "03.11.2025",
+    "time": "16:22",
+    "year": 1989,
+    "duration_ms": 255937,
+    "genre": "R&B/Soul",
+    "album": "Simply the Best",
+    "track_number": 1,
+    "artist_country_code": "CH",
+    "songwriters": null
+  },
+  {
     "title": "Because I Love You",
     "artist": "Stevie B.",
     "date": "03.11.2025",
