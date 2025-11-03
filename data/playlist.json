@@ -1,5 +1,119 @@
 [
   {
+    "title": "Oh, Pretty Woman",
+    "artist": "Orbison Roy",
+    "date": "03.11.2025",
+    "time": "09:29",
+    "year": 1964,
+    "duration_ms": 178929,
+    "genre": "Rock",
+    "album": "Oh! Pretty Woman",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Bill Dees",
+      "Roy Orbison"
+    ]
+  },
+  {
+    "title": "Go West",
+    "artist": "Pet Shop Boys",
+    "date": "03.11.2025",
+    "time": "09:25",
+    "year": 1993,
+    "duration_ms": 302360,
+    "genre": "Pop",
+    "album": "Ultimate",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Henri Belolo",
+      "Jacques Morali",
+      "Victor Willis"
+    ]
+  },
+  {
+    "title": "The Riddle",
+    "artist": "Nik Kershaw",
+    "date": "03.11.2025",
+    "time": "09:21",
+    "year": 1991,
+    "duration_ms": 231133,
+    "genre": "Pop",
+    "album": "Nik Kershaw: The Collection",
+    "track_number": 4,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Hrám",
+    "artist": "Karol Duchoň",
+    "date": "03.11.2025",
+    "time": "09:17",
+    "year": 2005,
+    "duration_ms": 220693,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Absolutely Everybody",
+    "artist": "Vanessa Amorosi",
+    "date": "03.11.2025",
+    "time": "09:13",
+    "year": 2000,
+    "duration_ms": 224600,
+    "genre": "Pop",
+    "album": "The Power (15 Year Anniversary Edition)",
+    "track_number": 2,
+    "artist_country_code": "AU",
+    "songwriters": null
+  },
+  {
+    "title": "Možno Sa Ti Zdá",
+    "artist": "Miro Žbirka",
+    "date": "03.11.2025",
+    "time": "09:09",
+    "year": 1988,
+    "duration_ms": 198160,
+    "genre": "Pop",
+    "album": "Zlomky poznania",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Raindrops Keep Fallin' On My Head",
+    "artist": "B. J. Thomas",
+    "date": "03.11.2025",
+    "time": "09:06",
+    "year": 1970,
+    "duration_ms": 184493,
+    "genre": "Pop",
+    "album": "Raindrops Keep Fallin' On My Head",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": [
+      "Burt Bacharach",
+      "Hal David"
+    ]
+  },
+  {
+    "title": "Kým Stúpa Dym",
+    "artist": "I.M.T. Smile",
+    "date": "03.11.2025",
+    "time": "09:03",
+    "year": 2003,
+    "duration_ms": 277120,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Islands In The Stream",
     "artist": "Rogers Kenny &Parton Dolly",
     "date": "03.11.2025",
