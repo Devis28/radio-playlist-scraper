@@ -1,5 +1,60 @@
 [
   {
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "04.11.2025",
+    "time": "00:08",
+    "year": 2016,
+    "duration_ms": 197007,
+    "genre": "Soft Rock",
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Hyža"
+    ]
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "date": "04.11.2025",
+    "time": "00:03",
+    "year": 2018,
+    "duration_ms": 147840,
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 16,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Kométa (Pre Gumpa)",
+    "artist": "Desmod & Majself",
+    "date": "03.11.2025",
+    "time": "23:59",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Zima, Zima",
+    "artist": "Miro Žbirka",
+    "date": "03.11.2025",
+    "time": "23:56",
+    "year": 2002,
+    "duration_ms": 187773,
+    "genre": "Pop",
+    "album": "MEKY - The Best Of Miro Žbirka (2020 ABBEY ROAD REMASTER)",
+    "track_number": 11,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Imagine",
     "artist": "John Lennon, The Plastic Ono Band",
     "date": "03.11.2025",
