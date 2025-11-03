@@ -1,5 +1,167 @@
 [
   {
+    "title": "Something's Gotten Hold Of My Heart",
+    "artist": "Gene Pitney/Marc Almond",
+    "date": "03.11.2025",
+    "time": "13:53",
+    "year": 1989,
+    "duration_ms": 280489,
+    "genre": "Pop",
+    "album": "It's My Life: UK Pop Hits",
+    "track_number": 26,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Boat On The River",
+    "artist": "Styx",
+    "date": "03.11.2025",
+    "time": "13:50",
+    "year": 1979,
+    "duration_ms": 191093,
+    "genre": "Rock",
+    "album": "Greatest Hits, Pt. 2",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Tommy Shaw"
+    ]
+  },
+  {
+    "title": "Holky Z Naší Školky",
+    "artist": "Stanislav Hložek & Petr Kotvald",
+    "date": "03.11.2025",
+    "time": "13:46",
+    "year": 1983,
+    "duration_ms": 232493,
+    "genre": "Pop",
+    "album": "Holky Z Naší Školky",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Karel Vágner",
+      "Pavel Žák"
+    ]
+  },
+  {
+    "title": "Always",
+    "artist": "Erasure",
+    "date": "03.11.2025",
+    "time": "13:43",
+    "year": 1994,
+    "duration_ms": 274459,
+    "genre": "Pop",
+    "album": "I Love Saturday",
+    "track_number": 11,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Andy Bell",
+      "Vince Clarke"
+    ]
+  },
+  {
+    "title": "S Úsmevom",
+    "artist": "Karol Duchoň",
+    "date": "03.11.2025",
+    "time": "13:40",
+    "year": 2005,
+    "duration_ms": 198707,
+    "genre": "Pop",
+    "album": "20 naj",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nothing Compares 2 U",
+    "artist": "O'connor Sinéad",
+    "date": "03.11.2025",
+    "time": "13:35",
+    "year": 1990,
+    "duration_ms": 280040,
+    "genre": "Alternative",
+    "album": "I Do Not Want What I Haven't Got",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Made In Italy",
+    "artist": "Ricchi E Poveri",
+    "date": "03.11.2025",
+    "time": "13:32",
+    "year": 1997,
+    "duration_ms": 201253,
+    "genre": "Pop",
+    "album": "Ricchi e Poveri",
+    "track_number": 9,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Šípková Růženka",
+    "artist": "Jiří Schelinger",
+    "date": "03.11.2025",
+    "time": "13:29",
+    "year": 1991,
+    "duration_ms": 191475,
+    "genre": "Pop",
+    "album": "Holubí Dům",
+    "track_number": 7,
+    "artist_country_code": "XC",
+    "songwriters": [
+      "David Coverdale",
+      "Ritchie Blackmore",
+      "Zdeněk Svěrák"
+    ]
+  },
+  {
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "date": "03.11.2025",
+    "time": "13:25",
+    "year": 2001,
+    "duration_ms": 196160,
+    "genre": "Pop in Spanish",
+    "album": "Laundry Service",
+    "track_number": 3,
+    "artist_country_code": "CO",
+    "songwriters": [
+      "Gloria Estefan",
+      "Shakira",
+      "Tim Mitchell"
+    ]
+  },
+  {
+    "title": "Who Wants To Live Forever",
+    "artist": "Queen",
+    "date": "03.11.2025",
+    "time": "13:21",
+    "year": 1986,
+    "duration_ms": 314489,
+    "genre": "Rock",
+    "album": "Bohemian Rhapsody (The Original Soundtrack)",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Zbohom Bud, Lipova Lyzka,...",
+    "artist": "Dočolomanský Michal",
+    "date": "03.11.2025",
+    "time": "13:18",
+    "year": 2023,
+    "duration_ms": 219000,
+    "genre": "Pop",
+    "album": "Hity & Duety",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": [
+      "Ernest Bryll",
+      "Katarzyna Gärtner"
+    ]
+  },
+  {
     "title": "Coco Jambo",
     "artist": "Mr. President",
     "date": "03.11.2025",
