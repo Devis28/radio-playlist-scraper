@@ -1,5 +1,46 @@
 [
   {
+    "title": "Sweat (A La La La Long)",
+    "artist": "Inner Circle",
+    "date": "03.11.2025",
+    "time": "05:53",
+    "year": 1992,
+    "duration_ms": 227067,
+    "genre": "Reggae",
+    "album": "Blazzin' Fire",
+    "track_number": 2,
+    "artist_country_code": "JM",
+    "songwriters": null
+  },
+  {
+    "title": "Jeden Kabát, Jedna Koža, Jedna Tvár",
+    "artist": "Team",
+    "date": "03.11.2025",
+    "time": "05:51",
+    "year": 1989,
+    "duration_ms": 130373,
+    "genre": "Pop",
+    "album": "Prichytený pri živote",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Enjoy The Silence",
+    "artist": "Depeche Mode",
+    "date": "03.11.2025",
+    "time": "05:47",
+    "year": 1990,
+    "duration_ms": 372827,
+    "genre": "Pop",
+    "album": "Violator (Deluxe)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Martin L. Gore"
+    ]
+  },
+  {
     "title": "Maniac",
     "artist": "Michael Sembello",
     "date": "03.11.2025",
