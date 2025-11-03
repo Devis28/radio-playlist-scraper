@@ -1,5 +1,73 @@
 [
   {
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "date": "03.11.2025",
+    "time": "21:16",
+    "year": 1993,
+    "duration_ms": 255107,
+    "genre": "Pop",
+    "album": "Stars: The Best of the Cranberries 1992-2002",
+    "track_number": 1,
+    "artist_country_code": "IE",
+    "songwriters": [
+      "Dolores O’Riordan",
+      "Noel Hogan"
+    ]
+  },
+  {
+    "title": "Úsmev A Čaj",
+    "artist": "I.M.T Smile & Smatanova Zuzana",
+    "date": "03.11.2025",
+    "time": "21:12",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Can't Help Falling In Love",
+    "artist": "Ub 40",
+    "date": "03.11.2025",
+    "time": "21:09",
+    "year": 1993,
+    "duration_ms": 208733,
+    "genre": "Reggae",
+    "album": "The Very Best of UB40: 1980-2000",
+    "track_number": 12,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Pár Přátel",
+    "artist": "Michal David",
+    "date": "03.11.2025",
+    "time": "21:06",
+    "year": 1983,
+    "duration_ms": 212253,
+    "genre": "Pop",
+    "album": "Bláznivá Noc",
+    "track_number": 6,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Sharazan",
+    "artist": "Al Bano & Romina Power",
+    "date": "03.11.2025",
+    "time": "21:01",
+    "year": 2017,
+    "duration_ms": 319827,
+    "genre": "Pop",
+    "album": "Magic Reunion *Live*",
+    "track_number": 17,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Lemon Tree",
     "artist": "Fool's Garden",
     "date": "03.11.2025",
