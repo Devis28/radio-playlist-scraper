@@ -1,5 +1,33 @@
 [
   {
+    "title": "Chvíľu áno, chvíľu nie",
+    "artist": "Hex",
+    "date": "03.11.2025",
+    "time": "23:49",
+    "year": 2002,
+    "duration_ms": 226493,
+    "genre": "Pop",
+    "album": "Všetko Najlepšie 2013 - 1992",
+    "track_number": 7,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "03.11.2025",
+    "time": "23:44",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise (Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
     "title": "Touch Me (I Want Your Body)",
     "artist": "Fox Samantha",
     "date": "03.11.2025",
