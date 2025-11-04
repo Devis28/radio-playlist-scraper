@@ -1,5 +1,40 @@
 [
   {
+    "title": "The Power Of Love",
+    "artist": "Rush Jennifer",
+    "date": "04.11.2025",
+    "time": "15:06",
+    "year": 1984,
+    "duration_ms": 361231,
+    "genre": "Rock",
+    "album": "Jennifer Rush",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": [
+      "Gunther Mende",
+      "Jennifer Rush",
+      "Mary Applegate",
+      "Wolfgang Detmann"
+    ]
+  },
+  {
+    "title": "Everybody",
+    "artist": "Dj Bobo",
+    "date": "04.11.2025",
+    "time": "15:02",
+    "year": 2012,
+    "duration_ms": 229893,
+    "genre": "Dance",
+    "album": "Greatest Hits",
+    "track_number": 3,
+    "artist_country_code": "CH",
+    "songwriters": [
+      "Daniel Peyer",
+      "Joe South",
+      "René Baumann"
+    ]
+  },
+  {
     "title": "November Rain",
     "artist": "Guns N Roses",
     "date": "04.11.2025",
