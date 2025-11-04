@@ -1,5 +1,60 @@
 [
   {
+    "title": "Beautiful Life",
+    "artist": "Ace Of Base",
+    "date": "04.11.2025",
+    "time": "11:51",
+    "year": 1995,
+    "duration_ms": 221187,
+    "genre": "Dance",
+    "album": "The Bridge (Remastered)",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": [
+      "John Ballard",
+      "Jonas Berggren"
+    ]
+  },
+  {
+    "title": "Trezor",
+    "artist": "Gott Karel & Olympic",
+    "date": "04.11.2025",
+    "time": "11:48",
+    "year": 1965,
+    "duration_ms": 116573,
+    "genre": "Pop",
+    "album": "Cesta Rájem",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "With Or Without You",
+    "artist": "U2",
+    "date": "04.11.2025",
+    "time": "11:45",
+    "year": 1987,
+    "duration_ms": 295520,
+    "genre": "Rock",
+    "album": "The Joshua Tree (20th Anniversary Deluxe Edition) [2007 Remaster]",
+    "track_number": 3,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "Keď Príde Láska",
+    "artist": "Mc Erik And Barbara",
+    "date": "04.11.2025",
+    "time": "11:40",
+    "year": 1996,
+    "duration_ms": 248867,
+    "genre": "Pop",
+    "album": "U Can't Stop (96 Version)",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "The Y.M.C.A",
     "artist": "Village People",
     "date": "04.11.2025",
