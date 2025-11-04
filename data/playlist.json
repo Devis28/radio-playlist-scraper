@@ -1,5 +1,57 @@
 [
   {
+    "title": "Bamboleo",
+    "artist": "Garcia",
+    "date": "04.11.2025",
+    "time": "05:36",
+    "year": 1997,
+    "duration_ms": 228963,
+    "genre": "Dance",
+    "album": "Bamboleo - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Len S Ňou",
+    "artist": "Žbirka Miroslav",
+    "date": "04.11.2025",
+    "time": "05:33",
+    "year": 1988,
+    "duration_ms": 187107,
+    "genre": "Pop",
+    "album": "Zlomky poznania",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Thank You For The Music",
+    "artist": "Abba",
+    "date": "04.11.2025",
+    "time": "05:29",
+    "year": 1977,
+    "duration_ms": 228700,
+    "genre": "Pop",
+    "album": "ABBA: The Album",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "In The Heat Of The Night",
+    "artist": "Sandra",
+    "date": "04.11.2025",
+    "time": "05:24",
+    "year": 1985,
+    "duration_ms": 301933,
+    "genre": "R&B/Soul",
+    "album": "18 Greatest Hits: Sandra",
+    "track_number": 2,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "The Show Must Go On",
     "artist": "Queen",
     "date": "04.11.2025",
