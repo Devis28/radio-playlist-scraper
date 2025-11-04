@@ -1,5 +1,59 @@
 [
   {
+    "title": "The River Of Dreams",
+    "artist": "Joel Billy",
+    "date": "04.11.2025",
+    "time": "07:17",
+    "year": 1993,
+    "duration_ms": 245893,
+    "genre": "Rock",
+    "album": "River of Dreams",
+    "track_number": 8,
+    "artist_country_code": null,
+    "songwriters": [
+      "Billy Joel"
+    ]
+  },
+  {
+    "title": "Okno Mé Lásky",
+    "artist": "Olympic",
+    "date": "04.11.2025",
+    "time": "07:13",
+    "year": 1981,
+    "duration_ms": 292507,
+    "genre": "Pop",
+    "album": "Ulice",
+    "track_number": 2,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "date": "04.11.2025",
+    "time": "07:05",
+    "year": 1992,
+    "duration_ms": 271093,
+    "genre": "Soundtrack",
+    "album": "The Bodyguard (Original Soundtrack Album)",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Decibely Lásky",
+    "artist": "David Michal Kroky Františka Janečka",
+    "date": "04.11.2025",
+    "time": "07:02",
+    "year": 1986,
+    "duration_ms": 193239,
+    "genre": "Pop",
+    "album": "Děti Ráje",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Holding Out For A Hero",
     "artist": "Tyler Bonnie",
     "date": "04.11.2025",
