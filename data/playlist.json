@@ -1,5 +1,48 @@
 [
   {
+    "title": "Dnes",
+    "artist": "Tublatanka",
+    "date": "04.11.2025",
+    "time": "12:11",
+    "year": 1987,
+    "duration_ms": 298893,
+    "genre": "Pop",
+    "album": "Skúsime to cez vesmír",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Ma Baker",
+    "artist": "Boney M.",
+    "date": "04.11.2025",
+    "time": "12:06",
+    "year": 1976,
+    "duration_ms": 274960,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 4,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Frank Farian",
+      "Fred Jay",
+      "George Reyam"
+    ]
+  },
+  {
+    "title": "O Bláznech",
+    "artist": "Penk Michal",
+    "date": "04.11.2025",
+    "time": "12:01",
+    "year": 1992,
+    "duration_ms": 278000,
+    "genre": "Pop",
+    "album": "Hit Album",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "The Time Of My Life",
     "artist": "Jennifer Warnes/Bill Medley",
     "date": "04.11.2025",
