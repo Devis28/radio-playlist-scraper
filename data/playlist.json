@@ -1,5 +1,31 @@
 [
   {
+    "title": "Take My Breath Away",
+    "artist": "Berlin",
+    "date": "04.11.2025",
+    "time": "07:53",
+    "year": 1986,
+    "duration_ms": 255760,
+    "genre": "Pop",
+    "album": "Anos 80 - Nostalgia Internacionais",
+    "track_number": 18,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Keď Sa Láska Podarí",
+    "artist": "Gladiator",
+    "date": "04.11.2025",
+    "time": "07:50",
+    "year": 2004,
+    "duration_ms": 211627,
+    "genre": "Pop",
+    "album": "Cesta Do Neba",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Rivers Of Babylon",
     "artist": "Boney M.",
     "date": "04.11.2025",
