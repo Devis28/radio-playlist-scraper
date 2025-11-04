@@ -1,5 +1,31 @@
 [
   {
+    "title": "Katka",
+    "artist": "Miro Žbirka",
+    "date": "04.11.2025",
+    "time": "18:06",
+    "year": 1986,
+    "duration_ms": 202107,
+    "genre": "Pop",
+    "album": "Chlapec z ulice",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Človečina",
+    "artist": "Elán",
+    "date": "04.11.2025",
+    "time": "18:02",
+    "year": 1983,
+    "duration_ms": 277787,
+    "genre": "Rock",
+    "album": "Elán 3",
+    "track_number": 9,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "I Swear",
     "artist": "All-4-One",
     "date": "04.11.2025",
