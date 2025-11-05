@@ -1,5 +1,76 @@
 [
   {
+    "title": "Conquest Of Paradise",
+    "artist": "Vangelis",
+    "date": "05.11.2025",
+    "time": "15:35",
+    "year": 1992,
+    "duration_ms": 278200,
+    "genre": "Pop",
+    "album": "1492 - Conquest of Paradise (Soundtrack from the Motion Picture)",
+    "track_number": 2,
+    "artist_country_code": "GR",
+    "songwriters": [
+      "Vangelis"
+    ]
+  },
+  {
+    "title": "Paloma Blanca",
+    "artist": "The George Baker Selection",
+    "date": "05.11.2025",
+    "time": "15:29",
+    "year": 1975,
+    "duration_ms": 209360,
+    "genre": "Pop",
+    "album": "Paloma Blanca",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Youre My Heart Youre My Soul",
+    "artist": "Modern Talking",
+    "date": "05.11.2025",
+    "time": "15:25",
+    "year": 1984,
+    "duration_ms": 229987,
+    "genre": "Pop",
+    "album": "The Very Best of Modern Talking",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Letím Tmou (Za Tebou)",
+    "artist": "Miro Žbirka",
+    "date": "05.11.2025",
+    "time": "15:22",
+    "year": 1997,
+    "duration_ms": 188467,
+    "genre": "Pop",
+    "album": "Meky",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "You Win Again",
+    "artist": "The Bee Gees",
+    "date": "05.11.2025",
+    "time": "15:18",
+    "year": 1987,
+    "duration_ms": 241400,
+    "genre": "Pop",
+    "album": "E.S.P.",
+    "track_number": 2,
+    "artist_country_code": "AU",
+    "songwriters": [
+      "Barry Gibb",
+      "Maurice Gibb",
+      "Robin Gibb"
+    ]
+  },
+  {
     "title": "Over My Shoulder",
     "artist": "Mike & The Mechanics",
     "date": "05.11.2025",
