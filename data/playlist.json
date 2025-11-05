@@ -1,5 +1,31 @@
 [
   {
+    "title": "Careless Whisper",
+    "artist": "Michael, George",
+    "date": "05.11.2025",
+    "time": "11:54",
+    "year": 1984,
+    "duration_ms": 392267,
+    "genre": "Pop",
+    "album": "Make It Big",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Yes Sir, I Can Boogie",
+    "artist": "Baccara",
+    "date": "05.11.2025",
+    "time": "11:49",
+    "year": 1977,
+    "duration_ms": 275200,
+    "genre": "Pop",
+    "album": "Baccara",
+    "track_number": 1,
+    "artist_country_code": "ES",
+    "songwriters": null
+  },
+  {
     "title": "Ona Je Madona",
     "artist": "Grigorov Robo",
     "date": "05.11.2025",
