@@ -1,5 +1,52 @@
 [
   {
+    "title": "Ona Je Madona",
+    "artist": "Grigorov Robo",
+    "date": "05.11.2025",
+    "time": "11:46",
+    "year": 1992,
+    "duration_ms": 181186,
+    "genre": "Pop",
+    "album": "Chýbaš Mi...",
+    "track_number": 7,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Kamil Peteraj",
+      "Robo Grigorov"
+    ]
+  },
+  {
+    "title": "Iko Iko",
+    "artist": "The Belle Stars",
+    "date": "05.11.2025",
+    "time": "11:43",
+    "year": 1981,
+    "duration_ms": 178720,
+    "genre": "Pop",
+    "album": "The Belle Stars",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Barbara Anne Hawkins",
+      "James Crawford, Jr.",
+      "Joan Marie Johnson",
+      "Rosa Lee Hawkins"
+    ]
+  },
+  {
+    "title": "Ôsmy Svetadiel",
+    "artist": "Elán",
+    "date": "05.11.2025",
+    "time": "11:39",
+    "year": 2015,
+    "duration_ms": 249000,
+    "genre": "Pop",
+    "album": "Hodiny Nehy",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "The One And Only",
     "artist": "Chesney Hawkes",
     "date": "05.11.2025",
