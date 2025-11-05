@@ -1,5 +1,60 @@
 [
   {
+    "title": "Sempre Sempre",
+    "artist": "Al Bano & Romina Power",
+    "date": "05.11.2025",
+    "time": "06:44",
+    "year": 2017,
+    "duration_ms": 236800,
+    "genre": "Pop",
+    "album": "Magic Reunion *Live*",
+    "track_number": 15,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Tri Slová",
+    "artist": "Gombitova Marika & Rottrova Marie & Zbirka Miro",
+    "date": "05.11.2025",
+    "time": "06:41",
+    "year": 2001,
+    "duration_ms": 182773,
+    "genre": "Pop",
+    "album": "Happy Valentine",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Dežo Ursiny",
+      "Ján Štrasser"
+    ]
+  },
+  {
+    "title": "Kým Stúpa Dym",
+    "artist": "I.M.T. Smile",
+    "date": "05.11.2025",
+    "time": "06:37",
+    "year": 2003,
+    "duration_ms": 277120,
+    "genre": "Pop",
+    "album": "hiSTORY",
+    "track_number": 13,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Hungry Eyes",
+    "artist": "Carmen, Eric",
+    "date": "05.11.2025",
+    "time": "06:33",
+    "year": 1987,
+    "duration_ms": 248427,
+    "genre": "Soundtrack",
+    "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+    "track_number": 4,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Total Eclipse Of The Heart",
     "artist": "Westlife",
     "date": "05.11.2025",
