@@ -1,5 +1,107 @@
 [
   {
+    "title": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "date": "05.11.2025",
+    "time": "13:24",
+    "year": 1992,
+    "duration_ms": 394528,
+    "genre": "Pop",
+    "album": "Keep the Faith",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Jon Bon Jovi"
+    ]
+  },
+  {
+    "title": "Taliansky Muzikál",
+    "artist": "Júlia a Peter Hečkovci",
+    "date": "05.11.2025",
+    "time": "13:21",
+    "year": 1987,
+    "duration_ms": 164771,
+    "genre": "Pop",
+    "album": "Taliansky muzikál",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "It's A Heartache",
+    "artist": "Bonnie Tyler",
+    "date": "05.11.2025",
+    "time": "13:17",
+    "year": 1977,
+    "duration_ms": 209760,
+    "genre": "Pop",
+    "album": "It's a Heartache",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Povedzme",
+    "artist": "Grigorov Robo",
+    "date": "05.11.2025",
+    "time": "13:14",
+    "year": 2006,
+    "duration_ms": 294013,
+    "genre": "Rock",
+    "album": "Complete Of",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Robo Grigorov",
+      "Vladimír Krausz"
+    ]
+  },
+  {
+    "title": "Dievča Neplač",
+    "artist": "Brezovská Mirka",
+    "date": "05.11.2025",
+    "time": "13:09",
+    "year": 2016,
+    "duration_ms": 197007,
+    "genre": "Soft Rock",
+    "album": "Nezabudnuteľné lásky so Symfonickým orchestrom",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": [
+      "Daniel Mikletič",
+      "Ján Hyža"
+    ]
+  },
+  {
+    "title": "Tornero",
+    "artist": "I Santo California",
+    "date": "05.11.2025",
+    "time": "13:06",
+    "year": 2006,
+    "duration_ms": 245600,
+    "genre": "Pop",
+    "album": "Tornerò",
+    "track_number": 1,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Désenchantee",
+    "artist": "Farmer Mylene",
+    "date": "05.11.2025",
+    "time": "13:01",
+    "year": 1991,
+    "duration_ms": 322760,
+    "genre": "French Pop",
+    "album": "L'autre",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": [
+      "Laurent Boutonnat",
+      "Mylène Farmer"
+    ]
+  },
+  {
     "title": "Dreams",
     "artist": "The Cranberries",
     "date": "05.11.2025",
