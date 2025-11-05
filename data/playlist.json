@@ -1,5 +1,88 @@
 [
   {
+    "title": "You Can Win If You Want",
+    "artist": "Modern Talking",
+    "date": "05.11.2025",
+    "time": "04:55",
+    "year": 1985,
+    "duration_ms": 227880,
+    "genre": "Pop",
+    "album": "You're My Heart, You're My Soul",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Stars",
+    "artist": "Simply Red",
+    "date": "05.11.2025",
+    "time": "04:51",
+    "year": 1991,
+    "duration_ms": 248600,
+    "genre": "Pop",
+    "album": "The Greatest Hits",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": [
+      "Mick Hucknall"
+    ]
+  },
+  {
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "date": "05.11.2025",
+    "time": "04:47",
+    "year": 1978,
+    "duration_ms": 481693,
+    "genre": "Funk",
+    "album": "I Will Survive: The Anthology",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Dino Fekaris",
+      "Freddie Perren"
+    ]
+  },
+  {
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "date": "05.11.2025",
+    "time": "04:43",
+    "year": 1992,
+    "duration_ms": 270373,
+    "genre": "Pop",
+    "album": "What Is Love - EP",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Posledné Dobré Dievča",
+    "artist": "Pavol Habera",
+    "date": "05.11.2025",
+    "time": "04:40",
+    "year": 1995,
+    "duration_ms": 201667,
+    "genre": "Rock",
+    "album": "Pavol Habera",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "It's A Sin",
+    "artist": "Pet Shop Boys",
+    "date": "05.11.2025",
+    "time": "04:35",
+    "year": 1987,
+    "duration_ms": 299253,
+    "genre": "Pop",
+    "album": "Actually (2018 Remaster)",
+    "track_number": 7,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Ján Ámos Džínový",
     "artist": "Metalinda",
     "date": "05.11.2025",
