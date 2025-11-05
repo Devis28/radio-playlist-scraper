@@ -1,5 +1,36 @@
 [
   {
+    "title": "Maria Magdalena",
+    "artist": "Sandra",
+    "date": "05.11.2025",
+    "time": "05:54",
+    "year": 1985,
+    "duration_ms": 240440,
+    "genre": "R&B/Soul",
+    "album": "18 Greatest Hits: Sandra",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": [
+      "Hubert Kemmler",
+      "Markus Löhr",
+      "Michael Cretu",
+      "Richard Palmer‐James"
+    ]
+  },
+  {
+    "title": "As Long As You Love Me",
+    "artist": "Backstreet Boys",
+    "date": "05.11.2025",
+    "time": "05:50",
+    "year": 1996,
+    "duration_ms": 221107,
+    "genre": "Pop",
+    "album": "Backstreet's Back",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Pábitelé",
     "artist": "Gott Karel",
     "date": "05.11.2025",
