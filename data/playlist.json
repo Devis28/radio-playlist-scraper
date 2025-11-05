@@ -1,5 +1,37 @@
 [
   {
+    "title": "Rhythm Of The Night",
+    "artist": "Corona",
+    "date": "05.11.2025",
+    "time": "14:56",
+    "year": 2022,
+    "duration_ms": 76173,
+    "genre": "House",
+    "album": "Claptone at DAY.MVS XL 2022: Northside (DJ Mix)",
+    "track_number": 4,
+    "artist_country_code": "IT",
+    "songwriters": [
+      "Annerley Gordon",
+      "Francesco Bontempi",
+      "Giorgio Spagna",
+      "M. Gaffey",
+      "P. Glenister"
+    ]
+  },
+  {
+    "title": "Thank You For The Music",
+    "artist": "Abba",
+    "date": "05.11.2025",
+    "time": "14:52",
+    "year": 1977,
+    "duration_ms": 228700,
+    "genre": "Pop",
+    "album": "ABBA: The Album",
+    "track_number": 7,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
     "title": "Touch By Touch",
     "artist": "Joy",
     "date": "05.11.2025",
