@@ -1,5 +1,116 @@
 [
   {
+    "title": "Un Emozione Per Sempre",
+    "artist": "Ramazzotti Eros",
+    "date": "05.11.2025",
+    "time": "14:02",
+    "year": 2003,
+    "duration_ms": 237880,
+    "genre": "Pop",
+    "album": "9",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Maniac",
+    "artist": "Michael Sembello",
+    "date": "05.11.2025",
+    "time": "13:54",
+    "year": 1983,
+    "duration_ms": 244707,
+    "genre": "Soundtrack",
+    "album": "Flashdance (Original Soundtrack from the Motion Picture)",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Dennis Matkosky",
+      "Michael Sembello"
+    ]
+  },
+  {
+    "title": "Co Bolí To Přebolí",
+    "artist": "Zbirka Miro & Martha",
+    "date": "05.11.2025",
+    "time": "13:51",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "The Tide Is High",
+    "artist": "Blondie",
+    "date": "05.11.2025",
+    "time": "13:47",
+    "year": 1980,
+    "duration_ms": 280267,
+    "genre": "Pop",
+    "album": "Autoamerican (Bonus Track) [2001 Remaster]",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": [
+      "Howard Barrett",
+      "John Holt",
+      "Tyrone Evans"
+    ]
+  },
+  {
+    "title": "Lady Carneval",
+    "artist": "Gott Karel",
+    "date": "05.11.2025",
+    "time": "13:43",
+    "year": 1987,
+    "duration_ms": 180227,
+    "genre": "Pop",
+    "album": "Lady Carneval",
+    "track_number": 24,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Anjel",
+    "artist": "Maduar",
+    "date": "05.11.2025",
+    "time": "13:38",
+    "year": 2017,
+    "duration_ms": 336773,
+    "genre": "Pop",
+    "album": "Hafanana the Best of, Vol. 2",
+    "track_number": 21,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "The Look",
+    "artist": "Roxette",
+    "date": "05.11.2025",
+    "time": "13:34",
+    "year": 1988,
+    "duration_ms": 237320,
+    "genre": "Pop",
+    "album": "The 30 Biggest Hits XXX",
+    "track_number": 1,
+    "artist_country_code": "SE",
+    "songwriters": null
+  },
+  {
+    "title": "Sun Of The Jamaica",
+    "artist": "The Goombay Dance Band",
+    "date": "05.11.2025",
+    "time": "13:30",
+    "year": 1980,
+    "duration_ms": 264000,
+    "genre": "Pop",
+    "album": "Sun of Jamaica",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Bed Of Roses",
     "artist": "Bon Jovi",
     "date": "05.11.2025",
