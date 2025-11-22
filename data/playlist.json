@@ -1,5 +1,44 @@
 [
   {
+    "title": "Someday At Christmas",
+    "artist": "Stevie Wonder",
+    "date": "22.11.2025",
+    "time": "22:40",
+    "year": 1967,
+    "duration_ms": 171109,
+    "genre": "Christmas",
+    "album": "Someday At Christmas (Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "What Christmas Means To Me",
+    "artist": "Young Paul",
+    "date": "22.11.2025",
+    "time": "22:37",
+    "year": 1992,
+    "duration_ms": 172933,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "22.11.2025",
+    "time": "22:33",
+    "year": 2017,
+    "duration_ms": 223061,
+    "genre": "Pop",
+    "album": "Na Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Blame It On The Mistletoe",
     "artist": "Ella Henderson & Aj Mitchell",
     "date": "22.11.2025",
