@@ -1,5 +1,57 @@
 [
   {
+    "title": "Kazdy Den Budu Vraj Vianoce",
+    "artist": "Various Artists",
+    "date": "22.11.2025",
+    "time": "21:41",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Slávnosť Úprimných Slov",
+    "artist": "Gombitová Marika / Patejdl Vašo / Lehotský Ján",
+    "date": "22.11.2025",
+    "time": "21:38",
+    "year": 1987,
+    "duration_ms": 196666,
+    "genre": "Pop",
+    "album": "Domáce Vianoce",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "White Christmas",
+    "artist": "Bing Crosby",
+    "date": "22.11.2025",
+    "time": "21:35",
+    "year": 1945,
+    "duration_ms": 183613,
+    "genre": "Christmas",
+    "album": "White Christmas",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "This Christmas",
+    "artist": "Alexander O'neal",
+    "date": "22.11.2025",
+    "time": "21:32",
+    "year": 1988,
+    "duration_ms": 211667,
+    "genre": "Christmas",
+    "album": "My Gift to You",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Vánoce Na Míru",
     "artist": "Ewa Farna",
     "date": "22.11.2025",
