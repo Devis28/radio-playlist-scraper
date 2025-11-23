@@ -1,5 +1,44 @@
 [
   {
+    "title": "Wonderful  Christmas Time",
+    "artist": "Singers Cranberry The",
+    "date": "24.11.2025",
+    "time": "00:39",
+    "year": 2011,
+    "duration_ms": 157500,
+    "genre": "Christmas",
+    "album": "Cranberry Christmas Party Favourites",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Jsou Svatky",
+    "artist": "Gott Karel",
+    "date": "24.11.2025",
+    "time": "00:36",
+    "year": 1991,
+    "duration_ms": 179267,
+    "genre": "Pop",
+    "album": "Nejromantičtější",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Krasne A Vesele",
+    "artist": "Tomas Bezdeda",
+    "date": "24.11.2025",
+    "time": "00:33",
+    "year": 2021,
+    "duration_ms": 197184,
+    "genre": "Pop",
+    "album": "Krasne a Vesele - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Christmas Time",
     "artist": "Backstreet Boys",
     "date": "24.11.2025",
