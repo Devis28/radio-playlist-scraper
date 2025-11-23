@@ -1,5 +1,44 @@
 [
   {
+    "title": "Vianočný Punč",
+    "artist": "Peter Cmorík",
+    "date": "23.11.2025",
+    "time": "12:08",
+    "year": 2019,
+    "duration_ms": 229884,
+    "genre": "Rock",
+    "album": "Vianočný punč - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Holubička",
+    "artist": "Adam Ďurica A Sima Martausová",
+    "date": "23.11.2025",
+    "time": "12:04",
+    "year": 2018,
+    "duration_ms": 288737,
+    "genre": "Pop",
+    "album": "Holubička (Symphonic) - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Merry Christmas Everyone",
+    "artist": "Shakin' Stevens",
+    "date": "23.11.2025",
+    "time": "12:00",
+    "year": 2018,
+    "duration_ms": 220280,
+    "genre": "Christmas: Pop",
+    "album": "Merry Christmas Everyone - EP",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "O Holy Night",
     "artist": "Carey, Mariah",
     "date": "23.11.2025",
