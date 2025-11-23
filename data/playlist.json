@@ -1,5 +1,31 @@
 [
   {
+    "title": "Mary's Boy Child",
+    "artist": "Boney M",
+    "date": "23.11.2025",
+    "time": "06:57",
+    "year": 1984,
+    "duration_ms": 270440,
+    "genre": "Pop",
+    "album": "Fantastic Boney M.",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Make It To Christmas",
+    "artist": "Alessia Cara",
+    "date": "23.11.2025",
+    "time": "06:53",
+    "year": 2019,
+    "duration_ms": 210983,
+    "genre": "Christmas",
+    "album": "Make It to Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
     "title": "Have Yourself A Merry Little Christmas",
     "artist": "Bublé Michael",
     "date": "23.11.2025",
