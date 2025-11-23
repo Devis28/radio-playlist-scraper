@@ -1,5 +1,31 @@
 [
   {
+    "title": "Christmas Time",
+    "artist": "Bryan Adams",
+    "date": "23.11.2025",
+    "time": "12:34",
+    "year": 2007,
+    "duration_ms": 247933,
+    "genre": "Christmas",
+    "album": "Ultimate Pop Christmas",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Vianocny Cas Je Christmas Time",
+    "artist": "Mc Erik",
+    "date": "23.11.2025",
+    "time": "12:30",
+    "year": 1995,
+    "duration_ms": 247000,
+    "genre": "Pop",
+    "album": "Vianočný čas je Christmas Time - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Dream A Little Dream",
     "artist": "Williams Robbie",
     "date": "23.11.2025",
