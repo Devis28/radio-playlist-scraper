@@ -1,5 +1,44 @@
 [
   {
+    "title": "The Christmas Song",
+    "artist": "Alexander O'neal",
+    "date": "24.11.2025",
+    "time": "16:47",
+    "year": 1988,
+    "duration_ms": 195600,
+    "genre": "Christmas",
+    "album": "My Gift to You",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "24.11.2025",
+    "time": "16:42",
+    "year": 2008,
+    "duration_ms": 217827,
+    "genre": "Pop",
+    "album": "Overcome (Deluxe Edition)",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Vianoce 97",
+    "artist": "Vidiek",
+    "date": "24.11.2025",
+    "time": "16:38",
+    "year": 1997,
+    "duration_ms": 229427,
+    "genre": "Pop",
+    "album": "3 Styry",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Driving Home For Christmas",
     "artist": "Chris Rea",
     "date": "24.11.2025",
