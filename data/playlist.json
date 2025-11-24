@@ -1,5 +1,18 @@
 [
   {
+    "title": "Christmas Time Again",
+    "artist": "Extreme",
+    "date": "24.11.2025",
+    "time": "16:50",
+    "year": 1992,
+    "duration_ms": 306333,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "The Christmas Song",
     "artist": "Alexander O'neal",
     "date": "24.11.2025",
