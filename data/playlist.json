@@ -1,5 +1,31 @@
 [
   {
+    "title": "Christmas Time",
+    "artist": "Backstreet Boys",
+    "date": "24.11.2025",
+    "time": "17:54",
+    "year": 1996,
+    "duration_ms": 256560,
+    "genre": "Christmas: Pop",
+    "album": "Xmas Hits",
+    "track_number": 57,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Vianoce Krásne Sú",
+    "artist": "Maria Cirova",
+    "date": "24.11.2025",
+    "time": "17:49",
+    "year": 2019,
+    "duration_ms": 313939,
+    "genre": "Christmas",
+    "album": "Moje Vianoce",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Na Vianoce",
     "artist": "Adam Ďurica",
     "date": "24.11.2025",
