@@ -1,5 +1,44 @@
 [
   {
+    "title": "O Holy Night",
+    "artist": "Carey, Mariah",
+    "date": "24.11.2025",
+    "time": "14:53",
+    "year": 1994,
+    "duration_ms": 267464,
+    "genre": "Christmas: Pop",
+    "album": "Merry Christmas",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sleigh Ride",
+    "artist": "Debbie Gibson",
+    "date": "24.11.2025",
+    "time": "14:50",
+    "year": 1992,
+    "duration_ms": 193000,
+    "genre": "Christmas",
+    "album": "Winterlicious",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Happy Xmas (War Is Over)",
+    "artist": "John Lennon",
+    "date": "24.11.2025",
+    "time": "14:47",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Už Z Hor Zní Zvon",
     "artist": "Karel Gott",
     "date": "24.11.2025",
