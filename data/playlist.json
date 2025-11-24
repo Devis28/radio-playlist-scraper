@@ -1,5 +1,44 @@
 [
   {
+    "title": "Holly Jolly Christmas",
+    "artist": "Michael Bublé",
+    "date": "24.11.2025",
+    "time": "08:41",
+    "year": 2011,
+    "duration_ms": 121527,
+    "genre": "Christmas",
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "track_number": 6,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Love On Layaway",
+    "artist": "Gloria Estefan",
+    "date": "24.11.2025",
+    "time": "08:37",
+    "year": 1995,
+    "duration_ms": 264733,
+    "genre": "Christmas",
+    "album": "Christmas Voices",
+    "track_number": 36,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Nikto Nemusí Byť Sám",
+    "artist": "Pavol Habera",
+    "date": "24.11.2025",
+    "time": "08:34",
+    "year": 2023,
+    "duration_ms": 178429,
+    "genre": "Pop",
+    "album": "Nikto nemusi byt sam - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Vianočný čas",
     "artist": "Emma Drobná",
     "date": "24.11.2025",
