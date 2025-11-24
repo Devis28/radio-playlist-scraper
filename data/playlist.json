@@ -1,5 +1,57 @@
 [
   {
+    "title": "Medvídek",
+    "artist": "Lucie",
+    "date": "24.11.2025",
+    "time": "06:12",
+    "year": 1998,
+    "duration_ms": 295773,
+    "genre": "Pop",
+    "album": "Vetsi Nez Male Mnozstvi Lasky",
+    "track_number": 11,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Nech Už Nasneží",
+    "artist": "Miro Jaros & Nela Pociskova",
+    "date": "24.11.2025",
+    "time": "06:07",
+    "year": 2017,
+    "duration_ms": 208602,
+    "genre": "Pop",
+    "album": "Nech Uz Nasnezi - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Driving Home For Christmas",
+    "artist": "Chris Rea",
+    "date": "24.11.2025",
+    "time": "06:03",
+    "year": 1986,
+    "duration_ms": 240213,
+    "genre": "Pop",
+    "album": "The Works",
+    "track_number": 37,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Someday At Christmas",
+    "artist": "Stevie Wonder",
+    "date": "24.11.2025",
+    "time": "05:56",
+    "year": 1967,
+    "duration_ms": 171109,
+    "genre": "Christmas",
+    "album": "Someday At Christmas (Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Little Drummer Boy",
     "artist": "The Jackson 5",
     "date": "24.11.2025",
