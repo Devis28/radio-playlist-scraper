@@ -1,5 +1,57 @@
 [
   {
+    "title": "December",
+    "artist": "Zuzana Smatanová",
+    "date": "25.11.2025",
+    "time": "22:31",
+    "year": 2020,
+    "duration_ms": 197124,
+    "genre": "Singer/Songwriter",
+    "album": "December - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Dobro V Nás",
+    "artist": "Veronika Hatala A Miro Jaroš",
+    "date": "25.11.2025",
+    "time": "22:28",
+    "year": 2023,
+    "duration_ms": 187000,
+    "genre": "Pop",
+    "album": "Dobro V Nás - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Jingle Bells",
+    "artist": "Bogguss Suzy",
+    "date": "25.11.2025",
+    "time": "22:25",
+    "year": 2001,
+    "duration_ms": 176520,
+    "genre": "Christmas",
+    "album": "Have Yourself a Merry Little Christmas",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Time Again",
+    "artist": "Extreme",
+    "date": "25.11.2025",
+    "time": "22:20",
+    "year": 1992,
+    "duration_ms": 306333,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Cas Zimnych Zazrakov",
     "artist": "Kristina",
     "date": "25.11.2025",
