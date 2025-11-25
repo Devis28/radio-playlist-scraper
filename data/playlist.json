@@ -1,5 +1,31 @@
 [
   {
+    "title": "Vtedy Sú Vianoce",
+    "artist": "Dara Rolins",
+    "date": "25.11.2025",
+    "time": "08:33",
+    "year": 2009,
+    "duration_ms": 186547,
+    "genre": "Pop",
+    "album": "Stastne a vesele",
+    "track_number": 3,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Merry Christmas",
+    "artist": "Ed Sheeran & Elton John",
+    "date": "25.11.2025",
+    "time": "08:23",
+    "year": 2021,
+    "duration_ms": 208547,
+    "genre": "Christmas",
+    "album": "Merry Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Zima S Nami Leti Na Saniach",
     "artist": "Docolomansky Michal",
     "date": "25.11.2025",
