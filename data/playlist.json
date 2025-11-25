@@ -1,5 +1,85 @@
 [
   {
+    "title": "Mary's Boy Child",
+    "artist": "Boney M",
+    "date": "25.11.2025",
+    "time": "17:42",
+    "year": 1984,
+    "duration_ms": 270440,
+    "genre": "Pop",
+    "album": "Fantastic Boney M.",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Pri Jednom Velkom Stole",
+    "artist": "Robo Opatovsky & Lukas Adamec",
+    "date": "25.11.2025",
+    "time": "17:38",
+    "year": 2025,
+    "duration_ms": 247954,
+    "genre": "Pop",
+    "album": "Pri jednom veľkom stole - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "25.11.2025",
+    "time": "17:34",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
+    "title": "Vianočná Pieseň",
+    "artist": "Junas Dano",
+    "date": "25.11.2025",
+    "time": "17:26",
+    "year": 2023,
+    "duration_ms": 311267,
+    "genre": "Pop",
+    "album": "Najkrajšie Vianoce",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Do They Know It's Christmas",
+    "artist": "Band Aid",
+    "date": "25.11.2025",
+    "time": "17:22",
+    "year": 1984,
+    "duration_ms": 222533,
+    "genre": "Christmas: Pop",
+    "album": "Do They Know It's Christmas? (2004 Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Jingle Bell Rock",
+    "artist": "Travis Randy",
+    "date": "25.11.2025",
+    "time": "17:18",
+    "year": 1992,
+    "duration_ms": 239307,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Santa Claus Is Comin' To Town",
     "artist": "Carey Mariah",
     "date": "25.11.2025",
