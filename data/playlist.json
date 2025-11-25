@@ -1,5 +1,31 @@
 [
   {
+    "title": "Mistletoe And Wine",
+    "artist": "Richard Cliff",
+    "date": "25.11.2025",
+    "time": "12:34",
+    "year": 1988,
+    "duration_ms": 245333,
+    "genre": "Christmas",
+    "album": "Together With Cliff Richard",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Christmas All Over Again",
+    "artist": "Petty Tom & The Heartbreakers",
+    "date": "25.11.2025",
+    "time": "12:30",
+    "year": 2013,
+    "duration_ms": 253627,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas - Essential",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Vánoce Jako Dřív",
     "artist": "Marek Ztraceny, Hana Zagorová",
     "date": "25.11.2025",
