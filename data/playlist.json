@@ -1,5 +1,44 @@
 [
   {
+    "title": "The Best Christmas Of Them All",
+    "artist": "Shakin Stevens",
+    "date": "25.11.2025",
+    "time": "21:43",
+    "year": 1991,
+    "duration_ms": 205605,
+    "genre": "Christmas",
+    "album": "Merry Christmas Everyone",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Holubička",
+    "artist": "Adam Ďurica A Sima Martausová",
+    "date": "25.11.2025",
+    "time": "21:38",
+    "year": 2018,
+    "duration_ms": 288737,
+    "genre": "Pop",
+    "album": "Holubička (Symphonic) - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Let It Snow",
+    "artist": "Minogue Kylie",
+    "date": "25.11.2025",
+    "time": "21:36",
+    "year": 2015,
+    "duration_ms": 116387,
+    "genre": "Christmas",
+    "album": "Kylie Christmas (Deluxe Bonus Video Edition)",
+    "track_number": 8,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Vianocny Cas Je Christmas Time",
     "artist": "Mc Erik",
     "date": "25.11.2025",
