@@ -1,5 +1,44 @@
 [
   {
+    "title": "Vianoce Krásne Sú",
+    "artist": "Maria Cirova",
+    "date": "26.11.2025",
+    "time": "21:41",
+    "year": 2019,
+    "duration_ms": 313939,
+    "genre": "Christmas",
+    "album": "Moje Vianoce",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Dream A Little Dream",
+    "artist": "Williams Robbie",
+    "date": "26.11.2025",
+    "time": "21:37",
+    "year": 2013,
+    "duration_ms": 213761,
+    "genre": "Pop",
+    "album": "Swings Both Ways (Deluxe)",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Mary's Boy Child",
+    "artist": "Boney M",
+    "date": "26.11.2025",
+    "time": "21:34",
+    "year": 1984,
+    "duration_ms": 270440,
+    "genre": "Pop",
+    "album": "Fantastic Boney M.",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Purpura",
     "artist": "Jiří Suchý",
     "date": "26.11.2025",
