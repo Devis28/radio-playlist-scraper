@@ -1,5 +1,31 @@
 [
   {
+    "title": "Lonely This Christmas",
+    "artist": "Mud",
+    "date": "26.11.2025",
+    "time": "22:58",
+    "year": 1974,
+    "duration_ms": 213160,
+    "genre": "Christmas",
+    "album": "Lonely This Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Santa Claus Is Coming To Town",
+    "artist": "Bublé Michael",
+    "date": "26.11.2025",
+    "time": "22:55",
+    "year": 2011,
+    "duration_ms": 171807,
+    "genre": "Christmas",
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Tesime Se Na Jeziska",
     "artist": "Lipsky Lubomir A Malat Jiri A Sbor",
     "date": "26.11.2025",
