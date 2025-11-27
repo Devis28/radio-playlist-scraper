@@ -1,5 +1,44 @@
 [
   {
+    "title": "Make It To Christmas",
+    "artist": "Alessia Cara",
+    "date": "28.11.2025",
+    "time": "00:54",
+    "year": 2019,
+    "duration_ms": 210983,
+    "genre": "Christmas",
+    "album": "Make It to Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "28.11.2025",
+    "time": "00:48",
+    "year": 1984,
+    "duration_ms": 332507,
+    "genre": "Pop",
+    "album": "Welcome to the Pleasuredome",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Nesiem Vám Noviny",
+    "artist": "Habera Pavol",
+    "date": "28.11.2025",
+    "time": "00:45",
+    "year": 1998,
+    "duration_ms": 184360,
+    "genre": "Pop",
+    "album": "Vianočné koncerty",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "A Night To Remember",
     "artist": "Engelbert Humperdinck",
     "date": "28.11.2025",
