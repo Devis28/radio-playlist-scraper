@@ -1,5 +1,31 @@
 [
   {
+    "title": "I Need You (Christmas Mix)",
+    "artist": "3t",
+    "date": "27.11.2025",
+    "time": "23:46",
+    "year": 1995,
+    "duration_ms": 251360,
+    "genre": "Pop",
+    "album": "The All Time Greatest Christmas Songs",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Santa Claus Is Coming To Town",
+    "artist": "Sinatra Frank & Lauper Cyndi",
+    "date": "27.11.2025",
+    "time": "23:44",
+    "year": 1992,
+    "duration_ms": 156813,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "I Met An Angel (On Christmas Day)",
     "artist": "Dion Celine",
     "date": "27.11.2025",
