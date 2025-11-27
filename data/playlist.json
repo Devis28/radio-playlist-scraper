@@ -1,5 +1,44 @@
 [
   {
+    "title": "Christmas Time",
+    "artist": "Bryan Adams",
+    "date": "27.11.2025",
+    "time": "14:54",
+    "year": 2007,
+    "duration_ms": 247933,
+    "genre": "Christmas",
+    "album": "Ultimate Pop Christmas",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Merry Christmas",
+    "artist": "Ed Sheeran & Elton John",
+    "date": "27.11.2025",
+    "time": "14:50",
+    "year": 2021,
+    "duration_ms": 208547,
+    "genre": "Christmas",
+    "album": "Merry Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Tancuju Zvony",
+    "artist": "Sima Martausova",
+    "date": "27.11.2025",
+    "time": "14:46",
+    "year": 2020,
+    "duration_ms": 252437,
+    "genre": "Traditional Folk",
+    "album": "Oslobodená",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Jingle Bell Rock",
     "artist": "Sherman Bobby",
     "date": "27.11.2025",
