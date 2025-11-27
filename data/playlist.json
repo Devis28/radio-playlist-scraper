@@ -1,5 +1,57 @@
 [
   {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "27.11.2025",
+    "time": "07:53",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Only You",
+    "artist": "Becky Hill",
+    "date": "27.11.2025",
+    "time": "07:50",
+    "year": 2019,
+    "duration_ms": 172267,
+    "genre": "Dance",
+    "album": "Only You - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Anjelik Môj",
+    "artist": "Darina Rolincová",
+    "date": "27.11.2025",
+    "time": "07:46",
+    "year": 1990,
+    "duration_ms": 218600,
+    "genre": "Pop",
+    "album": "Téměř Růžový Příběh",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "You Make It Feel Like Christmas",
+    "artist": "Neil Diamond",
+    "date": "27.11.2025",
+    "time": "07:42",
+    "year": 1984,
+    "duration_ms": 238721,
+    "genre": "Christmas",
+    "album": "Primitive",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Kazdy Den Budu Vraj Vianoce",
     "artist": "Various Artists",
     "date": "27.11.2025",
