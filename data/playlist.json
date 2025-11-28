@@ -1,5 +1,57 @@
 [
   {
+    "title": "All I Want For Christmas Is You",
+    "artist": "Mariah Carey",
+    "date": "28.11.2025",
+    "time": "13:15",
+    "year": 1994,
+    "duration_ms": 241562,
+    "genre": "Christmas: Pop",
+    "album": "Merry Christmas",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Vianoce Krásne Sú",
+    "artist": "Maria Cirova",
+    "date": "28.11.2025",
+    "time": "13:08",
+    "year": 2019,
+    "duration_ms": 313939,
+    "genre": "Christmas",
+    "album": "Moje Vianoce",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Cold Cold Christmas",
+    "artist": "Dana",
+    "date": "28.11.2025",
+    "time": "13:04",
+    "year": 2007,
+    "duration_ms": 203893,
+    "genre": "Pop",
+    "album": "The Collection",
+    "track_number": 14,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "Stay Another Day",
+    "artist": "East 17",
+    "date": "28.11.2025",
+    "time": "13:00",
+    "year": 1994,
+    "duration_ms": 267133,
+    "genre": "Pop",
+    "album": "Steam",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Merry, Merry Christmas",
     "artist": "New Kids On The Block",
     "date": "28.11.2025",
