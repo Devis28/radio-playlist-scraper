@@ -1,5 +1,31 @@
 [
   {
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "28.11.2025",
+    "time": "10:46",
+    "year": 1984,
+    "duration_ms": 332507,
+    "genre": "Pop",
+    "album": "Welcome to the Pleasuredome",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Vánoční Lístek",
+    "artist": "Brontosauři",
+    "date": "28.11.2025",
+    "time": "10:44",
+    "year": 2001,
+    "duration_ms": 125893,
+    "genre": "Singer/Songwriter",
+    "album": "Galerie Pisni",
+    "track_number": 19,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Feliz Navidad",
     "artist": "Feliciano Jose",
     "date": "28.11.2025",
