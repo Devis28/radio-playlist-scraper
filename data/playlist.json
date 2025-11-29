@@ -1,5 +1,31 @@
 [
   {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "29.11.2025",
+    "time": "12:45",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Cesta",
+    "artist": "Kryštof ft. Tomáš Klus",
+    "date": "29.11.2025",
+    "time": "12:40",
+    "year": 2012,
+    "duration_ms": 349500,
+    "genre": "Pop",
+    "album": "25",
+    "track_number": 9,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Santa's Coming For Us",
     "artist": "Sia",
     "date": "29.11.2025",
