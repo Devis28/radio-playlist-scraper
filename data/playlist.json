@@ -1,5 +1,57 @@
 [
   {
+    "title": "Have Yourself A Merry Little Christmas",
+    "artist": "The Pretenders",
+    "date": "29.11.2025",
+    "time": "09:10",
+    "year": 1984,
+    "duration_ms": 266587,
+    "genre": "Pop",
+    "album": "2000 Miles - EP",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Nikto Nemusí Byť Sám",
+    "artist": "Pavol Habera",
+    "date": "29.11.2025",
+    "time": "09:07",
+    "year": 2023,
+    "duration_ms": 178429,
+    "genre": "Pop",
+    "album": "Nikto nemusi byt sam - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Last Christmas",
+    "artist": "Wham!",
+    "date": "29.11.2025",
+    "time": "09:02",
+    "year": 1984,
+    "duration_ms": 262960,
+    "genre": "Christmas",
+    "album": "Christmas Album",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Mis Deseos / Feliz Navidad",
+    "artist": "Buble Michael Feat. Thalia",
+    "date": "29.11.2025",
+    "time": "08:55",
+    "year": 2011,
+    "duration_ms": 264879,
+    "genre": "Christmas",
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "track_number": 15,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Každý Deň Budú Vraj Vianoce",
     "artist": "Lojzo & Miro Žbirka",
     "date": "29.11.2025",
