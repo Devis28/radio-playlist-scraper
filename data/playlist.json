@@ -1,5 +1,57 @@
 [
   {
+    "title": "Do They Know It's Christmas",
+    "artist": "Band Aid",
+    "date": "30.11.2025",
+    "time": "11:31",
+    "year": 1984,
+    "duration_ms": 222533,
+    "genre": "Christmas: Pop",
+    "album": "Do They Know It's Christmas? (2004 Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Merry, Merry Christmas",
+    "artist": "New Kids On The Block",
+    "date": "30.11.2025",
+    "time": "11:27",
+    "year": 1989,
+    "duration_ms": 244678,
+    "genre": "Christmas: Pop",
+    "album": "Merry, Merry Christmas",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Hallelujah",
+    "artist": "Pentatonix",
+    "date": "30.11.2025",
+    "time": "11:23",
+    "year": 2016,
+    "duration_ms": 268956,
+    "genre": "Christmas",
+    "album": "A Pentatonix Christmas (Deluxe)",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Wonderful  Christmas Time",
+    "artist": "Singers Cranberry The",
+    "date": "30.11.2025",
+    "time": "11:16",
+    "year": 2011,
+    "duration_ms": 157500,
+    "genre": "Christmas",
+    "album": "Cranberry Christmas Party Favourites",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Let It Go",
     "artist": "Idina Menzel",
     "date": "30.11.2025",
