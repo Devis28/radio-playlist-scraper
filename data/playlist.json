@@ -1,5 +1,98 @@
 [
   {
+    "title": "Nesiem Vám Noviny",
+    "artist": "Habera Pavol",
+    "date": "30.11.2025",
+    "time": "19:18",
+    "year": 1998,
+    "duration_ms": 184360,
+    "genre": "Pop",
+    "album": "Vianočné koncerty",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Last Christmas",
+    "artist": "Wham!",
+    "date": "30.11.2025",
+    "time": "19:13",
+    "year": 1984,
+    "duration_ms": 262960,
+    "genre": "Christmas",
+    "album": "Christmas Album",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "I Need You For Christmas",
+    "artist": "Inna",
+    "date": "30.11.2025",
+    "time": "19:11",
+    "year": 2009,
+    "duration_ms": 159649,
+    "genre": "Christian",
+    "album": "Buna Dimineata la Mos Ajun",
+    "track_number": 2,
+    "artist_country_code": "RO",
+    "songwriters": null
+  },
+  {
+    "title": "What Christmas Means To Me",
+    "artist": "Young Paul",
+    "date": "30.11.2025",
+    "time": "19:08",
+    "year": 1992,
+    "duration_ms": 172933,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "30.11.2025",
+    "time": "19:04",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
+    "title": "When A Child Is Born",
+    "artist": "Boney M.",
+    "date": "30.11.2025",
+    "time": "19:01",
+    "year": 1981,
+    "duration_ms": 200733,
+    "genre": "R&B/Soul",
+    "album": "Their Most Beautiful Ballads",
+    "track_number": 15,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Vúně Vánoc",
+    "artist": "Vondráčková Helena",
+    "date": "30.11.2025",
+    "time": "18:57",
+    "year": 1995,
+    "duration_ms": 240693,
+    "genre": "Pop",
+    "album": "Vanoce s Helenou - To nej",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Jsou Svatky",
     "artist": "Gott Karel",
     "date": "30.11.2025",
