@@ -1,5 +1,31 @@
 [
   {
+    "title": "You Deserve It All",
+    "artist": "John Legend",
+    "date": "30.11.2025",
+    "time": "08:45",
+    "year": 2021,
+    "duration_ms": 198627,
+    "genre": "Christmas",
+    "album": "You Deserve It All - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Nesiem Vám Noviny",
+    "artist": "Habera Pavol",
+    "date": "30.11.2025",
+    "time": "08:41",
+    "year": 1998,
+    "duration_ms": 184360,
+    "genre": "Pop",
+    "album": "Vianočné koncerty",
+    "track_number": 1,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Na Vianoce",
     "artist": "Adam Ďurica",
     "date": "30.11.2025",
