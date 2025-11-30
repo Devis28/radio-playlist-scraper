@@ -1,5 +1,31 @@
 [
   {
+    "title": "Love On Layaway",
+    "artist": "Gloria Estefan",
+    "date": "30.11.2025",
+    "time": "14:46",
+    "year": 1995,
+    "duration_ms": 264733,
+    "genre": "Christmas",
+    "album": "Christmas Voices",
+    "track_number": 36,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "All I Want (For Christmas)",
+    "artist": "Liam Payne",
+    "date": "30.11.2025",
+    "time": "14:43",
+    "year": 2019,
+    "duration_ms": 181144,
+    "genre": "Pop",
+    "album": "All I Want (For Christmas) - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Have Yourself A Merry Little Christmas",
     "artist": "Bublé Michael",
     "date": "30.11.2025",
