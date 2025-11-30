@@ -1,5 +1,31 @@
 [
   {
+    "title": "Purpura",
+    "artist": "Jiří Suchý",
+    "date": "30.11.2025",
+    "time": "10:36",
+    "year": 2002,
+    "duration_ms": 280373,
+    "genre": "Pop",
+    "album": "Po babičce klokočí - největší hity dvojice Šlitr Suchý",
+    "track_number": 6,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Time",
+    "artist": "Bryan Adams",
+    "date": "30.11.2025",
+    "time": "10:32",
+    "year": 2007,
+    "duration_ms": 247933,
+    "genre": "Christmas",
+    "album": "Ultimate Pop Christmas",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
     "title": "All Alone On Christmas",
     "artist": "Darlene Love",
     "date": "30.11.2025",
