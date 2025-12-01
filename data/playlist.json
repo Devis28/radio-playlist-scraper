@@ -1,5 +1,31 @@
 [
   {
+    "title": "Christmas Time",
+    "artist": "Bryan Adams",
+    "date": "01.12.2025",
+    "time": "12:55",
+    "year": 2007,
+    "duration_ms": 247933,
+    "genre": "Christmas",
+    "album": "Ultimate Pop Christmas",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Nech Zdobi Nas",
+    "artist": "Matej Smutny",
+    "date": "01.12.2025",
+    "time": "12:53",
+    "year": 2025,
+    "duration_ms": 158182,
+    "genre": "Pop",
+    "album": "Nech zdobí nás - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Svet Lásku Má",
     "artist": "Habera Pavol & Dvorsky Peter & Gott Karel",
     "date": "01.12.2025",
