@@ -1,5 +1,57 @@
 [
   {
+    "title": "Najkrajšie Vianoce",
+    "artist": "Ivan Tásler & I.M.T. Smile",
+    "date": "01.12.2025",
+    "time": "12:08",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Rockin' Around The Christmas Tree",
+    "artist": "Mel & Kim",
+    "date": "01.12.2025",
+    "time": "12:05",
+    "year": 1987,
+    "duration_ms": 223951,
+    "genre": "Christmas",
+    "album": "Rockin' Around the Christmas Tree - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Pieseň O Decembri",
+    "artist": "Karol Duchoň",
+    "date": "01.12.2025",
+    "time": "12:01",
+    "year": 1995,
+    "duration_ms": 185347,
+    "genre": "Pop",
+    "album": "20 naj, Vol. 2",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Have Yourself A Merry Little Christmas",
+    "artist": "The Pretenders",
+    "date": "01.12.2025",
+    "time": "11:55",
+    "year": 1984,
+    "duration_ms": 266587,
+    "genre": "Pop",
+    "album": "2000 Miles - EP",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Under The Christmas Tree",
     "artist": "Hammond Albert",
     "date": "01.12.2025",
