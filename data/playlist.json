@@ -1,5 +1,31 @@
 [
   {
+    "title": "Vianoce 97",
+    "artist": "Vidiek",
+    "date": "01.12.2025",
+    "time": "23:56",
+    "year": 1997,
+    "duration_ms": 229427,
+    "genre": "Pop",
+    "album": "3 Styry",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Last Christmas",
+    "artist": "Wham!",
+    "date": "01.12.2025",
+    "time": "23:52",
+    "year": 1984,
+    "duration_ms": 262960,
+    "genre": "Christmas",
+    "album": "Christmas Album",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Saviour´s Day",
     "artist": "Richard Cliff",
     "date": "01.12.2025",
