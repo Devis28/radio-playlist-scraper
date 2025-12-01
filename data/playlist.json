@@ -1,5 +1,44 @@
 [
   {
+    "title": "Merry Christmas",
+    "artist": "Ed Sheeran & Elton John",
+    "date": "01.12.2025",
+    "time": "21:39",
+    "year": 2021,
+    "duration_ms": 208547,
+    "genre": "Christmas",
+    "album": "Merry Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Feliz Navidad",
+    "artist": "Feliciano Jose",
+    "date": "01.12.2025",
+    "time": "21:36",
+    "year": 1970,
+    "duration_ms": 182067,
+    "genre": "Christmas",
+    "album": "Feliz Navidad",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Vianočný Punč",
+    "artist": "Peter Cmorík",
+    "date": "01.12.2025",
+    "time": "21:32",
+    "year": 2019,
+    "duration_ms": 229884,
+    "genre": "Rock",
+    "album": "Vianočný punč - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Nesiem Vám Noviny",
     "artist": "Habera Pavol",
     "date": "01.12.2025",
