@@ -1,5 +1,31 @@
 [
   {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "02.12.2025",
+    "time": "23:54",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "A Spaceman Came Travelling",
+    "artist": "De Burgh, Chris",
+    "date": "02.12.2025",
+    "time": "23:50",
+    "year": 1975,
+    "duration_ms": 305507,
+    "genre": "Pop",
+    "album": "Best Moves",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Jingle Bell Rock",
     "artist": "Travis Randy",
     "date": "02.12.2025",
