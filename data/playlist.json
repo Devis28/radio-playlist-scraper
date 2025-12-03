@@ -1,5 +1,31 @@
 [
   {
+    "title": "Christmas Lights",
+    "artist": "Coldplay",
+    "date": "03.12.2025",
+    "time": "12:55",
+    "year": 2010,
+    "duration_ms": 242496,
+    "genre": "Christmas",
+    "album": "Christmas Lights - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "List Jeziskovi (Mistletoe And Wine)",
+    "artist": "Pavol Habera",
+    "date": "03.12.2025",
+    "time": "12:51",
+    "year": 1998,
+    "duration_ms": 196267,
+    "genre": "Pop",
+    "album": "Vianočné koncerty",
+    "track_number": 8,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Jsou Svatky",
     "artist": "Gott Karel",
     "date": "03.12.2025",
