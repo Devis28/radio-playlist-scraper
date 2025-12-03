@@ -1,5 +1,44 @@
 [
   {
+    "title": "You Make It Feel Like Christmas",
+    "artist": "Neil Diamond",
+    "date": "03.12.2025",
+    "time": "16:09",
+    "year": 1984,
+    "duration_ms": 238721,
+    "genre": "Christmas",
+    "album": "Primitive",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Thank God It's Christmas",
+    "artist": "Queen",
+    "date": "03.12.2025",
+    "time": "16:05",
+    "year": 1984,
+    "duration_ms": 259438,
+    "genre": "Pop",
+    "album": "Greatest Hits III",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Mary's Boy Child",
+    "artist": "Boney M",
+    "date": "03.12.2025",
+    "time": "16:01",
+    "year": 1984,
+    "duration_ms": 270440,
+    "genre": "Pop",
+    "album": "Fantastic Boney M.",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Endless Christmas",
     "artist": "3t",
     "date": "03.12.2025",
