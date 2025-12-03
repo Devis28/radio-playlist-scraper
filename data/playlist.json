@@ -1,5 +1,98 @@
 [
   {
+    "title": "Vianoce",
+    "artist": "Imt Smile",
+    "date": "03.12.2025",
+    "time": "18:28",
+    "year": 2024,
+    "duration_ms": 164117,
+    "genre": "Pop",
+    "album": "EXOTICANA",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Zvonky Štestí",
+    "artist": "Karel Gott & Darinka Rolincová",
+    "date": "03.12.2025",
+    "time": "18:25",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Time For Change",
+    "artist": "Robbie Williams",
+    "date": "03.12.2025",
+    "time": "18:21",
+    "year": 2019,
+    "duration_ms": 210347,
+    "genre": "Pop",
+    "album": "The Christmas Present (Deluxe)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Sliby Se Maj Plnit O Vánocích",
+    "artist": "Ledecký Janek",
+    "date": "03.12.2025",
+    "time": "18:17",
+    "year": 2004,
+    "duration_ms": 240000,
+    "genre": "Pop",
+    "album": "Sliby Se Maj Plnit O Vánocích (20 Let)",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "03.12.2025",
+    "time": "18:13",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
+    "title": "Ticha Noc",
+    "artist": "Peter Bic Project",
+    "date": "03.12.2025",
+    "time": "18:10",
+    "year": 2022,
+    "duration_ms": 221318,
+    "genre": "Pop",
+    "album": "Tichá noc - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "What Christmas Means To Me",
+    "artist": "Young Paul",
+    "date": "03.12.2025",
+    "time": "18:04",
+    "year": 1992,
+    "duration_ms": 172933,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "Skorápky Orechú",
     "artist": "Marie Rottrová",
     "date": "03.12.2025",
