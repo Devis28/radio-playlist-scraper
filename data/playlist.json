@@ -1,5 +1,44 @@
 [
   {
+    "title": "Have Yourself A Merry Little Christmas",
+    "artist": "Frank Sinatra",
+    "date": "04.12.2025",
+    "time": "00:37",
+    "year": 1957,
+    "duration_ms": 206392,
+    "genre": "Christmas: Classic",
+    "album": "A Jolly Christmas from Frank Sinatra (50th Anniversary Edition)",
+    "track_number": 6,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Do They Know It's Christmas",
+    "artist": "Band Aid",
+    "date": "04.12.2025",
+    "time": "00:34",
+    "year": 1984,
+    "duration_ms": 222533,
+    "genre": "Christmas: Pop",
+    "album": "Do They Know It's Christmas? (2004 Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Joy To The World",
+    "artist": "Carey Mariah",
+    "date": "04.12.2025",
+    "time": "00:30",
+    "year": 1994,
+    "duration_ms": 260168,
+    "genre": "Christmas: Pop",
+    "album": "Merry Christmas",
+    "track_number": 6,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Stedry Vecer",
     "artist": "Maria Cirova",
     "date": "04.12.2025",
