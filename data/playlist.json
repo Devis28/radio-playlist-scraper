@@ -1,5 +1,44 @@
 [
   {
+    "title": "Stedry Vecer",
+    "artist": "Maria Cirova",
+    "date": "04.12.2025",
+    "time": "00:25",
+    "year": 2019,
+    "duration_ms": 278471,
+    "genre": "Christmas",
+    "album": "Moje Vianoce",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Shake Up Christmas",
+    "artist": "Natasha Bedingfield",
+    "date": "04.12.2025",
+    "time": "00:22",
+    "year": 2011,
+    "duration_ms": 226587,
+    "genre": "Pop",
+    "album": "Shake Up Christmas 2011 (Official Coca-Cola Christmas Song) - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Noc Vianoc",
+    "artist": "Lucia Gibarti",
+    "date": "04.12.2025",
+    "time": "00:19",
+    "year": 2024,
+    "duration_ms": 207474,
+    "genre": "Pop",
+    "album": "Čarovné Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "V Bajnom Betleheme",
     "artist": "Robo Opatovsky",
     "date": "04.12.2025",
