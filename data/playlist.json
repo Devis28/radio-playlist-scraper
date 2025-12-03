@@ -1,5 +1,44 @@
 [
   {
+    "title": "Srdce Nehasnou",
+    "artist": "Karel Gott & Charlotte Ella Gottová",
+    "date": "03.12.2025",
+    "time": "22:27",
+    "year": 1995,
+    "duration_ms": 228667,
+    "genre": "Pop",
+    "album": "Srdce nehasnou - Single",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Cozy Little Christmas",
+    "artist": "Perry Katy",
+    "date": "03.12.2025",
+    "time": "22:23",
+    "year": 2018,
+    "duration_ms": 182521,
+    "genre": "Christmas",
+    "album": "Cozy Little Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "The Christmas Song",
+    "artist": "Alexander O'neal",
+    "date": "03.12.2025",
+    "time": "22:20",
+    "year": 1988,
+    "duration_ms": 195600,
+    "genre": "Christmas",
+    "album": "My Gift to You",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Na Vianoce",
     "artist": "Adam Ďurica",
     "date": "03.12.2025",
