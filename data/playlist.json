@@ -1,5 +1,44 @@
 [
   {
+    "title": "Jingle Bell Rock",
+    "artist": "Travis Randy",
+    "date": "03.12.2025",
+    "time": "06:42",
+    "year": 1992,
+    "duration_ms": 239307,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "03.12.2025",
+    "time": "06:38",
+    "year": 2017,
+    "duration_ms": 223061,
+    "genre": "Pop",
+    "album": "Na Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Without You",
+    "artist": "Ava Max",
+    "date": "03.12.2025",
+    "time": "06:36",
+    "year": 2020,
+    "duration_ms": 169245,
+    "genre": "Christmas",
+    "album": "Christmas Without You - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Hallelujah",
     "artist": "Alexandra Burke",
     "date": "03.12.2025",
