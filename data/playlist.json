@@ -1,5 +1,31 @@
 [
   {
+    "title": "Under The Christmas Tree",
+    "artist": "Hammond Albert",
+    "date": "04.12.2025",
+    "time": "12:50",
+    "year": 1989,
+    "duration_ms": 216053,
+    "genre": "Christmas",
+    "album": "Under the Christmas Tree - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "It's Beginning To Look A Lot Like Christmas",
+    "artist": "Johnny Mathis",
+    "date": "04.12.2025",
+    "time": "12:48",
+    "year": 1986,
+    "duration_ms": 134360,
+    "genre": "Christmas",
+    "album": "The Best of Christmas Hits",
+    "track_number": 20,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Santa Claus Is Coming To Town",
     "artist": "Sinatra Frank & Lauper Cyndi",
     "date": "04.12.2025",
