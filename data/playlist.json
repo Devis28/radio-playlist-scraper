@@ -1,5 +1,57 @@
 [
   {
+    "title": "Mistletoe And Wine",
+    "artist": "Richard Cliff",
+    "date": "04.12.2025",
+    "time": "20:28",
+    "year": 1988,
+    "duration_ms": 245333,
+    "genre": "Christmas",
+    "album": "Together With Cliff Richard",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Blame It On The Mistletoe",
+    "artist": "Ella Henderson & Aj Mitchell",
+    "date": "04.12.2025",
+    "time": "20:25",
+    "year": 2020,
+    "duration_ms": 185739,
+    "genre": "Pop",
+    "album": "Blame It On The Mistletoe - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Heal The World",
+    "artist": "Jackson, Michael",
+    "date": "04.12.2025",
+    "time": "20:19",
+    "year": 1991,
+    "duration_ms": 385713,
+    "genre": "Pop",
+    "album": "The Essential Michael Jackson",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Shake Up Christmas",
+    "artist": "Natasha Bedingfield",
+    "date": "04.12.2025",
+    "time": "20:16",
+    "year": 2011,
+    "duration_ms": 226587,
+    "genre": "Pop",
+    "album": "Shake Up Christmas 2011 (Official Coca-Cola Christmas Song) - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Ryba Rybě",
     "artist": "Janek Ledecký",
     "date": "04.12.2025",
