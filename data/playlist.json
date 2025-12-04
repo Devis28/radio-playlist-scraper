@@ -1,5 +1,44 @@
 [
   {
+    "title": "Have Yourself A Merry Little Christmas",
+    "artist": "The Pretenders",
+    "date": "04.12.2025",
+    "time": "12:07",
+    "year": 1984,
+    "duration_ms": 266587,
+    "genre": "Pop",
+    "album": "2000 Miles - EP",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Vánoce Jako Dřív",
+    "artist": "Marek Ztraceny, Hana Zagorová",
+    "date": "04.12.2025",
+    "time": "12:04",
+    "year": 2021,
+    "duration_ms": 189854,
+    "genre": "Christian",
+    "album": "Vánoce jako dřív - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Mary's Boy Child",
+    "artist": "Boney M",
+    "date": "04.12.2025",
+    "time": "12:00",
+    "year": 1984,
+    "duration_ms": 270440,
+    "genre": "Pop",
+    "album": "Fantastic Boney M.",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
     "title": "When It´s Christmas Time",
     "artist": "Worlds Apart",
     "date": "04.12.2025",
