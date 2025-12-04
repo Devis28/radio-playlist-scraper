@@ -1,5 +1,44 @@
 [
   {
+    "title": "A Spaceman Came Travelling",
+    "artist": "De Burgh, Chris",
+    "date": "04.12.2025",
+    "time": "09:53",
+    "year": 1975,
+    "duration_ms": 305507,
+    "genre": "Pop",
+    "album": "Best Moves",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Please Come Home For Christmas",
+    "artist": "Jon Bon Jovi",
+    "date": "04.12.2025",
+    "time": "09:50",
+    "year": 1999,
+    "duration_ms": 192960,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas: Live from Washington, D.C.",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "White Christmas",
+    "artist": "Bolton Michael",
+    "date": "04.12.2025",
+    "time": "09:46",
+    "year": 1992,
+    "duration_ms": 221600,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Album",
+    "track_number": 25,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Zima S Nami Leti Na Saniach",
     "artist": "Docolomansky Michal",
     "date": "04.12.2025",
