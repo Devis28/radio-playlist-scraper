@@ -1,5 +1,57 @@
 [
   {
+    "title": "Jingle Bell Rock",
+    "artist": "Travis Randy",
+    "date": "05.12.2025",
+    "time": "12:29",
+    "year": 1992,
+    "duration_ms": 239307,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Wonderful Dream (Holidays Are Coming)",
+    "artist": "Thornton, Melanie",
+    "date": "05.12.2025",
+    "time": "12:25",
+    "year": 2001,
+    "duration_ms": 231933,
+    "genre": "Pop",
+    "album": "Ready To Fly",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Čas Vianočný",
+    "artist": "Bystrík",
+    "date": "05.12.2025",
+    "time": "12:21",
+    "year": 2019,
+    "duration_ms": 234253,
+    "genre": "Pop",
+    "album": "Čas vianočný - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "When It´s Christmas Time",
+    "artist": "Worlds Apart",
+    "date": "05.12.2025",
+    "time": "12:17",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Tři Oříšky",
     "artist": "Iveta Bartošová",
     "date": "05.12.2025",
