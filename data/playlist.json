@@ -1,5 +1,44 @@
 [
   {
+    "title": "Vianočný čas",
+    "artist": "Emma Drobná",
+    "date": "05.12.2025",
+    "time": "23:44",
+    "year": 2023,
+    "duration_ms": 173151,
+    "genre": "Christian Pop",
+    "album": "Vianočný čas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Do They Know It's Christmas",
+    "artist": "Band Aid",
+    "date": "05.12.2025",
+    "time": "23:41",
+    "year": 1984,
+    "duration_ms": 222533,
+    "genre": "Christmas: Pop",
+    "album": "Do They Know It's Christmas? (2004 Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Merry, Merry Christmas",
+    "artist": "New Kids On The Block",
+    "date": "05.12.2025",
+    "time": "23:37",
+    "year": 1989,
+    "duration_ms": 244678,
+    "genre": "Christmas: Pop",
+    "album": "Merry, Merry Christmas",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Only You",
     "artist": "Becky Hill",
     "date": "05.12.2025",
