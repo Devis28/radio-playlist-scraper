@@ -1,5 +1,44 @@
 [
   {
+    "title": "Love On Layaway",
+    "artist": "Gloria Estefan",
+    "date": "05.12.2025",
+    "time": "22:39",
+    "year": 1995,
+    "duration_ms": 264733,
+    "genre": "Christmas",
+    "album": "Christmas Voices",
+    "track_number": 36,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Time Again",
+    "artist": "Extreme",
+    "date": "05.12.2025",
+    "time": "22:34",
+    "year": 1992,
+    "duration_ms": 306333,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Čas Sviečok",
+    "artist": "Opatovsky Robo / Kirschner Jana",
+    "date": "05.12.2025",
+    "time": "22:30",
+    "year": 2010,
+    "duration_ms": 211867,
+    "genre": "Christmas",
+    "album": "Vianocny Album",
+    "track_number": 9,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Christmas Time",
     "artist": "Bryan Adams",
     "date": "05.12.2025",
