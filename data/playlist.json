@@ -1,5 +1,31 @@
 [
   {
+    "title": "Let It Snow",
+    "artist": "Minogue Kylie",
+    "date": "05.12.2025",
+    "time": "21:56",
+    "year": 2015,
+    "duration_ms": 115347,
+    "genre": "Christmas",
+    "album": "Kylie Christmas (Fully Wrapped)",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Holly Jolly Christmas",
+    "artist": "Michael Bublé",
+    "date": "05.12.2025",
+    "time": "21:53",
+    "year": 2011,
+    "duration_ms": 121527,
+    "genre": "Christmas",
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "track_number": 6,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
     "title": "Dream A Little Dream",
     "artist": "Williams Robbie",
     "date": "05.12.2025",
