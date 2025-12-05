@@ -1,5 +1,47 @@
 [
   {
+    "title": "Christmas Lights",
+    "artist": "Coldplay",
+    "date": "05.12.2025",
+    "time": "18:12",
+    "year": 2010,
+    "duration_ms": 242496,
+    "genre": "Christmas",
+    "album": "Christmas Lights - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Coming Home For Christmas",
+    "artist": "Banaroo",
+    "date": "05.12.2025",
+    "time": "18:05",
+    "year": 2005,
+    "duration_ms": 203800,
+    "genre": "Pop",
+    "album": "Christmas World",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "05.12.2025",
+    "time": "18:01",
+    "year": 1995,
+    "duration_ms": 213956,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
+  },
+  {
     "title": "Christmas In My Heart",
     "artist": "Sarah Connor",
     "date": "05.12.2025",
