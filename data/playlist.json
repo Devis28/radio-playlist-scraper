@@ -1,5 +1,44 @@
 [
   {
+    "title": "Coming Home For Christmas",
+    "artist": "Banaroo",
+    "date": "05.12.2025",
+    "time": "08:22",
+    "year": 2005,
+    "duration_ms": 203800,
+    "genre": "Pop",
+    "album": "Christmas World",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Last Christmas",
+    "artist": "Wham!",
+    "date": "05.12.2025",
+    "time": "08:18",
+    "year": 1984,
+    "duration_ms": 262960,
+    "genre": "Christmas",
+    "album": "Christmas Album",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "The Best Christmas Of Them All",
+    "artist": "Shakin Stevens",
+    "date": "05.12.2025",
+    "time": "08:13",
+    "year": 1991,
+    "duration_ms": 205605,
+    "genre": "Christmas",
+    "album": "Merry Christmas Everyone",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Holubička",
     "artist": "Adam Ďurica A Sima Martausová",
     "date": "05.12.2025",
