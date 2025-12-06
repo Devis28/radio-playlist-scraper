@@ -1,5 +1,59 @@
 [
   {
+    "title": "Stedry Vecer",
+    "artist": "Maria Cirova",
+    "date": "06.12.2025",
+    "time": "18:52",
+    "year": 2019,
+    "duration_ms": 278471,
+    "genre": "Christmas",
+    "album": "Moje Vianoce",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "A Spaceman Came Travelling",
+    "artist": "De Burgh, Chris",
+    "date": "06.12.2025",
+    "time": "18:47",
+    "year": 1975,
+    "duration_ms": 305507,
+    "genre": "Pop",
+    "album": "Best Moves",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "06.12.2025",
+    "time": "18:44",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
+    "title": "Vianočný čas",
+    "artist": "Emma Drobná",
+    "date": "06.12.2025",
+    "time": "18:41",
+    "year": 2023,
+    "duration_ms": 173151,
+    "genre": "Christian Pop",
+    "album": "Vianočný čas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Last Christmas",
     "artist": "Wham!",
     "date": "06.12.2025",
