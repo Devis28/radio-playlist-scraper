@@ -1,5 +1,57 @@
 [
   {
+    "title": "The Best Christmas Of Them All",
+    "artist": "Shakin Stevens",
+    "date": "06.12.2025",
+    "time": "21:31",
+    "year": 1991,
+    "duration_ms": 205605,
+    "genre": "Christmas",
+    "album": "Merry Christmas Everyone",
+    "track_number": 8,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Štastné A Veselé",
+    "artist": "Dominika Mirgova",
+    "date": "06.12.2025",
+    "time": "21:27",
+    "year": 2015,
+    "duration_ms": 208469,
+    "genre": "Pop",
+    "album": "Šťastné a veselé - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Anjelik Môj",
+    "artist": "Darina Rolincová",
+    "date": "06.12.2025",
+    "time": "21:23",
+    "year": 1990,
+    "duration_ms": 218600,
+    "genre": "Pop",
+    "album": "Téměř Růžový Příběh",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Christmastime",
+    "artist": "The Smashing Pumpkins",
+    "date": "06.12.2025",
+    "time": "21:20",
+    "year": 1997,
+    "duration_ms": 196724,
+    "genre": "Alternative",
+    "album": "Christmas Rock",
+    "track_number": 14,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Vianoce 97",
     "artist": "Vidiek",
     "date": "06.12.2025",
