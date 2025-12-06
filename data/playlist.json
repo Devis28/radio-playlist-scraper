@@ -1,5 +1,44 @@
 [
   {
+    "title": "The First Noel",
+    "artist": "Boney M.",
+    "date": "06.12.2025",
+    "time": "16:07",
+    "year": 1981,
+    "duration_ms": 183867,
+    "genre": "Pop",
+    "album": "Christmas With Boney M.",
+    "track_number": 10,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "06.12.2025",
+    "time": "16:01",
+    "year": 1984,
+    "duration_ms": 332507,
+    "genre": "Pop",
+    "album": "Welcome to the Pleasuredome",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "06.12.2025",
+    "time": "15:58",
+    "year": 1964,
+    "duration_ms": 246227,
+    "genre": "Pop",
+    "album": "Best of the Best",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "We Wish Your A Merry Christmas",
     "artist": "Pinkey Bill & The Original Drifters",
     "date": "06.12.2025",
