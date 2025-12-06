@@ -1,5 +1,57 @@
 [
   {
+    "title": "Let It Snow",
+    "artist": "Minogue Kylie",
+    "date": "06.12.2025",
+    "time": "12:10",
+    "year": 2015,
+    "duration_ms": 115347,
+    "genre": "Christmas",
+    "album": "Kylie Christmas (Fully Wrapped)",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Vánoční Lístek",
+    "artist": "Brontosauři",
+    "date": "06.12.2025",
+    "time": "12:07",
+    "year": 2001,
+    "duration_ms": 125893,
+    "genre": "Singer/Songwriter",
+    "album": "Galerie Pisni",
+    "track_number": 19,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Heal The World",
+    "artist": "Jackson, Michael",
+    "date": "06.12.2025",
+    "time": "12:02",
+    "year": 1991,
+    "duration_ms": 385713,
+    "genre": "Pop",
+    "album": "The Essential Michael Jackson",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Vtedy Sú Vianoce",
+    "artist": "Dara Rolins",
+    "date": "06.12.2025",
+    "time": "11:59",
+    "year": 2009,
+    "duration_ms": 186547,
+    "genre": "Pop",
+    "album": "Stastne a vesele",
+    "track_number": 3,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Stay Another Day",
     "artist": "East 17",
     "date": "06.12.2025",
