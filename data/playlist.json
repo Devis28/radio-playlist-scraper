@@ -1,5 +1,31 @@
 [
   {
+    "title": "Christmas Lights",
+    "artist": "Coldplay",
+    "date": "06.12.2025",
+    "time": "23:51",
+    "year": 2010,
+    "duration_ms": 242496,
+    "genre": "Christmas",
+    "album": "Christmas Lights - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Sladké Mámení",
+    "artist": "Vondráčková Helena",
+    "date": "06.12.2025",
+    "time": "23:48",
+    "year": 1964,
+    "duration_ms": 246227,
+    "genre": "Pop",
+    "album": "Best of the Best",
+    "track_number": 16,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "I Believe In Father Christmas",
     "artist": "Greg Lake",
     "date": "06.12.2025",
