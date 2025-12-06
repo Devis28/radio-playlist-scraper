@@ -1,5 +1,57 @@
 [
   {
+    "title": "Pieseň O Decembri",
+    "artist": "Karol Duchoň",
+    "date": "06.12.2025",
+    "time": "20:15",
+    "year": 1995,
+    "duration_ms": 185347,
+    "genre": "Pop",
+    "album": "20 naj, Vol. 2",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Vúně Vánoc",
+    "artist": "Vondráčková Helena",
+    "date": "06.12.2025",
+    "time": "20:10",
+    "year": 1995,
+    "duration_ms": 240693,
+    "genre": "Pop",
+    "album": "Vanoce s Helenou - To nej",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "I Need You (Christmas Mix)",
+    "artist": "3t",
+    "date": "06.12.2025",
+    "time": "20:05",
+    "year": 1995,
+    "duration_ms": 251360,
+    "genre": "Pop",
+    "album": "The All Time Greatest Christmas Songs",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Let It Go",
+    "artist": "Idina Menzel",
+    "date": "06.12.2025",
+    "time": "20:02",
+    "year": 2013,
+    "duration_ms": 224623,
+    "genre": "Soundtrack",
+    "album": "Frozen (Original Motion Picture Soundtrack) [Deluxe Edition]",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Please Come Home For Christmas",
     "artist": "Jon Bon Jovi",
     "date": "06.12.2025",
