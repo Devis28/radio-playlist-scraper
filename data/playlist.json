@@ -1,5 +1,44 @@
 [
   {
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "07.12.2025",
+    "time": "20:47",
+    "year": 1984,
+    "duration_ms": 332507,
+    "genre": "Pop",
+    "album": "Welcome to the Pleasuredome",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "The First Noel",
+    "artist": "Boone, Pat",
+    "date": "07.12.2025",
+    "time": "20:44",
+    "year": 1959,
+    "duration_ms": 177293,
+    "genre": "Christmas",
+    "album": "White Christmas",
+    "track_number": 11,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Dobro V Nás",
+    "artist": "Veronika Hatala A Miro Jaroš",
+    "date": "07.12.2025",
+    "time": "20:40",
+    "year": 2023,
+    "duration_ms": 187000,
+    "genre": "Pop",
+    "album": "Dobro V Nás - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Na Vianoce",
     "artist": "Adam Ďurica",
     "date": "07.12.2025",
