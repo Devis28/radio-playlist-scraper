@@ -1,5 +1,31 @@
 [
   {
+    "title": "Silent Night",
+    "artist": "Michael Bublé",
+    "date": "07.12.2025",
+    "time": "09:44",
+    "year": 2011,
+    "duration_ms": 230060,
+    "genre": "Christmas",
+    "album": "Christmas",
+    "track_number": 10,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Rockin' Around The Christmas Tree",
+    "artist": "Mel & Kim",
+    "date": "07.12.2025",
+    "time": "09:41",
+    "year": 1987,
+    "duration_ms": 223951,
+    "genre": "Christmas",
+    "album": "Rockin' Around the Christmas Tree - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Do They Know It's Christmas",
     "artist": "Band Aid",
     "date": "07.12.2025",
