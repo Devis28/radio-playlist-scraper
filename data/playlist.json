@@ -1,5 +1,31 @@
 [
   {
+    "title": "I Need You (Christmas Mix)",
+    "artist": "3t",
+    "date": "07.12.2025",
+    "time": "06:00",
+    "year": 1995,
+    "duration_ms": 251360,
+    "genre": "Pop",
+    "album": "The All Time Greatest Christmas Songs",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "07.12.2025",
+    "time": "05:55",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "It's The Most Wonderful Time Of The Year",
     "artist": "Andy Williams",
     "date": "07.12.2025",
