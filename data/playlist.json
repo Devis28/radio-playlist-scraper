@@ -1,5 +1,57 @@
 [
   {
+    "title": "Santa Claus Is Coming To Town",
+    "artist": "Sinatra Frank & Lauper Cyndi",
+    "date": "08.12.2025",
+    "time": "16:38",
+    "year": 1992,
+    "duration_ms": 156813,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "O Vanocich",
+    "artist": "Lucie Bila",
+    "date": "08.12.2025",
+    "time": "16:34",
+    "year": 2022,
+    "duration_ms": 206787,
+    "genre": "Pop",
+    "album": "Vzkaz pro Ježíška",
+    "track_number": 6,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Silent Night",
+    "artist": "Michael Bublé",
+    "date": "08.12.2025",
+    "time": "16:30",
+    "year": 2011,
+    "duration_ms": 230060,
+    "genre": "Christmas",
+    "album": "Christmas",
+    "track_number": 10,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Krasne A Vesele",
+    "artist": "Tomas Bezdeda",
+    "date": "08.12.2025",
+    "time": "16:25",
+    "year": 2021,
+    "duration_ms": 197184,
+    "genre": "Pop",
+    "album": "Krasne a Vesele - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Coming Home For Christmas",
     "artist": "Banaroo",
     "date": "08.12.2025",
