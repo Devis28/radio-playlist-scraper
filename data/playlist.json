@@ -1,5 +1,44 @@
 [
   {
+    "title": "Winter Wonderland",
+    "artist": "Michael Bublé",
+    "date": "08.12.2025",
+    "time": "08:37",
+    "year": 2011,
+    "duration_ms": 150881,
+    "genre": "Christmas",
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "track_number": 17,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Půlnoční",
+    "artist": "Václav Neckář",
+    "date": "08.12.2025",
+    "time": "08:32",
+    "year": 1965,
+    "duration_ms": 303893,
+    "genre": "Pop",
+    "album": "Dobrý Časy",
+    "track_number": 10,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Merry Christmas",
+    "artist": "Ed Sheeran & Elton John",
+    "date": "08.12.2025",
+    "time": "08:23",
+    "year": 2021,
+    "duration_ms": 208547,
+    "genre": "Christmas",
+    "album": "Merry Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "The Power Of Love",
     "artist": "Frankie Goes To Hollywood",
     "date": "08.12.2025",
