@@ -1,5 +1,31 @@
 [
   {
+    "title": "Už Z Hor Zní Zvon",
+    "artist": "Karel Gott",
+    "date": "08.12.2025",
+    "time": "22:43",
+    "year": 1969,
+    "duration_ms": 204747,
+    "genre": "Pop",
+    "album": "Singly / 300 Písní Z Let (1962-2019), Vol. 2",
+    "track_number": 4,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "08.12.2025",
+    "time": "22:38",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Someday At Christmas",
     "artist": "Stevie Wonder",
     "date": "08.12.2025",
