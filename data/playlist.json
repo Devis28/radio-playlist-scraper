@@ -1,5 +1,44 @@
 [
   {
+    "title": "Vánoční",
+    "artist": "Kryštof & Karel Gott",
+    "date": "09.12.2025",
+    "time": "22:37",
+    "year": 2020,
+    "duration_ms": 334944,
+    "genre": "Pop",
+    "album": "Vánoční - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "I Believe In Father Christmas",
+    "artist": "Greg Lake",
+    "date": "09.12.2025",
+    "time": "22:34",
+    "year": 1975,
+    "duration_ms": 212107,
+    "genre": "Christmas",
+    "album": "I Believe in Father Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "V Bajnom Betleheme",
+    "artist": "Robo Opatovsky",
+    "date": "09.12.2025",
+    "time": "22:30",
+    "year": 2023,
+    "duration_ms": 214798,
+    "genre": "Christmas: Pop",
+    "album": "V bájnom Betlehéme (Radio edit) - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "The Power Of Love",
     "artist": "Frankie Goes To Hollywood",
     "date": "09.12.2025",
