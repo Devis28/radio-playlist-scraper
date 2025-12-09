@@ -1,5 +1,44 @@
 [
   {
+    "title": "Čas Vianočný",
+    "artist": "Bystrík",
+    "date": "09.12.2025",
+    "time": "20:38",
+    "year": 2019,
+    "duration_ms": 234253,
+    "genre": "Pop",
+    "album": "Hej, dievča",
+    "track_number": 13,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Coming Home For Christmas",
+    "artist": "Banaroo",
+    "date": "09.12.2025",
+    "time": "20:34",
+    "year": 2005,
+    "duration_ms": 203800,
+    "genre": "Pop",
+    "album": "Christmas World",
+    "track_number": 1,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Vianoce",
+    "artist": "Robo Opatovský, Mária Čírová",
+    "date": "09.12.2025",
+    "time": "20:31",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Somewhere Only We Know",
     "artist": "Allen Lily",
     "date": "09.12.2025",
