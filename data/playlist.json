@@ -1,5 +1,44 @@
 [
   {
+    "title": "Na Vianoce Patríme K Sebe",
+    "artist": "Smola A Hrušky",
+    "date": "10.12.2025",
+    "time": "23:43",
+    "year": 2017,
+    "duration_ms": 225000,
+    "genre": "Reggae",
+    "album": "Na Vianoce Patríme K Sebe - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Driving Home For Christmas",
+    "artist": "Chris Rea",
+    "date": "10.12.2025",
+    "time": "23:39",
+    "year": 1986,
+    "duration_ms": 240213,
+    "genre": "Pop",
+    "album": "The Works",
+    "track_number": 37,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Joy To The World",
+    "artist": "Carey Mariah",
+    "date": "10.12.2025",
+    "time": "23:35",
+    "year": 1994,
+    "duration_ms": 260168,
+    "genre": "Christmas: Pop",
+    "album": "Merry Christmas",
+    "track_number": 6,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Čas Vianočný",
     "artist": "Gladiátor",
     "date": "10.12.2025",
