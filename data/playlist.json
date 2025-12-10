@@ -1,5 +1,31 @@
 [
   {
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "10.12.2025",
+    "time": "08:50",
+    "year": 2008,
+    "duration_ms": 217827,
+    "genre": "Pop",
+    "album": "Overcome (Deluxe Edition)",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Vianoce Maju Bozsku Chut",
+    "artist": "Smola A Hrusky & Martina Kreibich",
+    "date": "10.12.2025",
+    "time": "08:46",
+    "year": 2025,
+    "duration_ms": 188000,
+    "genre": "Pop",
+    "album": "Na Vianoce Patríme K Sebe - EP",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Vianočný čas",
     "artist": "Emma Drobná",
     "date": "10.12.2025",
