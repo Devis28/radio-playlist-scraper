@@ -1,5 +1,44 @@
 [
   {
+    "title": "Cold Cold Christmas",
+    "artist": "Dana",
+    "date": "11.12.2025",
+    "time": "08:37",
+    "year": 2007,
+    "duration_ms": 203893,
+    "genre": "Christmas",
+    "album": "Merry Christmas",
+    "track_number": 3,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "Tři Oříšky",
+    "artist": "Iveta Bartošová",
+    "date": "11.12.2025",
+    "time": "08:33",
+    "year": 2007,
+    "duration_ms": 226560,
+    "genre": "Pop",
+    "album": "Best of Iveta Bartosova",
+    "track_number": 7,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Vánoce Jako Dřív",
+    "artist": "Marek Ztraceny, Hana Zagorová",
+    "date": "11.12.2025",
+    "time": "08:22",
+    "year": 2021,
+    "duration_ms": 189854,
+    "genre": "Christian",
+    "album": "Vánoce jako dřív - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "An Angel",
     "artist": "Kelly Family, The",
     "date": "11.12.2025",
