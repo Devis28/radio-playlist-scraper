@@ -1,5 +1,31 @@
 [
   {
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "11.12.2025",
+    "time": "18:57",
+    "year": 2008,
+    "duration_ms": 217827,
+    "genre": "Pop",
+    "album": "Overcome (Deluxe Edition)",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Make It To Christmas",
+    "artist": "Alessia Cara",
+    "date": "11.12.2025",
+    "time": "18:53",
+    "year": 2019,
+    "duration_ms": 210983,
+    "genre": "Christmas",
+    "album": "Make It to Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
     "title": "Čas Vianočný",
     "artist": "Gladiátor",
     "date": "11.12.2025",
