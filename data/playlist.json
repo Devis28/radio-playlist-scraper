@@ -1,5 +1,44 @@
 [
   {
+    "title": "Vánoční",
+    "artist": "Kryštof & Karel Gott",
+    "date": "12.12.2025",
+    "time": "18:17",
+    "year": 2020,
+    "duration_ms": 334944,
+    "genre": "Pop",
+    "album": "Vánoční - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Through Your Eyes",
+    "artist": "Gloria Estefan",
+    "date": "12.12.2025",
+    "time": "18:12",
+    "year": 1993,
+    "duration_ms": 300733,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Through Your Eyes",
+    "track_number": 9,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Sliby Se Maj Plnit O Vánocích",
+    "artist": "Ledecký Janek",
+    "date": "12.12.2025",
+    "time": "18:05",
+    "year": 2004,
+    "duration_ms": 240000,
+    "genre": "Pop",
+    "album": "Sliby Se Maj Plnit O Vánocích (20 Let)",
+    "track_number": 2,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "The Power Of Love",
     "artist": "Frankie Goes To Hollywood",
     "date": "12.12.2025",
