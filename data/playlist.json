@@ -1,5 +1,31 @@
 [
   {
+    "title": "Feliz Navidad",
+    "artist": "Feliciano Jose",
+    "date": "12.12.2025",
+    "time": "18:54",
+    "year": 1970,
+    "duration_ms": 182067,
+    "genre": "Christmas",
+    "album": "Feliz Navidad",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "All I Want For Christmas Is You",
+    "artist": "Mariah Carey",
+    "date": "12.12.2025",
+    "time": "18:50",
+    "year": 1994,
+    "duration_ms": 241107,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Album",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "I Need You (Christmas Mix)",
     "artist": "3t",
     "date": "12.12.2025",
