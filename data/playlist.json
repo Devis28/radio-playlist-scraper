@@ -1,5 +1,18 @@
 [
   {
+    "title": "Christmas Time",
+    "artist": "Bryan Adams",
+    "date": "12.12.2025",
+    "time": "20:43",
+    "year": 2007,
+    "duration_ms": 247933,
+    "genre": "Christmas",
+    "album": "Ultimate Pop Christmas",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
     "title": "Heal The World",
     "artist": "Jackson, Michael",
     "date": "12.12.2025",
