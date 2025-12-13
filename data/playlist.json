@@ -1,5 +1,31 @@
 [
   {
+    "title": "Vianoce Krásne Sú",
+    "artist": "Maria Cirova",
+    "date": "13.12.2025",
+    "time": "22:42",
+    "year": 2019,
+    "duration_ms": 313939,
+    "genre": "Christmas",
+    "album": "Moje Vianoce",
+    "track_number": 10,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Nikto Nemusí Byť Sám",
+    "artist": "Pavol Habera",
+    "date": "13.12.2025",
+    "time": "22:38",
+    "year": 2023,
+    "duration_ms": 178429,
+    "genre": "Pop",
+    "album": "Nikto nemusi byt sam - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Shake Up Christmas",
     "artist": "Natasha Bedingfield",
     "date": "13.12.2025",
