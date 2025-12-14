@@ -1,5 +1,57 @@
 [
   {
+    "title": "Love On Layaway",
+    "artist": "Gloria Estefan",
+    "date": "14.12.2025",
+    "time": "12:13",
+    "year": 1995,
+    "duration_ms": 266382,
+    "genre": "Christmas",
+    "album": "Christmas Through Your Eyes (Deluxe Version)",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Vúně Vánoc",
+    "artist": "Vondráčková Helena",
+    "date": "14.12.2025",
+    "time": "12:09",
+    "year": 1995,
+    "duration_ms": 240693,
+    "genre": "Pop",
+    "album": "Vanoce s Helenou - To nej",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Holubička",
+    "artist": "Adam Ďurica A Sima Martausová",
+    "date": "14.12.2025",
+    "time": "12:03",
+    "year": 2018,
+    "duration_ms": 288737,
+    "genre": "Pop",
+    "album": "Holubička (Symphonic) - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Let It Snow! Let It Snow! Let It Snow!",
+    "artist": "Martin, Dean",
+    "date": "14.12.2025",
+    "time": "12:01",
+    "year": 1959,
+    "duration_ms": 117147,
+    "genre": "Christmas: Classic",
+    "album": "A Winter Romance",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Mis Deseos / Feliz Navidad",
     "artist": "Buble Michael Feat. Thalia",
     "date": "14.12.2025",
