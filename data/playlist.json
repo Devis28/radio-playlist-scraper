@@ -1,5 +1,72 @@
 [
   {
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "14.12.2025",
+    "time": "18:30",
+    "year": 2008,
+    "duration_ms": 217827,
+    "genre": "Pop",
+    "album": "Overcome (Deluxe Edition)",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Vianoce Maju Bozsku Chut",
+    "artist": "Smola A Hrusky & Martina Kreibich",
+    "date": "14.12.2025",
+    "time": "18:27",
+    "year": 2025,
+    "duration_ms": 188000,
+    "genre": "Pop",
+    "album": "Na Vianoce Patríme K Sebe - EP",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "14.12.2025",
+    "time": "18:23",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
+    "title": "Bílý Kraj",
+    "artist": "Jan Kalousek",
+    "date": "14.12.2025",
+    "time": "18:19",
+    "year": 1998,
+    "duration_ms": 232666,
+    "genre": "Pop",
+    "album": "ČESKOSLOVENSKÉ HITY CZ",
+    "track_number": 23,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Vianočný čas",
+    "artist": "Emma Drobná",
+    "date": "14.12.2025",
+    "time": "18:16",
+    "year": 2023,
+    "duration_ms": 173151,
+    "genre": "Christian Pop",
+    "album": "Vianočný čas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Driving Home For Christmas",
     "artist": "Chris Rea",
     "date": "14.12.2025",
