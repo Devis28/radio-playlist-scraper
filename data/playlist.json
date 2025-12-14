@@ -1,5 +1,57 @@
 [
   {
+    "title": "Merry Christmas Everyone",
+    "artist": "Shakin' Stevens",
+    "date": "14.12.2025",
+    "time": "08:14",
+    "year": 1985,
+    "duration_ms": 220102,
+    "genre": "Christmas",
+    "album": "Merry Christmas Everyone",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Práve Dnes",
+    "artist": "Peter Bič Project & Ivan Tásler",
+    "date": "14.12.2025",
+    "time": "08:09",
+    "year": 2015,
+    "duration_ms": 258265,
+    "genre": "Pop",
+    "album": "Prave Dnes (feat. Ivan Tasler) - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Merry Christmas",
+    "artist": "Ed Sheeran & Elton John",
+    "date": "14.12.2025",
+    "time": "08:05",
+    "year": 2021,
+    "duration_ms": 208547,
+    "genre": "Christmas",
+    "album": "Merry Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "All I Want For Christmas Is You",
+    "artist": "Mariah Carey",
+    "date": "14.12.2025",
+    "time": "08:02",
+    "year": 1994,
+    "duration_ms": 241107,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Album",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Last Christmas",
     "artist": "Wham!",
     "date": "14.12.2025",
