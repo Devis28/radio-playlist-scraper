@@ -1,5 +1,57 @@
 [
   {
+    "title": "Driving Home For Christmas",
+    "artist": "Chris Rea",
+    "date": "14.12.2025",
+    "time": "18:13",
+    "year": 1986,
+    "duration_ms": 240213,
+    "genre": "Pop",
+    "album": "The Works",
+    "track_number": 37,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Makes The Town",
+    "artist": "Benton, Brook",
+    "date": "14.12.2025",
+    "time": "18:10",
+    "year": 2001,
+    "duration_ms": 160080,
+    "genre": "Christmas",
+    "album": "Decorate the Christmas Night",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Vianočná Nálada",
+    "artist": "Kristína",
+    "date": "14.12.2025",
+    "time": "18:05",
+    "year": 2010,
+    "duration_ms": 183333,
+    "genre": "Pop",
+    "album": "V Sieti Ta Mam",
+    "track_number": 15,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "14.12.2025",
+    "time": "18:01",
+    "year": 2017,
+    "duration_ms": 223061,
+    "genre": "Pop",
+    "album": "Na Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Vánoční",
     "artist": "Kryštof & Karel Gott",
     "date": "14.12.2025",
