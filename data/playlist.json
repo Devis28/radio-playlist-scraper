@@ -1,5 +1,44 @@
 [
   {
+    "title": "Happy Xmas",
+    "artist": "Pop Idol Finalists",
+    "date": "14.12.2025",
+    "time": "22:56",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "It's The Most Wonderful Time Of The Year",
+    "artist": "Andy Williams",
+    "date": "14.12.2025",
+    "time": "22:54",
+    "year": 1963,
+    "duration_ms": 152570,
+    "genre": "Christmas: Classic",
+    "album": "The Andy Williams Christmas Album",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Sleigh Ride",
+    "artist": "Debbie Gibson",
+    "date": "14.12.2025",
+    "time": "22:51",
+    "year": 1992,
+    "duration_ms": 193000,
+    "genre": "Christmas",
+    "album": "Winterlicious",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Hijo De La Luna",
     "artist": "Loona",
     "date": "14.12.2025",
