@@ -1,5 +1,31 @@
 [
   {
+    "title": "Christmas Time Again",
+    "artist": "Extreme",
+    "date": "14.12.2025",
+    "time": "14:45",
+    "year": 1992,
+    "duration_ms": 306333,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Vianočná (O Prímerí)",
+    "artist": "Miro Žbirka",
+    "date": "14.12.2025",
+    "time": "14:42",
+    "year": 2013,
+    "duration_ms": 165480,
+    "genre": "Pop",
+    "album": "Miro",
+    "track_number": 23,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Sladké Mámení",
     "artist": "Vondráčková Helena",
     "date": "14.12.2025",
