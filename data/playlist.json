@@ -1,5 +1,31 @@
 [
   {
+    "title": "Cold Cold Christmas",
+    "artist": "Dana",
+    "date": "14.12.2025",
+    "time": "06:52",
+    "year": 2007,
+    "duration_ms": 203893,
+    "genre": "Pop",
+    "album": "The Collection",
+    "track_number": 14,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "My Only Wish [This Year]",
+    "artist": "Britney Spears",
+    "date": "14.12.2025",
+    "time": "06:48",
+    "year": 2000,
+    "duration_ms": 255400,
+    "genre": "Christmas: Pop",
+    "album": "My Only Wish (This Year) - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Feliz Navidad",
     "artist": "Feliciano Jose",
     "date": "14.12.2025",
