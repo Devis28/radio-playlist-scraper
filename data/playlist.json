@@ -1,5 +1,44 @@
 [
   {
+    "title": "Because Its Christmas (For All The Children)",
+    "artist": "Barry Manilow",
+    "date": "15.12.2025",
+    "time": "15:10",
+    "year": 2000,
+    "duration_ms": 253467,
+    "genre": "Christmas: Pop",
+    "album": "Another Rosie Christmas",
+    "track_number": 14,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Už Z Hor Zní Zvon",
+    "artist": "Karel Gott",
+    "date": "15.12.2025",
+    "time": "15:06",
+    "year": 1969,
+    "duration_ms": 204747,
+    "genre": "Pop",
+    "album": "Singly / 300 Písní Z Let (1962-2019), Vol. 2",
+    "track_number": 4,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "All I Want For Christmas Is You",
+    "artist": "Mariah Carey",
+    "date": "15.12.2025",
+    "time": "15:02",
+    "year": 1994,
+    "duration_ms": 241107,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Album",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Merry, Merry Christmas",
     "artist": "New Kids On The Block",
     "date": "15.12.2025",
