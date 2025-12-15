@@ -1,5 +1,44 @@
 [
   {
+    "title": "What Christmas Means To Me",
+    "artist": "Young Paul",
+    "date": "15.12.2025",
+    "time": "21:53",
+    "year": 1992,
+    "duration_ms": 172933,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 7,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "15.12.2025",
+    "time": "21:49",
+    "year": 2017,
+    "duration_ms": 223061,
+    "genre": "Pop",
+    "album": "Na Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Endless Christmas",
+    "artist": "3t",
+    "date": "15.12.2025",
+    "time": "21:45",
+    "year": 2018,
+    "duration_ms": 249787,
+    "genre": "Pop",
+    "album": "Christmas Soul",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Vianočná Nálada",
     "artist": "Kristína",
     "date": "15.12.2025",
