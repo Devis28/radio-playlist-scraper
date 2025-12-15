@@ -1,5 +1,31 @@
 [
   {
+    "title": "Do They Know It's Christmas",
+    "artist": "Band Aid",
+    "date": "16.12.2025",
+    "time": "00:40",
+    "year": 1984,
+    "duration_ms": 222533,
+    "genre": "Christmas: Pop",
+    "album": "Do They Know It's Christmas? (2004 Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Time",
+    "artist": "Bryan Adams",
+    "date": "16.12.2025",
+    "time": "00:35",
+    "year": 2007,
+    "duration_ms": 247933,
+    "genre": "Christmas",
+    "album": "Ultimate Pop Christmas",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
     "title": "Zima Na Saniach",
     "artist": "Dočolomanský Michal",
     "date": "16.12.2025",
