@@ -1,5 +1,31 @@
 [
   {
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "16.12.2025",
+    "time": "12:51",
+    "year": 2017,
+    "duration_ms": 223061,
+    "genre": "Pop",
+    "album": "Na Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Hallelujah",
+    "artist": "Alexandra Burke",
+    "date": "16.12.2025",
+    "time": "12:47",
+    "year": 2008,
+    "duration_ms": 217827,
+    "genre": "Pop",
+    "album": "Overcome (Deluxe Edition)",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Underneath The Tree",
     "artist": "Clarkson Kelly",
     "date": "16.12.2025",
