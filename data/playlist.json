@@ -1,5 +1,44 @@
 [
   {
+    "title": "Underneath The Tree",
+    "artist": "Clarkson Kelly",
+    "date": "16.12.2025",
+    "time": "12:43",
+    "year": 2013,
+    "duration_ms": 229638,
+    "genre": "Christmas",
+    "album": "Wrapped In Red (Deluxe Version)",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Pieseň O Decembri",
+    "artist": "Karol Duchoň",
+    "date": "16.12.2025",
+    "time": "12:40",
+    "year": 1995,
+    "duration_ms": 185347,
+    "genre": "Pop",
+    "album": "20 naj, Vol. 2",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Cas Zimnych Zazrakov",
+    "artist": "Kristina",
+    "date": "16.12.2025",
+    "time": "12:37",
+    "year": 2020,
+    "duration_ms": 201702,
+    "genre": "Christmas: Pop",
+    "album": "Čas zimných zázrakov - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "All I Want For Christmas Is You",
     "artist": "Mariah Carey",
     "date": "16.12.2025",
