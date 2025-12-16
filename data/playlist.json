@@ -1,5 +1,18 @@
 [
   {
+    "title": "The Christmas Song",
+    "artist": "Alexander O'neal",
+    "date": "16.12.2025",
+    "time": "22:55",
+    "year": 1988,
+    "duration_ms": 195600,
+    "genre": "Christmas",
+    "album": "My Gift to You",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Půlnoční",
     "artist": "Václav Neckář",
     "date": "16.12.2025",
