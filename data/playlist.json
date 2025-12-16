@@ -1,5 +1,31 @@
 [
   {
+    "title": "Thank God It's Christmas",
+    "artist": "Queen",
+    "date": "16.12.2025",
+    "time": "20:52",
+    "year": 1984,
+    "duration_ms": 259438,
+    "genre": "Pop",
+    "album": "Greatest Hits III",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Do They Know It's Christmas",
+    "artist": "Band Aid",
+    "date": "16.12.2025",
+    "time": "20:48",
+    "year": 1984,
+    "duration_ms": 222533,
+    "genre": "Christmas: Pop",
+    "album": "Do They Know It's Christmas? (2004 Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Merry, Merry Christmas",
     "artist": "New Kids On The Block",
     "date": "16.12.2025",
