@@ -1,5 +1,44 @@
 [
   {
+    "title": "Mistletoe And Wine",
+    "artist": "Richard Cliff",
+    "date": "17.12.2025",
+    "time": "20:39",
+    "year": 1988,
+    "duration_ms": 245333,
+    "genre": "Christmas",
+    "album": "Together With Cliff Richard",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Perfect Christmas",
+    "artist": "S Club 7",
+    "date": "17.12.2025",
+    "time": "20:34",
+    "year": 2000,
+    "duration_ms": 278307,
+    "genre": "Pop",
+    "album": "Essential Christmas",
+    "track_number": 29,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Santa Claus Is Coming To Town",
+    "artist": "Sinatra Frank & Lauper Cyndi",
+    "date": "17.12.2025",
+    "time": "20:31",
+    "year": 1992,
+    "duration_ms": 156813,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "When It´s Christmas Time",
     "artist": "Worlds Apart",
     "date": "17.12.2025",
