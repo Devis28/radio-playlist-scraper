@@ -1,5 +1,31 @@
 [
   {
+    "title": "Christmas Time Again",
+    "artist": "Extreme",
+    "date": "17.12.2025",
+    "time": "06:52",
+    "year": 1992,
+    "duration_ms": 306333,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Do They Know It's Christmas",
+    "artist": "Band Aid",
+    "date": "17.12.2025",
+    "time": "06:48",
+    "year": 1984,
+    "duration_ms": 222533,
+    "genre": "Christmas: Pop",
+    "album": "Do They Know It's Christmas? (2004 Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Sliby Se Maj Plnit O Vánocích",
     "artist": "Ledecký Janek",
     "date": "17.12.2025",
