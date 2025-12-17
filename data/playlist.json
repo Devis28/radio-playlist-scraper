@@ -1,5 +1,57 @@
 [
   {
+    "title": "Heal The World",
+    "artist": "Jackson, Michael",
+    "date": "17.12.2025",
+    "time": "23:48",
+    "year": 1991,
+    "duration_ms": 385713,
+    "genre": "Pop",
+    "album": "The Essential Michael Jackson",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "I Believe In Father Christmas",
+    "artist": "Greg Lake",
+    "date": "17.12.2025",
+    "time": "23:44",
+    "year": 1975,
+    "duration_ms": 212107,
+    "genre": "Christmas",
+    "album": "I Believe in Father Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "When A Child Is Born",
+    "artist": "Lutricia McNeal",
+    "date": "17.12.2025",
+    "time": "23:41",
+    "year": 1998,
+    "duration_ms": 210000,
+    "genre": "Contemporary R&B",
+    "album": "The Greatest Love You'll Never Know / When a Child Is Born (Christmas Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Vianoce, Vianoce 25",
+    "artist": "Peter Nagy, Beata Dubasova, Janko Bocko, Kvarteto Milana Adamca & Bratislavsky Detsky Zbor",
+    "date": "17.12.2025",
+    "time": "23:38",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "All I Want For Christmas Is You",
     "artist": "Mariah Carey",
     "date": "17.12.2025",
