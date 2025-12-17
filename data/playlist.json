@@ -1,5 +1,31 @@
 [
   {
+    "title": "White Christmas",
+    "artist": "Bolton Michael",
+    "date": "17.12.2025",
+    "time": "21:59",
+    "year": 1992,
+    "duration_ms": 221600,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Album",
+    "track_number": 25,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "My Only Wish [This Year]",
+    "artist": "Britney Spears",
+    "date": "17.12.2025",
+    "time": "21:54",
+    "year": 2000,
+    "duration_ms": 255400,
+    "genre": "Christmas: Pop",
+    "album": "My Only Wish (This Year) - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Stín Katedrál",
     "artist": "Shalom",
     "date": "17.12.2025",
