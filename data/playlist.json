@@ -1,5 +1,34 @@
 [
   {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "17.12.2025",
+    "time": "21:50",
+    "year": 1995,
+    "duration_ms": 213956,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
+  },
+  {
+    "title": "Joy To The World",
+    "artist": "Carey Mariah",
+    "date": "17.12.2025",
+    "time": "21:46",
+    "year": 1994,
+    "duration_ms": 260168,
+    "genre": "Christmas: Pop",
+    "album": "Merry Christmas",
+    "track_number": 6,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
     "title": "Stedry Vecer",
     "artist": "Maria Cirova",
     "date": "17.12.2025",
