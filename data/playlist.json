@@ -1,5 +1,44 @@
 [
   {
+    "title": "When A Child Is Born",
+    "artist": "Lutricia McNeal",
+    "date": "19.12.2025",
+    "time": "00:39",
+    "year": 1998,
+    "duration_ms": 210000,
+    "genre": "Contemporary R&B",
+    "album": "The Greatest Love You'll Never Know / When a Child Is Born (Christmas Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "When You Believe",
+    "artist": "Houston Whitney & Carey Mariah",
+    "date": "19.12.2025",
+    "time": "00:34",
+    "year": 1998,
+    "duration_ms": 272893,
+    "genre": "Pop",
+    "album": "My Love Is Your Love",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Tři Oříšky",
+    "artist": "Iveta Bartošová",
+    "date": "19.12.2025",
+    "time": "00:31",
+    "year": 2007,
+    "duration_ms": 226560,
+    "genre": "Pop",
+    "album": "Best of Iveta Bartosova",
+    "track_number": 7,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Rockin' Around The Christmas Tree",
     "artist": "Mel & Kim",
     "date": "19.12.2025",
