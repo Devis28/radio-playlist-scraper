@@ -1,5 +1,44 @@
 [
   {
+    "title": "I'll Be Home For Christmas",
+    "artist": "Grant, Amy",
+    "date": "18.12.2025",
+    "time": "21:52",
+    "year": 1957,
+    "duration_ms": 189116,
+    "genre": "Christmas: Classic",
+    "album": "A Jolly Christmas from Frank Sinatra (50th Anniversary Edition)",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Jingle Bells",
+    "artist": "Bogguss Suzy",
+    "date": "18.12.2025",
+    "time": "21:49",
+    "year": 2001,
+    "duration_ms": 176520,
+    "genre": "Christmas",
+    "album": "Have Yourself a Merry Little Christmas",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Lights",
+    "artist": "Coldplay",
+    "date": "18.12.2025",
+    "time": "21:45",
+    "year": 2010,
+    "duration_ms": 242496,
+    "genre": "Christmas",
+    "album": "Christmas Lights - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Vianoce",
     "artist": "Imt Smile",
     "date": "18.12.2025",
