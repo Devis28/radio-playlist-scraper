@@ -1,5 +1,44 @@
 [
   {
+    "title": "Merry Christmas Everyone",
+    "artist": "Shakin' Stevens",
+    "date": "18.12.2025",
+    "time": "08:14",
+    "year": 1985,
+    "duration_ms": 220102,
+    "genre": "Christmas",
+    "album": "Merry Christmas Everyone",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Cesta",
+    "artist": "Kryštof ft. Tomáš Klus",
+    "date": "18.12.2025",
+    "time": "08:07",
+    "year": 2012,
+    "duration_ms": 349500,
+    "genre": "Pop",
+    "album": "25",
+    "track_number": 9,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "18.12.2025",
+    "time": "08:03",
+    "year": 2017,
+    "duration_ms": 223061,
+    "genre": "Pop",
+    "album": "Na Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "Perfect Christmas",
     "artist": "S Club 7",
     "date": "18.12.2025",
