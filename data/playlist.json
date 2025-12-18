@@ -1,5 +1,44 @@
 [
   {
+    "title": "You Make It Feel Like Christmas",
+    "artist": "Neil Diamond",
+    "date": "18.12.2025",
+    "time": "18:49",
+    "year": 1984,
+    "duration_ms": 238721,
+    "genre": "Christmas",
+    "album": "Primitive",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Stay Another Day",
+    "artist": "East 17",
+    "date": "18.12.2025",
+    "time": "18:43",
+    "year": 1994,
+    "duration_ms": 267133,
+    "genre": "Pop",
+    "album": "Steam",
+    "track_number": 5,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Little Drummer Boy",
+    "artist": "The Jackson 5",
+    "date": "18.12.2025",
+    "time": "18:40",
+    "year": 1970,
+    "duration_ms": 199441,
+    "genre": "Christmas",
+    "album": "Christmas Album",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Shake Up Christmas",
     "artist": "Natasha Bedingfield",
     "date": "18.12.2025",
