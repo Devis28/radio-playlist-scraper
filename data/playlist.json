@@ -1,5 +1,73 @@
 [
   {
+    "title": "Thank God It's Christmas",
+    "artist": "Queen",
+    "date": "19.12.2025",
+    "time": "17:17",
+    "year": 1984,
+    "duration_ms": 259438,
+    "genre": "Pop",
+    "album": "The Platinum Collection",
+    "track_number": 17,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Santa Claus Is Comin' To Town",
+    "artist": "Carey Mariah",
+    "date": "19.12.2025",
+    "time": "17:13",
+    "year": 1994,
+    "duration_ms": 204554,
+    "genre": "Christmas: Pop",
+    "album": "Merry Christmas",
+    "track_number": 8,
+    "artist_country_code": "null",
+    "songwriters": null
+  },
+  {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "19.12.2025",
+    "time": "17:10",
+    "year": 1995,
+    "duration_ms": 213956,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
+  },
+  {
+    "title": "Merry Christmas",
+    "artist": "Ed Sheeran & Elton John",
+    "date": "19.12.2025",
+    "time": "17:06",
+    "year": 2021,
+    "duration_ms": 208547,
+    "genre": "Christmas",
+    "album": "Merry Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "White Christmas",
+    "artist": "Bing Crosby",
+    "date": "19.12.2025",
+    "time": "17:03",
+    "year": 2025,
+    "duration_ms": 183640,
+    "genre": "Christmas",
+    "album": "Bing at Xmas - Songs and Carols",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Mis Deseos / Feliz Navidad",
     "artist": "Buble Michael Feat. Thalia",
     "date": "19.12.2025",
