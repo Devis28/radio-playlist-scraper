@@ -1,5 +1,44 @@
 [
   {
+    "title": "Christmas Without You",
+    "artist": "Ava Max",
+    "date": "19.12.2025",
+    "time": "18:13",
+    "year": 2020,
+    "duration_ms": 169245,
+    "genre": "Christmas",
+    "album": "Christmas Without You - Single",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "When You Believe",
+    "artist": "Houston Whitney & Carey Mariah",
+    "date": "19.12.2025",
+    "time": "18:05",
+    "year": 1998,
+    "duration_ms": 272893,
+    "genre": "Pop",
+    "album": "My Love Is Your Love",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Srdce Nehasnou",
+    "artist": "Karel Gott & Charlotte Ella Gottová",
+    "date": "19.12.2025",
+    "time": "18:02",
+    "year": 1995,
+    "duration_ms": 228667,
+    "genre": "Pop",
+    "album": "Srdce nehasnou - Single",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Heal The World",
     "artist": "Jackson, Michael",
     "date": "19.12.2025",
