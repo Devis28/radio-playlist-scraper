@@ -1,5 +1,31 @@
 [
   {
+    "title": "Santa Claus Is Coming To Town",
+    "artist": "Sinatra Frank & Lauper Cyndi",
+    "date": "19.12.2025",
+    "time": "23:45",
+    "year": 1992,
+    "duration_ms": 156813,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 4,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "This Christmas",
+    "artist": "Alexander O'neal",
+    "date": "19.12.2025",
+    "time": "23:41",
+    "year": 1988,
+    "duration_ms": 211667,
+    "genre": "Christmas",
+    "album": "My Gift to You",
+    "track_number": 7,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Mistletoe And Wine",
     "artist": "Richard Cliff",
     "date": "19.12.2025",
