@@ -1,5 +1,44 @@
 [
   {
+    "title": "Zima Na Saniach",
+    "artist": "Dočolomanský Michal",
+    "date": "19.12.2025",
+    "time": "08:38",
+    "year": 1995,
+    "duration_ms": 214445,
+    "genre": "Christmas",
+    "album": "Hviezdne Vianoce",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "O Christmas Tree",
+    "artist": "Smokie",
+    "date": "19.12.2025",
+    "time": "08:34",
+    "year": 1996,
+    "duration_ms": 232986,
+    "genre": "Rock",
+    "album": "Light a Candle (The Christmas Album)",
+    "track_number": 13,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Do They Know It's Christmas",
+    "artist": "Band Aid",
+    "date": "19.12.2025",
+    "time": "08:31",
+    "year": 1984,
+    "duration_ms": 222533,
+    "genre": "Christmas: Pop",
+    "album": "Do They Know It's Christmas? (2004 Version) - Single",
+    "track_number": 2,
+    "artist_country_code": "IT",
+    "songwriters": null
+  },
+  {
     "title": "Cas Zimnych Zazrakov",
     "artist": "Kristina",
     "date": "19.12.2025",
