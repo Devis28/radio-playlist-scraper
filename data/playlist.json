@@ -1,5 +1,57 @@
 [
   {
+    "title": "Vstávajte Pastieri",
+    "artist": "Mária Čírová",
+    "date": "20.12.2025",
+    "time": "23:41",
+    "year": 2019,
+    "duration_ms": 232654,
+    "genre": "Christmas",
+    "album": "Moje Vianoce",
+    "track_number": 3,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Jingle Bells",
+    "artist": "Bogguss Suzy",
+    "date": "20.12.2025",
+    "time": "23:38",
+    "year": 2001,
+    "duration_ms": 176520,
+    "genre": "Christmas",
+    "album": "Have Yourself a Merry Little Christmas",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Sleigh Ride",
+    "artist": "Debbie Gibson",
+    "date": "20.12.2025",
+    "time": "23:35",
+    "year": 1992,
+    "duration_ms": 193000,
+    "genre": "Christmas",
+    "album": "Winterlicious",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Feliz Navidad",
+    "artist": "Feliciano Jose",
+    "date": "20.12.2025",
+    "time": "23:32",
+    "year": 1970,
+    "duration_ms": 182067,
+    "genre": "Christmas",
+    "album": "Feliz Navidad",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Nesiem Vám Noviny",
     "artist": "Habera Pavol",
     "date": "20.12.2025",
