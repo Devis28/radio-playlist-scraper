@@ -1,5 +1,44 @@
 [
   {
+    "title": "Každý Deň Budú Vraj Vianoce",
+    "artist": "Lojzo & Miro Žbirka",
+    "date": "20.12.2025",
+    "time": "15:39",
+    "year": 2023,
+    "duration_ms": 266893,
+    "genre": "Pop",
+    "album": "Najkrajšie Vianoce",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "It's Beginning To Look A Lot Like Christmas",
+    "artist": "Michael Bublé",
+    "date": "20.12.2025",
+    "time": "15:36",
+    "year": 2011,
+    "duration_ms": 207200,
+    "genre": "Christmas",
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Zima Na Saniach",
+    "artist": "Dočolomanský Michal",
+    "date": "20.12.2025",
+    "time": "15:32",
+    "year": 1995,
+    "duration_ms": 214445,
+    "genre": "Christmas",
+    "album": "Hviezdne Vianoce",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Vianoce",
     "artist": "Imt Smile",
     "date": "20.12.2025",
