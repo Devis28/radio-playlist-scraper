@@ -1,5 +1,44 @@
 [
   {
+    "title": "Bile Vanoce (White Christmas)",
+    "artist": "Karel Gott",
+    "date": "21.12.2025",
+    "time": "00:36",
+    "year": 1981,
+    "duration_ms": 216893,
+    "genre": "Christmas",
+    "album": "Bílé Vánoce",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Vianočná Pieseň",
+    "artist": "Junas Dano",
+    "date": "21.12.2025",
+    "time": "00:31",
+    "year": 2023,
+    "duration_ms": 311267,
+    "genre": "Pop",
+    "album": "Najkrajšie Vianoce",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Veselé Vánoce (Vánoce, Vánoce Přicházejí...)",
+    "artist": "Settleři",
+    "date": "21.12.2025",
+    "time": "00:28",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "You Make It Feel Like Christmas",
     "artist": "Neil Diamond",
     "date": "21.12.2025",
