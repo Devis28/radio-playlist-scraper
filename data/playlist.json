@@ -1,5 +1,44 @@
 [
   {
+    "title": "Mary's Boy Child",
+    "artist": "Boney M",
+    "date": "20.12.2025",
+    "time": "08:30",
+    "year": 1984,
+    "duration_ms": 270440,
+    "genre": "Pop",
+    "album": "Fantastic Boney M.",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "Please Come Home For Christmas",
+    "artist": "Jon Bon Jovi",
+    "date": "20.12.2025",
+    "time": "08:27",
+    "year": 1999,
+    "duration_ms": 192960,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas: Live from Washington, D.C.",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Půlnoční",
+    "artist": "Václav Neckář",
+    "date": "20.12.2025",
+    "time": "08:22",
+    "year": 1965,
+    "duration_ms": 303893,
+    "genre": "Pop",
+    "album": "Dobrý Časy",
+    "track_number": 10,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Christmas ( Baby, Please Come Home )",
     "artist": "Michael Bublé",
     "date": "20.12.2025",
