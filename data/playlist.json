@@ -1,5 +1,44 @@
 [
   {
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "20.12.2025",
+    "time": "17:51",
+    "year": 1984,
+    "duration_ms": 332507,
+    "genre": "Pop",
+    "album": "Welcome to the Pleasuredome",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "A Spaceman Came Travelling",
+    "artist": "De Burgh, Chris",
+    "date": "20.12.2025",
+    "time": "17:46",
+    "year": 1975,
+    "duration_ms": 305507,
+    "genre": "Pop",
+    "album": "Best Moves",
+    "track_number": 10,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Veselé Vánoce (Vánoce, Vánoce Přicházejí...)",
+    "artist": "Settleři",
+    "date": "20.12.2025",
+    "time": "17:44",
+    "year": "Not found",
+    "duration_ms": "Not found",
+    "genre": "Not found",
+    "album": "Not found",
+    "track_number": "Not found",
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Holubička",
     "artist": "Adam Ďurica A Sima Martausová",
     "date": "20.12.2025",
