@@ -1,5 +1,72 @@
 [
   {
+    "title": "Na Vianoce Patríme K Sebe",
+    "artist": "Smola A Hrušky",
+    "date": "21.12.2025",
+    "time": "08:20",
+    "year": 2017,
+    "duration_ms": 225000,
+    "genre": "Reggae",
+    "album": "Na Vianoce Patríme K Sebe - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "21.12.2025",
+    "time": "08:15",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "21.12.2025",
+    "time": "08:09",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
+    "title": "Tři Oříšky",
+    "artist": "Iveta Bartošová",
+    "date": "21.12.2025",
+    "time": "08:06",
+    "year": 2007,
+    "duration_ms": 226560,
+    "genre": "Pop",
+    "album": "Best of Iveta Bartosova",
+    "track_number": 7,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Turn On The Lights",
+    "artist": "Jamie Cullum",
+    "date": "21.12.2025",
+    "time": "08:01",
+    "year": 2020,
+    "duration_ms": 254960,
+    "genre": "Pop",
+    "album": "The Pianoman at Christmas (The Complete Edition)",
+    "track_number": 6,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Vánoční",
     "artist": "Kryštof & Karel Gott",
     "date": "21.12.2025",
