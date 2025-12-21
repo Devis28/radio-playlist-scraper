@@ -1,5 +1,57 @@
 [
   {
+    "title": "Mary's Boy Child",
+    "artist": "Boney M",
+    "date": "21.12.2025",
+    "time": "09:51",
+    "year": 1984,
+    "duration_ms": 270440,
+    "genre": "Pop",
+    "album": "Fantastic Boney M.",
+    "track_number": 6,
+    "artist_country_code": "DE",
+    "songwriters": null
+  },
+  {
+    "title": "The Christmas Song",
+    "artist": "Alexander O'neal",
+    "date": "21.12.2025",
+    "time": "09:48",
+    "year": 1988,
+    "duration_ms": 195600,
+    "genre": "Christmas",
+    "album": "My Gift to You",
+    "track_number": 6,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "21.12.2025",
+    "time": "09:42",
+    "year": 1984,
+    "duration_ms": 332507,
+    "genre": "Pop",
+    "album": "Welcome to the Pleasuredome",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Sleigh Ride",
+    "artist": "Debbie Gibson",
+    "date": "21.12.2025",
+    "time": "09:39",
+    "year": 1992,
+    "duration_ms": 193000,
+    "genre": "Christmas",
+    "album": "Winterlicious",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Anjelik Môj",
     "artist": "Darina Rolincová",
     "date": "21.12.2025",
