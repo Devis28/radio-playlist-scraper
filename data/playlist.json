@@ -1,5 +1,57 @@
 [
   {
+    "title": "Slávnosť Úprimných Slov",
+    "artist": "Gombitová Marika / Patejdl Vašo / Lehotský Ján",
+    "date": "21.12.2025",
+    "time": "10:30",
+    "year": 1987,
+    "duration_ms": 196666,
+    "genre": "Pop",
+    "album": "Domáce Vianoce",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Zima Na Saniach",
+    "artist": "Dočolomanský Michal",
+    "date": "21.12.2025",
+    "time": "10:26",
+    "year": 1995,
+    "duration_ms": 214445,
+    "genre": "Christmas",
+    "album": "Hviezdne Vianoce",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Krasne A Vesele",
+    "artist": "Tomas Bezdeda",
+    "date": "21.12.2025",
+    "time": "10:23",
+    "year": 2021,
+    "duration_ms": 197184,
+    "genre": "Pop",
+    "album": "Krasne a Vesele - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Driving Home For Christmas",
+    "artist": "Chris Rea",
+    "date": "21.12.2025",
+    "time": "10:19",
+    "year": 1986,
+    "duration_ms": 240213,
+    "genre": "Pop",
+    "album": "The Works",
+    "track_number": 37,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Cesta",
     "artist": "Kryštof ft. Tomáš Klus",
     "date": "21.12.2025",
