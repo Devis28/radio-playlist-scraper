@@ -1,5 +1,101 @@
 [
   {
+    "title": "Cold Cold Christmas",
+    "artist": "Dana",
+    "date": "21.12.2025",
+    "time": "22:36",
+    "year": 2007,
+    "duration_ms": 203893,
+    "genre": "Christmas",
+    "album": "Merry Christmas",
+    "track_number": 3,
+    "artist_country_code": "IE",
+    "songwriters": null
+  },
+  {
+    "title": "Stín Katedrál",
+    "artist": "Shalom",
+    "date": "21.12.2025",
+    "time": "22:32",
+    "year": 1995,
+    "duration_ms": 213956,
+    "genre": "Vocal",
+    "album": "Slunce / To Nejlepsi",
+    "track_number": 8,
+    "artist_country_code": "CZ",
+    "songwriters": [
+      "Ivo Fischer",
+      "Karel Svoboda"
+    ]
+  },
+  {
+    "title": "O Christmas Tree",
+    "artist": "Smokie",
+    "date": "21.12.2025",
+    "time": "22:28",
+    "year": 1996,
+    "duration_ms": 232986,
+    "genre": "Rock",
+    "album": "Light a Candle (The Christmas Album)",
+    "track_number": 13,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Driving Home For Christmas",
+    "artist": "Chris Rea",
+    "date": "21.12.2025",
+    "time": "22:24",
+    "year": 1986,
+    "duration_ms": 240213,
+    "genre": "Pop",
+    "album": "The Works",
+    "track_number": 37,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Moj Starucky Sveter",
+    "artist": "Miro Jaros",
+    "date": "21.12.2025",
+    "time": "22:21",
+    "year": 2021,
+    "duration_ms": 216107,
+    "genre": "Christmas: Pop",
+    "album": "List Ježiškovi",
+    "track_number": 2,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "It's Beginning To Look A Lot Like Christmas",
+    "artist": "Johnny Mathis",
+    "date": "21.12.2025",
+    "time": "22:19",
+    "year": 1986,
+    "duration_ms": 134360,
+    "genre": "Christmas",
+    "album": "The Best of Christmas Hits",
+    "track_number": 20,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "21.12.2025",
+    "time": "22:15",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
     "title": "Nejhezci Darek",
     "artist": "Ruzni Interpreti",
     "date": "21.12.2025",
