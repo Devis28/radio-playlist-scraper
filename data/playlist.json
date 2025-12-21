@@ -1,5 +1,44 @@
 [
   {
+    "title": "I Believe In Father Christmas",
+    "artist": "Greg Lake",
+    "date": "21.12.2025",
+    "time": "17:53",
+    "year": 1975,
+    "duration_ms": 212107,
+    "genre": "Christmas",
+    "album": "I Believe in Father Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Love On Layaway",
+    "artist": "Gloria Estefan",
+    "date": "21.12.2025",
+    "time": "17:48",
+    "year": 1995,
+    "duration_ms": 266382,
+    "genre": "Christmas",
+    "album": "Christmas Through Your Eyes (Deluxe Version)",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Jingle Bell Rock",
+    "artist": "Travis Randy",
+    "date": "21.12.2025",
+    "time": "17:44",
+    "year": 1992,
+    "duration_ms": 239307,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Kdepak Ty Ptáčku Hnízdo Máš",
     "artist": "Gott Karel",
     "date": "21.12.2025",
