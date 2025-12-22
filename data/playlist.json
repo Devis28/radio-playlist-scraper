@@ -1,5 +1,44 @@
 [
   {
+    "title": "White Christmas",
+    "artist": "Bolton Michael",
+    "date": "23.12.2025",
+    "time": "00:39",
+    "year": 1992,
+    "duration_ms": 221600,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Album",
+    "track_number": 25,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Milióóóny Přání",
+    "artist": "Katarina Knechtova & Chinaski",
+    "date": "23.12.2025",
+    "time": "00:35",
+    "year": 2018,
+    "duration_ms": 194286,
+    "genre": "Pop",
+    "album": "Milióóóny Přání - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Zima Na Saniach",
+    "artist": "Dočolomanský Michal",
+    "date": "23.12.2025",
+    "time": "00:32",
+    "year": 1995,
+    "duration_ms": 214445,
+    "genre": "Christmas",
+    "album": "Hviezdne Vianoce",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Who´ll Come With Me",
     "artist": "The Kelly Family",
     "date": "23.12.2025",
