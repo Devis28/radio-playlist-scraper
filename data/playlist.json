@@ -1,5 +1,44 @@
 [
   {
+    "title": "Purpura",
+    "artist": "Jiří Suchý",
+    "date": "22.12.2025",
+    "time": "18:10",
+    "year": 2011,
+    "duration_ms": 230853,
+    "genre": "Pop",
+    "album": "Blues pro Tebe",
+    "track_number": 15,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "Jingle Bell Rock",
+    "artist": "Sherman Bobby",
+    "date": "22.12.2025",
+    "time": "18:04",
+    "year": 1969,
+    "duration_ms": 137257,
+    "genre": "Christmas",
+    "album": "Christmas Album",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "The Power Of Love",
+    "artist": "Aplin Gabrielle",
+    "date": "22.12.2025",
+    "time": "18:00",
+    "year": 2012,
+    "duration_ms": 245160,
+    "genre": "Singer/Songwriter",
+    "album": "English Rain (Deluxe Edition)",
+    "track_number": 8,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Christmas In My Heart",
     "artist": "Sarah Connor",
     "date": "22.12.2025",
