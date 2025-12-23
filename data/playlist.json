@@ -1,5 +1,44 @@
 [
   {
+    "title": "Have Yourself A Merry Little Christmas",
+    "artist": "The Pretenders",
+    "date": "23.12.2025",
+    "time": "17:55",
+    "year": 1984,
+    "duration_ms": 266587,
+    "genre": "Pop",
+    "album": "2000 Miles - EP",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Only You",
+    "artist": "Becky Hill",
+    "date": "23.12.2025",
+    "time": "17:52",
+    "year": 2019,
+    "duration_ms": 172267,
+    "genre": "Dance",
+    "album": "Only You - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "23.12.2025",
+    "time": "17:48",
+    "year": 2017,
+    "duration_ms": 223061,
+    "genre": "Pop",
+    "album": "Na Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
     "title": "I Need You (Christmas Mix)",
     "artist": "3t",
     "date": "23.12.2025",
