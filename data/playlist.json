@@ -1,5 +1,44 @@
 [
   {
+    "title": "Christmas Time Again",
+    "artist": "Extreme",
+    "date": "23.12.2025",
+    "time": "18:47",
+    "year": 1992,
+    "duration_ms": 306333,
+    "genre": "Christmas",
+    "album": "A Very Special Christmas 2",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Tři Oříšky",
+    "artist": "Iveta Bartošová",
+    "date": "23.12.2025",
+    "time": "18:44",
+    "year": 2007,
+    "duration_ms": 226560,
+    "genre": "Pop",
+    "album": "Best of Iveta Bartosova",
+    "track_number": 7,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "You Make It Feel Like Christmas",
+    "artist": "Neil Diamond",
+    "date": "23.12.2025",
+    "time": "18:40",
+    "year": 1984,
+    "duration_ms": 238721,
+    "genre": "Christmas",
+    "album": "Primitive",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Tesime Se Na Jeziska",
     "artist": "Lipsky Lubomir A Malat Jiri A Sbor",
     "date": "23.12.2025",
