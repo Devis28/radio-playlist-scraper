@@ -1,5 +1,31 @@
 [
   {
+    "title": "Pieseň O Decembri",
+    "artist": "Karol Duchoň",
+    "date": "25.12.2025",
+    "time": "00:40",
+    "year": 1995,
+    "duration_ms": 185347,
+    "genre": "Pop",
+    "album": "20 naj, Vol. 2",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Time",
+    "artist": "Bryan Adams",
+    "date": "25.12.2025",
+    "time": "00:36",
+    "year": 2007,
+    "duration_ms": 247933,
+    "genre": "Christmas",
+    "album": "Ultimate Pop Christmas",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
     "title": "We Are The World",
     "artist": "Usa For Africa & Jackson Michael",
     "date": "25.12.2025",
