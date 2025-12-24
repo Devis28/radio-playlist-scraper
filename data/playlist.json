@@ -1,5 +1,31 @@
 [
   {
+    "title": "Under The Christmas Tree",
+    "artist": "Hammond Albert",
+    "date": "24.12.2025",
+    "time": "23:56",
+    "year": 1989,
+    "duration_ms": 216053,
+    "genre": "Christmas",
+    "album": "Under the Christmas Tree - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Vune Jehlici",
+    "artist": "Nada Urbankova",
+    "date": "24.12.2025",
+    "time": "23:55",
+    "year": 1988,
+    "duration_ms": 81627,
+    "genre": "Christian",
+    "album": "Vůně Jehličí",
+    "track_number": 1,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
     "title": "Happy Xmas (War Is Over)",
     "artist": "John Lennon",
     "date": "24.12.2025",
