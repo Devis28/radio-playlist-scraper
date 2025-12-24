@@ -1,5 +1,31 @@
 [
   {
+    "title": "Step Into Christmas",
+    "artist": "John Elton",
+    "date": "24.12.2025",
+    "time": "11:57",
+    "year": 1973,
+    "duration_ms": 272333,
+    "genre": "Christmas",
+    "album": "Caribou (Bonus Track Version)",
+    "track_number": 14,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Under The Christmas Tree",
+    "artist": "Hammond Albert",
+    "date": "24.12.2025",
+    "time": "11:53",
+    "year": 1989,
+    "duration_ms": 216053,
+    "genre": "Christmas",
+    "album": "Under the Christmas Tree - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Hviezda Na Cestu Svieť",
     "artist": "Michal Chrenko, Martin Harich, Robo Šimko",
     "date": "24.12.2025",
