@@ -1,5 +1,57 @@
 [
   {
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "24.12.2025",
+    "time": "20:26",
+    "year": 2017,
+    "duration_ms": 223061,
+    "genre": "Pop",
+    "album": "Na Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "The Christmas Sweater",
+    "artist": "Michael Bublé",
+    "date": "24.12.2025",
+    "time": "20:22",
+    "year": 2011,
+    "duration_ms": 223672,
+    "genre": "Christmas",
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "track_number": 23,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Dobro V Nás",
+    "artist": "Veronika Hatala A Miro Jaroš",
+    "date": "24.12.2025",
+    "time": "20:19",
+    "year": 2023,
+    "duration_ms": 187000,
+    "genre": "Pop",
+    "album": "Dobro V Nás - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Shake Up Christmas",
+    "artist": "Natasha Bedingfield",
+    "date": "24.12.2025",
+    "time": "20:15",
+    "year": 2011,
+    "duration_ms": 226587,
+    "genre": "Pop",
+    "album": "Shake Up Christmas 2011 (Official Coca-Cola Christmas Song) - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Lonely This Christmas",
     "artist": "Mud",
     "date": "24.12.2025",
