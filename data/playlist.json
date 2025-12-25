@@ -1,5 +1,31 @@
 [
   {
+    "title": "When A Child Is Born",
+    "artist": "Johnny Mathis",
+    "date": "25.12.2025",
+    "time": "21:59",
+    "year": 2007,
+    "duration_ms": 222640,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Hits",
+    "track_number": 8,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "White Christmas",
+    "artist": "Bing Crosby",
+    "date": "25.12.2025",
+    "time": "21:56",
+    "year": 1945,
+    "duration_ms": 183613,
+    "genre": "Christmas",
+    "album": "White Christmas",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Have Yourself A Merry Little Christmas",
     "artist": "Bublé Michael",
     "date": "25.12.2025",
