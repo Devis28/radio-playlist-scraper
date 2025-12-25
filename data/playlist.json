@@ -1,5 +1,31 @@
 [
   {
+    "title": "Pieseň O Decembri",
+    "artist": "Karol Duchoň",
+    "date": "25.12.2025",
+    "time": "23:57",
+    "year": 1995,
+    "duration_ms": 185347,
+    "genre": "Pop",
+    "album": "20 naj, Vol. 2",
+    "track_number": 6,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "It's The Most Wonderful Time Of The Year",
+    "artist": "Andy Williams",
+    "date": "25.12.2025",
+    "time": "23:55",
+    "year": 1963,
+    "duration_ms": 152570,
+    "genre": "Christmas: Classic",
+    "album": "The Andy Williams Christmas Album",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Nesiem Vám Noviny",
     "artist": "Habera Pavol",
     "date": "25.12.2025",
