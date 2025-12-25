@@ -1,5 +1,31 @@
 [
   {
+    "title": "Na Vianoce",
+    "artist": "Adam Ďurica",
+    "date": "25.12.2025",
+    "time": "12:57",
+    "year": 2017,
+    "duration_ms": 223061,
+    "genre": "Pop",
+    "album": "Na Vianoce - Single",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "Endless Christmas",
+    "artist": "3t",
+    "date": "25.12.2025",
+    "time": "12:53",
+    "year": 2018,
+    "duration_ms": 249787,
+    "genre": "Pop",
+    "album": "Christmas Soul",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Sleigh Ride",
     "artist": "Debbie Gibson",
     "date": "25.12.2025",
