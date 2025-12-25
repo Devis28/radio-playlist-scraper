@@ -1,5 +1,44 @@
 [
   {
+    "title": "A Christmas Wish",
+    "artist": "Beverley Knight",
+    "date": "25.12.2025",
+    "time": "14:52",
+    "year": 2020,
+    "duration_ms": 187587,
+    "genre": "Pop",
+    "album": "A Christmas Wish, The Theme to the Loss Adjuster - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "I Need You (Christmas Mix)",
+    "artist": "3t",
+    "date": "25.12.2025",
+    "time": "14:47",
+    "year": 1995,
+    "duration_ms": 251360,
+    "genre": "Pop",
+    "album": "The All Time Greatest Christmas Songs",
+    "track_number": 2,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Anjelik Môj",
+    "artist": "Darina Rolincová",
+    "date": "25.12.2025",
+    "time": "14:43",
+    "year": 1990,
+    "duration_ms": 218600,
+    "genre": "Pop",
+    "album": "Téměř Růžový Příběh",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Vánoční Lístek",
     "artist": "Brontosauři",
     "date": "25.12.2025",
