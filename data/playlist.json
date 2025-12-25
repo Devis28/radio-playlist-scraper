@@ -1,5 +1,18 @@
 [
   {
+    "title": "Sleigh Ride",
+    "artist": "Debbie Gibson",
+    "date": "25.12.2025",
+    "time": "12:50",
+    "year": 1992,
+    "duration_ms": 193000,
+    "genre": "Christmas",
+    "album": "Winterlicious",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "The Power Of Love",
     "artist": "Frankie Goes To Hollywood",
     "date": "25.12.2025",
