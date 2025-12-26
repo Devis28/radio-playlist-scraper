@@ -1,5 +1,31 @@
 [
   {
+    "title": "Silent Night",
+    "artist": "Michael Bublé",
+    "date": "26.12.2025",
+    "time": "21:56",
+    "year": 2011,
+    "duration_ms": 230060,
+    "genre": "Christmas",
+    "album": "Christmas (Deluxe 10th Anniversary Edition)",
+    "track_number": 10,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Someday At Christmas",
+    "artist": "Stevie Wonder",
+    "date": "26.12.2025",
+    "time": "21:53",
+    "year": 1967,
+    "duration_ms": 171109,
+    "genre": "Christmas",
+    "album": "Someday At Christmas (Expanded Edition)",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Vtedy Sú Vianoce",
     "artist": "Dara Rolins",
     "date": "26.12.2025",
