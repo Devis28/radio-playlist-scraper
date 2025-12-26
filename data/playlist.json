@@ -1,5 +1,44 @@
 [
   {
+    "title": "The Power Of Love",
+    "artist": "Frankie Goes To Hollywood",
+    "date": "27.12.2025",
+    "time": "00:04",
+    "year": 1984,
+    "duration_ms": 332507,
+    "genre": "Pop",
+    "album": "Welcome to the Pleasuredome",
+    "track_number": 15,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Zima Na Saniach",
+    "artist": "Dočolomanský Michal",
+    "date": "27.12.2025",
+    "time": "00:01",
+    "year": 1995,
+    "duration_ms": 214445,
+    "genre": "Christmas",
+    "album": "Hviezdne Vianoce",
+    "track_number": 2,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "All Alone On Christmas",
+    "artist": "Darlene Love",
+    "date": "26.12.2025",
+    "time": "23:57",
+    "year": 1992,
+    "duration_ms": 249147,
+    "genre": "Christmas: Pop",
+    "album": "Christmas (Baby, Please Come Home)",
+    "track_number": 5,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "It's Beginning To Look A Lot Like Christmas",
     "artist": "Michael Bublé",
     "date": "26.12.2025",
