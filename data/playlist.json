@@ -1,5 +1,31 @@
 [
   {
+    "title": "Feliz Navidad",
+    "artist": "Feliciano Jose",
+    "date": "26.12.2025",
+    "time": "22:57",
+    "year": 1970,
+    "duration_ms": 181795,
+    "genre": "Christmas",
+    "album": "Feliz Navidad",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "You Make It Feel Like Christmas",
+    "artist": "Neil Diamond",
+    "date": "26.12.2025",
+    "time": "22:54",
+    "year": 1984,
+    "duration_ms": 238721,
+    "genre": "Christmas",
+    "album": "Primitive",
+    "track_number": 10,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Saviour´s Day",
     "artist": "Richard Cliff",
     "date": "26.12.2025",
