@@ -1,5 +1,31 @@
 [
   {
+    "title": "Rockin' Around The Christmas Tree",
+    "artist": "Mel & Kim",
+    "date": "26.12.2025",
+    "time": "08:49",
+    "year": 1987,
+    "duration_ms": 223951,
+    "genre": "Christmas",
+    "album": "Rockin' Around the Christmas Tree - Single",
+    "track_number": 1,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Last Christmas",
+    "artist": "Wham!",
+    "date": "26.12.2025",
+    "time": "08:44",
+    "year": 1984,
+    "duration_ms": 262960,
+    "genre": "Christmas",
+    "album": "Christmas Album",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
     "title": "Pri Jednom Velkom Stole",
     "artist": "Robo Opatovsky & Lukas Adamec",
     "date": "26.12.2025",
