@@ -1,5 +1,31 @@
 [
   {
+    "title": "Sleigh Ride",
+    "artist": "Williams, Andy",
+    "date": "27.12.2025",
+    "time": "00:55",
+    "year": 1999,
+    "duration_ms": 126027,
+    "genre": "Christmas: Classic",
+    "album": "Christmas Songs",
+    "track_number": 40,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Love On Layaway",
+    "artist": "Gloria Estefan",
+    "date": "27.12.2025",
+    "time": "00:50",
+    "year": 1995,
+    "duration_ms": 266382,
+    "genre": "Christmas",
+    "album": "Christmas Through Your Eyes (Deluxe Version)",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Vianočná",
     "artist": "Škampi Na Žaru",
     "date": "27.12.2025",
