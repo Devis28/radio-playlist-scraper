@@ -1,5 +1,31 @@
 [
   {
+    "title": "All I Want For Christmas Is You",
+    "artist": "Mariah Carey",
+    "date": "27.12.2025",
+    "time": "11:59",
+    "year": 1994,
+    "duration_ms": 241107,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Album",
+    "track_number": 1,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Love On Layaway",
+    "artist": "Gloria Estefan",
+    "date": "27.12.2025",
+    "time": "11:54",
+    "year": 1995,
+    "duration_ms": 266382,
+    "genre": "Christmas",
+    "album": "Christmas Through Your Eyes (Deluxe Version)",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "V Bajnom Betleheme",
     "artist": "Robo Opatovsky",
     "date": "27.12.2025",
