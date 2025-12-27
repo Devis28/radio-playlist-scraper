@@ -1,5 +1,44 @@
 [
   {
+    "title": "It's The Most Wonderful Time Of The Year",
+    "artist": "Andy Williams",
+    "date": "27.12.2025",
+    "time": "05:57",
+    "year": 1963,
+    "duration_ms": 152570,
+    "genre": "Christmas: Classic",
+    "album": "The Andy Williams Christmas Album",
+    "track_number": 4,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
+    "title": "Pri Jednom Velkom Stole",
+    "artist": "Robo Opatovsky & Lukas Adamec",
+    "date": "27.12.2025",
+    "time": "05:53",
+    "year": 2025,
+    "duration_ms": 247954,
+    "genre": "Pop",
+    "album": "Pri jednom veľkom stole - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Love On Layaway",
+    "artist": "Gloria Estefan",
+    "date": "27.12.2025",
+    "time": "05:48",
+    "year": 1995,
+    "duration_ms": 266382,
+    "genre": "Christmas",
+    "album": "Christmas Through Your Eyes (Deluxe Version)",
+    "track_number": 12,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Santa's Coming For Us",
     "artist": "Sia",
     "date": "27.12.2025",
