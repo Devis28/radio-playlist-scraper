@@ -1,5 +1,59 @@
 [
   {
+    "title": "Last Christmas",
+    "artist": "Wham!",
+    "date": "27.12.2025",
+    "time": "11:12",
+    "year": 1984,
+    "duration_ms": 262960,
+    "genre": "Christmas",
+    "album": "Christmas Album",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Time For Change",
+    "artist": "Robbie Williams",
+    "date": "27.12.2025",
+    "time": "11:08",
+    "year": 2019,
+    "duration_ms": 210347,
+    "genre": "Pop",
+    "album": "The Christmas Present (Deluxe)",
+    "track_number": 2,
+    "artist_country_code": "GB",
+    "songwriters": null
+  },
+  {
+    "title": "Stedry Vecer",
+    "artist": "Maria Cirova",
+    "date": "27.12.2025",
+    "time": "11:03",
+    "year": 2019,
+    "duration_ms": 278471,
+    "genre": "Christmas",
+    "album": "Moje Vianoce",
+    "track_number": 1,
+    "artist_country_code": "SK",
+    "songwriters": null
+  },
+  {
+    "title": "An Angel",
+    "artist": "Kelly Family, The",
+    "date": "27.12.2025",
+    "time": "10:59",
+    "year": 1994,
+    "duration_ms": 224507,
+    "genre": "Pop",
+    "album": "Over the Hump",
+    "track_number": 12,
+    "artist_country_code": null,
+    "songwriters": [
+      "The Kelly Family"
+    ]
+  },
+  {
     "title": "Beauty And The Beast",
     "artist": "Dion Celine Bryson Peabo",
     "date": "27.12.2025",
