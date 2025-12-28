@@ -1,5 +1,31 @@
 [
   {
+    "title": "White Christmas",
+    "artist": "Bolton Michael",
+    "date": "28.12.2025",
+    "time": "22:57",
+    "year": 1992,
+    "duration_ms": 221600,
+    "genre": "Christmas: Pop",
+    "album": "Christmas Album",
+    "track_number": 25,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "I Met An Angel (On Christmas Day)",
+    "artist": "Dion Celine",
+    "date": "28.12.2025",
+    "time": "22:54",
+    "year": 1998,
+    "duration_ms": 199800,
+    "genre": "Pop",
+    "album": "The All Time Greatest Christmas Songs",
+    "track_number": 3,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Sleigh Ride",
     "artist": "Williams, Andy",
     "date": "28.12.2025",
