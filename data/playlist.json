@@ -1,5 +1,31 @@
 [
   {
+    "title": "Last Christmas",
+    "artist": "Carly Rae Jepsen",
+    "date": "28.12.2025",
+    "time": "14:54",
+    "year": 2015,
+    "duration_ms": 212933,
+    "genre": "Christmas",
+    "album": "Last Christmas - Single",
+    "track_number": 1,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
+    "title": "Christmas Time",
+    "artist": "Bryan Adams",
+    "date": "28.12.2025",
+    "time": "14:50",
+    "year": 2019,
+    "duration_ms": 243057,
+    "genre": "Christmas",
+    "album": "Christmas - EP",
+    "track_number": 3,
+    "artist_country_code": "CA",
+    "songwriters": null
+  },
+  {
     "title": "We Are The World",
     "artist": "Usa For Africa & Jackson Michael",
     "date": "28.12.2025",
