@@ -1,5 +1,31 @@
 [
   {
+    "title": "Medvídek",
+    "artist": "Lucie",
+    "date": "28.12.2025",
+    "time": "16:43",
+    "year": 1998,
+    "duration_ms": 295773,
+    "genre": "Pop",
+    "album": "Vetsi Nez Male Mnozstvi Lasky",
+    "track_number": 11,
+    "artist_country_code": "CZ",
+    "songwriters": null
+  },
+  {
+    "title": "White Christmas",
+    "artist": "Bing Crosby",
+    "date": "28.12.2025",
+    "time": "16:40",
+    "year": 1945,
+    "duration_ms": 183613,
+    "genre": "Christmas",
+    "album": "White Christmas",
+    "track_number": 3,
+    "artist_country_code": "US",
+    "songwriters": null
+  },
+  {
     "title": "Cesta",
     "artist": "Kryštof ft. Tomáš Klus",
     "date": "28.12.2025",
