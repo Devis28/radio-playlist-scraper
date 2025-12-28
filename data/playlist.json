@@ -1,5 +1,31 @@
 [
   {
+    "title": "We Are The World",
+    "artist": "Usa For Africa & Jackson Michael",
+    "date": "28.12.2025",
+    "time": "08:43",
+    "year": 1985,
+    "duration_ms": 427333,
+    "genre": "Rock",
+    "album": "We Are the World - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
+    "title": "Na Vianoce",
+    "artist": "Sam Sebou Ft. Barbora Piesova",
+    "date": "28.12.2025",
+    "time": "08:39",
+    "year": 2021,
+    "duration_ms": 240960,
+    "genre": "Pop",
+    "album": "Na Vianoce (feat. Barbora Piešová) - Single",
+    "track_number": 1,
+    "artist_country_code": null,
+    "songwriters": null
+  },
+  {
     "title": "Kazdy Den Budu Vraj Vianoce",
     "artist": "Various Artists",
     "date": "28.12.2025",
